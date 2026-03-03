@@ -20,7 +20,7 @@ Nicht alle Docs gleichzeitig laden — je nach Aufgabe die relevanten wahlen:
 
 ```bash
 # Auf github.com/Digitalesozialearbeit:
-# New repository -> socialai-knowledge-hub -> Public -> MIT License -> Create
+# New repository -> socialai-knowledge-hub -> Public -> CC BY 4.0 -> Create
 ```
 
 ### 1.2 Lokales Setup

@@ -10,7 +10,7 @@
 | Versionierung | Git / GitHub | Standard fur das Team, bestehende Org vorhanden |
 | Org | `Digitalesozialearbeit` | Bestehende GitHub-Organisation |
 | Repo | `socialai-knowledge-hub` | Eigenes Repo, getrennt von der Website |
-| Lizenz | MIT | Konsistent mit Projektansatz (Open Source) |
+| Lizenz | CC BY 4.0 | Konsistent mit Projektansatz (Open Source, passend fuer Inhalte) |
 | Lokales Editing | Obsidian (optional) | Fur Teammitglieder die es nutzen, kein Muss |
 | Web-Editing | GitHub Web UI | Fur nicht-technische Teammitglieder |
 
@@ -84,7 +84,7 @@ socialai-knowledge-hub/
       img/                  # Bilder, Diagramme
 
   .gitignore
-  LICENSE                   # MIT
+  LICENSE                   # CC BY 4.0
   README.md                 # Repo-README (nicht Hub-Inhalt)
   CLAUDE.md                 # Projektkonventionen fur Claude Code
 ```
