@@ -2,7 +2,7 @@
 
 ## Kontextsteuerung (Selective Context Loading)
 
-Nicht alle Docs gleichzeitig laden — je nach Aufgabe die relevanten wahlen:
+Nicht alle Docs gleichzeitig laden — je nach Aufgabe die relevanten wählen:
 
 | Aufgabe | Laden | Weglassen |
 |---------|-------|-----------|
@@ -34,14 +34,14 @@ touch docs/.nojekyll
 
 ### 1.3 docs/index.html (Docsify Entry-Point)
 
-Vollstandige Konfiguration mit allen Plugins und Obsidian-Kompatibilitats-Hooks.
+Vollständige Konfiguration mit allen Plugins und Obsidian-Kompatibilitäts-Hooks.
 Sprache: Deutsch. Theme: Darklight (automatischer Dark Mode).
 
 ### 1.4 docs/_sidebar.md
 
 ```markdown
 * **Projekt**
-  * [Ubersicht](projekt/uebersicht.md)
+  * [Übersicht](projekt/uebersicht.md)
   * [Arbeitspakete](projekt/arbeitspakete.md)
   * [Zusammenarbeit](projekt/zusammenarbeit.md)
 
@@ -49,29 +49,29 @@ Sprache: Deutsch. Theme: Darklight (automatischer Dark Mode).
   * [Begriffe A-Z](glossar/)
 
 * **Wissen**
-  * [Ubersicht](wissen/)
+  * [Übersicht](wissen/)
 
 * **Recht & Compliance**
-  * [Ubersicht](recht/)
+  * [Übersicht](recht/)
 ```
 
 ### 1.5 GitHub Pages aktivieren
 
-Settings > Pages > Source: Deploy from branch > Branch: `main`, Folder: `/docs`
+Settings > Pages > Source: Deploy from branch > Branch: `main`, Folder: `/ (root)`
 
 ## Phase 2: Initiale Inhalte
 
-Reihenfolge nach Prioritat (requirements.md):
+Reihenfolge nach Priorität (requirements.md):
 
 1. **projekt/uebersicht.md** -- Projektsteckbrief, Partner, Timeline (aus knowledge.md destillieren)
 2. **projekt/arbeitspakete.md** -- Alle 9 APs (Kick-off-Stand aus knowledge.md)
 3. **projekt/zusammenarbeit.md** -- Agreements aus Kick-off (Kommunikation, Entscheidungen)
-4. **glossar/README.md** -- Begriffe aus Kick-off-Diskussion (Bias, Intersektionalitat, etc.)
+4. **glossar/README.md** -- Begriffe aus Kick-off-Diskussion (Bias, Intersektionalität, etc.)
 5. **docs/README.md** -- Startseite mit Willkommen und Quick-Navigation
 
 ## Phase 3: Wachsende Inhalte
 
-Diese Seiten werden im Projektverlauf erganzt:
+Diese Seiten werden im Projektverlauf ergänzt:
 
 | Wann | Inhalt | Quelle |
 |------|--------|--------|
@@ -80,9 +80,9 @@ Diese Seiten werden im Projektverlauf erganzt:
 | Nach AP 4 | Prompt-Analyse-Ergebnisse | Auswertungsbericht |
 | Nach AP 5 | Prompting-Framework-Dokumentation | Framework-Konzept |
 | Laufend | Rechtliche Informationen (AI Act, DSGVO) | RI-Materialien |
-| Laufend | Glossar-Erganzungen | Alle Partner |
+| Laufend | Glossar-Ergänzungen | Alle Partner |
 
-## CLAUDE.md fur das Hub-Repo
+## CLAUDE.md für das Hub-Repo
 
 Folgende Konventionen sollen im CLAUDE.md des Hub-Repos festgehalten werden:
 
@@ -103,11 +103,11 @@ Docsify-basiert, Obsidian-kompatibel.
 - Links: relative Pfade (`../glossar/README.md`), Wikilinks erlaubt
 - Callouts: `> [!NOTE]`, `> [!WARNING]`, `> [!TIP]`
 - Bilder: in `docs/assets/img/`, referenziert als `![](assets/img/datei.png)`
-- Kein YAML Frontmatter notig (wird gestrippt), aber erlaubt
+- Kein YAML Frontmatter nötig (wird gestrippt), aber erlaubt
 - Sidebar: manuell in `docs/_sidebar.md` pflegen bei neuen Seiten
 
 ## Ordnerstruktur
-- `docs/projekt/` -- Projektubersicht, APs, Zusammenarbeit
+- `docs/projekt/` -- Projektübersicht, APs, Zusammenarbeit
 - `docs/glossar/` -- Begriffsdefinitionen
 - `docs/wissen/` -- Projektergebnisse und Wissensartikel
 - `docs/recht/` -- AI Act, DSGVO, rechtliche Infos
@@ -119,9 +119,9 @@ Docsify-basiert, Obsidian-kompatibel.
 - `docs/.nojekyll` -- GitHub Pages Konfiguration
 ```
 
-## Abhangigkeiten
+## Abhängigkeiten
 
-Keine lokalen Abhangigkeiten. Alle Libraries werden uber CDN geladen:
+Keine lokalen Abhängigkeiten. Alle Libraries werden über CDN geladen:
 - docsify v4
 - docsify-wikilink v1
 - docsify-plugin-flexible-alerts
