@@ -8,13 +8,13 @@
 ---
 
 <details>
-<summary><strong>AP 1 -- Projektmanagement</strong> &emsp; 📅 02/2026 -- 01/2029 &emsp; 👤 Sabine (Uni Graz)</summary>
+<summary><strong>AP 1 -Projektmanagement</strong> &emsp; 📅 02/2026 -01/2029 &emsp; 👤 Sabine (Uni Graz)</summary>
 
-### AP 1 -- Projektmanagement
+### AP 1 -Projektmanagement
 
 | | |
 |---|---|
-| **Zeitraum** | 02/2026 -- 01/2029 |
+| **Zeitraum** | 02/2026 -01/2029 |
 | **Lead** | Sabine (Uni Graz) |
 
 **Aufgaben:**
@@ -53,13 +53,13 @@
 ---
 
 <details>
-<summary><strong>AP 2 -- Systematisches Literatur-Review</strong> &emsp; 📅 02/2026 -- 12/2026 &emsp; 👤 Susi (Uni Graz)</summary>
+<summary><strong>AP 2 -Systematisches Literatur-Review</strong> &emsp; 📅 02/2026 -12/2026 &emsp; 👤 Susi (Uni Graz)</summary>
 
-### AP 2 -- Systematisches Literatur-Review
+### AP 2 -Systematisches Literatur-Review
 
 | | |
 |---|---|
-| **Zeitraum** | 02/2026 -- 12/2026 |
+| **Zeitraum** | 02/2026 -12/2026 |
 | **Lead** | Susi (Uni Graz) |
 
 > [!NOTE]
@@ -101,13 +101,13 @@
 ---
 
 <details>
-<summary><strong>AP 3 -- Innovationsworkshops mit Führungskräften</strong> &emsp; 📅 06/2026 -- 07/2026 &emsp; 👤 Sabine (Uni Graz)</summary>
+<summary><strong>AP 3 -Innovationsworkshops mit Führungskräften</strong> &emsp; 📅 06/2026 -07/2026 &emsp; 👤 Sabine (Uni Graz)</summary>
 
-### AP 3 -- Innovationsworkshops mit Führungskräften
+### AP 3 -Innovationsworkshops mit Führungskräften
 
 | | |
 |---|---|
-| **Zeitraum** | 06/2026 -- 07/2026 |
+| **Zeitraum** | 06/2026 -07/2026 |
 | **Lead** | Sabine (Uni Graz) |
 
 > [!NOTE]
@@ -150,13 +150,13 @@
 ---
 
 <details>
-<summary><strong>AP 4 -- Experimentelle Analyse Prompt-Engineering</strong> &emsp; 📅 10/2026 -- 01/2027 &emsp; 👤 DHC</summary>
+<summary><strong>AP 4 -Experimentelle Analyse Prompt-Engineering</strong> &emsp; 📅 10/2026 -01/2027 &emsp; 👤 DHC</summary>
 
-### AP 4 -- Experimentelle Analyse Prompt-Engineering
+### AP 4 -Experimentelle Analyse Prompt-Engineering
 
 | | |
 |---|---|
-| **Zeitraum** | 10/2026 -- 01/2027 |
+| **Zeitraum** | 10/2026 -01/2027 |
 | **Lead** | DHC |
 
 > [!NOTE]
@@ -191,13 +191,13 @@
 ---
 
 <details>
-<summary><strong>AP 5 -- Konzeption Prompting-Framework</strong> &emsp; 📅 02/2027 -- 05/2027 &emsp; 👤 DHC</summary>
+<summary><strong>AP 5 -Konzeption Prompting-Framework</strong> &emsp; 📅 02/2027 -05/2027 &emsp; 👤 DHC</summary>
 
-### AP 5 -- Konzeption Prompting-Framework
+### AP 5 -Konzeption Prompting-Framework
 
 | | |
 |---|---|
-| **Zeitraum** | 02/2027 -- 05/2027 |
+| **Zeitraum** | 02/2027 -05/2027 |
 | **Lead** | DHC |
 
 > [!NOTE]
@@ -235,13 +235,13 @@
 ---
 
 <details>
-<summary><strong>AP 6 -- Fragebogenerhebung</strong> &emsp; 📅 06/2027 -- 03/2028 &emsp; 👤 Susi (Uni Graz)</summary>
+<summary><strong>AP 6 -Fragebogenerhebung</strong> &emsp; 📅 06/2027 -03/2028 &emsp; 👤 Susi (Uni Graz)</summary>
 
-### AP 6 -- Fragebogenerhebung
+### AP 6 -Fragebogenerhebung
 
 | | |
 |---|---|
-| **Zeitraum** | 06/2027 -- 03/2028 |
+| **Zeitraum** | 06/2027 -03/2028 |
 | **Lead** | Susi (Uni Graz) |
 
 > [!NOTE]
@@ -280,13 +280,13 @@
 ---
 
 <details>
-<summary><strong>AP 7 -- Co-Creation-Workshops</strong> &emsp; 📅 03/2028 -- 07/2028 &emsp; 👤 Sabine (Uni Graz)</summary>
+<summary><strong>AP 7 -Co-Creation-Workshops</strong> &emsp; 📅 03/2028 -07/2028 &emsp; 👤 Sabine (Uni Graz)</summary>
 
-### AP 7 -- Co-Creation-Workshops
+### AP 7 -Co-Creation-Workshops
 
 | | |
 |---|---|
-| **Zeitraum** | 03/2028 -- 07/2028 |
+| **Zeitraum** | 03/2028 -07/2028 |
 | **Lead** | Sabine (Uni Graz) |
 
 > [!NOTE]
@@ -320,13 +320,13 @@
 ---
 
 <details>
-<summary><strong>AP 8 -- Digitaler Orientierungsleitfaden (DOL)</strong> &emsp; 📅 01/2028 -- 01/2029 &emsp; 👤 Susi & Chris (Uni Graz / DHC)</summary>
+<summary><strong>AP 8 -Digitaler Orientierungsleitfaden (DOL)</strong> &emsp; 📅 01/2028 -01/2029 &emsp; 👤 Susi & Chris (Uni Graz / DHC)</summary>
 
-### AP 8 -- Digitaler Orientierungsleitfaden (DOL)
+### AP 8 -Digitaler Orientierungsleitfaden (DOL)
 
 | | |
 |---|---|
-| **Zeitraum** | 01/2028 -- 01/2029 |
+| **Zeitraum** | 01/2028 -01/2029 |
 | **Lead** | Susi & Chris (Uni Graz / DHC) |
 
 **Aufgaben:**
@@ -364,13 +364,13 @@
 ---
 
 <details>
-<summary><strong>AP 9 -- Dissemination</strong> &emsp; 📅 07/2026 -- 01/2029 &emsp; 👤 RI</summary>
+<summary><strong>AP 9 -Dissemination</strong> &emsp; 📅 07/2026 -01/2029 &emsp; 👤 RI</summary>
 
-### AP 9 -- Dissemination
+### AP 9 -Dissemination
 
 | | |
 |---|---|
-| **Zeitraum** | 07/2026 -- 01/2029 |
+| **Zeitraum** | 07/2026 -01/2029 |
 | **Lead** | RI |
 
 **Aufgaben:**

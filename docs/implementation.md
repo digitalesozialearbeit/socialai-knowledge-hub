@@ -63,11 +63,11 @@ Settings > Pages > Source: Deploy from branch > Branch: `main`, Folder: `/ (root
 
 Reihenfolge nach Priorität (requirements.md):
 
-1. **projekt/uebersicht.md** -- Projektsteckbrief, Partner, Timeline (aus knowledge.md destillieren)
-2. **projekt/arbeitspakete.md** -- Alle 9 APs (Kick-off-Stand aus knowledge.md)
-3. **projekt/zusammenarbeit.md** -- Agreements aus Kick-off (Kommunikation, Entscheidungen)
-4. **glossar/README.md** -- Begriffe aus Kick-off-Diskussion (Bias, Intersektionalität, etc.)
-5. **docs/README.md** -- Startseite mit Willkommen und Quick-Navigation
+1. **projekt/uebersicht.md** -Projektsteckbrief, Partner, Timeline (aus knowledge.md destillieren)
+2. **projekt/arbeitspakete.md** -Alle 9 APs (Kick-off-Stand aus knowledge.md)
+3. **projekt/zusammenarbeit.md** -Agreements aus Kick-off (Kommunikation, Entscheidungen)
+4. **glossar/README.md** -Begriffe aus Kick-off-Diskussion (Bias, Intersektionalität, etc.)
+5. **docs/README.md** -Startseite mit Willkommen und Quick-Navigation
 
 ## Phase 3: Wachsende Inhalte
 
@@ -87,16 +87,16 @@ Diese Seiten werden im Projektverlauf ergänzt:
 Folgende Konventionen sollen im CLAUDE.md des Hub-Repos festgehalten werden:
 
 ```markdown
-# CLAUDE.md -- socialai-knowledge-hub
+# CLAUDE.md -socialai-knowledge-hub
 
 ## Projekt
 Interner Knowledge Hub des SocialAI-Projekts (FFG Laura Bassi 4.0).
 Docsify-basiert, Obsidian-kompatibel.
 
 ## Tech-Stack
-- **Docsify v4** -- kein Build, client-side Rendering
-- **GitHub Pages** -- Deployment aus /docs auf main-Branch
-- **Markdown** -- alle Inhalte als .md-Dateien
+- **Docsify v4** -kein Build, client-side Rendering
+- **GitHub Pages** -Deployment aus /docs auf main-Branch
+- **Markdown** -alle Inhalte als .md-Dateien
 
 ## Konventionen
 - Sprache: Deutsch, gendergerechte Sprache mit Doppelpunkt (z.B. Forscher:innen)
@@ -107,16 +107,16 @@ Docsify-basiert, Obsidian-kompatibel.
 - Sidebar: manuell in `docs/_sidebar.md` pflegen bei neuen Seiten
 
 ## Ordnerstruktur
-- `docs/projekt/` -- Projektübersicht, APs, Zusammenarbeit
-- `docs/glossar/` -- Begriffsdefinitionen
-- `docs/wissen/` -- Projektergebnisse und Wissensartikel
-- `docs/recht/` -- AI Act, DSGVO, rechtliche Infos
-- `docs/assets/img/` -- Bilder
+- `docs/projekt/` -Projektübersicht, APs, Zusammenarbeit
+- `docs/glossar/` -Begriffsdefinitionen
+- `docs/wissen/` -Projektergebnisse und Wissensartikel
+- `docs/recht/` -AI Act, DSGVO, rechtliche Infos
+- `docs/assets/img/` -Bilder
 
 ## Wichtige Dateien
-- `docs/index.html` -- Docsify-Konfiguration (Plugins, Hooks)
-- `docs/_sidebar.md` -- Navigation
-- `docs/.nojekyll` -- GitHub Pages Konfiguration
+- `docs/index.html` -Docsify-Konfiguration (Plugins, Hooks)
+- `docs/_sidebar.md` -Navigation
+- `docs/.nojekyll` -GitHub Pages Konfiguration
 ```
 
 ## Abhängigkeiten

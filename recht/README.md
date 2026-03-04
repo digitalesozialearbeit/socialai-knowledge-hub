@@ -39,7 +39,7 @@ Geplante Inhalte:
 
 | Thema | Status | Quelle |
 |-------|--------|--------|
-| AI Act -- Pflichten für Soziale Arbeit | Offen | RI (AP 3, AP 5) |
+| AI Act -Pflichten für Soziale Arbeit | Offen | RI (AP 3, AP 5) |
 | DSGVO im KI-Kontext | Offen | RI (AP 3) |
 | Informationsmaterialien für Führungskräfte | Offen | RI (AP 3) |
 | Rechtliche Aspekte des Prompting-Frameworks | Offen | RI (AP 5) |

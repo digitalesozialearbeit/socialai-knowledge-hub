@@ -1,16 +1,16 @@
 * [**Home**](/)
 
-* **[Projekt](projekt/)**
-  * [Übersicht](projekt/uebersicht.md)
-  * [Arbeitspakete](projekt/arbeitspakete.md)
-  * [Zusammenarbeit](projekt/zusammenarbeit.md)
+* **[Projekt](/projekt/)**
+  * [Übersicht](/projekt/uebersicht.md)
+  * [Arbeitspakete](/projekt/arbeitspakete.md)
+  * [Zusammenarbeit](/projekt/zusammenarbeit.md)
 
 * **Glossar**
-  * [Projektbegriffe](glossar/)
-  * [Technisches Glossar](glossar/technisch.md)
+  * [Projektbegriffe](/glossar/)
+  * [Technisches Glossar](/glossar/technisch.md)
 
 * **Wissen**
-  * [Übersicht](wissen/)
+  * [Übersicht](/wissen/)
 
 * **Recht & Compliance**
-  * [Übersicht](recht/)
+  * [Übersicht](/recht/)

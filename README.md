@@ -27,7 +27,7 @@ Willkommen im internen Knowledge Hub des Projekts **SocialAI: Chancengerechtigke
 | **Projekttitel** | SocialAI: Chancengerechtigkeit und KI in der Sozialen Arbeit |
 | **Förderprogramm** | FFG Laura Bassi 4.0 |
 | **Projektnummer** | 62981337 |
-| **Laufzeit** | 01.02.2026 -- 31.01.2029 (36 Monate) |
+| **Laufzeit** | 01.02.2026 -31.01.2029 (36 Monate) |
 | **Konsortium** | Universität Graz, Digital Humanities Craft, Research Institute, SOS-Kinderdorf, Jugend am Werk |
 
 ---
@@ -40,7 +40,7 @@ Willkommen im internen Knowledge Hub des Projekts **SocialAI: Chancengerechtigke
 - **Bearbeiten**: Direkt über die [GitHub Web UI](https://github.com/Digitalesozialearbeit/socialai-knowledge-hub/tree/main) oder lokal mit Obsidian
 
 > [!TIP]
-> Neue Seiten oder Korrekturen können direkt auf GitHub vorgenommen werden -- es ist kein technisches Setup nötig. Einfach die gewünschte `.md`-Datei öffnen, bearbeiten und speichern (Commit).
+> Neue Seiten oder Korrekturen können direkt auf GitHub vorgenommen werden -es ist kein technisches Setup nötig. Einfach die gewünschte `.md`-Datei öffnen, bearbeiten und speichern (Commit).
 
 ---
 

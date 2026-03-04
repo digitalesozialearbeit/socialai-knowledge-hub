@@ -1,6 +1,6 @@
 # Journal: SocialAI Knowledge Hub
 
-## 2026-03-03 -- Promptotyping Phase 1-3: Preparation bis Distillation
+## 2026-03-03 -Promptotyping Phase 1-3: Preparation bis Distillation
 
 ### Ausgangslage
 - Projektverzeichnis `socialAI` enthielt nur 2 PDFs (Kick-off-Folien + Fotoprotokoll)
@@ -21,21 +21,21 @@
 | 7 | architecture.md statt design.md | design.md vorbehalten für visuelles Design | design.md für technische Entscheidungen (user-Feedback) |
 
 ### Erstellte Dokumente
-- `docs/knowledge.md` -- Projektwissen aus beiden PDFs destilliert
-- `docs/requirements.md` -- 5 Epics mit User Stories
-- `docs/architecture.md` -- Tech-Stack, Plugins, Ordnerstruktur, Konventionen
-- `docs/implementation.md` -- 3-Phasen-Implementierungsplan
-- `docs/journal.md` -- dieses Dokument
+- `docs/knowledge.md` -Projektwissen aus beiden PDFs destilliert
+- `docs/requirements.md` -5 Epics mit User Stories
+- `docs/architecture.md` -Tech-Stack, Plugins, Ordnerstruktur, Konventionen
+- `docs/implementation.md` -3-Phasen-Implementierungsplan
+- `docs/journal.md` -dieses Dokument
 
 ### Offene Fragen
 
 | # | Frage | Blockiert | Status |
 |---|-------|-----------|--------|
-| 1 | Gemeinsame Plattform (Teams/Slack)? Entscheidung steht aus. | Beeinflusst Rolle des Hubs (ergänzend vs. zentral) | Offen -- klären mit SOS-KD & JAW |
-| 2 | Obsidian-Kompatibilität: docsify-wikilink-Plugin tatsächlich getestet? | architecture.md Annahme | Offen -- vor Go-Live validieren |
-| 3 | GitHub Web UI Editing: Hat jemand bei SOS-KD/JAW einen GitHub-Account? | US-4.3 | Offen -- Feldzugang klären |
-| 4 | Redaktioneller Workflow: Wer schreibt was, wer reviewt? | Langfristige Hub-Pflege | Offen -- Epic 6 in requirements.md angelegt |
-| 5 | Glossar-Definitionen: Akademisch vs. verständlich -- wer entscheidet Formulierung? | US-2.2 | Offen -- mit Praxispartnern klären |
+| 1 | Gemeinsame Plattform (Teams/Slack)? Entscheidung steht aus. | Beeinflusst Rolle des Hubs (ergänzend vs. zentral) | Offen -klären mit SOS-KD & JAW |
+| 2 | Obsidian-Kompatibilität: docsify-wikilink-Plugin tatsächlich getestet? | architecture.md Annahme | Offen -vor Go-Live validieren |
+| 3 | GitHub Web UI Editing: Hat jemand bei SOS-KD/JAW einen GitHub-Account? | US-4.3 | Offen -Feldzugang klären |
+| 4 | Redaktioneller Workflow: Wer schreibt was, wer reviewt? | Langfristige Hub-Pflege | Offen -Epic 6 in requirements.md angelegt |
+| 5 | Glossar-Definitionen: Akademisch vs. verständlich -wer entscheidet Formulierung? | US-2.2 | Offen -mit Praxispartnern klären |
 
 ### Nicht Dokumentierte Exploration (Lücke)
 

@@ -35,7 +35,7 @@ Systematische Verzerrung in Daten, Modellen oder Entscheidungen. Im Projekt in m
 
 ### Chancengerechtigkeit
 
-Bewusst abgegrenzt von **Chancengleichheit**. Während Chancengleichheit formale Gleichbehandlung meint, zielt Chancengerechtigkeit darauf ab, unterschiedliche Ausgangsbedingungen auszugleichen -- also faire Ergebnisse statt gleicher Behandlung. Zentrales Leitkonzept des SocialAI-Projekts.
+Bewusst abgegrenzt von **Chancengleichheit**. Während Chancengleichheit formale Gleichbehandlung meint, zielt Chancengerechtigkeit darauf ab, unterschiedliche Ausgangsbedingungen auszugleichen -also faire Ergebnisse statt gleicher Behandlung. Zentrales Leitkonzept des SocialAI-Projekts.
 
 ### Context / Kontext
 
@@ -51,7 +51,7 @@ Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016
 
 ### Deskilling
 
-Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. Wenn KI-generierte Texte, Einschätzungen oder Empfehlungen unkritisch übernommen werden, kann das fachliche Urteilsvermögen abnehmen -- ein relevantes Risiko für die Qualität Sozialer Arbeit.
+Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. Wenn KI-generierte Texte, Einschätzungen oder Empfehlungen unkritisch übernommen werden, kann das fachliche Urteilsvermögen abnehmen -ein relevantes Risiko für die Qualität Sozialer Arbeit.
 
 ### Diversität
 
@@ -63,7 +63,7 @@ Vielfalt in verschiedenen Dimensionen (Geschlecht, Alter, ethnische Zugehörigke
 
 ### Erwachsenenbildung / Matthäus-Effekt
 
-"Wer hat, dem wird gegeben" -- das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie KI-Kompetenz in der Sozialen Arbeit vermittelt wird und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.
+"Wer hat, dem wird gegeben" -das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie KI-Kompetenz in der Sozialen Arbeit vermittelt wird und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.
 
 ---
 

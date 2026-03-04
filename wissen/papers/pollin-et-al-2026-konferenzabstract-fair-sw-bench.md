@@ -20,7 +20,7 @@ status: complete
 
 > Verkürzte Zusammenfassung der Pilotstudie für Konferenzeinreichungen.
 >
-> **Vollständiges Paper:** [Pollin et al. (2025): Wenn gute Absichten nach hinten losgehen](pollin-et-al-2025-pilotstudie-bias-diversitaetssensible-prompts.md)
+> **Vollständiges Paper:** [Pollin et al. (2025): Wenn gute Absichten nach hinten losgehen](/wissen/papers/pollin-et-al-2025-pilotstudie-bias-diversitaetssensible-prompts.md)
 
 ---
 
