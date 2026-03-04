@@ -12,7 +12,7 @@
 | Förderprogramm | FFG Laura Bassi 4.0 |
 | Projektnummer | 62981337 |
 | Laufzeit | 01.02.2026 -31.01.2029 (36 Monate) |
-| Kick-off | 25.02.2026, 9:00--15:00 Uhr |
+| Kick-off | 25.02.2026, 9:00–15:00 Uhr |
 | Moderation Kick-off | Dr.in Lisa Horvath |
 
 ## Konsortium
@@ -52,7 +52,7 @@
 
 ### AP 2 -Systematisches Literatur-Review
 - **Zeitraum:** 02/2026 -12/2026 (verlängert beim Kick-off, urspr. 07/2026)
-- **Aufgaben:** 2.1 PRISMA-Review (02--05/2026), 2.2 Verfassen (05--12/2026), + Glossar-Erstellung
+- **Aufgaben:** 2.1 PRISMA-Review (02–05/2026), 2.2 Verfassen (05–12/2026), + Glossar-Erstellung
 - **Meilensteine:** Schriftlicher Review-Bericht (10.06.2026)
 - **Deliverables:** Review-Bericht, wissenschaftliche Publikation(en), Glossar
 - **Inhaltliche Ergebnisse:** Wissensstand zu Bias in generativer KI, Ansätze zur Bias-Reduktion, Forschungslücken, Grundlage für alle weiteren APs
@@ -60,7 +60,7 @@
 - **Kick-off-Notiz:** RI-Stunden in AP2 verteilen. Aufteilung/Texturing zwischen RI + Uni
 
 ### AP 3 -Innovationsworkshops mit Führungskräften
-- **Zeitraum:** 06/2026 -07/2026 (vorgezogen beim Kick-off, urspr. 07--10/2026)
+- **Zeitraum:** 06/2026 -07/2026 (vorgezogen beim Kick-off, urspr. 07–10/2026)
 - **Aufgaben:** 3.1 Konzeption & Durchführung, 3.2 Nachbereitung & Dokumentation, 3.3 Wissenschaftliche Begleitung
 - **Format (Kick-off-Beschluss):**
   - Vorab: Web/Online-Meeting für kurzen Einblick (15 Min.), FK schicken Fragen, Replay/Aufzeichnung (durchgeführt von DHC)

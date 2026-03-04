@@ -35,7 +35,7 @@
 **Deliverables:**
 - Dokumentation aller Entscheidungen
 - Zwischenberichte (eCall)
-- Fachlicher Endbericht
+- Fachlicher Endbericht (inkl. publizierbarer Kurzzusammenfassung)
 - Endabrechnung
 
 **Stundenverteilung:**
@@ -66,8 +66,8 @@
 > Beim Kick-off verlängert (ursprünglich bis 07/2026). RI-Stunden werden in AP 2 verteilt. Aufteilung/Texturing zwischen RI + Uni.
 
 **Aufgaben:**
-- 2.1 PRISMA-Review (02--05/2026)
-- 2.2 Verfassen (05--12/2026)
+- 2.1 PRISMA-Review (02–05/2026)
+- 2.2 Verfassen (05–12/2026)
 - Glossar-Erstellung
 
 **Meilensteine:**
@@ -111,7 +111,7 @@
 | **Lead** | Sabine (Uni Graz) |
 
 > [!NOTE]
-> Beim Kick-off vorgezogen (ursprünglich 07--10/2026).
+> Beim Kick-off vorgezogen (ursprünglich 07–10/2026).
 
 **Aufgaben:**
 - 3.1 Konzeption & Durchführung
@@ -121,9 +121,9 @@
 **Format (Kick-off-Beschluss):**
 - Vorab: Web/Online-Meeting für kurzen Einblick (15 Min.), FK schicken Fragen, Replay/Aufzeichnung (durchgeführt von DHC)
 - 2 Halbtages-Workshops (nicht 6h am Stück), Zeitspanne ca. 1 Monat: 1. WS Juni, 2. WS Juli
-- RI konzipiert & führt Halbtagesworkshop (3--4h) mit Unterstützung von Sabine & Susi
+- RI konzipiert & führt Halbtagesworkshop (3–4h) mit Unterstützung von Sabine & Susi
 - Teilnehmer:innen: operative/individuelle FK (nicht nur Teamleitungen), inkl. Bereichsleitung
-- N ~ 10--12 Führungskräfte von JAW & SOS-KD
+- N ~ 10–12 Führungskräfte von JAW & SOS-KD
 
 **Offene Fragen:**
 - Welche Führungskräfte genau?
@@ -201,7 +201,7 @@
 | **Lead** | DHC |
 
 > [!NOTE]
-> Kick-off-Änderung: RI erhält 10--20h für rechtliche Aspekte.
+> Kick-off-Änderung: RI erhält 10–20h für rechtliche Aspekte.
 
 **Aufgaben:**
 - 5.1 Konzeption Framework
@@ -227,8 +227,8 @@
 | DHC | 100 h |
 | SOS-KD | 95 h |
 | JAW | 80 h |
-| RI | 0 h (+10--20h ergänzend) |
-| **Gesamt** | **385 h (+10--20h)** |
+| RI | 0 h (+10–20h ergänzend) |
+| **Gesamt** | **385 h (+10–20h)** |
 
 </details>
 
@@ -294,7 +294,7 @@
 
 **Aufgaben:**
 - 7.1 Konzeption (4 Halbtages-Workshops/Reihe)
-- 7.2 Durchführung (N=16--24 Fachkräfte)
+- 7.2 Durchführung (N=16–24 Fachkräfte)
 - 7.3 Nachbereitung
 - 7.4 Wissenschaftliche Begleitung
 
@@ -344,7 +344,7 @@
 **Deliverables:**
 - DOL (frei zugänglich)
 - Prompt Pattern Library
-- Open-Source-Repository (GitHub)
+- Open-Source-Repository (GitHub, MIT-Lizenz)
 
 > [!TIP]
 > Erste Version des Orientierungsleitfadens bereits online: [digitalesozialearbeit.github.io/orientierungsleitfaden](https://digitalesozialearbeit.github.io/orientierungsleitfaden)
@@ -418,4 +418,4 @@
 | SOS-KD | 65 | 10 | 50 | 100 | 95 | 50 | 150 | 50 | 20 | **590** |
 | JAW | 65 | 10 | 50 | 100 | 80 | 50 | 150 | 60 | 20 | **585** |
 
-*\* RI erhält zusätzlich 10--20h in AP 5 für rechtliche Aspekte.*
+*\* RI erhält zusätzlich 10–20h in AP 5 für rechtliche Aspekte.*
