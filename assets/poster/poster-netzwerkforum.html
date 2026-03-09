@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>SocialAI Poster – Laura Bassi Netzwerkforum 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  @page { size: 841mm 1189mm; margin: 0; }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    /* Drei Säulen */
+    --blue: #2c5aa0;        /* Wissenschaft & Analyse */
+    --social: #d06840;      /* Soziale Arbeit & Mensch */
+    --teal: #2a9d8f;        /* Innovation & Technologie */
+
+    /* Abstufungen */
+    --blue-dark: #1a3a6e;
+    --blue-light: #e8f0fe;
+    --gray: #f5f5f7;
+  }
+
+  html, body {
+    width: 841mm;
+    height: 1189mm;
+    font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    color: #1a1a2e;
+    background: #fff;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    padding: 30mm 38mm 25mm;
+  }
+
+  /* ===== HEADER ===== */
+  .header {
+    text-align: center;
+    margin-bottom: 14mm;
+  }
+
+  .header h1 {
+    font-size: 110pt;
+    font-weight: 800;
+    color: var(--blue-dark);
+    letter-spacing: -1pt;
+  }
+
+  .header h1 span { color: var(--teal); }
+
+  .header .tagline {
+    font-size: 50pt;
+    color: var(--blue);
+    font-weight: 600;
+    margin: 5mm 0 8mm;
+  }
+
+  .header .meta {
+    font-size: 30pt;
+    color: #888;
+  }
+
+  .logos {
+    margin-top: 8mm;
+  }
+
+  .logos img {
+    max-width: 580mm;
+    height: auto;
+  }
+
+  /* ===== KERNFRAGE ===== */
+  .keyfrage {
+    background: linear-gradient(135deg, var(--blue), var(--blue-dark));
+    color: white;
+    text-align: center;
+    padding: 16mm 35mm;
+    border-radius: 10mm;
+    font-size: 50pt;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-bottom: 8mm;
+  }
+
+  .badge {
+    display: inline-block;
+    background: var(--social);
+    color: white;
+    font-size: 32pt;
+    font-weight: 700;
+    padding: 3mm 12mm;
+    border-radius: 6mm;
+    margin-top: 8mm;
+    letter-spacing: 0.5pt;
+  }
+
+  /* ===== FARBLEGENDE ===== */
+  .legend {
+    display: flex;
+    justify-content: center;
+    gap: 20mm;
+    margin-bottom: 10mm;
+    padding: 4mm 0;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 4mm;
+    font-size: 28pt;
+    color: #555;
+    font-weight: 600;
+  }
+
+  .legend-dot {
+    width: 12mm;
+    height: 12mm;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .legend-dot.sci { background: var(--blue); }
+  .legend-dot.soc { background: var(--social); }
+  .legend-dot.inn { background: var(--teal); }
+
+  /* ===== TWO COLUMNS ===== */
+  .columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28mm;
+  }
+
+  .col {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .col h2 {
+    font-size: 56pt;
+    font-weight: 700;
+    color: var(--blue-dark);
+    margin-bottom: 10mm;
+    padding-bottom: 4mm;
+    border-bottom: 3mm solid var(--blue);
+  }
+
+  .col h2.social-border { border-bottom-color: var(--social); }
+  .col h2.teal-border { border-bottom-color: var(--teal); }
+
+  /* ===== LEFT: Ausgangslage ===== */
+  .problem {
+    margin-bottom: 10mm;
+    padding: 10mm 14mm;
+    background: var(--gray);
+    border-radius: 8mm;
+    border-left: 5mm solid var(--social);
+  }
+
+  .problem h3 {
+    font-size: 40pt;
+    font-weight: 700;
+    color: var(--blue-dark);
+    margin-bottom: 2mm;
+  }
+
+  .problem p {
+    font-size: 36pt;
+    line-height: 1.3;
+    color: #444;
+  }
+
+  .source-note {
+    font-size: 26pt;
+    color: #999;
+    margin-top: 1mm;
+    font-style: italic;
+  }
+
+  /* ===== Konsortium ===== */
+  .konsortium {
+    margin-top: 0;
+  }
+
+  .partner {
+    display: flex;
+    align-items: baseline;
+    gap: 4mm;
+    margin-bottom: 6mm;
+    font-size: 32pt;
+    line-height: 1.3;
+  }
+
+  .partner strong {
+    color: var(--blue-dark);
+    white-space: nowrap;
+  }
+
+  .partner span {
+    color: #555;
+  }
+
+  /* ===== Erwartete Ergebnisse ===== */
+  .ergebnisse {
+    margin-top: 0;
+  }
+
+  .result-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10mm;
+  }
+
+  .result-item {
+    padding: 10mm 14mm;
+    background: var(--gray);
+    border-radius: 6mm;
+    border-top: 3mm solid var(--teal);
+  }
+
+  .result-item h4 {
+    font-size: 34pt;
+    font-weight: 700;
+    color: var(--blue-dark);
+    margin-bottom: 2mm;
+  }
+
+  .result-item p {
+    font-size: 28pt;
+    color: #555;
+    line-height: 1.3;
+  }
+
+  /* ===== RIGHT: Ansatz (Timeline) ===== */
+  .timeline {
+    position: relative;
+    padding-left: 32mm;
+  }
+
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 20mm;
+    top: 20mm;
+    bottom: 20mm;
+    width: 4mm;
+    background: linear-gradient(to bottom, var(--blue), var(--teal), var(--social));
+    border-radius: 2mm;
+  }
+
+  .step {
+    display: flex;
+    align-items: flex-start;
+    gap: 8mm;
+    margin-bottom: 16mm;
+    position: relative;
+  }
+
+  .step-num {
+    width: 48mm;
+    height: 48mm;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32pt;
+    font-weight: 800;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+  }
+
+  .step-num.sci { background: var(--blue); }
+  .step-num.inn { background: var(--teal); }
+  .step-num.soc { background: var(--social); }
+
+  .step-content {
+    padding-top: 1mm;
+    flex: 1;
+  }
+
+  .step h3 {
+    font-size: 38pt;
+    font-weight: 700;
+    color: var(--blue-dark);
+  }
+
+  .step p {
+    font-size: 34pt;
+    color: #555;
+    line-height: 1.3;
+    margin-top: 1mm;
+  }
+
+  /* ===== HITL-Erklärung ===== */
+  .hitl {
+    margin-top: 0;
+    background: var(--blue-light);
+    border: 2mm solid var(--teal);
+    border-radius: 8mm;
+    padding: 12mm 16mm;
+  }
+
+  .hitl-header {
+    display: flex;
+    align-items: center;
+    gap: 10mm;
+    margin-bottom: 6mm;
+  }
+
+  .hitl-illustration {
+    flex-shrink: 0;
+    width: 80mm;
+    height: 80mm;
+    border-radius: 6mm;
+  }
+
+  .hitl-header-text {
+    flex: 1;
+  }
+
+  .hitl h3 {
+    font-size: 40pt;
+    font-weight: 700;
+    color: var(--blue-dark);
+    margin-bottom: 3mm;
+  }
+
+  .hitl p {
+    font-size: 34pt;
+    color: #444;
+    line-height: 1.3;
+  }
+
+  /* Cycle layout */
+  .hitl-cycle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6mm;
+    margin-top: 8mm;
+    font-size: 32pt;
+    font-weight: 700;
+    position: relative;
+  }
+
+  .hitl-box {
+    padding: 4mm 10mm;
+    border-radius: 6mm;
+    color: white;
+    text-align: center;
+    min-width: 60mm;
+    white-space: nowrap;
+  }
+
+  .hitl-box.mensch { background: var(--social); }
+  .hitl-box.prompt { background: var(--blue); }
+  .hitl-box.ki { background: var(--teal); }
+
+  .hitl-arrow {
+    font-size: 38pt;
+    color: #999;
+  }
+
+  .hitl-return {
+    display: block;
+    text-align: center;
+    font-size: 26pt;
+    color: #999;
+    margin-top: 4mm;
+    font-weight: 600;
+  }
+
+  .hitl-return-arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3mm;
+    margin-top: 3mm;
+  }
+
+  .hitl-return-line {
+    height: 2mm;
+    background: #bbb;
+    border-radius: 1mm;
+    flex: 1;
+    max-width: 200mm;
+  }
+
+  .hitl-return-label {
+    font-size: 28pt;
+    color: #999;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .hitl-return-tip {
+    width: 0;
+    height: 0;
+    border-top: 4mm solid transparent;
+    border-bottom: 4mm solid transparent;
+    border-right: 6mm solid #bbb;
+  }
+
+  /* ===== Zeitplan ===== */
+  .zeitplan {
+    margin-top: 0;
+    background: var(--gray);
+    border-radius: 8mm;
+    padding: 10mm 14mm;
+  }
+
+  .zeitplan h3 {
+    font-size: 36pt;
+    font-weight: 700;
+    color: var(--blue-dark);
+    margin-bottom: 6mm;
+  }
+
+  .timeline-bar {
+    display: flex;
+    gap: 0;
+    border-radius: 5mm;
+    overflow: hidden;
+    height: 24mm;
+  }
+
+  .phase {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 26pt;
+    font-weight: 700;
+    padding: 0 8mm;
+  }
+
+  .phase.p1 { background: var(--blue); flex: 1; }
+  .phase.p2 { background: var(--teal); flex: 1.5; }
+  .phase.p3 { background: var(--social); flex: 0.5; }
+
+  .phase-labels {
+    display: flex;
+    margin-top: 3mm;
+    font-size: 26pt;
+    color: #777;
+  }
+
+  .phase-labels span { flex: 1; }
+  .phase-labels span:nth-child(2) { flex: 1.5; }
+  .phase-labels span:nth-child(3) { flex: 0.5; text-align: right; }
+
+  /* ===== FOOTER ===== */
+  .footer {
+    border-top: 3mm solid var(--blue);
+    padding-top: 10mm;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: auto;
+  }
+
+  .footer-left {
+    font-size: 28pt;
+    color: #888;
+    line-height: 1.6;
+  }
+
+  .footer-right {
+    text-align: right;
+    display: flex;
+    align-items: flex-end;
+    gap: 10mm;
+  }
+
+  .footer-right .url {
+    font-size: 28pt;
+    color: #888;
+    margin-bottom: 4mm;
+  }
+
+  .qr-img {
+    width: 65mm;
+    height: 65mm;
+    border-radius: 4mm;
+  }
+
+  .qr-placeholder {
+    width: 50mm;
+    height: 50mm;
+    background: var(--gray);
+    border: 1px solid #ccc;
+    border-radius: 4mm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22pt;
+    color: #aaa;
+  }
+
+  .footer-logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14mm;
+    margin-bottom: 8mm;
+    padding-bottom: 8mm;
+    border-bottom: 1mm solid #e0e0e0;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .footer-logos img {
+    height: 28mm;
+    width: auto;
+    object-fit: contain;
+  }
+
+  /* ===== Screen preview ===== */
+  @media screen {
+    html { width: 100vw; height: auto; }
+    body { transform-origin: top left; transform: scale(0.42); margin-bottom: -680mm; }
+  }
+
+  @media print {
+    html, body { width: 841mm; height: 1189mm; overflow: hidden; }
+  }
+</style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <div class="header">
+    <h1>Social<span>AI</span></h1>
+    <div class="tagline">Chancengerechtigkeit und KI in der Sozialen Arbeit</div>
+    <div class="meta">FFG Laura Bassi 4.0 &ensp;|&ensp; Laufzeit 02/2026 – 01/2029</div>
+  </div>
+
+  <!-- KERNFRAGE -->
+  <div class="keyfrage">
+    Wie können Fachkräfte der Sozialen Arbeit KI so einsetzen,<br>
+    dass Chancengerechtigkeit gefördert statt untergraben wird?
+    <br>
+    <span class="badge">Erste Initiative dieser Art in Österreich</span>
+  </div>
+
+  <!-- FARBLEGENDE -->
+  <div class="legend">
+    <div class="legend-item"><div class="legend-dot sci"></div> Wissenschaft</div>
+    <div class="legend-item"><div class="legend-dot soc"></div> Soziale Arbeit</div>
+    <div class="legend-item"><div class="legend-dot inn"></div> Innovation</div>
+  </div>
+
+  <!-- TWO COLUMNS -->
+  <div class="columns">
+
+    <!-- LEFT -->
+    <div class="col">
+      <h2 class="social-border">Ausgangslage</h2>
+
+      <div class="problem">
+        <h3>Vulnerable Zielgruppen</h3>
+        <p>Unreflektierter KI-Einsatz kann Stereotype reproduzieren und birgt datenschutzrechtliche Risiken.</p>
+      </div>
+
+      <div class="problem">
+        <h3>Frauendominiertes Berufsfeld</h3>
+        <p>~43.000 Sozialarbeitende in Österreich, überwiegend weiblich. Geschlechtsbezogene Barrieren bei Technologie.</p>
+        <div class="source-note">Quelle: OBDS Sozialarbeit in Österreich, 2024</div>
+      </div>
+
+      <div class="problem">
+        <h3>KI ist nicht neutral</h3>
+        <p>Trainingsdaten bilden gesellschaftliche Diskriminierungen ab. KI reproduziert Verzerrungen bei Gender, Ethnie, Alter.</p>
+      </div>
+
+      <!-- KONSORTIUM -->
+      <div class="konsortium">
+        <h2 class="teal-border">Konsortium</h2>
+        <div class="partner"><strong>Universität Graz</strong> <span>– Wissenschaftliche Leitung, Gender &amp; Diversität</span></div>
+        <div class="partner"><strong>Digital Humanities Craft</strong> <span>– KI-Expertise, Prompt Engineering</span></div>
+        <div class="partner"><strong>Research Institute</strong> <span>– AI Act, DSGVO, ethische Beratung</span></div>
+        <div class="partner"><strong>SOS-Kinderdorf</strong> <span>– Praxiszugang, Erprobung</span></div>
+        <div class="partner"><strong>Jugend am Werk</strong> <span>– Praxiszugang, Erprobung</span></div>
+      </div>
+
+      <!-- ERWARTETE ERGEBNISSE -->
+      <div class="ergebnisse">
+        <h2 class="teal-border">Erwartete Ergebnisse</h2>
+        <div class="result-grid">
+          <div class="result-item">
+            <h4>Orientierungsleitfaden</h4>
+            <p>Open-Source-Handbuch für chancengerechte KI-Nutzung in der Sozialen Arbeit</p>
+          </div>
+          <div class="result-item">
+            <h4>Prompting-Framework</h4>
+            <p>Modulare Bias-Kontrolle für generative KI, praxisnah validiert</p>
+          </div>
+          <div class="result-item">
+            <h4>Bedarfserhebung</h4>
+            <p>Empirische Studie zu KI-Nutzung und Barrieren bei Fachkräften</p>
+          </div>
+          <div class="result-item">
+            <h4>Schulungskonzept</h4>
+            <p>Transfer-Workshops für Trägerorganisationen und Ausbildung</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- RIGHT -->
+    <div class="col">
+      <h2>Unser Ansatz</h2>
+
+      <div class="timeline">
+        <div class="step">
+          <div class="step-num sci">1</div>
+          <div class="step-content">
+            <h3>Verstehen</h3>
+            <p>Systematisches Literatur-Review zu Bias in generativer KI</p>
+          </div>
+        </div>
+
+        <div class="step">
+          <div class="step-num inn">2</div>
+          <div class="step-content">
+            <h3>Erproben</h3>
+            <p>Prompt-Experimente mit mehreren KI-Modellen</p>
+          </div>
+        </div>
+
+        <div class="step">
+          <div class="step-num inn">3</div>
+          <div class="step-content">
+            <h3>Entwickeln</h3>
+            <p>Modulares Prompting-Framework mit Bias-Kontrolle</p>
+          </div>
+        </div>
+
+        <div class="step">
+          <div class="step-num sci">4</div>
+          <div class="step-content">
+            <h3>Befragen</h3>
+            <p>Bedarfserhebung bei ~150 Fach- und Führungskräften</p>
+          </div>
+        </div>
+
+        <div class="step">
+          <div class="step-num soc">5</div>
+          <div class="step-content">
+            <h3>Co-Kreieren</h3>
+            <p>Workshops mit Praktiker:innen der Sozialen Arbeit</p>
+          </div>
+        </div>
+
+        <div class="step">
+          <div class="step-num inn">6</div>
+          <div class="step-content">
+            <h3>Veröffentlichen</h3>
+            <p>Open-Source-Orientierungsleitfaden (GitHub, MIT-Lizenz)</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- HUMAN-IN-THE-LOOP -->
+      <div class="hitl">
+        <div class="hitl-header">
+          <img class="hitl-illustration" src="../img/hitl-illustration.png" alt="Illustration: Human-in-the-Loop-Kreislauf zwischen Fachkraft und KI">
+          <div class="hitl-header-text">
+            <h3>Human-in-the-Loop: Unser Innovationsansatz</h3>
+            <p>Promptgestaltung als Hebel für chancengerechte KI-Outputs: Der Mensch steuert aktiv, wie KI antwortet – und prüft das Ergebnis.</p>
+          </div>
+        </div>
+        <div class="hitl-cycle">
+          <div class="hitl-box mensch">Fachkraft</div>
+          <div class="hitl-arrow">→</div>
+          <div class="hitl-box prompt">Prompt</div>
+          <div class="hitl-arrow">→</div>
+          <div class="hitl-box ki">KI-Output</div>
+          <div class="hitl-arrow">→</div>
+          <div class="hitl-box mensch">Prüfung</div>
+        </div>
+        <div class="hitl-return-arrow">
+          <div class="hitl-return-tip"></div>
+          <div class="hitl-return-line"></div>
+          <div class="hitl-return-label">Feedback-Schleife: Prompt anpassen</div>
+        </div>
+      </div>
+
+      <!-- ZEITPLAN -->
+      <div class="zeitplan">
+        <h3>Projektphasen (02/2026 – 01/2029)</h3>
+        <div class="timeline-bar">
+          <div class="phase p1">Grundlagen</div>
+          <div class="phase p2">Entwicklung &amp; Erprobung</div>
+          <div class="phase p3">Transfer</div>
+        </div>
+        <div class="phase-labels">
+          <span>2026</span>
+          <span>2027 – 2028</span>
+          <span>2029</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div class="footer-logos">
+      <img src="../logos/Universität_Graz_logo.svg" alt="Universität Graz">
+      <img src="../logos/dhcraft_logo_invert+text-horizontal.svg" alt="Digital Humanities Craft">
+      <img src="../logos/RI-logo-RGB-END.svg" alt="Research Institute">
+      <img src="../logos/SOS-Kinderdorf_Logo.svg" alt="SOS-Kinderdorf">
+      <img src="../logos/JAW_Logo_vielfalt-wirkt_CMYK.jpg" alt="Jugend am Werk">
+      <img src="../logos/FFG_Logo_DE_CMYK.png" alt="FFG">
+      <img src="../logos/Logo_Land_Steiermark.svg" alt="Land Steiermark">
+      <img src="../logos/Zukunft.png" alt="Zukunftsfonds Steiermark">
+    </div>
+    <div class="footer-left">
+      Gefördert durch die FFG im Programm Laura Bassi 4.0<br>
+      Kontakt: Sabine Klinger, Projektleitung, Universität Graz<br>
+      sabine.klinger@uni-graz.at
+    </div>
+    <div class="footer-right">
+      <div class="url">digitalesozialearbeit.github.io</div>
+      <img class="qr-img" src="../img/qrcode_digitalesozialearbeit.github.io.png" alt="QR-Code zur Projektwebsite">
+    </div>
+  </div>
+
+</body>
+</html>
