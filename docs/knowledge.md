@@ -1,6 +1,6 @@
 # Knowledge: SocialAI Projekt
 
-> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026) und Kick-off-Fotoprotokoll (25.02.2026)
+> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026) und Jour-fixe-Protokoll (09.04.2026)
 >
 > **Dieses Dokument ist die autoritative Referenz.** Rohdaten in `sources/` enthalten OCR-Artefakte und sollen nicht direkt referenziert werden.
 
@@ -64,11 +64,25 @@
 - **Aufgaben:** 3.1 Konzeption & Durchführung, 3.2 Nachbereitung & Dokumentation, 3.3 Wissenschaftliche Begleitung
 - **Format (Kick-off-Beschluss):**
   - Vorab: Web/Online-Meeting für kurzen Einblick (15 Min.), FK schicken Fragen, Replay/Aufzeichnung (durchgeführt von DHC)
-  - 2 Halbtage Workshops (nicht 6h am Stück), Zeitspanne ca. 1 Monat: 1. WS Juni, 2. WS Juli
+  - ~~2 Halbtage Workshops (nicht 6h am Stück), Zeitspanne ca. 1 Monat: 1. WS Juni, 2. WS Juli~~ → Angepasst (Jour fixe): aufeinanderfolgende Tage (29.+30.06.2026)
   - RI konzipiert & führt Halbtagesworkshop (3-4h) mit Unterstützung von Sabine & Susi
   - Teilnehmer:innen: operative/individuelle FK (nicht nur Teamleitungen), inkl. Bereichsleitung
   - N ~ 10-12 Führungskräfte von JAW & SOS-KD
 - **Prompts für DHC:** notwendig, Connection zu FKs herstellen
+- **Konkretisierung (Jour fixe 09.04.2026):**
+  - Termine fix: **29.06.2026 (9–13 Uhr)** und **30.06.2026 (13–17 Uhr)**, Graz
+  - 20–25 Teilnehmende (FK von SOS-KD + JAW), dieselbe Gruppe an beiden Tagen
+  - Raum: Christina sucht klimatisierten Raum an Uni Graz
+  - Workshop-Konzeption schriftlich bis **01.06.2026** (Christian/Heidi/Madeleine)
+  - Anmeldedeadline Teilnehmende: **21.05.2026**
+  - Wissenschaftliche Begleitung: Sabine, Christina + 1 weitere Person vor Ort
+  - Materialien: GitHub Pages; Ergebnisdokumentation (Flipcharts, Ideen) in GitHub-Repo
+- **Vorab-Survey (LimeSurvey, 1x vor Workshop):**
+  - Versand ca. **15.05.2026**, Reminder **21.05.2026**
+  - 6 Fragen (~3 Min.): Organisation, Rolle, Alter, Geschlecht, KI-Nutzung, optionale Themenwünsche
+  - Deckt ab: Anmeldung, Demografie (Ethikvotum), Vorwissens-Abschätzung
+  - ~~Anonyme asynchrone Frage-Plattform~~ → entfällt; Fragen vorab über Survey-Freitext, danach per E-Mail an Christian
+  - ~~Separate Evaluation~~ → entfällt; Sabine und Christina beobachten und dokumentieren vor Ort
 - **Offene Fragen:** Welche FKs genau? Inhaltliche Fragen klären, Koordination mit Praxispartnern
 - **Deliverables:** Wissenschaftlicher Bericht, Informationsmaterialien zu AI Act und DSGVO
 - **Stunden:** Uni Graz 430h, RI 100h, DHC 60h, SOS-KD 50h, JAW 50h
@@ -145,7 +159,7 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 - Reaktion geben, auch wenn Verspätung oder keine Zeit (kurze Rückmeldung genügt)
 - Reminder sind erlaubt und erwünscht
 - Angabe von Datum/Zeitpunkten für Rückmeldungen erwünscht
-- Gemeinsame Plattform gewünscht (Teams? Slack? -zu klären mit SOS-KD und JAW)
+- ~~Gemeinsame Plattform gewünscht (Teams? Slack? -zu klären mit SOS-KD und JAW)~~ **Entschieden (09.04.2026):** E-Mail für das große Team + Uni-Cloud (Nextcloud der Uni Graz) als gemeinsame Ablage, DSGVO-konform
 
 ### Kommunikation -Don'ts
 - Nicht-Reagieren / "Ghosten"
@@ -180,12 +194,23 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 
 ## Nächste Schritte (Kick-off)
 
-1. **Glossar** erstellen (zentrale Begriffe definieren)
+1. ~~**Glossar** erstellen (zentrale Begriffe definieren)~~ → internes Meeting am 22.04.2026
 2. **AP 2:** Aufgabenverteilung RI + Uni klären, RI-Stunden verteilen
-3. **AP 3:** Termine für FK-Workshops mit Anna (SOS-KD) abstimmen
+3. ~~**AP 3:** Termine für FK-Workshops mit Anna (SOS-KD) abstimmen~~ → 29.06. + 30.06.2026 fix
 4. **AP 3/4:** Prompts sammeln -wie/wo schon in Workshops?
 5. **AP 5:** RI-Stunden: wo verbucht bis AP5?
 6. **AP 9:** Publikations-Policy vereinbaren (Logos, Disclaimer, Vorab-Review)
-7. **TOP 1. Quartalstreffen** planen + Publikations-Policy
-8. **Logos:** alle Partner:innen schicken Logos an Sabine
-9. **Gemeinsame Plattform:** Entscheidung für Teams, Slack oder Alternative
+7. ~~**TOP 1. Quartalstreffen** planen + Publikations-Policy~~ → 09.04.2026 stattgefunden
+8. ~~**Logos:** alle Partner:innen schicken Logos an Sabine~~ → erledigt
+9. ~~**Gemeinsame Plattform:** Entscheidung für Teams, Slack oder Alternative~~ → E-Mail + Uni-Cloud
+
+## Nächste Schritte (Jour fixe 09.04.2026)
+
+1. **Projektlogo:** Anna leitet Barrierefreiheits-Feedback an Grafikerin Julia Steinbock weiter
+2. **SOS-KD:** Übergabe an Martin Baumann (neue päd. Leitung), Vorstellung beim nächsten Jour fixe
+3. **Datenschutz-Addendum:** Prüfung durch Sandra Schimmler (DSB Uni Graz), dann Unterschriftenumlauf
+4. **Auszahlung:** Elke kommuniziert Modalitäten an Partnerorganisationen (April)
+5. **AP 2:** Internes Meeting am **22.04.2026** (Glossar, Begriffsklärungen, Workflow-Vorstellung)
+6. **AP 3:** Workshop-Konzeption schriftlich bis **01.06.2026**, Anmeldungen bis **21.05.2026**
+7. **AP 3:** Christian setzt LimeSurvey-Fragebogen auf (6 Fragen, Versand ~15.05.)
+8. **AP 3:** Christina sucht klimatisierten Raum an Uni Graz

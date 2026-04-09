@@ -1,0 +1,25 @@
+id	related_id	class	type/scale	name	relevance	text	help	language	validation	mandatory	other	default	same_default
+		S		SocialAI – Anmeldung Innovationsworkshops	1	<h3>Anmeldung & Kurzfragebogen – Innovationsworkshops</h3><p>Im Rahmen des Projekts <strong>SocialAI</strong> laden wir Sie herzlich zu zwei Innovationsworkshops ein:</p><ul><li><strong>29. Juni 2026, 9–13 Uhr</strong></li><li><strong>30. Juni 2026, 13–17 Uhr</strong></li></ul><p>Ort: Universität Graz (Raum wird noch bekannt gegeben)</p><p>Dieser kurze Fragebogen dient gleichzeitig als <strong>verbindliche Anmeldung</strong> und hilft uns, die Workshops auf Ihre Bedürfnisse abzustimmen.</p><p>Dauer: ca. 3 Minuten. Alle Angaben werden vertraulich behandelt und ausschließlich für die Projektforschung verwendet.</p>		de
+		G		demografie	1	Zu Ihrer Person		de
+		Q	L	q_organisation	1	In welcher Organisation sind Sie tätig?		de		Y	N
+		A	0	A1		SOS-Kinderdorf		de
+		A	0	A2		Jugend am Werk – Steiermark GmbH		de
+		Q	S	q_rolle	1	Wie lautet Ihre Rolle bzw. Funktion?	z.B. Teamleitung, Bereichsleitung, Fachkraft	de		Y	N
+		Q	L	q_alter	1	In welcher Altersgruppe befinden Sie sich?		de		Y	N
+		A	0	A1		unter 30		de
+		A	0	A2		30–39		de
+		A	0	A3		40–49		de
+		A	0	A4		50+		de
+		Q	L	q_geschlecht	1	Geschlecht		de		Y	N
+		A	0	A1		weiblich		de
+		A	0	A2		männlich		de
+		A	0	A3		divers		de
+		A	0	A4		keine Angabe		de
+		G		ki_erfahrung	1	Ihre Erfahrung mit KI		de
+		Q	L	q_ki_nutzung	1	Wie häufig nutzen Sie derzeit KI-Tools (z.B. ChatGPT, Copilot, Claude)?		de		Y	N
+		A	0	A1		nie		de
+		A	0	A2		ein paar Mal probiert		de
+		A	0	A3		gelegentlich (ein paar Mal pro Monat)		de
+		A	0	A4		regelmäßig (mehrmals pro Woche)		de
+		G		themen	1	Ihre Themen		de
+		Q	T	q_themen	1	Gibt es Fragen oder Themen, die im Workshop unbedingt vorkommen sollen?	Dieses Feld ist optional. Alles, was Sie hier angeben, hilft uns bei der Vorbereitung.	de		N	N

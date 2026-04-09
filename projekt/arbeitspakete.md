@@ -1,6 +1,6 @@
 # Arbeitspakete
 
-> Stand: Kick-off (25.02.2026), inkl. dort beschlossener Änderungen gegenüber dem Originalantrag.
+> Stand: Kick-off (25.02.2026) + Jour fixe (09.04.2026). Updates aus dem Jour fixe sind als [!TIP]-Callouts markiert.
 
 > [!TIP]
 > Klicke auf ein Arbeitspaket, um Details zu Aufgaben, Meilensteinen, Deliverables und Stundenverteilung zu sehen.
@@ -65,6 +65,9 @@
 > [!NOTE]
 > Beim Kick-off verlängert (ursprünglich bis 07/2026). RI-Stunden werden in AP 2 verteilt. Aufteilung/Texturing zwischen RI + Uni.
 
+> [!TIP]
+> **Update Jour fixe 09.04.2026:** Internes Meeting am 22.04.2026 zu Glossar und Begriffsklärungen angesetzt. Workflow für KI-gestützte Literaturanalyse (von Christopher/DHC entwickelt) wird vorgestellt, Publikation in Vorbereitung. Zeitplan bis 12/2026 entspannt.
+
 **Aufgaben:**
 - 2.1 PRISMA-Review (02–05/2026)
 - 2.2 Verfassen (05–12/2026)
@@ -113,23 +116,30 @@
 > [!NOTE]
 > Beim Kick-off vorgezogen (ursprünglich 07–10/2026).
 
+> [!TIP]
+> **Update Jour fixe 09.04.2026:** Termine fix: **29.06.2026 (9–13 Uhr)** und **30.06.2026 (13–17 Uhr)** in Graz. 20–25 Teilnehmende. Workshop-Konzeption schriftlich bis 01.06., Anmeldungen bis 21.05. Asynchrone Frage-Plattform und Vorab-Fragebogen werden von Christian aufgesetzt. Wissenschaftliche Begleitung durch Sabine, Christina + 1 weitere Person.
+
 **Aufgaben:**
 - 3.1 Konzeption & Durchführung
 - 3.2 Nachbereitung & Dokumentation
 - 3.3 Wissenschaftliche Begleitung
 
-**Format (Kick-off-Beschluss):**
-- Vorab: Web/Online-Meeting für kurzen Einblick (15 Min.), FK schicken Fragen, Replay/Aufzeichnung (durchgeführt von DHC)
-- 2 Halbtages-Workshops (nicht 6h am Stück), Zeitspanne ca. 1 Monat: 1. WS Juni, 2. WS Juli
-- RI konzipiert & führt Halbtagesworkshop (3–4h) mit Unterstützung von Sabine & Susi
-- Teilnehmer:innen: operative/individuelle FK (nicht nur Teamleitungen), inkl. Bereichsleitung
-- N ~ 10–12 Führungskräfte von JAW & SOS-KD
+**Format (Kick-off-Beschluss, konkretisiert am 09.04.2026):**
+- **Termine:** 29.06.2026, 9–13 Uhr (WS 1) und 30.06.2026, 13–17 Uhr (WS 2), Graz
+- **Ort:** Uni Graz (Christina sucht klimatisierten Raum), alternativ SOS-KD- oder JAW-Standort
+- **Teilnehmende:** 20–25 Führungskräfte von JAW & SOS-KD, Anmeldedeadline 21.05.2026
+- **Vorab-Survey (LimeSurvey, 1x vor Workshop):**
+  - Versand ca. 15.05., Reminder 21.05.
+  - 6 Fragen (~3 Min.): Organisation, Rolle, Alter, Geschlecht, KI-Nutzung, optionale Themenwünsche
+  - Deckt ab: Anmeldung, Demografie (Ethikvotum), Vorwissens-Abschätzung
+  - Fragen danach per E-Mail an Christian
+- **Materialien:** GitHub Pages; Ergebnisdokumentation (Flipcharts, Ideen) in GitHub-Repo
+- **Konzeption:** Ca. 50% Wissensinput, 50% Diskussion/Brainstorming/Ideenentwicklung
+- Wissenschaftliche Begleitung: Sabine, Christina + 1 weitere Person vor Ort
+- Workshop-Konzeption schriftlich bis **01.06.2026** (Christian/Heidi/Madeleine)
+- Christina ist erste Ansprechpartnerin für Workshop-Konzeption seitens Uni
 
-**Offene Fragen:**
-- Welche Führungskräfte genau?
-- Inhaltliche Fragen klären
-- Koordination mit Praxispartner:innen
-- Prompts für DHC: notwendig, Connection zu FKs herstellen
+**Offene Fragen (Kick-off):** ~~Termine~~ ✅, ~~Welche FK genau~~ (Registrierung bis 21.05.), Inhaltliche Abstimmung Christian/Heidi/Madeleine läuft
 
 **Deliverables:**
 - Wissenschaftlicher Bericht
