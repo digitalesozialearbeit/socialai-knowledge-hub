@@ -1,5 +1,41 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-04-09 -Update nach 1. Quartalstreffen
+
+### Anlass
+Erstes Quartalstreffen (Jour fixe) des SocialAI-Konsortiums. Transkript bereinigt und als Grundlage für Doc-Updates verwendet.
+
+### Aktualisierte Dokumente
+
+| Dokument | Änderungen |
+|----------|------------|
+| `docs/knowledge.md` | AP3 konkretisiert (Termine, Format, Begleitinstrumente), Kommunikationstool entschieden, Kick-off-Schritte als erledigt markiert, neue Schritte aus Jour fixe ergänzt |
+| `docs/journal.md` | Dieser Eintrag |
+| `projekt/arbeitspakete.md` | AP2 + AP3 mit Jour-fixe-Updates ergänzt |
+| `projekt/zusammenarbeit.md` | Kommunikationstool-Entscheidung, Kick-off-Schritte als erledigt markiert, neue Action Items |
+| `projekt/uebersicht.md` | Martin Baumann als SOS-KD-Kontakt, Jugend am Werk – Steiermark GmbH |
+
+### Entscheidungen (Jour fixe)
+
+| # | Entscheidung | Begründung |
+|---|-------------|------------|
+| 1 | E-Mail + Uni-Cloud (Nextcloud) als Kommunikation/Ablage | Slack zu teuer (3.000 EUR/a), Teams an Uni nicht unterstützt, Uni-Cloud DSGVO-konform |
+| 2 | AP3-Termine: 29.06. (9–13h) + 30.06. (13–17h) in Graz | Räumliche Nähe, beide Praxispartner in Graz erreichbar |
+| 3 | Martin Baumann übernimmt päd. Leitung SOS-KD | Anna bleibt für Abrechnung, Martin hat päd. Expertise und Feldzugang |
+| 4 | Vorab-Registrierung mit Kurzfragebogen + async Frage-Plattform | Ethikvotum-Anforderung, gleichzeitig Vorwissen-Erhebung und Verbindlichkeit |
+
+### Status offener Fragen (aus 2026-03-03)
+
+| # | Frage | Neuer Status |
+|---|-------|-------------|
+| 1 | Gemeinsame Plattform? | **Geklärt:** E-Mail + Uni-Cloud |
+| 2 | Docsify-Wikilink-Plugin getestet? | Offen |
+| 3 | GitHub-Accounts bei SOS-KD/JAW? | Offen |
+| 4 | Redaktioneller Workflow? | Offen |
+| 5 | Glossar-Formulierung? | Teilweise: internes Meeting am 22.04.2026 angesetzt |
+
+---
+
 ## 2026-03-03 -Promptotyping Phase 1-3: Preparation bis Distillation
 
 ### Ausgangslage
