@@ -5,7 +5,7 @@
 > [!WARNING]
 > Die folgenden Definitionen sind vorläufig und dienen als Arbeitsbasis. Endgültige, wissenschaftlich fundierte Definitionen folgen nach Abschluss des Literatur-Reviews (AP 2).
 
-> *Anmerkung*: Da der Gesetzgeber im Normtext überwiegend das generische Maskulinum verwendet, folgt das Glossar dieser Terminologie, um eine eindeutige Zuordnung zum Gesetzeswortlaut zu gewährleisten. Personenbezeichnungen beziehen sich auf Menschen aller Geschlechter.
+> *Anmerkung*: Da der Gesetzgeber im Normtext überwiegend das generische Maskulinum verwendet, folgt das Glossar in seinen rechtlichen Ausführungen dieser Terminologie, um eine eindeutige Zuordnung zum Gesetzeswortlaut zu gewährleisten. 
 
 ---
 
