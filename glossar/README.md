@@ -102,9 +102,9 @@ Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierun
 
 ## M
 
-### Menschliche Aufsicht
+### Menschliche Aufsicht / Human Oversight 
 
-- **rechtlich:** KI-Systeme müssen so entwickelt werden, dass sie während ihres Einsatzes von geeigneten Personen wirksam beaufsichtigt werden können. Dadurch sollen Risiken für Gesundheit, Sicherheit oder Grundrechte Betroffener verhindert oder zumindest minimiert werden. Die Aufsichtsmaßnahmen müssen sich dabei an dem Kontext des KI-Einsatzes, an dem Autonomiegrad des Systems und an den Risiken, die sich durch die Nutzung ergeben können, orientieren. Aufsichtspersonen müssen insbesondere in der Lage sein, die Fähigkeiten und Grenzen des KI-Systems zu verstehen, seinen Betrieb ordnungsgemäß zu überwachen, Fehlfunktionen zu erkennen, KI-Ausgaben nicht ungeprüft zu vertrauen („Automation Bias“), KI-Ergebnisse richtig zu interpretieren, und erforderlichenfalls den Systembetrieb mit einer „Stopptaste“ zu unterbrechen.
+- **rechtlich:** KI-Systeme müssen so entwickelt werden, dass sie während ihres Einsatzes von geeigneten Personen wirksam beaufsichtigt werden können. Dadurch sollen Risiken für Gesundheit, Sicherheit oder Grundrechte Betroffener verhindert oder zumindest minimiert werden. Die Aufsichtsmaßnahmen müssen sich dabei an dem Kontext des KI-Einsatzes, an dem Autonomiegrad des Systems und an den Risiken, die sich durch die Nutzung ergeben können, orientieren. Aufsichtspersonen müssen insbesondere in der Lage sein, die Fähigkeiten und Grenzen des KI-Systems zu verstehen, seinen Betrieb ordnungsgemäß zu überwachen, Fehlfunktionen zu erkennen, KI-Ausgaben nicht ungeprüft zu vertrauen („Automation Bias“), KI-Ergebnisse richtig zu interpretieren, und erforderlichenfalls den Systembetrieb mit einer „Stopptaste“ zu unterbrechen (siehe Art 14 KI-VO)
 
 ---
 
