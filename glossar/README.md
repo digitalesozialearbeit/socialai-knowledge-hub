@@ -4,7 +4,8 @@
 
 > [!WARNING]
 > Die folgenden Definitionen sind vorläufig und dienen als Arbeitsbasis. Endgültige, wissenschaftlich fundierte Definitionen folgen nach Abschluss des Literatur-Reviews (AP 2).
-> Anmerkung
+
+> Anmerkung: Rechtliche Begriffe werden im generischen Maskulinum gebraucht, da sie in dieser Form im Gesetz stehen.
 
 ---
 
