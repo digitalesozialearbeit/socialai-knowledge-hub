@@ -17,6 +17,11 @@ Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz 
 
 KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über einfache Frage-Antwort-Interaktion hinaus. Im Projektkontext eine offene Frage: Inwieweit werden agentenbasierte KI-Systeme für die Soziale Arbeit relevant, und welche Chancen und Risiken bringen sie mit sich?
 
+### Automation Bias
+
+Eine Unterkategorie von Bias. Die Tendenz, sich in bestimmten Situationen übermäßig auf automationsunterstützte Entscheidungsfindungssysteme zu verlassen, ohne deren Output kritisch zu prüfen.  Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im praktischen Einsatz eher für gültig und berechtigt gehalten, wenngleich diese möglicherweise falsche oder unvollständige Informationen liefern. 
+- **Rechtlich:** Neigung zu einem automatischen oder übermäßigen Vertrauen in eine von einem KI-System hervorgebrachte Ausgabe (Art 14 Abs 4 lit b KI-VO)
+
 ---
 
 ## B
