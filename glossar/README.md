@@ -19,7 +19,7 @@ KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über 
 
 ### Automation Bias
 
-Eine Unterkategorie von [Bias](#Bias). Die Tendenz, sich in bestimmten Situationen übermäßig auf automationsunterstützte Entscheidungsfindungssysteme zu verlassen, ohne deren Output kritisch zu prüfen.[^1] Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im praktischen Einsatz eher für gültig und berechtigt gehalten, wenngleich diese möglicherweise falsche oder unvollständige Informationen liefern. 
+Eine Unterkategorie von [Bias](#Bias). Die Tendenz, sich in bestimmten Situationen übermäßig auf automationsunterstützte Entscheidungsfindungssysteme zu verlassen, ohne deren Output kritisch zu prüfen.[^1] Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im praktischen Einsatz eher für gültig und berechtigt gehalten, wenngleich diese möglicherweise falsche oder unvollständige Informationen liefern.[^2] 
 - **Rechtlich:** Neigung zu einem automatischen oder übermäßigen Vertrauen in eine von einem KI-System hervorgebrachte Ausgabe (Art 14 Abs 4 lit b KI-VO)
 
 ---
@@ -118,3 +118,4 @@ Professionelles Handlungsfeld, das im Projekt als Anwendungskontext für KI unte
 ---
 
 [^1]: Wickens/Clegg/Vieane/Sebok, Complacency and Automation Bias in the Use of Imperfect Automation, Human Factors 2015, 729.
+[^2]: Research Institute, Aufklärung 4.0 – Entscheidungen der KI als Mensch verstehen. Bericht über die theoretischen Grundlagen des Rechts auf Erläuterung der Entscheidungsfindung im Einzelfall nach Artikel 86 AI Act (2025), 122, https://www.sozialministerium.gv.at/dam/jcr:53b900a6-8630-4c96-8ddc-d4b4a0893447/Final_Aufkl%C3%A4rung%204.0_Grundlagenbericht_April2025_2026-01-28.pdf (Letzter Zugriff: 30.4.2026).
