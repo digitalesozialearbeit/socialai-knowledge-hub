@@ -165,7 +165,7 @@ Die Technik, Anfragen an ein KI-Modell so zu formulieren, dass nützliche Ergebn
 Ein Angriff, bei dem schädliche Anweisungen in Inhalte eingeschleust werden, die ein [LLM](#llm) verarbeitet.[^injection] Eine Webseite, ein Dokument oder eine E-Mail kann versteckte Anweisungen enthalten, die das Modell beim Lesen als Befehle interpretiert. Der Angriff funktioniert, weil ein LLM zwischen Inhalt und Anweisung nicht zuverlässig trennt. Besonders kritisch bei Anwendungen mit Tool-Zugriff oder [MCP](#mcp)-Anbindung.
 
 ### Promptotyping
-Eine Methodik für die iterative Zusammenarbeit zwischen Mensch und KI.[^promptotyping] Kernprinzip ist, dass Dokumente die Quelle der Wahrheit sind und Code ein austauschbares Artefakt darstellt. Vier Phasen prägen den Ablauf, Preparation, Exploration, Distillation und Implementation.
+Eine Methodik für die iterative Zusammenarbeit zwischen Mensch und KI. Kernprinzip ist, dass Dokumente die Quelle der Wahrheit sind und Code ein austauschbares Artefakt darstellt. Vier Phasen prägen den Ablauf, Preparation, Exploration, Distillation und Implementation.
 
 ---
 
@@ -232,8 +232,6 @@ Die Architektur hinter modernen [LLMs](#llm), 2017 in „Attention Is All You Ne
 [^konfabulation]: Smith, Andrew L., Frank Greaves und Trevor Panch. „Hallucination or Confabulation? Neuroanatomy as Metaphor in Large Language Models". *PLOS Digital Health* 2.11 (2023). https://doi.org/10.1371/journal.pdig.0000388
 
 [^parrot]: Bender, Emily M., Timnit Gebru, Angelina McMillan-Major und Shmargaret Shmitchell. „On the Dangers of Stochastic Parrots. Can Language Models Be Too Big?". *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21)*, 610–623. https://doi.org/10.1145/3442188.3445922
-
-[^promptotyping]: Pollin, Christopher. „Promptotyping. A Context Engineering Method for Building Research Artifacts with Frontier LLMs". Digital Humanities Craft, Universität Graz, 2026. Lehr- und Begleitmaterial unter https://digitalhumanitiescraft.github.io/ai-coding-literacy
 
 [^rag]: Lewis, Patrick et al. „Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks". *Advances in Neural Information Processing Systems 33 (NeurIPS 2020)*. https://arxiv.org/abs/2005.11401
 
