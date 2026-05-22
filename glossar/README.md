@@ -42,10 +42,10 @@ Standardisierte Testsätze zur Vergleichsmessung der Leistungsfähigkeit von KI-
 ### Bias
 
 Systematische Verzerrung in Daten, Modellen oder Entscheidungen. Im Projekt in mehreren Dimensionen relevant:
-- **Soziologisch:** gesellschaftliche Vorurteile und strukturelle Diskriminierung
+- **Sozialwissenschaftlich:** gesellschaftliche Vorurteile und strukturelle Diskriminierung. Eine systematische (nicht zufällige) Verzerrung unserer Wahrnehmung, Erinnerung und Beurteilung – geprägt durch Erfahrungen, Sozialisation und kulturelle Normen. Im Gegensatz zu einem Zufallsfehler folgt eine Verzerrung einem bestimmten Muster: Sie lenkt das Denken stets in eine bestimmte Richtung. --> Die menschliche Wahrnehmung ist niemals neutral.
+- **Sozialwissenschaftliche Subformen** **Unconscious/Implicit Bias:** bezeichnet kognitive Prozesse, bei denen frühere Erfahrungen, soziale Kategorien und kulturell vermittelte Stereotype Urteile beeinflussen, ohne dass sich die handelnden Personen dessen bewusst sind. Widerspricht oft den eigenen Werten, die expliziert werden können, beeinflusst jedoch systematisch Entscheidungen. **Confirmation Bias**: Tendenz, Informationen zu vertrauen oder zu bevorzugen, die die eigene Weltsicht bestärkt, bereits vorhandene Weltbilder verstärkt. **Affinity/In-Group Bias**: Tendenz, Personen zu bevorzugen, die einem ähnlich sind.
 - **Technisch:** Systematische Verzerrung in den Antworten eines [LLM](#llm), die aus Trainingsdaten und Trainingsprozess stammt.[^bias] Bias zeigt sich etwa in Geschlechter- und Altersstereotypen oder in der Bevorzugung bestimmter Perspektiven. Die Forschung unterscheidet repräsentative Schäden (Stereotypisierung) und allokative Schäden (ungleiche Ressourcenverteilung). Bias lässt sich nicht vollständig beseitigen, sondern nur sichtbar machen und reflektiert kompensieren. 
-- **Intersektional:** Überschneidung und Verstärkung mehrerer Diskriminierungsdimensionen
-- **Unconscious/implizit:** unbewusste Voreingenommenheit von Nutzer:innen und Entwickler:innen
+
 
 ---
 
