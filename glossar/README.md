@@ -16,7 +16,9 @@ Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz 
 
 KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über einfache Frage-Antwort-Interaktion hinaus. Im Projektkontext eine offene Frage: Inwieweit werden agentenbasierte KI-Systeme für die Soziale Arbeit relevant, und welche Chancen und Risiken bringen sie mit sich?
 
-### AI Literacies
+### AI Literacies / KI Literacies / KI Kompetenzen
+
+Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre Wirkungen einzuordnen. AI Literacies umfassen technisches Grundverständnis, einen Blick für [Bias](#bias) und [Konfabulation](#konfabulation), Kenntnis rechtlicher Rahmen sowie die Fähigkeit, Einsatzentscheidungen zu reflektieren. Der Begriff ist analog zu Medienkompetenz konzipiert und seit 2024 auch im EU AI Act als organisationale Pflicht verankert.
 
 ### Alignment
 Der Prozess, ein KI-Modell so zu trainieren, dass es hilfreich, harmlos und ehrlich antwortet. Methoden wie [RLHF](#rlhf) und [Constitutional AI](#constitutional-ai) sind Teil davon.
@@ -176,9 +178,6 @@ Techniken, mit denen Schutzmechanismen eines [LLM](#llm) umgangen werden, etwa u
 ---
 
 ## K
-
-### KI-Literacy
-Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre Wirkungen einzuordnen. KI-Literacy umfasst technisches Grundverständnis, einen Blick für [Bias](#bias) und [Konfabulation](#konfabulation), Kenntnis rechtlicher Rahmen sowie die Fähigkeit, Einsatzentscheidungen zu reflektieren. Der Begriff ist analog zu Medienkompetenz konzipiert und seit 2024 auch im EU AI Act als organisationale Pflicht verankert. Eine breitere Behandlung findet sich im [Hauptglossar](README.md#ki-kompetenz) unter KI-Kompetenz.
 
 ### Knowledge Cutoff
 Der Wissensstichtag eines [LLM](#llm). Das Datum, bis zu dem die Trainingsdaten reichen. Alles danach kennt das Modell nicht, sofern es keine externen Tools wie Websuche oder [RAG](#rag) nutzt.
