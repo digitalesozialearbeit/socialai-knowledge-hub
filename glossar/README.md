@@ -119,6 +119,15 @@ Methoden und Werkzeuge, die Entscheidungen von KI-Systemen nachvollziehbar mache
 
 *Definition folgt aus AP 2 (Literatur-Review).* Vorläufig: ein intersektional-feministischer Ansatz zum Verständnis und zur kritischen Nutzung von KI, der Machtstrukturen und Geschlechterverhältnisse in der Technologieentwicklung und -anwendung reflektiert.
 
+### Few-Shot Prompting
+Eine [Prompting-Technik](#prompt-engineering), bei der dem Modell einige Beispiele im Prompt mitgegeben werden, die das gewünschte Eingabe-Ausgabe-Format zeigen. Das Modell lernt das Muster aus dem Kontext, ohne neu trainiert zu werden.
+
+### Fine-Tuning
+Die Anpassung eines vortrainierten [LLM](#llm) auf einen spezifischen Anwendungsbereich oder Stil durch zusätzliches Training mit ausgewählten Daten. Fine-Tuning verändert die Modellgewichte und prägt das Modell dauerhaft. Es ist aufwendig und erfordert geeignete Daten. Für viele Anwendungsfälle sind [Prompt Engineering](#prompt-engineering) und [RAG](#rag) effizientere Wege, weil sie ohne Eingriff in das Modell auskommen.
+
+### Frontier Model
+Bezeichnung für die jeweils leistungsfähigsten Modelle einer Generation, etwa GPT-5, Claude Opus oder Gemini 2.5 Pro. Der Begriff hat regulatorische Bedeutung, weil der EU AI Act und vergleichbare Regelwerke an Frontier-Modelle besondere Pflichten knüpfen, etwa systemische Risikoanalyse und Cybersicherheitsstandards. Welche Modelle als Frontier gelten, verschiebt sich kontinuierlich.
+
 ---
 
 ## I
