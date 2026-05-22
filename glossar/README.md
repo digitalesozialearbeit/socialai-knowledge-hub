@@ -129,6 +129,12 @@ Die Anpassung eines vortrainierten [LLM](#llm) auf einen spezifischen Anwendungs
 Bezeichnung für die jeweils leistungsfähigsten Modelle einer Generation, etwa GPT-5, Claude Opus oder Gemini 2.5 Pro. Der Begriff hat regulatorische Bedeutung, weil der EU AI Act und vergleichbare Regelwerke an Frontier-Modelle besondere Pflichten knüpfen, etwa systemische Risikoanalyse und Cybersicherheitsstandards. Welche Modelle als Frontier gelten, verschiebt sich kontinuierlich.
 
 ---
+## G
+
+### Guardrails
+Schutzmechanismen, die unerwünschte Antworten eines [LLM](#llm) verhindern sollen. Sie reichen von Filtern für problematische Inhalte über Themensperren bis zu Plausibilitätsprüfungen vor und nach der Modellantwort. Guardrails sind technisch nicht perfekt und lassen sich teilweise umgehen, siehe [Jailbreaking](#jailbreaking) und [Prompt Injection](#prompt-injection). Sie ergänzen redaktionelle und fachliche Kontrolle, ersetzen sie nicht.
+
+---
 
 ## I
 
