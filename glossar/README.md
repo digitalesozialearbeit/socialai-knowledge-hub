@@ -94,6 +94,9 @@ Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. 
 
 Vielfalt in verschiedenen Dimensionen (Geschlecht, Alter, ethnische Zugehörigkeit, Behinderung etc.). Im Projekt sowohl als Forschungsgegenstand (Wie bildet generative KI Diversität ab? Wo entstehen Verzerrungen?) als auch als Gestaltungsprinzip für inklusive KI-Nutzung relevant.
 
+### Distillation
+Ein Verfahren, bei dem ein kleineres, schnelleres Modell aus einem größeren abgeleitet wird, indem es lernt, dessen Outputs nachzubilden. Distillierte Modelle laufen mit deutlich weniger Rechenleistung, erreichen aber meist nicht die volle Qualität des Ursprungsmodells. Viele frei verfügbare Open-Weights-Modelle sind Distillationen größerer kommerzieller Modelle.
+
 ---
 
 ## E
