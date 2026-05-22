@@ -213,6 +213,46 @@ Die Kernfunktion von [LLMs](#llm). Das nächste [Token](#token) in einer Sequenz
 ### Open Source / Open Weights
 **Open Source** bedeutet, dass der gesamte Quellcode öffentlich ist und frei verwendet werden darf. **Open Weights** bedeutet, dass nur die trainierten Modellgewichte veröffentlicht werden, nicht der Trainingscode oder die Daten. Die meisten „offenen" LLMs sind Open Weights, nicht wirklich Open Source.
 
+## P
+
+### Post-Training
+Die Phase nach dem [Pre-Training](#pre-training), in der ein [LLM](#llm) zum hilfreichen Assistenten geformt wird. Umfasst Supervised Fine-Tuning und [RLHF](#rlhf). Fügt kein neues Wissen hinzu, sondern formt das Verhalten. Viele systematische Verhaltensweisen wie [Sycophancy](#sycophancy) entstehen in dieser Phase.
+
+### Pre-Training
+Die erste Trainingsphase eines [LLM](#llm). Das Modell lernt aus Billionen von [Tokens](#token), Muster in Sprache zu erkennen. Das Ergebnis ist eine verlustbehaftete, probabilistische Kompression der Trainingsdaten.
+
+### Prompt Brittleness
+Das Phänomen, dass minimale Änderungen an einem Prompt (ein Komma, ein Synonym) die Ergebnisse eines [LLM](#llm) stark beeinflussen können, obwohl die Bedeutung identisch ist. [Prompting](#prompt-engineering) ist keine exakte Wissenschaft.
+
+### Prompt Engineering
+Die Technik, Anfragen an ein KI-Modell so zu formulieren, dass nützliche Ergebnisse entstehen. Umfasst Verfahren wie [Chain of Thought](#chain-of-thought), [Few-Shot Prompting](#few-shot-prompting) und [System Prompts](#system-prompt). Form und Reihenfolge der Information beeinflussen das Ergebnis erheblich.
+
+### Prompt Injection
+Ein Angriff, bei dem schädliche Anweisungen in Inhalte eingeschleust werden, die ein [LLM](#llm) verarbeitet.[^injection] Eine Webseite, ein Dokument oder eine E-Mail kann versteckte Anweisungen enthalten, die das Modell beim Lesen als Befehle interpretiert. Der Angriff funktioniert, weil ein LLM zwischen Inhalt und Anweisung nicht zuverlässig trennt. Besonders kritisch bei Anwendungen mit Tool-Zugriff oder [MCP](#mcp)-Anbindung.
+
+### Promptotyping
+Eine Methodik für die iterative Zusammenarbeit zwischen Mensch und KI. Kernprinzip ist, dass Dokumente die Quelle der Wahrheit sind und Code ein austauschbares Artefakt darstellt. Vier Phasen prägen den Ablauf, Preparation, Exploration, Distillation und Implementation.
+
+---
+
+## Q
+
+### Quantisierung
+Ein Verfahren, das die Präzision der Modellgewichte reduziert, etwa von 16 auf 8 oder 4 Bit, um Speicher- und Rechenbedarf zu senken. Quantisierte Modelle laufen auf günstigerer Hardware, teilweise sogar lokal auf dem eigenen Rechner. Die Qualität sinkt nur moderat. Praxisrelevant überall dort, wo Daten den eigenen Rechner oder das eigene Netzwerk nicht verlassen sollen.
+
+---
+
+## R
+
+### RAG
+**Retrieval-Augmented Generation**.[^rag] Ein Verfahren, das ein [LLM](#llm) mit externen Wissensquellen verbindet. Vor der Antwortgenerierung werden passende Dokumente aus einer Datenbank gesucht und dem Modell als Kontext mitgegeben. RAG ist die Standardarchitektur für KI-Werkzeuge, die mit organisationsspezifischem Wissen arbeiten, etwa internen Leitlinien oder Fachliteratur. RAG verringert [Konfabulation](#konfabulation), beseitigt sie aber nicht.
+
+### Reasoning Modell
+Eine Modellklasse, die seit 2024 verbreitet ist und vor der eigentlichen Antwort einen längeren internen Denkprozess erzeugt.[^reasoning] Beispiele sind OpenAI o1 und o3, DeepSeek R1 und Claude-Modelle mit aktiviertem Thinking-Modus. Reasoning-Modelle erreichen bei mathematischen, logischen und Programmieraufgaben deutlich bessere Ergebnisse als klassische [LLMs](#llm), benötigen dafür aber erheblich mehr Rechenzeit und Tokens. Sie konfabulieren weiterhin, mit dem Unterschied, dass auch der Denkprozess selbst halluziniert sein kann.
+
+### RLHF
+**Reinforcement Learning from Human Feedback**. Eine Methode im [Post-Training](#post-training) von [LLMs](#llm). Menschen bewerten Modellantworten, das Modell lernt aus diesem Feedback. Teil des [Alignment](#alignment)-Prozesses und Mitursache von [Sycophancy](#sycophancy).
+
 ---
 
 ## S
