@@ -25,7 +25,7 @@ Der Prozess, ein KI-Modell so zu trainieren, dass es hilfreich, harmlos und ehrl
 ### Autoregressive Generierung
 Das Prinzip, nach dem [LLMs](#llm) Text erzeugen. Jedes vorhergesagte [Token](#token) wird Teil des Kontexts für die nächste Vorhersage. Das Modell baut seinen Output Wort für Wort auf.
 
-### Automation Bias
+### Automation Bias (in Bias integrieren?)
 
 Eine Unterkategorie von [Bias](#Bias). Die Tendenz, sich in bestimmten Situationen übermäßig auf automationsunterstützte Entscheidungsfindungssysteme zu verlassen, ohne deren Output kritisch zu prüfen (Wickens/Clegg/Vieane/Sebok 2015, 729).
 Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im praktischen Einsatz eher für gültig und berechtigt gehalten, wenngleich diese möglicherweise falsche oder unvollständige Informationen liefern (Research Institute 2025, 122).
