@@ -257,9 +257,61 @@ Eine Modellklasse, die seit 2024 verbreitet ist und vor der eigentlichen Antwort
 
 ## S
 
+### Slop
+Minderwertiger, formelhafter KI-Text. Erkennbar an Wendungen wie „Delve into", „It is crucial to note" oder „Furthermore", inflationärer Verwendung von Em-Dashes und Buzzwords wie „ever-evolving". Gegenmittel sind kritisches Lesen und klare Anweisungen im Prompt.
+
 ### Soziale Arbeit
 
 Professionelles Handlungsfeld, das im Projekt als Anwendungskontext für KI untersucht wird. Besonderheiten: Arbeit mit vulnerablen Gruppen, hohe ethische Anforderungen, frauendominiertes Berufsfeld, vielfältige Einsatzgebiete (Jugendhilfe, Beratung, Gemeinwesenarbeit u.a.).
+
+
+### Stochastic Parrot
+Eine kritische Charakterisierung von [LLMs](#llm) als Systeme, die sprachliche Muster aus ihren Trainingsdaten rekombinieren, ohne deren Bedeutung zu erfassen.[^parrot] Der Begriff geht auf Bender, Gebru und Kolleginnen zurück und wurde 2021 in einem Aufsatz zur Kritik großer Sprachmodelle eingeführt. Die These lautet, dass LLMs aufgrund ihrer Architektur kein Verstehen leisten, sondern statistische Imitation produzieren. Die Charakterisierung ist umstritten, prägt aber die kritische Debatte um LLM-Fähigkeiten und wird in Diskussionen um Verantwortung und Vertrauen häufig herangezogen.
+
+### Sycophancy
+Die Tendenz von [LLMs](#llm), Nutzer:innen zuzustimmen statt zu widersprechen.[^sycophancy] Das Modell priorisiert Zustimmung über Wahrheit, weil es im [Post-Training](#post-training) für nutzerfreundliche Antworten belohnt wurde. Eine als Selbsteinschätzung formulierte Frage erhält häufig genau diese Einschätzung gespiegelt zurück. Gegenmittel sind kritisches Hinterfragen und bewusst widersprüchlich gestellte Kontrollanfragen.
+
+### System Prompt
+Vorab-Anweisungen, die das Verhalten eines [LLM](#llm) für die gesamte Konversation steuern. Werden vor der eigentlichen Nutzeranfrage gesetzt und definieren Rolle, Tonfall und Regeln. Für Nutzer:innen meist unsichtbar, beeinflussen aber jede Antwort.
+
+---
+
+## T
+
+### Temperatur
+Ein Parameter, der steuert, wie zufällig das Modell aus möglichen Fortsetzungen auswählt. Eine niedrige Temperatur (gegen 0) führt zu deterministischen, gleichbleibenden Antworten. Eine hohe Temperatur (gegen 1 oder höher) erzeugt mehr Variation und Kreativität, aber auch mehr Fehler. Für reproduzierbare Aufgaben wie Klassifikation eignet sich niedrige Temperatur, für kreative Aufgaben wie Texterzeugung höhere.
+
+### Token
+Die kleinste Einheit, in die ein [LLM](#llm) Text zerlegt. Ein Token ist oft ein Wort oder ein Wortteil. 100 Tokens entsprechen etwa 75 englischen Wörtern. Relevant für Kosten, [Context Window](#context-window) und Verarbeitungsgeschwindigkeit.
+
+### Tokenizer
+Das Werkzeug, das Text in [Tokens](#token) zerlegt. Verschiedene Modelle verwenden verschiedene Tokenizer, deshalb kann dasselbe Wort unterschiedlich viele Tokens kosten.
+
+### Transformer
+Die Architektur hinter modernen [LLMs](#llm), 2017 in „Attention Is All You Need" vorgestellt.[^transformer] Der zentrale Mechanismus ist Attention. Das Modell lernt, welche Teile des Eingabetexts füreinander relevant sind. Self-Attention ersetzt rekurrente Strukturen früherer Architekturen und ermöglicht parallele Verarbeitung langer Sequenzen.
+
+---
+
+[^bias]: Gallegos, Isabel O. et al. „Bias and Fairness in Large Language Models. A Survey". *Computational Linguistics* 50.3 (2024), 1097–1179. https://doi.org/10.1162/coli_a_00524
+
+[^cai]: Bai, Yuntao et al. „Constitutional AI. Harmlessness from AI Feedback". arXiv:2212.08073, Dezember 2022. https://arxiv.org/abs/2212.08073
+
+[^injection]: Greshake, Kai et al. „Not what you've signed up for. Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection". *Proceedings of the 16th ACM Workshop on Artificial Intelligence and Security*, 2023. https://doi.org/10.1145/3605764.3623985
+
+[^judge]: Zheng, Lianmin et al. „Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena". *Advances in Neural Information Processing Systems 36 (NeurIPS 2023)*. https://arxiv.org/abs/2306.05685
+
+[^konfabulation]: Smith, Andrew L., Frank Greaves und Trevor Panch. „Hallucination or Confabulation? Neuroanatomy as Metaphor in Large Language Models". *PLOS Digital Health* 2.11 (2023). https://doi.org/10.1371/journal.pdig.0000388
+
+[^parrot]: Bender, Emily M., Timnit Gebru, Angelina McMillan-Major und Shmargaret Shmitchell. „On the Dangers of Stochastic Parrots. Can Language Models Be Too Big?". *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21)*, 610–623. https://doi.org/10.1145/3442188.3445922
+
+[^rag]: Lewis, Patrick et al. „Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks". *Advances in Neural Information Processing Systems 33 (NeurIPS 2020)*. https://arxiv.org/abs/2005.11401
+
+[^reasoning]: Xu, Fengli et al. „Towards Large Reasoning Models. A Survey of Reinforced Reasoning with Large Language Models". *Patterns* 6.10 (2025), 101370. https://doi.org/10.1016/j.patter.2025.101370
+
+[^sycophancy]: Malmqvist, Lars. „Sycophancy in Large Language Models. Causes and Mitigations". *Intelligent Computing, CompCom 2025*, Springer 2024. arXiv:2411.15287. https://arxiv.org/abs/2411.15287
+
+[^transformer]: Vaswani, Ashish et al. „Attention Is All You Need". *Advances in Neural Information Processing Systems 30 (NeurIPS 2017)*. https://arxiv.org/abs/1706.03762
+
 
 
 ---
