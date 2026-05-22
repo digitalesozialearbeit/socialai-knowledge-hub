@@ -1,11 +1,6 @@
 # Glossar
 
-> Zentrale Begriffe des SocialAI-Projekts. Beim Kick-off (25.02.2026) gesammelt, Definitionen werden im Rahmen von AP 2 (Literatur-Review) weiter ausgearbeitet.
-
-> [!WARNING]
-> Die folgenden Definitionen sind vorläufig und dienen als Arbeitsbasis. Endgültige, wissenschaftlich fundierte Definitionen folgen nach Abschluss des Literatur-Reviews (AP 2).
-
-> *Anmerkung*: Da der Gesetzgeber im Normtext überwiegend das generische Maskulinum verwendet, folgt das Glossar in seinen rechtlichen Ausführungen dieser Terminologie, um eine eindeutige Zuordnung zum Gesetzeswortlaut zu gewährleisten. 
+> *Anmerkung zu den juridischen Definitionen*: Da der Gesetzgeber im Normtext überwiegend das generische Maskulinum verwendet, folgt das Glossar in seinen rechtlichen Ausführungen dieser Terminologie, um eine eindeutige Zuordnung zum Gesetzeswortlaut zu gewährleisten. 
 
 ---
 
