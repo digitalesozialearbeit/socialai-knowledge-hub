@@ -151,11 +151,23 @@ Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierun
 
 ---
 
+## J
+
+### Jailbreaking
+Techniken, mit denen Schutzmechanismen eines [LLM](#llm) umgangen werden, etwa um Antworten zu sensiblen oder sicherheitskritischen Themen zu erzwingen. Jailbreaks nutzen sprachliche Umwege, Rollenspiele oder formale Tricks. Die Abwehr ist ein laufendes Wettrennen zwischen Anbietern und Nutzer:innen. Schutzmechanismen sind nicht zuverlässig, in sensiblen Anwendungsfeldern bleiben zusätzliche Kontrollebenen nötig.
+
+---
+
 ## K
 
-### KI-Kompetenz
+### KI-Literacy
+Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre Wirkungen einzuordnen. KI-Literacy umfasst technisches Grundverständnis, einen Blick für [Bias](#bias) und [Konfabulation](#konfabulation), Kenntnis rechtlicher Rahmen sowie die Fähigkeit, Einsatzentscheidungen zu reflektieren. Der Begriff ist analog zu Medienkompetenz konzipiert und seit 2024 auch im EU AI Act als organisationale Pflicht verankert. Eine breitere Behandlung findet sich im [Hauptglossar](README.md#ki-kompetenz) unter KI-Kompetenz.
 
-*Definition und Umfang folgen aus AP 2 und AP 3.* Vorläufig: die Fähigkeit von Fachkräften, KI-Systeme kritisch und verantwortungsvoll einzusetzen. Umfasst technisches Grundverständnis, ethische Reflexion und praktische Anwendungskompetenz im jeweiligen Arbeitsfeld.
+### Knowledge Cutoff
+Der Wissensstichtag eines [LLM](#llm). Das Datum, bis zu dem die Trainingsdaten reichen. Alles danach kennt das Modell nicht, sofern es keine externen Tools wie Websuche oder [RAG](#rag) nutzt.
+
+### Konfabulation
+Wenn ein [LLM](#llm) plausibel klingende, aber erfundene Informationen erzeugt. Falsche Zitate, nicht existierende Quellen, fehlerhafte Zahlen. Kein Fehler, sondern ein strukturelles Merkmal der Wahrscheinlichkeitsvorhersage über [Next Token Prediction](#next-token-prediction). Auch „Halluzination" genannt. Der Begriff Konfabulation beschreibt das Phänomen sachlich treffender, weil das Modell Lücken im verfügbaren Wissen mit plausiblem Material auffüllt, statt etwas wahrzunehmen, das nicht da ist.[^konfabulation]
 
 ---
 
