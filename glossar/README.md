@@ -90,6 +90,14 @@ Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. 
 Vielfalt in verschiedenen Dimensionen (Geschlecht, Alter, ethnische Zugehörigkeit, Behinderung etc.). Im Projekt sowohl als Forschungsgegenstand (Wie bildet generative KI Diversität ab? Wo entstehen Verzerrungen?) als auch als Gestaltungsprinzip für inklusive KI-Nutzung relevant.
 - **sozialwissenschaftlich**: Diversität beschreibt die Vielfalt der Unterschiede und Gemeinsamkeiten zwischen Menschen, die durch historisch gewachsene soziale Kategorien geprägt ist, welche zu Mustern der Ungleichheit geführt haben: Alter, Herkunft, Bildung, Behinderung, sexuelle Orientierung, Religion, soziale Lage usw. Diversität ist somit sowohl deskriptiv (Menschen unterscheiden sich voneinander) als auch normativ (die Unterschiede führen zu Disrkiminierung / sozialen Ungleichheiten.) Diversität ist kein „Sonderthema", sondern Kern sozialarbeiterischer Praxis: Klient:innen bringen unterschiedliche Lebensrealitäten mit – und benötigen unterschiedliche Zugänge bzw. Arten von Unterstützung. Diversität ist deshalb nicht nur ein Wert, sondern eine professionelle Aufgabe in der Sozialen Arbeit.
 
+### Diversitätssensibilität
+
+Die Fähigkeit, Vielfalt und ihre Auswirkungen in sozialen Interaktionen und Institutionen wahrzunehmen, zu reflektieren und angemessen darauf zu reagieren. Erfordert die Bereitschaft, andere Perspektiven einzunehmen, Toleranz gegenüber Unklarheiten und Unvertrautem sowie kritische Selbstreflexion. Erkennt an, dass gut gemeinte Handlungen dennoch ausgrenzend wirken können: z. B. wenn Kategorien, die eigentlich „einbeziehen“ sollen, Menschen letztlich als „die Anderen“ abstempeln.
+
+### Diskriminierung
+Ungleichbehandlung aufgrund der (vermeintlichen) Zugehörigkeit zu einer Gruppe – Geschlecht, ethnische Herkunft, Alter, Behinderung, sexuelle Orientierung, Religion, soziale Schicht.
+- **sozialwissenschaftlich**: Diskriminierung ist ein Prozess, durch den soziale Ungleichheit geschaffen und aufrechterhalten wird, und sie wirkt durch spezifische Handlungen der Klassifizierung, Bewertung und Ausgrenzung. Sie kann direkt / explizit oder implizit erfolgen.
+
 ### Distillation
 Ein Verfahren, bei dem ein kleineres, schnelleres Modell aus einem größeren abgeleitet wird, indem es lernt, dessen Outputs nachzubilden. Distillierte Modelle laufen mit deutlich weniger Rechenleistung, erreichen aber meist nicht die volle Qualität des Ursprungsmodells. Viele frei verfügbare Open-Weights-Modelle sind Distillationen größerer kommerzieller Modelle.
 
