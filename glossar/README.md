@@ -10,45 +10,22 @@
 
 **A** · [AI Act / KI-Verordnung](#ai-act--ki-verordnung) · [AI Agents / Agentic AI](#ai-agents--agentic-ai) · [AI Literacies / KI Literacies / KI Kompetenzen](#ai-literacies--ki-literacies--ki-kompetenzen) · [Alignment](#alignment) · [Andozentrismus](#andozentrismus) · [API](#api) · [Autoregressive Generierung](#autoregressive-generierung) · [Automation Bias](#automation-bias-in-bias-integrieren)
 
-**B** · [Benchmark](#benchmark) · [Bias](#bias)
+**B** · [Benchmark](#benchmark) · [Bias](#bias)  **C** · [Chancengerechtigkeit](#chancengerechtigkeit) · [Chain of Thought](#chain-of-thought) · [Chatbot](#chatbot) · [Constitutional AI](#constitutional-ai) · [Context / Kontext (technisch)](#context--kontext-technisch) · [Context / Kontext (sozialwissenschaftlich)](#context--kontext-sozialwissenschaftlich)
 
-**C** · [Chancengerechtigkeit](#chancengerechtigkeit) · [Chain of Thought](#chain-of-thought) · [Chatbot](#chatbot) · [Constitutional AI](#constitutional-ai) · [Context / Kontext (technisch)](#context--kontext-technisch) · [Context / Kontext (sozialwissenschaftlich)](#context--kontext-sozialwissenschaftlich)
+**D** · [Datenschutz / DSGVO](#datenschutz--dsgvo) · [Deskilling](#deskilling) · [Digital Divide](#digital-divide) · [Diversität](#diversität) · [Diversitätssensibilität](#diversitätssensibilität) · [Diskriminierung](#diskriminierung) · [Distillation](#distillation)  **E** · [Embedding](#embedding) · [Explainable AI (XAI)](#explainable-ai-xai)
 
-**D** · [Datenschutz / DSGVO](#datenschutz--dsgvo) · [Deskilling](#deskilling) · [Digital Divide](#digital-divide) · [Diversität](#diversität) · [Diversitätssensibilität](#diversitätssensibilität) · [Diskriminierung](#diskriminierung) · [Distillation](#distillation)
+**F** · [Fairness (im KI-Kontext)](#fairness-im-ki-kontext) · [Feminist AI Literacies](#feminist-ai-literacies) · [Few-Shot Prompting](#few-shot-prompting) · [Fine-Tuning](#fine-tuning) · [Frontier Model](#frontier-model)  **G** · [Geschlecht / Gender](#geschlecht--gender) · [Gender Scripts](#gender-scripts) · [Guardrails](#guardrails)
 
-**E** · [Embedding](#embedding) · [Explainable AI (XAI)](#explainable-ai-xai)
+**H** · [Halluzination](#halluzination) · [Heteronormativität](#heteronormativität)  **I** · [Intersektionalität](#intersektionalität) · [I-Methodology](#i-methodology)  **J** · [Jailbreaking](#jailbreaking)  **K** · [Knowledge Cutoff](#knowledge-cutoff) · [Konfabulation](#konfabulation)  **L** · [LLM](#llm) · [LLM as a Judge](#llm-as-a-judge)
 
-**F** · [Fairness (im KI-Kontext)](#fairness-im-ki-kontext) · [Feminist AI Literacies](#feminist-ai-literacies) · [Few-Shot Prompting](#few-shot-prompting) · [Fine-Tuning](#fine-tuning) · [Frontier Model](#frontier-model)
-
-**G** · [Geschlecht / Gender](#geschlecht--gender) · [Gender Scripts](#gender-scripts) · [Guardrails](#guardrails)
-
-**H** · [Halluzination](#halluzination) · [Heteronormativität](#heteronormativität)
-
-**I** · [Intersektionalität](#intersektionalität) · [I-Methodology](#i-methodology)
-
-**J** · [Jailbreaking](#jailbreaking)
-
-**K** · [Knowledge Cutoff](#knowledge-cutoff) · [Konfabulation](#konfabulation)
-
-**L** · [LLM](#llm) · [LLM as a Judge](#llm-as-a-judge)
-
-**M** · [Matthäus-Effekt](#matthäus-effekt) · [MCP](#mcp) · [Menschliche Aufsicht / Human Oversight](#menschliche-aufsicht--human-oversight) · [Multimodalität](#multimodalität)
-
-**N** · [Next Token Prediction](#next-token-prediction)
-
-**O** · [Open Source / Open Weights](#open-source--open-weights)
+**M** · [Matthäus-Effekt](#matthäus-effekt) · [MCP](#mcp) · [Menschliche Aufsicht / Human Oversight](#menschliche-aufsicht--human-oversight) · [Multimodalität](#multimodalität)   **N** · [Next Token Prediction](#next-token-prediction)  **O** · [Open Source / Open Weights](#open-source--open-weights)
 
 **P** · [Post-Training](#post-training) · [Pre-Training](#pre-training) · [Prompt Brittleness](#prompt-brittleness) · [Prompt Engineering](#prompt-engineering) · [Prompt Injection](#prompt-injection) · [Promptotyping](#promptotyping)
 
-**Q** · [Queer Feminismus](#queer-feminismus) · [Quantisierung](#quantisierung)
+**Q** · [Queer Feminismus](#queer-feminismus) · [Quantisierung](#quantisierung)   **R** · [RAG](#rag) · [Reasoning Modell](#reasoning-modell) · [RLHF](#rlhf)   **S** · [Slop](#slop) · [Soziale Arbeit](#soziale-arbeit) · [Soziale Ungleichheit](#soziale-ungleichheit) · [Stochastic Parrot](#stochastic-parrot) · [Sycophancy](#sycophancy) · [System Prompt](#system-prompt)   **T** · [Temperatur](#temperatur) · [Token](#token) · [Tokenizer](#tokenizer) · [Transformer](#transformer)
 
-**R** · [RAG](#rag) · [Reasoning Modell](#reasoning-modell) · [RLHF](#rlhf)
 
-**S** · [Slop](#slop) · [Soziale Arbeit](#soziale-arbeit) · [Soziale Ungleichheit](#soziale-ungleichheit) · [Stochastic Parrot](#stochastic-parrot) · [Sycophancy](#sycophancy) · [System Prompt](#system-prompt)
-
-**T** · [Temperatur](#temperatur) · [Token](#token) · [Tokenizer](#tokenizer) · [Transformer](#transformer)
 ---
-
 ## A
 
 ### AI Act / KI-Verordnung
