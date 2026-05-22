@@ -171,6 +171,16 @@ Wenn ein [LLM](#llm) plausibel klingende, aber erfundene Informationen erzeugt. 
 
 ---
 
+## L
+
+### LLM
+**Large Language Model**. Ein KI-Modell, das auf riesigen Textmengen trainiert wurde und menschenähnlichen Text generieren kann. Beispiele sind Claude, GPT und Gemini. Kernfunktion ist [Next Token Prediction](#next-token-prediction). Aktuelle LLMs basieren auf der [Transformer](#transformer)-Architektur.
+
+### LLM as a Judge
+Ein Verfahren, bei dem ein [LLM](#llm) die Outputs eines anderen Modells (oder eigene frühere Outputs) bewertet, etwa in Evaluationen, Vergleichstests oder Filterpipelines.[^judge] LLM-as-a-Judge ist deutlich kostengünstiger als menschliche Bewertung und skaliert gut, hat aber systematische Schwächen. Bewertende Modelle bevorzugen eigene Schreibstile, längere Antworten und die zuerst gezeigte Option (Position Bias). Im Kontext von Auditing und Fairnessprüfung gilt deshalb, dass LLM-as-a-Judge kein Ersatz für menschliche Validierung ist, sondern ein vorgelagertes Filter- und Skalierungswerkzeug.
+
+---
+
 ## M
 
 ### Matthäus-Effekt
