@@ -121,7 +121,8 @@ Methoden und Werkzeuge, die Entscheidungen von KI-Systemen nachvollziehbar mache
 
 ### Fairness (im KI-Kontext)
 
-*Definition folgt aus AP 2 (Literatur-Review).* Vorläufig: die Eigenschaft eines KI-Systems, keine systematische Benachteiligung bestimmter Gruppen in seinen Outputs zu erzeugen. Im Projektkontext eng verknüpft mit Bias und Chancengerechtigkeit.
+- **technisch**: die Eigenschaft eines KI-Systems, keine systematische Benachteiligung bestimmter Gruppen in seinen Outputs zu erzeugen. Im Projektkontext eng verknüpft mit Bias und Chancengerechtigkeit.
+- **sozialwissenschaftlich**: In den Sozialwissenschaften wird Fairness als die subjektiv und intersubjektiv akzeptierte Umsetzung von Gerechtigkeit definiert. Der Begriff geht über rein gesetzliche Vorgaben hinaus und beschreibt den normativen Grundsatz, menschliche Beziehungen durch Anstand, Unparteilichkeit und die Einhaltung gemeinsamer Regeln auszugleichen.
 
 ### Feminist AI Literacies
 
