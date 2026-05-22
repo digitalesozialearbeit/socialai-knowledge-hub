@@ -16,6 +16,8 @@ Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz 
 
 KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über einfache Frage-Antwort-Interaktion hinaus. Im Projektkontext eine offene Frage: Inwieweit werden agentenbasierte KI-Systeme für die Soziale Arbeit relevant, und welche Chancen und Risiken bringen sie mit sich?
 
+### AI Literacies
+
 ### Alignment
 Der Prozess, ein KI-Modell so zu trainieren, dass es hilfreich, harmlos und ehrlich antwortet. Methoden wie [RLHF](#rlhf) und [Constitutional AI](#constitutional-ai) sind Teil davon.
 
@@ -126,7 +128,9 @@ Methoden und Werkzeuge, die Entscheidungen von KI-Systemen nachvollziehbar mache
 
 ### Feminist AI Literacies
 
-*Definition folgt aus AP 2 (Literatur-Review).* Vorläufig: ein intersektional-feministischer Ansatz zum Verständnis und zur kritischen Nutzung von KI, der Machtstrukturen und Geschlechterverhältnisse in der Technologieentwicklung und -anwendung reflektiert.
+Feministische AI Literacies in der Sozialen Arbeit sind diversitäts- und machtsensible, intersektionale und Bias-erkennende Fähigkeiten und Fertigkeiten im Umgang mit generativen KI-Tools mit einem speziellen Fokus auf Prompting und kritische Output-Bewertung sowie Kontext- bzw. Anwendungssensitivität (Klinger & Sackl-Sharif, 2026).
+
+Klinger, Sabine & Sackl-Sharif, Susanne (26.02.2026). Feministische AI Literacies in der Sozialen Arbeit [Definition]. In: Orientierungsleitfaden: Diversitätssensibler Umgang mit Künstlicher Intelligenz. digitalesozialearbeit.github.io/orientierungsleitfaden
 
 ### Few-Shot Prompting
 Eine [Prompting-Technik](#prompt-engineering), bei der dem Modell einige Beispiele im Prompt mitgegeben werden, die das gewünschte Eingabe-Ausgabe-Format zeigen. Das Modell lernt das Muster aus dem Kontext, ohne neu trainiert zu werden.
