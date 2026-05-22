@@ -53,7 +53,7 @@ Systematische Verzerrung in Daten, Modellen oder Entscheidungen. Im Projekt in m
 
 ### Chancengerechtigkeit
 
-Bewusst abgegrenzt von **Chancengleichheit**. Während Chancengleichheit formale Gleichbehandlung meint, zielt Chancengerechtigkeit darauf ab, unterschiedliche Ausgangsbedingungen auszugleichen -also faire Ergebnisse statt gleicher Behandlung. Zentrales Leitkonzept des SocialAI-Projekts.
+Bewusst abgegrenzt von **Chancengleichheit**. Während Chancengleichheit formale Gleichbehandlung meint, zielt Chancengerechtigkeit darauf ab, unterschiedliche Ausgangsbedingungen auszugleichen - also faire Ergebnisse statt gleicher Behandlung. Chancengerechtigkeit umfasst einen gerechten und faireren Zugang zu Ressourcen und gesellschaftlichen Systemen wie Sozial- und Gesundheitsleistungen, Bildung, Arbeit und Wohnen, entsprechend der individuellen Bedarfe. Menschen machen in ihrem Lebenslauf unterschiedliche Ausschluss- und Diskriminierungserfahrungen, welche sich auf ihre Lebensgestaltung und Selbstbestimmungsmöglichkeiten auswirken. Dabei spielen Anerkennung und Zugehörigkeitsgefühl eine wichtige Rolle [Dachverband Wiener Sozialeinrichtungen](https://dachverband.at/zukunft-soziale-stadt/chancengerechtigkeit/).
 
 ### Chain of Thought
 **CoT**, eine Prompting-Technik, bei der das Modell aufgefordert wird, schrittweise zu denken, etwa durch „let's think step by step". Verbessert die Qualität bei komplexen Aufgaben, weil Zwischenschritte explizit werden. Mit der Verbreitung von [Reasoning-Modellen](#reasoning-modell) verliert die manuelle CoT-Aufforderung an Bedeutung, weil diese Modelle das Verhalten internalisiert haben.
