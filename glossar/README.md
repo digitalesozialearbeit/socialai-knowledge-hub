@@ -23,6 +23,9 @@ Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre
 ### Alignment
 Der Prozess, ein KI-Modell so zu trainieren, dass es hilfreich, harmlos und ehrlich antwortet. Methoden wie [RLHF](#rlhf) und [Constitutional AI](#constitutional-ai) sind Teil davon.
 
+### Andozentrismus
+Androzentrismus (von griech. andros „Mann“ und kentron „Mittelpunkt“) bezeichnet die unhinterfragte Setzung des männlichen Geschlechts als universelle Norm. Dabei wird die männliche Perspektive, Erfahrung oder Lebensweise als neutraler Maßstab betrachtet, während alles Weibliche als Abweichung oder „Sonderfall“ gilt.
+
 ### API
 **Application Programming Interface**. Eine Schnittstelle, über die Programme miteinander kommunizieren. Relevant für die Anbindung von KI-Modellen an Anwendungen.
 
@@ -164,6 +167,10 @@ Schutzmechanismen, die unerwünschte Antworten eines [LLM](#llm) verhindern soll
 ### Halluzination
 Siehe [Konfabulation](#konfabulation). Der ältere und gebräuchlichere Begriff für dasselbe Phänomen.
 
+### Heteronormativität
+
+Heteronormativität ist eine Norm in unserer Gesellschaft. Es wird davon ausgegangen, dass alle Menschen endogeschlechtlich, cisgeschlechtlich, heterosexuell, allosexuell und alloromantisch sind. Es wird also davon ausgegangen, dass jede Person nur eins von zwei Geschlechtern hat, nämlich entweder männlich oder weiblich, und dass dieses Geschlecht schon bei der Geburt an den Genitalien abgelesen werden kann. Außerdem wird davon ausgegangen, dass diese Geschlechter sich grundlegend voneinander unterscheiden und sich sexuell und romantisch aufeinander beziehen. Zusätzlich gibt es die Erwartung, dass alle Menschen in monogamen, romantischen und sexuellen Beziehungen sind oder sein wollen. Abweichungen davon, zum Beispiel queere und polyamouröse Beziehungen sowie trans Menschen, werden unsichtbar gemacht und/oder diskriminiert. [Queer Lexikon](https://queer-lexikon.net/2017/06/15/heteronormativitaet/).
+
 ---
 
 ## I
@@ -256,6 +263,10 @@ Eine Methodik für die iterative Zusammenarbeit zwischen Mensch und KI. Kernprin
 ---
 
 ## Q
+
+### Queer Feminismus
+
+Queerfeminismus ist eine feministische Strömung, die Geschlecht, Sexualität und andere Machtverhältnisse gemeinsam in den Blick nimmt. Er kritisiert nicht nur Sexismus, sondern auch Heteronormativität, cisnormative Vorstellungen und die Idee fester, unveränderlicher Identitäten. Queerfeministische Perspektiven fragen: Wer wird als „Frau“ oder „Mann“ gedacht, wer bleibt unsichtbar, und wie hängen Diskriminierungsformen zusammen? Queerfeminismus hinterfragt, warum Heterosexualität als „Standard“ gilt und andere Begehren als Abweichung. 
 
 ### Quantisierung
 Ein Verfahren, das die Präzision der Modellgewichte reduziert, etwa von 16 auf 8 oder 4 Bit, um Speicher- und Rechenbedarf zu senken. Quantisierte Modelle laufen auf günstigerer Hardware, teilweise sogar lokal auf dem eigenen Rechner. Die Qualität sinkt nur moderat. Praxisrelevant überall dort, wo Daten den eigenen Rechner oder das eigene Netzwerk nicht verlassen sollen.
