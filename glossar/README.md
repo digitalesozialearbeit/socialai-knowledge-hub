@@ -187,9 +187,31 @@ Ein Verfahren, bei dem ein [LLM](#llm) die Outputs eines anderen Modells (oder e
 
 "Wer hat, dem wird gegeben" -das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie KI-Kompetenz in der Sozialen Arbeit vermittelt wird und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.
 
+### MCP
+**Model Context Protocol**. Ein offener Standard, der im November 2024 von Anthropic vorgestellt wurde und die Verbindung von KI-Anwendungen mit externen Datenquellen, Tools und Diensten vereinheitlicht. Wird oft als „USB-C für KI-Anwendungen" beschrieben, weil eine Schnittstelle viele unterschiedliche Anbindungen ersetzt. Hat sich 2025 rasch als Industriestandard etabliert und wird auch von OpenAI, Google und Microsoft unterstützt.
+
+
 ### Menschliche Aufsicht / Human Oversight 
 
 - **rechtlich:** KI-Systeme müssen so entwickelt werden, dass sie während ihres Einsatzes von geeigneten Personen wirksam beaufsichtigt werden können. Dadurch sollen Risiken für Gesundheit, Sicherheit oder Grundrechte Betroffener verhindert oder zumindest minimiert werden. Die Aufsichtsmaßnahmen müssen sich dabei an dem Kontext des KI-Einsatzes, an dem Autonomiegrad des Systems und an den Risiken, die sich durch die Nutzung ergeben können, orientieren. Aufsichtspersonen müssen insbesondere in der Lage sein, die Fähigkeiten und Grenzen des KI-Systems zu verstehen, seinen Betrieb ordnungsgemäß zu überwachen, Fehlfunktionen zu erkennen, KI-Ausgaben nicht ungeprüft zu vertrauen ("Automation Bias") KI-Ergebnisse richtig zu interpretieren, und erforderlichenfalls den Systembetrieb mit einer „Stopptaste“ zu unterbrechen (siehe Art 14 KI-VO)
+
+
+### Multimodalität
+Die Fähigkeit eines KI-Systems, mehrere Medien gleichzeitig zu verarbeiten, etwa Text, Bild, Audio und Video. Multimodale Modelle können ein Foto beschreiben, eine Tonaufnahme transkribieren oder ein Diagramm interpretieren. Vision-Language-Modelle bilden den verbreitetsten Untertyp. Multimodalität vergrößert den Datenschutzaufwand, weil sensible Daten in mehr Formaten verarbeitet werden.
+
+---
+
+## N
+
+### Next Token Prediction
+Die Kernfunktion von [LLMs](#llm). Das nächste [Token](#token) in einer Sequenz vorhersagen, basierend auf dem bisherigen Kontext. Dieser einfache Mechanismus, massiv skaliert, erzeugt das Verhalten, das wir beobachten.
+
+---
+
+## O
+
+### Open Source / Open Weights
+**Open Source** bedeutet, dass der gesamte Quellcode öffentlich ist und frei verwendet werden darf. **Open Weights** bedeutet, dass nur die trainierten Modellgewichte veröffentlicht werden, nicht der Trainingscode oder die Daten. Die meisten „offenen" LLMs sind Open Weights, nicht wirklich Open Source.
 
 ---
 
