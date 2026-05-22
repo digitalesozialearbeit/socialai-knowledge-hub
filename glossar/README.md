@@ -155,7 +155,10 @@ Bezeichnung für die jeweils leistungsfähigsten Modelle einer Generation, etwa 
 
 ### Geschlecht / Gender
 Geschlecht ist nicht neutral. Es beeinflusst, welche Chancen Menschen haben, welche Ressourcen sie bekommen und wie viel Anerkennung sie erhalten. Die Beziehungen zwischen den Geschlechtern sind deshalb auch Machtverhältnisse: Durch die Unterscheidung zwischen den Geschlechtern entstehen hierarchische Ungleichheiten.
-- **sozialwissenschaftlich**: Die Grundlage des Geschlechterbegriffs ist ein von der Reproduktionsfähigkeit ausgehendes, biologisches Verständnis von Menschen als entweder „weiblich“ oder „männlich“– also als „gebärfähig“ oder nicht. Der Geschlechterbegriff hat jedoch nicht nur biologische, sondern auch soziale, und damit identitätsstiftende, rechtliche Aspekte – nach Auffassung der Geschlechterforschung können jedoch sowohl das biologische als auch soziale Geschlecht als gesellschaftliche Konstruktionen verstanden werden, die die Realität geschlechtlicher Vielfalt nur unzureichend erfassen. [Weitere Details-Orientierungsleitfaden 3.1](https://digitalesozialearbeit.github.io/orientierungsleitfaden).  
+- **sozialwissenschaftlich**: Die Grundlage des Geschlechterbegriffs ist ein von der Reproduktionsfähigkeit ausgehendes, biologisches Verständnis von Menschen als entweder „weiblich“ oder „männlich“– also als „gebärfähig“ oder nicht. Der Geschlechterbegriff hat jedoch nicht nur biologische, sondern auch soziale, und damit identitätsstiftende, rechtliche Aspekte – nach Auffassung der Geschlechterforschung können jedoch sowohl das biologische als auch soziale Geschlecht als gesellschaftliche Konstruktionen verstanden werden, die die Realität geschlechtlicher Vielfalt nur unzureichend erfassen. [Weitere Details-Orientierungsleitfaden 3.1](https://digitalesozialearbeit.github.io/orientierungsleitfaden).
+
+### Gender Scripts
+Skript: Designer:innen legen in technologischen Artefakten Annahmen über zukünftige Nutzer:innen fest: wer diese sein werden, was sie wollen und wie sie sich verhalten werden. Das Artefakt schreibt ein Nutzungsszenario vor (wie in einem Theaterstück). Gender Skript: die Vorstellungen, die Designer:innen von Geschlechterbeziehungen und -identitäten haben und die sie in die Materialität des Artefakts einfließen lassen.
 
 ### Guardrails
 Schutzmechanismen, die unerwünschte Antworten eines [LLM](#llm) verhindern sollen. Sie reichen von Filtern für problematische Inhalte über Themensperren bis zu Plausibilitätsprüfungen vor und nach der Modellantwort. Guardrails sind technisch nicht perfekt und lassen sich teilweise umgehen, siehe [Jailbreaking](#jailbreaking) und [Prompt Injection](#prompt-injection). Sie ergänzen redaktionelle und fachliche Kontrolle, ersetzen sie nicht.
@@ -179,6 +182,10 @@ Heteronormativität ist eine Norm in unserer Gesellschaft. Es wird davon ausgega
 
 Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierungsdimensionen beschreibt. Im Projekt fokussiert auf die Achsen: Geschlecht, Alter und Migration. Als Visualisierung wird ein Venn-Diagramm verwendet, um die Überlappung und gegenseitige Verstärkung sichtbar zu machen.
 
+### I-Methodology
+Eine Designpraxis, bei der Entwickler:innen sich selbst als Bezugspunkt für die Nutzer:innen nehmen. Anstatt die Bedürfnisse, Kompetenzen und Kontexte verschiedener Nutzer:innengruppen systematisch zu erforschen, stützen sich Designer:innen auf ihre eigenen Erfahrungen, Vorlieben und Gewohnheiten, um sich vorzustellen, was „der Nutzer“ will. Aber: Designer:innen glauben, sie würden für alle gestalten (sie sehen sich selbst als repräsentativ), während sie in Wirklichkeit für Menschen wie sich selbst gestalten. Diese Praxis bleibt für diejenigen, die sie anwenden, unsichtbar.
+
+Wenn Teams homogen sind (männlich, weiß, jung, körperlich gesund), bringt die Ich-Methodik Technologien hervor, die die Annahmen dieser Gruppe systematisch als universell widerspiegeln.
 ---
 
 ## J
