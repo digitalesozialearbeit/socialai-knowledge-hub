@@ -101,9 +101,11 @@ Ein Verfahren, bei dem ein kleineres, schnelleres Modell aus einem größeren ab
 
 ## E
 
-### Erwachsenenbildung / Matthäus-Effekt
+### Embedding
+Eine mathematische Darstellung von Text als Zahlenvektor in einem hochdimensionalen Raum. Ähnliche Bedeutungen liegen nahe beieinander. „Hund" und „Katze" sind näher als „Hund" und „Stein". So kann ein [LLM](#llm) Bedeutung mathematisch verarbeiten. Embeddings sind die Grundlage von [RAG](#rag) und semantischer Suche.
 
-"Wer hat, dem wird gegeben" -das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie KI-Kompetenz in der Sozialen Arbeit vermittelt wird und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.
+### Explainable AI (XAI)
+Methoden und Werkzeuge, die Entscheidungen von KI-Systemen nachvollziehbar machen. Bei klassischem Machine Learning durch Verfahren wie SHAP oder LIME. Bei [LLMs](#llm) ist Erklärbarkeit nur eingeschränkt möglich, weil die Entscheidungsprozesse über Milliarden von Parametern verteilt sind. Das Feld der Mechanistic Interpretability untersucht, welche internen Strukturen welche Verhaltensweisen erzeugen. Im regulatorischen Kontext bleibt Erklärbarkeit eine zentrale Anforderung.
 
 ---
 
@@ -136,6 +138,10 @@ Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierun
 ---
 
 ## M
+
+### Matthäus-Effekt
+
+"Wer hat, dem wird gegeben" -das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie KI-Kompetenz in der Sozialen Arbeit vermittelt wird und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.
 
 ### Menschliche Aufsicht / Human Oversight 
 
