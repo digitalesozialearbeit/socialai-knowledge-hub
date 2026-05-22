@@ -1,4 +1,4 @@
-# Glossar
+# Glossar (gesamt)
 
 > *Anmerkung zu den juridischen Definitionen*: Da der Gesetzgeber im Normtext überwiegend das generische Maskulinum verwendet, folgt das Glossar in seinen rechtlichen Ausführungen dieser Terminologie, um eine eindeutige Zuordnung zum Gesetzeswortlaut zu gewährleisten.
 
