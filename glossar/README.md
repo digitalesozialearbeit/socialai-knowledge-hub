@@ -93,6 +93,10 @@ Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016
 
 Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. Wenn KI-generierte Texte, Einschätzungen oder Empfehlungen unkritisch übernommen werden, kann das fachliche Urteilsvermögen abnehmen -ein relevantes Risiko für die Qualität Sozialer Arbeit.
 
+### Digital Divide
+
+Jan van Dijk (2020) beschreibt den Begriff ‚Digital Divide‘ als Kluft zwi-schen jenen Menschen, die Zugang zu digitalen Technologien haben und mit diesen umgehen können und jenen Menschen, die keinen Zugang zu digitalen Technologien haben bzw. mit diesen nicht umgehen können. Der Zugang zu digitalen Technologien umfasst die Verfügbarkeit von Endgerä-ten wie Computer, Smartphones oder iPads, das Vorhandensein einer (stabi-len und starken) Internetverbindung sowie Apps und Softwarelösungen, wie soziale Medien, E-Mail, Suchmaschinen oder E-Banking (first level of digi-tal divide). Der Umgang mit digitalen Technologien bezieht sich auf die Digital Literacies der Anwender:innen (second level of digital divide). Mas-simo Ragnedda und Maria L. Ruiu (2020) beschreiben darüber hinaus, dass die allgemeinen Lebenschancen in der digitalen Gesellschaft stark von den Möglichkeiten online partizipieren zu können beeinflusst werden und digi-tale Präsenz zu einem wesentlichen Faktor des sozialen Kapitals wurde (third level of digital divide).
+
 ### Diversität
 
 Vielfalt in verschiedenen Dimensionen (Geschlecht, Alter, ethnische Zugehörigkeit, Behinderung etc.). Im Projekt sowohl als Forschungsgegenstand (Wie bildet generative KI Diversität ab? Wo entstehen Verzerrungen?) als auch als Gestaltungsprinzip für inklusive KI-Nutzung relevant.
