@@ -1,6 +1,8 @@
 # Glossar
 
-> *Anmerkung zu den juridischen Definitionen*: Da der Gesetzgeber im Normtext überwiegend das generische Maskulinum verwendet, folgt das Glossar in seinen rechtlichen Ausführungen dieser Terminologie, um eine eindeutige Zuordnung zum Gesetzeswortlaut zu gewährleisten. 
+> *Anmerkung zu den juridischen Definitionen*: Da der Gesetzgeber im Normtext überwiegend das generische Maskulinum verwendet, folgt das Glossar in seinen rechtlichen Ausführungen dieser Terminologie, um eine eindeutige Zuordnung zum Gesetzeswortlaut zu gewährleisten.
+
+> *Anmerkung zu den technologischen Definitionen*: KI- und Technologie-Begriffe, verständlich erklärt. Übernommen und adaptiert vom [Legal History Hub Tutorial](https://github.com/DigitalHumanitiesCraft/legal-history-hub).
 
 ---
 
