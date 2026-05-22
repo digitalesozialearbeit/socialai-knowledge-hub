@@ -54,9 +54,29 @@ Systematische Verzerrung in Daten, Modellen oder Entscheidungen. Im Projekt in m
 
 Bewusst abgegrenzt von **Chancengleichheit**. Während Chancengleichheit formale Gleichbehandlung meint, zielt Chancengerechtigkeit darauf ab, unterschiedliche Ausgangsbedingungen auszugleichen -also faire Ergebnisse statt gleicher Behandlung. Zentrales Leitkonzept des SocialAI-Projekts.
 
+### Chain of Thought
+**CoT**, eine Prompting-Technik, bei der das Modell aufgefordert wird, schrittweise zu denken, etwa durch „let's think step by step". Verbessert die Qualität bei komplexen Aufgaben, weil Zwischenschritte explizit werden. Mit der Verbreitung von [Reasoning-Modellen](#reasoning-modell) verliert die manuelle CoT-Aufforderung an Bedeutung, weil diese Modelle das Verhalten internalisiert haben.
+
+### Chatbot
+Eine Anwendung, die eine Konversationsoberfläche um ein Sprachmodell legt. Bekannte Beispiele sind ChatGPT, Claude und Gemini. Der Chatbot ist nicht das Modell selbst, sondern die Schnittstelle dazu. Zwischen Eingabe und Modellantwort liegen weitere Schritte, etwa Sicherheitsprüfungen, Tool-Anbindungen oder Suchfunktionen.
+
+### Constitutional AI
+Ein Trainingsverfahren von Anthropic, bei dem ein Modell anhand einer natürlichsprachigen „Verfassung" aus Prinzipien geformt wird, statt nur auf menschliche Bewertungen angewiesen zu sein.[^cai] In zwei Phasen wird das Modell zunächst zu Selbstkritik gegen die Prinzipien angeleitet und anschließend per Reinforcement Learning aus den eigenen Bewertungen weitertrainiert. Das Verfahren reduziert die Menge benötigter menschlicher Labels und ist Teil des [Alignment](#alignment).
+
+
 ### Context / Kontext
 
 Die Rahmenbedingungen, die einen KI-Output beeinflussen. Umfasst den Prompt selbst, System-Instruktionen, Konversationshistorie und implizite Annahmen des Modells. Für die Soziale Arbeit besonders relevant, weil Kontextinformationen über Klient:innen die Qualität und Fairness der KI-Antworten stark beeinflussen.
+
+### Context Engineering
+Die systematische Gestaltung des Kontexts, den ein [LLM](#llm) erhält. Auswahl, Kompression und Strukturierung von Informationen im [Context Window](#context-window). Geht über [Prompt Engineering](#prompt-engineering) hinaus, weil nicht nur die Frage, sondern der gesamte mitgegebene Kontext optimiert wird.
+
+### Context Rot
+Die Leistung eines [LLM](#llm) verschlechtert sich, je mehr Text im [Context Window](#context-window) steht, auch bei inhaltlich einfachen Aufgaben. Irrelevante Informationen lenken die Aufmerksamkeitsmechanismen ab. Mehr Kontext bedeutet nicht automatisch bessere Ergebnisse.
+
+### Context Window
+Das Arbeitsgedächtnis eines [LLM](#llm). Der maximale Textumfang in [Tokens](#token), den das Modell bei einer Anfrage verarbeiten kann. Umfasst Input (Anfrage und Kontext) und Output (generierte Antwort). Aktuelle Modelle bieten zwischen rund 100.000 und einer Million Tokens. Inhalte außerhalb dieses Fensters sind dem Modell nicht zugänglich.
+
 
 ---
 
