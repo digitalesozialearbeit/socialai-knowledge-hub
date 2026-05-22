@@ -35,11 +35,14 @@ Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im prak
 
 ## B
 
+### Benchmark
+Standardisierte Testsätze zur Vergleichsmessung der Leistungsfähigkeit von KI-Modellen. Benchmarks bilden die Grundlage für Aussagen wie „Modell X ist besser als Modell Y", sind aber methodisch begrenzt. Ein zentrales Problem ist Data Contamination, wenn Testdaten unbeabsichtigt im Training enthalten waren. Hohe Benchmark-Werte korrelieren nicht zwingend mit guter Leistung in realen Anwendungen.
+
 ### Bias
 
 Systematische Verzerrung in Daten, Modellen oder Entscheidungen. Im Projekt in mehreren Dimensionen relevant:
 - **Soziologisch:** gesellschaftliche Vorurteile und strukturelle Diskriminierung
-- **Technisch:** Verzerrungen in Trainingsdaten und Modell-Outputs generativer KI
+- **Technisch:** Systematische Verzerrung in den Antworten eines [LLM](#llm), die aus Trainingsdaten und Trainingsprozess stammt.[^bias] Bias zeigt sich etwa in Geschlechter- und Altersstereotypen oder in der Bevorzugung bestimmter Perspektiven. Die Forschung unterscheidet repräsentative Schäden (Stereotypisierung) und allokative Schäden (ungleiche Ressourcenverteilung). Bias lässt sich nicht vollständig beseitigen, sondern nur sichtbar machen und reflektiert kompensieren. 
 - **Intersektional:** Überschneidung und Verstärkung mehrerer Diskriminierungsdimensionen
 - **Unconscious/implizit:** unbewusste Voreingenommenheit von Nutzer:innen und Entwickler:innen
 
