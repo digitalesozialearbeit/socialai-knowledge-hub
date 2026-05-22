@@ -201,7 +201,7 @@ Ein Verfahren, bei dem ein [LLM](#llm) die Outputs eines anderen Modells (oder e
 
 ### Matthäus-Effekt
 
-"Wer hat, dem wird gegeben" -das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie KI-Kompetenz in der Sozialen Arbeit vermittelt wird und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.
+Der Matthäus-Effekt beschreibt das soziologische Prinzip, dass Erfolg, Aufmerksamkeit oder Ressourcen unweigerlich zu weiterem Erfolg führen ("Wer hat, dem wird gegeben"). Im Rahmen des SocialAI-Projekts ist dieser Effekt mit dem Digital Divide verbunden und beschreibt etwa das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie AI Literacies in der Sozialen Arbeit vermittelt werden sollen und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.
 
 ### MCP
 **Model Context Protocol**. Ein offener Standard, der im November 2024 von Anthropic vorgestellt wurde und die Verbindung von KI-Anwendungen mit externen Datenquellen, Tools und Diensten vereinheitlicht. Wird oft als „USB-C für KI-Anwendungen" beschrieben, weil eine Schnittstelle viele unterschiedliche Anbindungen ersetzt. Hat sich 2025 rasch als Industriestandard etabliert und wird auch von OpenAI, Google und Microsoft unterstützt.
