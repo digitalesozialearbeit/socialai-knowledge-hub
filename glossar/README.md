@@ -136,6 +136,13 @@ Schutzmechanismen, die unerwünschte Antworten eines [LLM](#llm) verhindern soll
 
 ---
 
+## H
+
+### Halluzination
+Siehe [Konfabulation](#konfabulation). Der ältere und gebräuchlichere Begriff für dasselbe Phänomen.
+
+---
+
 ## I
 
 ### Intersektionalität
