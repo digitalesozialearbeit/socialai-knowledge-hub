@@ -68,15 +68,9 @@ Ein Trainingsverfahren von Anthropic, bei dem ein Modell anhand einer natürlich
 ### Context / Kontext
 
 Die Rahmenbedingungen, die einen KI-Output beeinflussen. Umfasst den Prompt selbst, System-Instruktionen, Konversationshistorie und implizite Annahmen des Modells. Für die Soziale Arbeit besonders relevant, weil Kontextinformationen über Klient:innen die Qualität und Fairness der KI-Antworten stark beeinflussen.
-
-### Context Engineering
-Die systematische Gestaltung des Kontexts, den ein [LLM](#llm) erhält. Auswahl, Kompression und Strukturierung von Informationen im [Context Window](#context-window). Geht über [Prompt Engineering](#prompt-engineering) hinaus, weil nicht nur die Frage, sondern der gesamte mitgegebene Kontext optimiert wird.
-
-### Context Rot
-Die Leistung eines [LLM](#llm) verschlechtert sich, je mehr Text im [Context Window](#context-window) steht, auch bei inhaltlich einfachen Aufgaben. Irrelevante Informationen lenken die Aufmerksamkeitsmechanismen ab. Mehr Kontext bedeutet nicht automatisch bessere Ergebnisse.
-
-### Context Window
-Das Arbeitsgedächtnis eines [LLM](#llm). Der maximale Textumfang in [Tokens](#token), den das Modell bei einer Anfrage verarbeiten kann. Umfasst Input (Anfrage und Kontext) und Output (generierte Antwort). Aktuelle Modelle bieten zwischen rund 100.000 und einer Million Tokens. Inhalte außerhalb dieses Fensters sind dem Modell nicht zugänglich.
+- **Context Engineering**: Die systematische Gestaltung des Kontexts, den ein [LLM](#llm) erhält. Auswahl, Kompression und Strukturierung von Informationen im [Context Window](#context-window). Geht über [Prompt Engineering](#prompt-engineering) hinaus, weil nicht nur die Frage, sondern der gesamte mitgegebene Kontext optimiert wird.
+- **Context Rot**: Die Leistung eines [LLM](#llm) verschlechtert sich, je mehr Text im [Context Window](#context-window) steht, auch bei inhaltlich einfachen Aufgaben. Irrelevante Informationen lenken die Aufmerksamkeitsmechanismen ab. Mehr Kontext bedeutet nicht automatisch bessere Ergebnisse.
+- **Context Window**: Das Arbeitsgedächtnis eines [LLM](#llm). Der maximale Textumfang in [Tokens](#token), den das Modell bei einer Anfrage verarbeiten kann. Umfasst Input (Anfrage und Kontext) und Output (generierte Antwort). Aktuelle Modelle bieten zwischen rund 100.000 und einer Million Tokens. Inhalte außerhalb dieses Fensters sind dem Modell nicht zugänglich.
 
 
 ---
