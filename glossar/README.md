@@ -332,6 +332,8 @@ Professionelles Handlungsfeld, das im Projekt als Anwendungskontext für KI unte
 Soziale Ungleichheit beschreibt in den Sozialwissenschaften die ungleiche Verteilung materieller und immaterieller Ressourcen (Einkommen, Bildung, Gesundheit, Anerkennung, politisches Mitspracherecht), was zu unterschiedlichen Teilhabemöglichkeiten von Menschen in der Gesellschaft führt. Es handelt sich nicht nur um bloße Unterschiede (Menschen sind unterschiedlich / divers), sondern um strukturierte, anhaltende und folgenschwere Benachteiligungen. Aktuell existiert ein Spannungsfeld zwischen dem meritokratischen Selbstverständnis moderner Gesellschaften (Erfolg wird durch individuelle Anstrengung und Talent bestimmt) und der Realität ungleicher Lebenschancen, die u.a. durch Geschlecht, Klasse und ethnische Zugehörigkeit geprägt sind. Sie ist ein Ergebnis sozialer Strukturen und historischer Prozesse.
 
 
+### Stereotype
+
 ### Stochastic Parrot
 Eine kritische Charakterisierung von [LLMs](#llm) als Systeme, die sprachliche Muster aus ihren Trainingsdaten rekombinieren, ohne deren Bedeutung zu erfassen.[^parrot] Der Begriff geht auf Bender, Gebru und Kolleginnen zurück und wurde 2021 in einem Aufsatz zur Kritik großer Sprachmodelle eingeführt. Die These lautet, dass LLMs aufgrund ihrer Architektur kein Verstehen leisten, sondern statistische Imitation produzieren. Die Charakterisierung ist umstritten, prägt aber die kritische Debatte um LLM-Fähigkeiten und wird in Diskussionen um Verantwortung und Vertrauen häufig herangezogen.
 
