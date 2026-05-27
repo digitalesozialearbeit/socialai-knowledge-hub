@@ -337,6 +337,14 @@ Das Werkzeug, das Text in [Tokens](#token) zerlegt. Verschiedene Modelle verwend
 Die Architektur hinter modernen [LLMs](#llm), 2017 in „Attention Is All You Need" vorgestellt.[^transformer] Der zentrale Mechanismus ist Attention. Das Modell lernt, welche Teile des Eingabetexts füreinander relevant sind. Self-Attention ersetzt rekurrente Strukturen früherer Architekturen und ermöglicht parallele Verarbeitung langer Sequenzen.
 
 ---
+## V
+
+### Vulnerabilität / Schutzbedürfnis 
+
+rechtlich
+sozialwissenschaftlich / mit Blick auf Soziale Arbeit
+
+---
 
 [^bias]: Gallegos, Isabel O. et al. „Bias and Fairness in Large Language Models. A Survey". *Computational Linguistics* 50.3 (2024), 1097–1179. https://doi.org/10.1162/coli_a_00524
 
