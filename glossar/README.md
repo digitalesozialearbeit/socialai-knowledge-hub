@@ -133,7 +133,8 @@ Ein Verfahren, bei dem ein kleineres, schnelleres Modell aus einem größeren ab
 Eine mathematische Darstellung von Text als Zahlenvektor in einem hochdimensionalen Raum. Ähnliche Bedeutungen liegen nahe beieinander. „Hund" und „Katze" sind näher als „Hund" und „Stein". So kann ein [LLM](#llm) Bedeutung mathematisch verarbeiten. Embeddings sind die Grundlage von [RAG](#rag) und semantischer Suche.
 
 ### Explainable AI (XAI)
-Methoden und Werkzeuge, die Entscheidungen von KI-Systemen nachvollziehbar machen. Bei klassischem Machine Learning durch Verfahren wie SHAP oder LIME. Bei [LLMs](#llm) ist Erklärbarkeit nur eingeschränkt möglich, weil die Entscheidungsprozesse über Milliarden von Parametern verteilt sind. Das Feld der Mechanistic Interpretability untersucht, welche internen Strukturen welche Verhaltensweisen erzeugen. Im regulatorischen Kontext bleibt Erklärbarkeit eine zentrale Anforderung.
+- **technisch**: Methoden und Werkzeuge, die Entscheidungen von KI-Systemen nachvollziehbar machen. Bei klassischem Machine Learning durch Verfahren wie SHAP oder LIME. Bei [LLMs](#llm) ist Erklärbarkeit nur eingeschränkt möglich, weil die Entscheidungsprozesse über Milliarden von Parametern verteilt sind. Das Feld der Mechanistic Interpretability untersucht, welche internen Strukturen welche Verhaltensweisen erzeugen. Im regulatorischen Kontext bleibt Erklärbarkeit eine zentrale Anforderung.
+- **juridisch**: 
 
 ---
 
@@ -345,6 +346,10 @@ Das Werkzeug, das Text in [Tokens](#token) zerlegt. Verschiedene Modelle verwend
 
 ### Transformer
 Die Architektur hinter modernen [LLMs](#llm), 2017 in „Attention Is All You Need" vorgestellt.[^transformer] Der zentrale Mechanismus ist Attention. Das Modell lernt, welche Teile des Eingabetexts füreinander relevant sind. Self-Attention ersetzt rekurrente Strukturen früherer Architekturen und ermöglicht parallele Verarbeitung langer Sequenzen.
+
+### Transparenz
+- **juridisch**:
+- **technisch**:
 
 ---
 ## V
