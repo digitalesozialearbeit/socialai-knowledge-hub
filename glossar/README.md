@@ -15,6 +15,8 @@
 
 Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz (AI Act, Verordnung (EU) 2024/1689). Sie regelt die Entwicklung und den Betrieb von KI und folgt dabei einem "risikobasierten Ansatz" - je höher das Risiko, das von einem KI-System ausgeht, desto strenger die Verpflichtungen. Dabei kennt sie folgende Risikokategorien: verbotene Praktiken (zB Emotionserkennung am Arbeitsplatz und social scoring), Hochrisiko-KI (zB KI im Personalmanagement, in der Zuerkennung öffentlicher Leistungen oder in der Justiz), Transparenzrisiken (Wenn KI mit Personen interagiert, Deepfakes oder sonstige Inhalte generiert) und minimale Risiken (alle übrigen Systeme). Die KI-Verordnung unterscheidet folgende zentrale Rollen, nach denen sich wiederum die konkreten Pflichten messen: **Anbieter** (entwickelt/vermarktet KI-Systeme), **Betreiber** (setzt KI-Systeme zu beruflichen Zwecken ein) und **Nutzer:in** (verwendet KI). Relevant für die Soziale Arbeit, da der Einsatz von KI im Kontext vulnerabler Gruppen besondere Pflichten mit sich bringt.
 
+*Anmerkung Susi*: Stelle ich meine Frage
+
 ### AI Agents / Agentic AI
 
 KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über einfache Frage-Antwort-Interaktion hinaus. Im Projektkontext eine offene Frage: Inwieweit werden agentenbasierte KI-Systeme für die Soziale Arbeit relevant, und welche Chancen und Risiken bringen sie mit sich?
