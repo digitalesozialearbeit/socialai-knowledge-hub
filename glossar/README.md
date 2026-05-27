@@ -97,8 +97,9 @@ Kontext ist im Bezug auf Diskriminierung, Fairness, Chancengerechtigkeit und co.
 
 Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016/679). Im Projektkontext zentrale Frage: Welche personenbezogenen Daten dürfen in KI-Tools eingegeben werden? Besondere Relevanz bei Daten von Klient:innen der Sozialen Arbeit, die oft zu vulnerablen Gruppen gehören.
 
-personenbezogene Daten
-sensible Daten
+- **personenbezogene Daten**:
+- **sensible Daten**:
+- **Zweckbindung**:  
 
 ### Deskilling
 
