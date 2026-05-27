@@ -202,9 +202,9 @@ Heteronormativität ist eine Norm in unserer Gesellschaft. Es wird davon ausgega
 Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierungsdimensionen beschreibt. Im Projekt fokussiert auf die Achsen: Geschlecht, Alter und Migration. Als Visualisierung wird ein Venn-Diagramm verwendet, um die Überlappung und gegenseitige Verstärkung sichtbar zu machen.
 
 ### I-Methodology
-Eine Designpraxis, bei der Entwickler:innen sich selbst als Bezugspunkt für die Nutzer:innen nehmen. Anstatt die Bedürfnisse, Kompetenzen und Kontexte verschiedener Nutzer:innengruppen systematisch zu erforschen, stützen sich Designer:innen auf ihre eigenen Erfahrungen, Vorlieben und Gewohnheiten, um sich vorzustellen, was „der Nutzer“ will. Aber: Designer:innen glauben, sie würden für alle gestalten (sie sehen sich selbst als repräsentativ), während sie in Wirklichkeit für Menschen wie sich selbst gestalten. Diese Praxis bleibt für diejenigen, die sie anwenden, unsichtbar.
 
-Wenn Teams homogen sind (männlich, weiß, jung, körperlich gesund), bringt die Ich-Methodik Technologien hervor, die die Annahmen dieser Gruppe systematisch als universell widerspiegeln.
+Eine Designpraxis, bei der Entwickler:innen sich selbst als Bezugspunkt für die Nutzer:innen nehmen. Anstatt die Bedürfnisse, Kompetenzen und Kontexte verschiedener Nutzer:innengruppen systematisch zu erforschen, stützen sich Designer:innen auf ihre eigenen Erfahrungen, Vorlieben und Gewohnheiten, um sich vorzustellen, was „der Nutzer“ will. Aber: Designer:innen glauben, sie würden für alle gestalten (sie sehen sich selbst als repräsentativ), während sie in Wirklichkeit für Menschen wie sich selbst gestalten. Diese Praxis bleibt für diejenigen, die sie anwenden, unsichtbar.Wenn Teams homogen sind (männlich, weiß, jung, körperlich gesund), bringt die Ich-Methodik Technologien hervor, die die Annahmen dieser Gruppe systematisch als universell widerspiegeln.
+
 ---
 
 ## J
@@ -320,6 +320,8 @@ Eine Modellklasse, die seit 2024 verbreitet ist und vor der eigentlichen Antwort
 ---
 
 ## S
+
+### Shadow AI
 
 ### Slop
 Minderwertiger, formelhafter KI-Text. Erkennbar an Wendungen wie „Delve into", „It is crucial to note" oder „Furthermore", inflationärer Verwendung von Em-Dashes und Buzzwords wie „ever-evolving". Gegenmittel sind kritisches Lesen und klare Anweisungen im Prompt.
