@@ -97,6 +97,9 @@ Kontext ist im Bezug auf Diskriminierung, Fairness, Chancengerechtigkeit und co.
 
 Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016/679). Im Projektkontext zentrale Frage: Welche personenbezogenen Daten dürfen in KI-Tools eingegeben werden? Besondere Relevanz bei Daten von Klient:innen der Sozialen Arbeit, die oft zu vulnerablen Gruppen gehören.
 
+personenbezogene Daten
+sensible Daten
+
 ### Deskilling
 
 Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. Wenn KI-generierte Texte, Einschätzungen oder Empfehlungen unkritisch übernommen werden, kann das fachliche Urteilsvermögen abnehmen -ein relevantes Risiko für die Qualität Sozialer Arbeit.
