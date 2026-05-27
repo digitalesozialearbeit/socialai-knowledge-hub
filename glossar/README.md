@@ -44,6 +44,8 @@ Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im prak
 - **Rechtlich:** Neigung zu einem automatischen oder übermäßigen Vertrauen in eine von einem KI-System hervorgebrachte Ausgabe (Art 14 Abs 4 lit b KI-VO)
 - **Sozialwissenschaftlich:** Der Automation Bias bezeichnet das Phänomen, dass Menschen den Vorschlägen und Entscheidungen von Maschinen mehr vertrauen als ihren eigenen. Eine kürzlich erschienene Studie der Unternehmensberatung EY ["AI Sentiment Index 2025"](https://www.ey.com/content/dam/ey-unified-site/ey-com/de-de/newsroom/2025/05/ey-praesentation-ai-sentiment-index-2025.pdf) ergab: Nur jede oder jeder Vierte in Deutschland überprüft die Ergebnisse von generativer KI. Definiton von [Bundeszentrale für politische Bildung](https://www.bpb.de/lernen/digitale-bildung/werkstatt/569392/automation-bias/).
 
+### Automatisierte Entscheidungsfindindung 
+
 ---
 
 ## B
@@ -121,6 +123,7 @@ Die Fähigkeit, Vielfalt und ihre Auswirkungen in sozialen Interaktionen und Ins
 ### Diskriminierung
 Ungleichbehandlung aufgrund der (vermeintlichen) Zugehörigkeit zu einer Gruppe – Geschlecht, ethnische Herkunft, Alter, Behinderung, sexuelle Orientierung, Religion, soziale Schicht.
 - **sozialwissenschaftlich**: Diskriminierung ist ein Prozess, durch den soziale Ungleichheit geschaffen und aufrechterhalten wird, und sie wirkt durch spezifische Handlungen der Klassifizierung, Bewertung und Ausgrenzung. Sie kann direkt / explizit oder implizit erfolgen.
+- **juridisch**. mittelbar / unmittelbar, GIBG
 
 ### Distillation
 Ein Verfahren, bei dem ein kleineres, schnelleres Modell aus einem größeren abgeleitet wird, indem es lernt, dessen Outputs nachzubilden. Distillierte Modelle laufen mit deutlich weniger Rechenleistung, erreichen aber meist nicht die volle Qualität des Ursprungsmodells. Viele frei verfügbare Open-Weights-Modelle sind Distillationen größerer kommerzieller Modelle.
@@ -353,6 +356,10 @@ Die Architektur hinter modernen [LLMs](#llm), 2017 in „Attention Is All You Ne
 
 ---
 ## V
+
+### Vertrauenswürdige / menschenzentrierte KI
+
+Vertrauen Arndt
 
 ### Vulnerabilität / Schutzbedürfnis 
 
