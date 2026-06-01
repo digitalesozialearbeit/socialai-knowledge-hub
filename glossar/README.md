@@ -331,7 +331,7 @@ Minderwertiger, formelhafter KI-Text. Erkennbar an Wendungen wie „Delve into",
 Professionelles Handlungsfeld, das im Projekt als Anwendungskontext für KI untersucht wird. Besonderheiten: Arbeit mit vulnerablen Gruppen, hohe ethische Anforderungen, frauendominiertes Berufsfeld, vielfältige Einsatzgebiete (Jugendhilfe, Beratung, Gemeinwesenarbeit u.a.).
 
 ### Soziale Ungleichheit
-Soziale Ungleichheit beschreibt in den Sozialwissenschaften die ungleiche Verteilung materieller und immaterieller Ressourcen (Einkommen, Bildung, Gesundheit, Anerkennung, politisches Mitspracherecht), was zu unterschiedlichen Teilhabemöglichkeiten von Menschen in der Gesellschaft führt. Es handelt sich nicht nur um bloße Unterschiede (Menschen sind unterschiedlich / divers), sondern um strukturierte, anhaltende und folgenschwere Benachteiligungen. Aktuell existiert ein Spannungsfeld zwischen dem meritokratischen Selbstverständnis moderner Gesellschaften (Erfolg wird durch individuelle Anstrengung und Talent bestimmt) und der Realität ungleicher Lebenschancen, die u.a. durch Geschlecht, Klasse und ethnische Zugehörigkeit geprägt sind. Sie ist ein Ergebnis sozialer Strukturen und historischer Prozesse.
+Soziale Ungleichheit beschreibt in den Sozialwissenschaften die ungleiche Verteilung materieller und immaterieller Ressourcen (Einkommen, Bildung, Gesundheit, Anerkennung, politisches Mitspracherecht), was zu unterschiedlichen Teilhabemöglichkeiten von Menschen in der Gesellschaft führt. Es handelt sich nicht nur um bloße Unterschiede (Menschen sind unterschiedlich / divers), sondern um strukturierte, anhaltende und folgenschwere Benachteiligungen. Aktuell existiert ein Spannungsfeld zwischen dem meritokratischen Selbstverständnis moderner Gesellschaften (Erfolg wird durch individuelle Anstrengung und Talent bestimmt) und der Realität ungleicher Lebenschancen, die u.a. durch Geschlecht, Klasse und ethnische Zugehörigkeit geprägt sind. Sie ist ein Ergebnis sozialer Strukturen und historischer Prozesse.[^inequality]
 
 
 ### Stereotype
@@ -398,6 +398,8 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 [^sycophancy]: Malmqvist, Lars. „Sycophancy in Large Language Models. Causes and Mitigations". *Intelligent Computing, CompCom 2025*, Springer 2024. arXiv:2411.15287. https://arxiv.org/abs/2411.15287
 
 [^transformer]: Vaswani, Ashish et al. „Attention Is All You Need". *Advances in Neural Information Processing Systems 30 (NeurIPS 2017)*. https://arxiv.org/abs/1706.03762
+
+[^inequality]: Schäfers, Bernhard & Lehmann, Bianca (2010). Ungleichheit, soziale. In: Johannes Kopp & Bernhard Schäfers (Hrsg.). Grundbegriffe der Soziologie, 10. Auflage. Wiesbaden: VS Verlag für Sozialwissenschaften.
 
 
 
