@@ -166,7 +166,7 @@ Bezeichnung für die jeweils leistungsfähigsten Modelle einer Generation, etwa 
 
 ### Geschlecht / Gender
 Geschlecht ist nicht neutral. Es beeinflusst, welche Chancen Menschen haben, welche Ressourcen sie bekommen und wie viel Anerkennung sie erhalten. Die Beziehungen zwischen den Geschlechtern sind deshalb auch Machtverhältnisse: Durch die Unterscheidung zwischen den Geschlechtern entstehen hierarchische Ungleichheiten.
-- **sozialwissenschaftlich**: Die Grundlage des Geschlechterbegriffs ist ein von der Reproduktionsfähigkeit ausgehendes, biologisches Verständnis von Menschen als entweder „weiblich“ oder „männlich“– also als „gebärfähig“ oder nicht. Der Geschlechterbegriff hat jedoch nicht nur biologische, sondern auch soziale, und damit identitätsstiftende, rechtliche Aspekte – nach Auffassung der Geschlechterforschung können jedoch sowohl das biologische als auch soziale Geschlecht als gesellschaftliche Konstruktionen verstanden werden, die die Realität geschlechtlicher Vielfalt nur unzureichend erfassen. [Weitere Details-Orientierungsleitfaden 3.1](https://digitalesozialearbeit.github.io/orientierungsleitfaden).
+- **sozialwissenschaftlich**: Die Grundlage des Geschlechterbegriffs ist ein von der Reproduktionsfähigkeit ausgehendes, biologisches Verständnis von Menschen als entweder „weiblich“ oder „männlich“ – also als „gebärfähig“ oder nicht. Der Geschlechterbegriff hat jedoch nicht nur biologische, sondern auch soziale, und damit identitätsstiftende, rechtliche Aspekte – nach Auffassung der Geschlechterforschung können jedoch sowohl das biologische als auch soziale Geschlecht als gesellschaftliche Konstruktionen verstanden werden, die die Realität geschlechtlicher Vielfalt nur unzureichend erfassen. [Weitere Details-Orientierungsleitfaden 3.1](https://digitalesozialearbeit.github.io/orientierungsleitfaden). [^geschlecht]
 
 ### Gender Scripts
 Skript: Designer:innen legen in technologischen Artefakten Annahmen über zukünftige Nutzer:innen fest: wer diese sein werden, was sie wollen und wie sie sich verhalten werden. Das Artefakt schreibt ein Nutzungsszenario vor (wie in einem Theaterstück). Gender Skript: die Vorstellungen, die Designer:innen von Geschlechterbeziehungen und -identitäten haben und die sie in die Materialität des Artefakts einfließen lassen.[^scripts]
@@ -333,6 +333,7 @@ Soziale Ungleichheit beschreibt in den Sozialwissenschaften die ungleiche Vertei
 
 
 ### Stereotype
+Stereotype sind kollektiv geteilte Wissenssysteme, z.B. über typische Merkmale von "Frauen" und "Männern". Sie sind gegen abweichende Erfahrungen resistent und schwer zu ändern, da vorgefertigte Erwartungen oft die Wahrnehmung und Interpretation von Menschen prägen. Stereotype werden im Prozess der Sozialisation erworben. [^geschlecht]
 
 ### Stochastic Parrot
 Eine kritische Charakterisierung von [LLMs](#llm) als Systeme, die sprachliche Muster aus ihren Trainingsdaten rekombinieren, ohne deren Bedeutung zu erfassen.[^parrot] Der Begriff geht auf Bender, Gebru und Kolleginnen zurück und wurde 2021 in einem Aufsatz zur Kritik großer Sprachmodelle eingeführt. Die These lautet, dass LLMs aufgrund ihrer Architektur kein Verstehen leisten, sondern statistische Imitation produzieren. Die Charakterisierung ist umstritten, prägt aber die kritische Debatte um LLM-Fähigkeiten und wird in Diskussionen um Verantwortung und Vertrauen häufig herangezogen.
@@ -407,5 +408,6 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 
 [^feministAI]: Klinger, Sabine & Sackl-Sharif, Susanne (26.02.2026). Feministische AI Literacies in der Sozialen Arbeit [Definition]. In: Orientierungsleitfaden: Diversitätssensibler Umgang mit Künstlicher Intelligenz. digitalesozialearbeit.github.io/orientierungsleitfaden
 
+[^geschlecht]: Theresa Wobbe & Getrud Nunner-Winkler (2020). Geschlecht und Gesellschaft. In: Lehrbuch der Soziologie, 4. Auflage. Franfurt am Main: Campus verlag, S. 407-438.
 ---
 
