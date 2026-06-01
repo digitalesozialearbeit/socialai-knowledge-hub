@@ -197,7 +197,7 @@ Heteronormativität ist eine Norm in unserer Gesellschaft. Es wird davon ausgega
 
 ### Intersektionalität
 
-Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierungsdimensionen beschreibt. Im Projekt fokussiert auf die Achsen: Geschlecht, Alter und Migration. Als Visualisierung wird ein Venn-Diagramm verwendet, um die Überlappung und gegenseitige Verstärkung sichtbar zu machen.
+Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierungsdimensionen beschreibt.[^sectionality] Im Projekt fokussiert auf die Achsen: Geschlecht, Alter und Migration. Als Visualisierung wird ein Venn-Diagramm verwendet, um die Überlappung und gegenseitige Verstärkung sichtbar zu machen.
 
 ### I-Methodology
 
@@ -409,5 +409,8 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 [^feministAI]: Klinger, Sabine & Sackl-Sharif, Susanne (26.02.2026). Feministische AI Literacies in der Sozialen Arbeit [Definition]. In: Orientierungsleitfaden: Diversitätssensibler Umgang mit Künstlicher Intelligenz. digitalesozialearbeit.github.io/orientierungsleitfaden
 
 [^geschlecht]: Theresa Wobbe & Getrud Nunner-Winkler (2020). Geschlecht und Gesellschaft. In: Lehrbuch der Soziologie, 4. Auflage. Franfurt am Main: Campus verlag, S. 407-438.
+
+[^sectionality]: Kimberlé Crenshaw (1989): Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine. In: The University of Chicago Legal Forum. S. 139–167.
+
 ---
 
