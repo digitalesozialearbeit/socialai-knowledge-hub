@@ -297,7 +297,7 @@ in Abgrenzung zu deterministischen Systemen
 
 ### Queer Feminismus
 
-Queerfeminismus ist eine feministische Strömung, die Geschlecht, Sexualität und andere Machtverhältnisse gemeinsam in den Blick nimmt. Er kritisiert nicht nur Sexismus, sondern auch Heteronormativität, cisnormative Vorstellungen und die Idee fester, unveränderlicher Identitäten. Queerfeministische Perspektiven fragen: Wer wird als „Frau“ oder „Mann“ gedacht, wer bleibt unsichtbar, und wie hängen Diskriminierungsformen zusammen? Queerfeminismus hinterfragt, warum Heterosexualität als „Standard“ gilt und andere Begehren als Abweichung. 
+Queerfeminismus ist eine feministische Strömung, die Geschlecht, Sexualität und andere Machtverhältnisse gemeinsam in den Blick nimmt. Er kritisiert nicht nur Sexismus, sondern auch Heteronormativität, cisnormative Vorstellungen und die Idee fester, unveränderlicher Identitäten. Queerfeministische Perspektiven fragen: Wer wird als „Frau“ oder „Mann“ gedacht, wer bleibt unsichtbar, und wie hängen Diskriminierungsformen zusammen? Queerfeminismus hinterfragt, warum Heterosexualität als „Standard“ gilt und andere Begehren als Abweichung. Definition von [QueerMed Glossar](https://queermed-deutschland.de/glossar/queerfeminismus/)
 
 ### Quantisierung
 Ein Verfahren, das die Präzision der Modellgewichte reduziert, etwa von 16 auf 8 oder 4 Bit, um Speicher- und Rechenbedarf zu senken. Quantisierte Modelle laufen auf günstigerer Hardware, teilweise sogar lokal auf dem eigenen Rechner. Die Qualität sinkt nur moderat. Praxisrelevant überall dort, wo Daten den eigenen Rechner oder das eigene Netzwerk nicht verlassen sollen.
