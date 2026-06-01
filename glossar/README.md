@@ -109,7 +109,7 @@ Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. 
 
 ### Digital Divide
 
-Jan van Dijk (2020) beschreibt den Begriff ‚Digital Divide‘ als Kluft zwi-schen jenen Menschen, die Zugang zu digitalen Technologien haben und mit diesen umgehen können und jenen Menschen, die keinen Zugang zu digitalen Technologien haben bzw. mit diesen nicht umgehen können. Der Zugang zu digitalen Technologien umfasst die Verfügbarkeit von Endgerä-ten wie Computer, Smartphones oder iPads, das Vorhandensein einer (stabi-len und starken) Internetverbindung sowie Apps und Softwarelösungen, wie soziale Medien, E-Mail, Suchmaschinen oder E-Banking (first level of digi-tal divide). Der Umgang mit digitalen Technologien bezieht sich auf die Digital Literacies der Anwender:innen (second level of digital divide). Mas-simo Ragnedda und Maria L. Ruiu (2020) beschreiben darüber hinaus, dass die allgemeinen Lebenschancen in der digitalen Gesellschaft stark von den Möglichkeiten online partizipieren zu können beeinflusst werden und digi-tale Präsenz zu einem wesentlichen Faktor des sozialen Kapitals wurde (third level of digital divide).
+Jan van Dijk (2020) beschreibt den Begriff ‚Digital Divide‘ als Kluft zwischen jenen Menschen, die Zugang zu digitalen Technologien haben und mit diesen umgehen können und jenen Menschen, die keinen Zugang zu digitalen Technologien haben bzw. mit diesen nicht umgehen können. Der Zugang zu digitalen Technologien umfasst die Verfügbarkeit von Endgeräten wie Computer, Smartphones oder iPads, das Vorhandensein einer (stabilen und starken) Internetverbindung sowie Apps und Softwarelösungen, wie soziale Medien, E-Mail, Suchmaschinen oder E-Banking (first level of digital divide). Der Umgang mit digitalen Technologien bezieht sich auf die Digital Literacies der Anwender:innen (second level of digital divide). Massimo Ragnedda und Maria L. Ruiu (2020) beschreiben darüber hinaus, dass die allgemeinen Lebenschancen in der digitalen Gesellschaft stark von den Möglichkeiten online partizipieren zu können beeinflusst werden und digitale Präsenz zu einem wesentlichen Faktor des sozialen Kapitals wurde (third level of digital divide).[^divide]
 
 ### Diversität
 
@@ -402,6 +402,8 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 [^inequality]: Schäfers, Bernhard & Lehmann, Bianca (2010). Ungleichheit, soziale. In: Johannes Kopp & Bernhard Schäfers (Hrsg.). Grundbegriffe der Soziologie, 10. Auflage. Wiesbaden: VS Verlag für Sozialwissenschaften.
 
 [^scripts]: Bath, Corinna (2011): Wie lässt sich die Vergeschlechtlichung informatischer Artefakte theoretisch fassen? Vom Genderskript zur posthumanistischen Performativität. In: Wiedlack, Maria/Lasthofer, Katrin (Hrsg.): Körperregime und Geschlecht. Innsbruck: Studienverlag, S. 221–243.
+
+[^divide]: Susanne Sackl-Sharif, Andrea Mayr & Sabine Klinger (2024). Zwischen Digital Divide und kreativ-tranformativer Gestaltung des digitalen Raums. Zur Arbeit mit Adressat:innen in der digitalisierten Sozialen Arbeit. In: K. Lauermann, R. More, M. Sigot & S. Sting (Hrsg.): Soziale Arbeit zwischen Inklusion und Exkulsion. Perspektiven aus Forschung und Praxis. Opladen/Berlin/Toronto: Barbara Budrich Verlag, S. 142-152.
 
 ---
 
