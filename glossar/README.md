@@ -150,9 +150,7 @@ Eine mathematische Darstellung von Text als Zahlenvektor in einem hochdimensiona
 
 ### Feminist AI Literacies
 
-Feministische AI Literacies in der Sozialen Arbeit sind diversitäts- und machtsensible, intersektionale und Bias-erkennende Fähigkeiten und Fertigkeiten im Umgang mit generativen KI-Tools mit einem speziellen Fokus auf Prompting und kritische Output-Bewertung sowie Kontext- bzw. Anwendungssensitivität (Klinger & Sackl-Sharif, 2026).
-
-Klinger, Sabine & Sackl-Sharif, Susanne (26.02.2026). Feministische AI Literacies in der Sozialen Arbeit [Definition]. In: Orientierungsleitfaden: Diversitätssensibler Umgang mit Künstlicher Intelligenz. digitalesozialearbeit.github.io/orientierungsleitfaden
+Feministische AI Literacies in der Sozialen Arbeit sind diversitäts- und machtsensible, intersektionale und Bias-erkennende Fähigkeiten und Fertigkeiten im Umgang mit generativen KI-Tools mit einem speziellen Fokus auf Prompting und kritische Output-Bewertung sowie Kontext- bzw. Anwendungssensitivität. [^feministAI]
 
 ### Few-Shot Prompting
 Eine [Prompting-Technik](#prompt-engineering), bei der dem Modell einige Beispiele im Prompt mitgegeben werden, die das gewünschte Eingabe-Ausgabe-Format zeigen. Das Modell lernt das Muster aus dem Kontext, ohne neu trainiert zu werden.
@@ -406,6 +404,8 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 [^divide]: Susanne Sackl-Sharif, Andrea Mayr & Sabine Klinger (2024). Zwischen Digital Divide und kreativ-tranformativer Gestaltung des digitalen Raums. Zur Arbeit mit Adressat:innen in der digitalisierten Sozialen Arbeit. In: K. Lauermann, R. More, M. Sigot & S. Sting (Hrsg.): Soziale Arbeit zwischen Inklusion und Exkulsion. Perspektiven aus Forschung und Praxis. Opladen/Berlin/Toronto: Barbara Budrich Verlag, S. 142-152.
 
 [^deskilling]: Farhan, A. (2023). The impact of artificial intelligence on human workers. Journal of Communication Education, 17(2), 93–104.
+
+[^feministAI]: Klinger, Sabine & Sackl-Sharif, Susanne (26.02.2026). Feministische AI Literacies in der Sozialen Arbeit [Definition]. In: Orientierungsleitfaden: Diversitätssensibler Umgang mit Künstlicher Intelligenz. digitalesozialearbeit.github.io/orientierungsleitfaden
 
 ---
 
