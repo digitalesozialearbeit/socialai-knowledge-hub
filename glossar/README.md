@@ -56,8 +56,8 @@ Standardisierte Testsätze zur Vergleichsmessung der Leistungsfähigkeit von KI-
 ### Bias
 
 Systematische Verzerrung in Daten, Modellen oder Entscheidungen. Im Projekt in mehreren Dimensionen relevant:
-- **Sozialwissenschaftlich:** gesellschaftliche Vorurteile und strukturelle Diskriminierung. Eine systematische (nicht zufällige) Verzerrung unserer Wahrnehmung, Erinnerung und Beurteilung – geprägt durch Erfahrungen, Sozialisation und kulturelle Normen. Im Gegensatz zu einem Zufallsfehler folgt eine Verzerrung einem bestimmten Muster: Sie lenkt das Denken stets in eine bestimmte Richtung. --> Die menschliche Wahrnehmung ist niemals neutral.
-- **Sozialwissenschaftliche Subformen:** **a) Unconscious/Implicit Bias:** bezeichnet kognitive Prozesse, bei denen frühere Erfahrungen, soziale Kategorien und kulturell vermittelte Stereotype Urteile beeinflussen, ohne dass sich die handelnden Personen dessen bewusst sind. Widerspricht oft den eigenen Werten, die expliziert werden können, beeinflusst jedoch systematisch Entscheidungen. **b)Confirmation Bias**: Tendenz, Informationen zu vertrauen oder zu bevorzugen, die die eigene Weltsicht bestärkt, bereits vorhandene Weltbilder verstärkt. **c) Affinity/In-Group Bias**: Tendenz, Personen zu bevorzugen, die einem ähnlich sind.
+- **Sozialwissenschaftlich:** Sozialwissenschaftlich lässt sich Bias an der Schnittstelle zweier Traditionen verstehen: Die kognitionspsychologische Linie (Tversky & Kahneman, 1974) fasst ihn als systematische, also nicht zufällige Verzerrung unserer Wahrnehmung, Erinnerung und Beurteilung, die einem erkennbaren Muster folgt und das Denken stets in eine bestimmte Richtung lenkt.[^kognito] Die soziologische Linie (Allport, 1954) verweist auf deren gesellschaftliche Verankerung in Vorurteilen, kulturellen Normen und struktureller Diskriminierung. Beide Ebenen greifen ineinander: Individuelles Urteilen ist durch Erfahrungen, Sozialisation und kulturelle Normen geprägt und reproduziert zugleich gesellschaftliche Ungleichheit. Die menschliche Wahrnehmung ist damit niemals neutral.[^llport]
+- **Sozialwissenschaftliche Subformen:** **a) Unconscious/Implicit Bias:** bezeichnet kognitive Prozesse, bei denen frühere Erfahrungen, soziale Kategorien und kulturell vermittelte Stereotype Urteile beeinflussen, ohne dass sich die handelnden Personen dessen bewusst sind. Widerspricht oft den eigenen Werten, die expliziert werden können, beeinflusst jedoch systematisch Entscheidungen.[^ncon] **b) Confirmation Bias**: Tendenz, Informationen zu vertrauen oder zu bevorzugen, die die eigene Weltsicht bestärkt, bereits vorhandene Weltbilder verstärkt.[^conf] **c) Affinity/In-Group Bias**: Tendenz, Personen zu bevorzugen, die einem ähnlich sind.[^group]
 - **Technisch:** Systematische Verzerrung in den Antworten eines [LLM](#llm), die aus Trainingsdaten und Trainingsprozess stammt.[^bias] Bias zeigt sich etwa in Geschlechter- und Altersstereotypen oder in der Bevorzugung bestimmter Perspektiven. Die Forschung unterscheidet repräsentative Schäden (Stereotypisierung) und allokative Schäden (ungleiche Ressourcenverteilung). Bias lässt sich nicht vollständig beseitigen, sondern nur sichtbar machen und reflektiert kompensieren. 
 
 
@@ -413,6 +413,16 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 [^sectionality]: Kimberlé Crenshaw (1989): Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine. In: The University of Chicago Legal Forum. S. 139–167.
 
 [^matthi]: Barbara Hönig, Matthäus-Effekt. In: Christian Fleck und Christian Dayé: Meilensteine der Soziologie. Campus, Frankfurt am Main 2020, ISBN 978-3-593-51102-3, S. 456–462.
+
+[^kognito]: Tversky, A. & Kahneman, D. (1974): Judgment under Uncertainty: Heuristics and Biases, in: Science, 185(4157), 1124–1131.
+
+[^llport]: Allport, G. W. (1954): The Nature of Prejudice, Addison-Wesley.
+
+[^ncon]: Greenwald, A. G. & Banaji, M. R. (1995): Implicit Social Cognition: Attitudes, Self-Esteem, and Stereotypes, in: Psychological Review, 102(1), 4–27.
+
+[^conf]: Nickerson, R. S. (1998): Confirmation Bias: A Ubiquitous Phenomenon in Many Guises, in: Review of General Psychology, 2(2), 175–220. 
+
+[^group]: Tajfel, H. & Turner, J. C. (1979): An Integrative Theory of Intergroup Conflict, in: W. G. Austin & S. Worchel (Hg.), The Social Psychology of Intergroup Relations, S. 33–47.
 
 ---
 
