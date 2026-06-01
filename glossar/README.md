@@ -105,7 +105,7 @@ Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016
 
 ### Deskilling
 
-Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. Wenn KI-generierte Texte, Einschätzungen oder Empfehlungen unkritisch übernommen werden, kann das fachliche Urteilsvermögen abnehmen -ein relevantes Risiko für die Qualität Sozialer Arbeit.
+Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. Wenn KI-generierte Texte, Einschätzungen oder Empfehlungen unkritisch übernommen werden, kann das fachliche Urteilsvermögen abnehmen -ein relevantes Risiko für die Qualität Sozialer Arbeit.[^deskilling]
 
 ### Digital Divide
 
@@ -404,6 +404,8 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 [^scripts]: Bath, Corinna (2011): Wie lässt sich die Vergeschlechtlichung informatischer Artefakte theoretisch fassen? Vom Genderskript zur posthumanistischen Performativität. In: Wiedlack, Maria/Lasthofer, Katrin (Hrsg.): Körperregime und Geschlecht. Innsbruck: Studienverlag, S. 221–243.
 
 [^divide]: Susanne Sackl-Sharif, Andrea Mayr & Sabine Klinger (2024). Zwischen Digital Divide und kreativ-tranformativer Gestaltung des digitalen Raums. Zur Arbeit mit Adressat:innen in der digitalisierten Sozialen Arbeit. In: K. Lauermann, R. More, M. Sigot & S. Sting (Hrsg.): Soziale Arbeit zwischen Inklusion und Exkulsion. Perspektiven aus Forschung und Praxis. Opladen/Berlin/Toronto: Barbara Budrich Verlag, S. 142-152.
+
+[^deskilling]: Farhan, A. (2023). The impact of artificial intelligence on human workers. Journal of Communication Education, 17(2), 93–104.
 
 ---
 
