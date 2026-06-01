@@ -236,7 +236,7 @@ Ein Verfahren, bei dem ein [LLM](#llm) die Outputs eines anderen Modells (oder e
 
 ### Matthäus-Effekt
 
-Der Matthäus-Effekt beschreibt das soziologische Prinzip, dass Erfolg, Aufmerksamkeit oder Ressourcen unweigerlich zu weiterem Erfolg führen ("Wer hat, dem wird gegeben"). Im Rahmen des SocialAI-Projekts ist dieser Effekt mit dem Digital Divide verbunden und beschreibt etwa das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie AI Literacies in der Sozialen Arbeit vermittelt werden sollen und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.
+Der Matthäus-Effekt beschreibt das soziologische Prinzip, dass Erfolg, Aufmerksamkeit oder Ressourcen unweigerlich zu weiterem Erfolg führen ("Wer hat, dem wird gegeben"). Im Rahmen des SocialAI-Projekts ist dieser Effekt mit dem Digital Divide verbunden und beschreibt etwa das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie AI Literacies in der Sozialen Arbeit vermittelt werden sollen und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.[^matthi]
 
 ### MCP
 **Model Context Protocol**. Ein offener Standard, der im November 2024 von Anthropic vorgestellt wurde und die Verbindung von KI-Anwendungen mit externen Datenquellen, Tools und Diensten vereinheitlicht. Wird oft als „USB-C für KI-Anwendungen" beschrieben, weil eine Schnittstelle viele unterschiedliche Anbindungen ersetzt. Hat sich 2025 rasch als Industriestandard etabliert und wird auch von OpenAI, Google und Microsoft unterstützt.
@@ -411,6 +411,8 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 [^geschlecht]: Theresa Wobbe & Getrud Nunner-Winkler (2020). Geschlecht und Gesellschaft. In: Lehrbuch der Soziologie, 4. Auflage. Franfurt am Main: Campus verlag, S. 407-438.
 
 [^sectionality]: Kimberlé Crenshaw (1989): Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine. In: The University of Chicago Legal Forum. S. 139–167.
+
+[^matthi]: Barbara Hönig, Matthäus-Effekt. In: Christian Fleck und Christian Dayé: Meilensteine der Soziologie. Campus, Frankfurt am Main 2020, ISBN 978-3-593-51102-3, S. 456–462.
 
 ---
 
