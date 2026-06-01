@@ -122,7 +122,7 @@ Die Fähigkeit, Vielfalt und ihre Auswirkungen in sozialen Interaktionen und Ins
 
 ### Diskriminierung
 Ungleichbehandlung aufgrund der (vermeintlichen) Zugehörigkeit zu einer Gruppe – Geschlecht, ethnische Herkunft, Alter, Behinderung, sexuelle Orientierung, Religion, soziale Schicht.
-- **sozialwissenschaftlich**: Diskriminierung ist ein Prozess, durch den soziale Ungleichheit geschaffen und aufrechterhalten wird, und sie wirkt durch spezifische Handlungen der Klassifizierung, Bewertung und Ausgrenzung. Sie kann direkt / explizit oder implizit erfolgen.
+- **sozialwissenschaftlich**: Diskriminierung ist ein Prozess, durch den soziale Ungleichheit geschaffen und aufrechterhalten wird, und sie wirkt durch spezifische Handlungen der Klassifizierung, Bewertung und Ausgrenzung. Sie kann direkt / explizit oder implizit erfolgen. Aus sozialwissenschaftlicher Perspektive bilden Differenzkonstruktionen die Grundlage von Diskriminierungen. Sie entstehen aus Zuschreibung, Abstrahierung und Stereotypisierung. Sie führen zu Hierarchien, Ein- und Ausschlüssen und sind mit sozialen, ökonomischen, politischen oder rechtlichen Benachteiligungen verschränkt. Feministische und antirassistisch-postkoloniale Perspektiven betonen die überindividuelle Dimension von Diskriminierungen; sie sind als historisch gewachsenes, strukturelles Phänomen zu betrachten. Definition siehe [Gender Glossar](https://www.gender-glossar.de/post/diskriminierung)
 - **juridisch**. mittelbar / unmittelbar, GIBG
 
 ### Distillation
