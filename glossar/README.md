@@ -9,11 +9,13 @@
 
 > *Anmerkung zu den technologischen Definitionen*: KI- und Technologie-Begriffe, verständlich erklärt. Übernommen und adaptiert vom [Legal History Hub Tutorial](https://github.com/DigitalHumanitiesCraft/legal-history-hub).
 ---
-## A
+## A 
 
 ### AI Act / KI-Verordnung
 
 Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz (AI Act, Verordnung (EU) 2024/1689). Sie regelt die Entwicklung und den Betrieb von KI und folgt dabei einem "risikobasierten Ansatz" - je höher das Risiko, das von einem KI-System ausgeht, desto strenger die Verpflichtungen. Dabei kennt sie folgende Risikokategorien: verbotene Praktiken (zB Emotionserkennung am Arbeitsplatz und social scoring), Hochrisiko-KI (zB KI im Personalmanagement, in der Zuerkennung öffentlicher Leistungen oder in der Justiz), Transparenzrisiken (Wenn KI mit Personen interagiert, Deepfakes oder sonstige Inhalte generiert) und minimale Risiken (alle übrigen Systeme). Die KI-Verordnung unterscheidet folgende zentrale Rollen, nach denen sich wiederum die konkreten Pflichten messen: **Anbieter** (entwickelt/vermarktet KI-Systeme), **Betreiber** (setzt KI-Systeme zu beruflichen Zwecken ein) und **Nutzer:in** (verwendet KI). Relevant für die Soziale Arbeit, da der Einsatz von KI im Kontext vulnerabler Gruppen besondere Pflichten mit sich bringt.
+***Anmerkung Sabine****:
+Wenn Organisationen Sozialer Arbeit KI-Systeme in eigener Verantwortung einsetzen, sind sie verpflichtet, bestimmte Anforderungen zu erfüllen – etwa zur Qualifikation des eingesetzten Personals oder zur Dokumentation. Der genaue Umfang dieser Pflichten hängt von der Art des eingesetzten Systems, seiner Herkunft sowie der jeweiligen Risikoklassifizierung nach dem AI Act ab.
 
 ***Anmerkung Susi****: So stelle ich hier eine Frage oder formuliere eine Anmerkung
 
@@ -37,7 +39,7 @@ Androzentrismus (von griech. andros „Mann“ und kentron „Mittelpunkt“) be
 ### Autoregressive Generierung
 Das Prinzip, nach dem [LLMs](#llm) Text erzeugen. Jedes vorhergesagte [Token](#token) wird Teil des Kontexts für die nächste Vorhersage. Das Modell baut seinen Output Wort für Wort auf.
 
-### Automation Bias
+### Automation Bias (Automatisierungsverzerrung)
 
 Eine Unterkategorie von [Bias](#Bias). Die Tendenz, sich in bestimmten Situationen übermäßig auf automationsunterstützte Entscheidungsfindungssysteme zu verlassen, ohne deren Output kritisch zu prüfen (Wickens/Clegg/Vieane/Sebok 2015, 729).
 Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im praktischen Einsatz eher für gültig und berechtigt gehalten, wenngleich diese möglicherweise falsche oder unvollständige Informationen liefern (Research Institute 2025, 122).
