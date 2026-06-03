@@ -311,6 +311,10 @@ in Abgrenzung zu deterministischen Systemen
 ---
 
 ## Q
+***Anmerkung Sabine****: Neuer Begriff
+### quasisoziale Beziehung
+"Eine quasisoziale Beziehung beschreibt die Beziehung zwischen einem Menschen und einem künstlichen Agenten, bei der die Merkmale zwischenmenschlicher Beziehungsbildung (1) Soziale Präsenz, (2) Vertrauen, (3) emotionale Bindung und (4) gegenseitige Beeinflussung gleichzeitig vorhanden sind. Quasisoziale Beziehungen weisen soziale Elemente auf, sind aber dennoch von echten zwischenmenschlichen Beziehungen zu unterscheiden.“ 
+[^quasi] 
 
 ### Queer Feminismus
 
@@ -466,6 +470,8 @@ Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.10
 EthikJournal 8. Jg. 2. Ausgabe (https://www.ethikjournal.de/fileadmin/user_upload/ethikjournal/Texte_Ausgabe_2022_2/Noack_Napoles_Ethikjournal_2_22.pdf)
 
 [^gaig]: Digital Gender Gap – Schwerpunkt 2026 Künstliche Intelligenz, ein Kooperationsprojekt der Initiative D21 und des Instituts für w eiteren Informationen zur Arbeitsmarkt- und Berufsforschung (IAB).
+
+[^quasi]: Linnemann, Gesa/Löhe, Julian/Rottkemper, Beate (2024): Bedeutung von Selbstoffenbarungseffekten in quasisozialen Beziehungen mit auf generativer KI basierten Systemen in Settings von Onlineberatung und -therapie. In: e-beratungsjournal.net – Zeitschrift für Onlineberatung und computervermittelte Kommunikation 20(1), Artikel 1, S. 1–21. https://doi.org/10.48341/9X1S-5Y11
 
 ---
 
