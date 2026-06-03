@@ -65,7 +65,7 @@ Standardisierte Testsätze zur Vergleichsmessung der Leistungsfähigkeit von KI-
 
 ### Bias
 
-Systematische Verzerrung in Daten, Modellen oder Entscheidungen. Im Projekt in mehreren Dimensionen relevant:
+Systematische Verzerrung in Daten, Repräsentation, Modellen oder Entscheidungen. Im Projekt in mehreren Dimensionen relevant:
 - **Sozialwissenschaftlich:** Sozialwissenschaftlich lässt sich Bias an der Schnittstelle zweier Traditionen verstehen: Die kognitionspsychologische Linie (Tversky & Kahneman, 1974) fasst ihn als systematische, also nicht zufällige Verzerrung unserer Wahrnehmung, Erinnerung und Beurteilung, die einem erkennbaren Muster folgt und das Denken stets in eine bestimmte Richtung lenkt.[^kognito] Die soziologische Linie (Allport, 1954) verweist auf deren gesellschaftliche Verankerung in Vorurteilen, kulturellen Normen und struktureller Diskriminierung. Beide Ebenen greifen ineinander: Individuelles Urteilen ist durch Erfahrungen, Sozialisation und kulturelle Normen geprägt und reproduziert zugleich gesellschaftliche Ungleichheit. Die menschliche Wahrnehmung ist damit niemals neutral.[^llport]
 - **Sozialwissenschaftliche Subformen:** **a) Unconscious/Implicit Bias:** bezeichnet kognitive Prozesse, bei denen frühere Erfahrungen, soziale Kategorien und kulturell vermittelte Stereotype Urteile beeinflussen, ohne dass sich die handelnden Personen dessen bewusst sind. Widerspricht oft den eigenen Werten, die expliziert werden können, beeinflusst jedoch systematisch Entscheidungen.[^ncon] **b) Confirmation Bias**: Tendenz, Informationen zu vertrauen oder zu bevorzugen, die die eigene Weltsicht bestärkt, bereits vorhandene Weltbilder verstärkt.[^conf] **c) Affinity/In-Group Bias**: Tendenz, Personen zu bevorzugen, die einem ähnlich sind.[^group]
 - **Technisch:** Systematische Verzerrung in den Antworten eines [LLM](#llm), die aus Trainingsdaten und Trainingsprozess stammt.[^bias] Bias zeigt sich etwa in Geschlechter- und Altersstereotypen oder in der Bevorzugung bestimmter Perspektiven. Die Forschung unterscheidet repräsentative Schäden (Stereotypisierung) und allokative Schäden (ungleiche Ressourcenverteilung). Bias lässt sich nicht vollständig beseitigen, sondern nur sichtbar machen und reflektiert kompensieren. 
@@ -176,6 +176,7 @@ Geschlecht ist nicht neutral. Es beeinflusst, welche Chancen Menschen haben, wel
 
 ***Anmerkung Sabine****: Neuer Begriff
 ### Gender AI Gap
+Der Gender AI Gap zeigt den Unterschied zwischen Frauen und Männern in der KI-Nutzung. Die Studie zum Digital Gender Gap. Schwerpunkt 2026 - Künstliche Intelligenz zeigt: Es besteht ein signifikanter Gender AI Gap. Frauen nutzen KI Anwendungen seltener und weniger intensiv als Männer (rund 16 Prozentpunkte Unterschied in der Ausgangsbetrachtung). Wenn Unterschiede in Alter, Bildung, Einkommen, beruflichem Kontext sowie Kompetenzen und Einstellungen statistisch berücksichtigt werden, verringert sich die Lücke zwar – bleibt aber auch dann bestehen (rund 8 Prozentpunkte). [^gaig]
 
 ### Gender Scripts
 Skript: Designer:innen legen in technologischen Artefakten Annahmen über zukünftige Nutzer:innen fest: wer diese sein werden, was sie wollen und wie sie sich verhalten werden. Das Artefakt schreibt ein Nutzungsszenario vor (wie in einem Theaterstück). Gender Skript: die Vorstellungen, die Designer:innen von Geschlechterbeziehungen und -identitäten haben und die sie in die Materialität des Artefakts einfließen lassen.[^scripts]
@@ -461,8 +462,10 @@ Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.10
 
 [^diversität]: Abdul-Hussain, S. & Hofmann, R. (2013). Begriffserklärung Diversität. Verfügbar am 23.03.2020 unter https://erwachsenenbildung.at/themen/diversitymanagement/grundlagen/begriffserklaerung.php
 
-[^vulnerabilität] Juliane Noack- Napoles: Vulnerabilität als Deutungshorizont sozialer Probleme am Beispiel von Einsamkeit
+[^vulnerabilität]: Juliane Noack- Napoles: Vulnerabilität als Deutungshorizont sozialer Probleme am Beispiel von Einsamkeit
 EthikJournal 8. Jg. 2. Ausgabe (https://www.ethikjournal.de/fileadmin/user_upload/ethikjournal/Texte_Ausgabe_2022_2/Noack_Napoles_Ethikjournal_2_22.pdf)
+
+[^gaig]: Digital Gender Gap – Schwerpunkt 2026 Künstliche Intelligenz, ein Kooperationsprojekt der Initiative D21 und des Instituts für w eiteren Informationen zur Arbeitsmarkt- und Berufsforschung (IAB).
 
 ---
 
