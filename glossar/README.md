@@ -174,6 +174,9 @@ Bezeichnung für die jeweils leistungsfähigsten Modelle einer Generation, etwa 
 Geschlecht ist nicht neutral. Es beeinflusst, welche Chancen Menschen haben, welche Ressourcen sie bekommen und wie viel Anerkennung sie erhalten. Die Beziehungen zwischen den Geschlechtern sind deshalb auch Machtverhältnisse: Durch die Unterscheidung zwischen den Geschlechtern entstehen hierarchische Ungleichheiten.
 - **sozialwissenschaftlich**: Die Grundlage des Geschlechterbegriffs ist ein von der Reproduktionsfähigkeit ausgehendes, biologisches Verständnis von Menschen als entweder „weiblich“ oder „männlich“ – also als „gebärfähig“ oder nicht. Der Geschlechterbegriff hat jedoch nicht nur biologische, sondern auch soziale, und damit identitätsstiftende, rechtliche Aspekte – nach Auffassung der Geschlechterforschung können jedoch sowohl das biologische als auch soziale Geschlecht als gesellschaftliche Konstruktionen verstanden werden, die die Realität geschlechtlicher Vielfalt nur unzureichend erfassen. [Weitere Details-Orientierungsleitfaden 3.1](https://digitalesozialearbeit.github.io/orientierungsleitfaden). [^geschlecht]
 
+***Anmerkung Sabine****: Neuer Begriff
+### Gender AI Gap
+
 ### Gender Scripts
 Skript: Designer:innen legen in technologischen Artefakten Annahmen über zukünftige Nutzer:innen fest: wer diese sein werden, was sie wollen und wie sie sich verhalten werden. Das Artefakt schreibt ein Nutzungsszenario vor (wie in einem Theaterstück). Gender Skript: die Vorstellungen, die Designer:innen von Geschlechterbeziehungen und -identitäten haben und die sie in die Materialität des Artefakts einfließen lassen.[^scripts]
 
@@ -386,6 +389,9 @@ Die Architektur hinter modernen [LLMs](#llm), 2017 in „Attention Is All You Ne
 Vertrauen Arndt
 
 ### Vulnerabilität / Schutzbedürfnis 
+Vulnerabilität wird zum einen logisch in einen Zusammenhang mit Unverletztheit oder Nichtverletzbarkeit gebracht und zum anderen wird Resilienz als Gegenstück der Vulnerabilität mitgedacht. In diesem Sinne bezeichnet Vulnerabilität „die Verletzlichkeit oder Verletzbarkeit einer Person, einer sozialen Gruppe, eines Gegenstandes oder eines Systems angesichts bestehender Gefährdungen, Risiken,
+Krisen, Stress, Schocks oder bereits eingetretener belastenden Ereignisse.[^vulnerabilität] Vulnerable Zielgruppen“ sind in der Sozialen Arbeit demnach Personen oder Gruppen, die als in besonderem Maße verletzbar, gefährdet oder schutzbedürftig gelten.
+
 
 rechtlich
 sozialwissenschaftlich / mit Blick auf Soziale Arbeit
@@ -454,6 +460,9 @@ Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.10
 [^aidivide1]: UNESCO Global AI Ethics and Governance Observatory (2025). https://www.unesco.org/ethics-ai/en/articles/ai-literacy-and-new-digital-divide-global-call-action
 
 [^diversität]: Abdul-Hussain, S. & Hofmann, R. (2013). Begriffserklärung Diversität. Verfügbar am 23.03.2020 unter https://erwachsenenbildung.at/themen/diversitymanagement/grundlagen/begriffserklaerung.php
+
+[^vulnerabilität] Juliane Noack- Napoles: Vulnerabilität als Deutungshorizont sozialer Probleme am Beispiel von Einsamkeit
+EthikJournal 8. Jg. 2. Ausgabe (https://www.ethikjournal.de/fileadmin/user_upload/ethikjournal/Texte_Ausgabe_2022_2/Noack_Napoles_Ethikjournal_2_22.pdf)
 
 ---
 
