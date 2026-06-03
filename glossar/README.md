@@ -14,8 +14,8 @@
 ### AI Act / KI-Verordnung
 
 Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz (AI Act, Verordnung (EU) 2024/1689). Sie regelt die Entwicklung und den Betrieb von KI und folgt dabei einem "risikobasierten Ansatz" - je höher das Risiko, das von einem KI-System ausgeht, desto strenger die Verpflichtungen. Dabei kennt sie folgende Risikokategorien: verbotene Praktiken (zB Emotionserkennung am Arbeitsplatz und social scoring), Hochrisiko-KI (zB KI im Personalmanagement, in der Zuerkennung öffentlicher Leistungen oder in der Justiz), Transparenzrisiken (Wenn KI mit Personen interagiert, Deepfakes oder sonstige Inhalte generiert) und minimale Risiken (alle übrigen Systeme). Die KI-Verordnung unterscheidet folgende zentrale Rollen, nach denen sich wiederum die konkreten Pflichten messen: **Anbieter** (entwickelt/vermarktet KI-Systeme), **Betreiber** (setzt KI-Systeme zu beruflichen Zwecken ein) und **Nutzer:in** (verwendet KI). Relevant für die Soziale Arbeit, da der Einsatz von KI im Kontext vulnerabler Gruppen besondere Pflichten mit sich bringt.
-***Anmerkung Sabine****:
-Wenn Organisationen Sozialer Arbeit KI-Systeme in eigener Verantwortung einsetzen, sind sie verpflichtet, bestimmte Anforderungen zu erfüllen – etwa zur Qualifikation des eingesetzten Personals oder zur Dokumentation. Der genaue Umfang dieser Pflichten hängt von der Art des eingesetzten Systems, seiner Herkunft sowie der jeweiligen Risikoklassifizierung nach dem AI Act ab.
+
+***Anmerkung Sabine****: Wenn Organisationen Sozialer Arbeit KI-Systeme in eigener Verantwortung einsetzen, sind sie verpflichtet, bestimmte Anforderungen zu erfüllen – etwa zur Qualifikation des eingesetzten Personals oder zur Dokumentation. Der genaue Umfang dieser Pflichten hängt von der Art des eingesetzten Systems, seiner Herkunft sowie der jeweiligen Risikoklassifizierung nach dem AI Act ab.
 
 ***Anmerkung Susi****: So stelle ich hier eine Frage oder formuliere eine Anmerkung
 
@@ -25,7 +25,8 @@ KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über 
 
 ### AI Literacies / KI Literacies / KI Kompetenzen
 
-Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre Wirkungen einzuordnen. AI Literacies umfassen technisches Grundverständnis, einen Blick für [Bias](#bias) und [Konfabulation](#konfabulation), Kenntnis rechtlicher Rahmen sowie die Fähigkeit, Einsatzentscheidungen zu reflektieren. Der Begriff ist analog zu Medienkompetenz konzipiert und seit 2024 auch im EU AI Act als organisationale Pflicht verankert.
+Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre Wirkungen einzuordnen. AI Literacies umfassen technisches Grundverständnis, einen Blick für [Bias](#bias) und [Konfabulation](#konfabulation), Kenntnis rechtlicher Rahmen sowie die Fähigkeit, Einsatzentscheidungen zu reflektieren. Der Begriff ist analog zu Medienkompetenz konzipiert und seit 2024 auch im EU AI Act als organisationale Pflicht verankert. AI Literacies kann aus drei Kompetenzfeldern generiert werden Verstehen von Funktionsweisen und Prinzipien der KI; Anwendung in alltags- und berufsspezifischen Kontexten; Bewertung und Reflexion des Einsatzes von KI im Hinblick auf Qualität, Fairness und gesellschaftliche Auswirkungen. [^ailiteracies]
+***Anmerkung Sabine****: würde KI Litercies weglassen, weil im deutschsprachigen Diskurs eher von KI-Kompetenz oder KI Literalität gesprochen. 
 
 ### Alignment
 Der Prozess, ein KI-Modell so zu trainieren, dass es hilfreich, harmlos und ehrlich antwortet. Methoden wie [RLHF](#rlhf) und [Constitutional AI](#constitutional-ai) sind Teil davon.
@@ -328,13 +329,14 @@ Eine Modellklasse, die seit 2024 verbreitet ist und vor der eigentlichen Antwort
 ## S
 
 ### Shadow AI
+Shadow AI bezeichnet den Einsatz von KI-Tools, LLMs oder autonomen KI-Agenten innerhalb einer Organisation außerhalb der formellen Steuerung (zB ohne die ausdrückliche Genehmigung, Steuerung oder Aufsicht durch IT- und Security-Teams). Anwendungen ohne formelle Genehmigung durch das Unternehmen und spiegelt die Kerndynamik der bereits bekannteren Shadow IT wider, birgt jedoch weitaus komplexere Risiken.[^shadowAI]
+
 
 ### Slop
 Minderwertiger, formelhafter KI-Text. Erkennbar an Wendungen wie „Delve into", „It is crucial to note" oder „Furthermore", inflationärer Verwendung von Em-Dashes und Buzzwords wie „ever-evolving". Gegenmittel sind kritisches Lesen und klare Anweisungen im Prompt.
 
 ### Soziale Arbeit
-
-Professionelles Handlungsfeld, das im Projekt als Anwendungskontext für KI untersucht wird. Besonderheiten: Arbeit mit vulnerablen Gruppen, hohe ethische Anforderungen, frauendominiertes Berufsfeld, vielfältige Einsatzgebiete (Jugendhilfe, Beratung, Gemeinwesenarbeit u.a.).
+Professionelles Handlungsfeld, das im Projekt als Anwendungskontext für KI untersucht wird. Besonderheiten: Arbeit mit vulnerablen Gruppen, hohe ethische Anforderungen, frauendominiertes Berufsfeld, vielfältige Einsatzgebiete (Jugendhilfe, Beratung, Gemeinwesenarbeit u.a.).„Professionelle Soziale Arbeit in ihren Ausprägungsformen Sozialarbeit und Sozialpädagogik umfasst berufsmäßige, umfassende, geplante, individuell abgestimmte und wissenschaftlich fundierte Unterstützungs- und Hilfsprozesse für komplexe soziale Themen und Problemlagen. Diese Prozesse adressieren Einzelpersonen, Gruppen und das Gemeinwesen und werden häufig in Abstimmung bzw. Kooperation mit anderen Professionen oder vorhandenen Unterstützungssystemen in unterschiedlichen Gesellschaftsbereichen erbracht und dienen der praktischen Umsetzung demokratischer und sozialstaatlicher Zielsetzungen und Prinzipien.“ [^sozialearbeit]
 
 ### Soziale Ungleichheit
 Soziale Ungleichheit beschreibt in den Sozialwissenschaften die ungleiche Verteilung materieller und immaterieller Ressourcen (Einkommen, Bildung, Gesundheit, Anerkennung, politisches Mitspracherecht), was zu unterschiedlichen Teilhabemöglichkeiten von Menschen in der Gesellschaft führt. Es handelt sich nicht nur um bloße Unterschiede (Menschen sind unterschiedlich / divers), sondern um strukturierte, anhaltende und folgenschwere Benachteiligungen. Aktuell existiert ein Spannungsfeld zwischen dem meritokratischen Selbstverständnis moderner Gesellschaften (Erfolg wird durch individuelle Anstrengung und Talent bestimmt) und der Realität ungleicher Lebenschancen, die u.a. durch Geschlecht, Klasse und ethnische Zugehörigkeit geprägt sind. Sie ist ein Ergebnis sozialer Strukturen und historischer Prozesse.[^inequality]
@@ -428,9 +430,18 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 
 [^ncon]: Greenwald, A. G. & Banaji, M. R. (1995): Implicit Social Cognition: Attitudes, Self-Esteem, and Stereotypes, in: Psychological Review, 102(1), 4–27.
 
+[^shadowAI]: Silic, Mario, Dario, Silic, and Kathrin Kind-Trüller. 2025. “From Shadow It to Shadow AI–Threats, Risks and Opportunities for Organizations.” Strategic Change1–16. https://doi.org/10.1002/jsc.2682.
+siehe auch: Darren Y. Chua, Bettina M. McMahon, Simon Ko (2026): Shadow AI in Consumer Health: The Case for Safe Adoption of National Health AI Assistants,
+Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.1016/j.mcpdig.2026.100352.
+
+
 [^conf]: Nickerson, R. S. (1998): Confirmation Bias: A Ubiquitous Phenomenon in Many Guises, in: Review of General Psychology, 2(2), 175–220. 
 
 [^group]: Tajfel, H. & Turner, J. C. (1979): An Integrative Theory of Intergroup Conflict, in: W. G. Austin & S. Worchel (Hg.), The Social Psychology of Intergroup Relations, S. 33–47.
+
+[^sozialearbeit]: AG Sozialpädagogik, FBKSSO, Netzwerk Sozialpädagogik Österreich, OBDS, OGSA, ÖFAS & ÖFEB Sektion Sozialpädagogik (Hrsg.) (2025): Qualifikationsrahmen Soziale Arbeit in Österreich. https://obds.at/was-ist-soziale-arbeit/
+
+[^ailiteracies]: Schindler, Julia (2025): Glossar. Begriffe und Konzepte im Kontext von Künstlicher Intelligenz in der Bildung. In: Magazin erwachsenenbildung.at. Das Fachmedium für Forschung, Praxis und Diskurs. Ausgabe 55, 2025. Online: https://erwachsenenbildung.at/magazin/ausgabe-55
 
 ---
 
