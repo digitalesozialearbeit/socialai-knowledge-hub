@@ -18,3 +18,10 @@ __pycache__/
 
 # Original DOCX (converted to PDF)
 *.docx
+
+# Vertrauliche Dokumente (Repo ist public – nicht einchecken)
+Konsortialvertrag+Anhang_sig_final.pdf
+*_sig_final.pdf
+
+# Buchhaltung / Belege (nicht ins public Repo)
+Eigenbeleg_*
