@@ -23,19 +23,16 @@ Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz 
 
 KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über einfache Frage-Antwort-Interaktion hinaus. Im Projektkontext eine offene Frage: Inwieweit werden agentenbasierte KI-Systeme für die Soziale Arbeit relevant, und welche Chancen und Risiken bringen sie mit sich?
 
+***Anmerkung Sabine****: Neuer Begriff
 ### AI Divide (analog zu Digital Divide)
-Carter et al. (2020) konzeptualisieren den AI divide als Unterdimension des digital divide und definieren ihn als KI-bezogene Ungleichheiten hinsichtlich des Zugangs zu KI (erste Ebene), der Fähigkeit, KI zu nutzen (zweite Ebene), und der Ergebnisse der KI-Nutzung (dritte Ebene) – auf individueller, institutioneller oder Länderebene. Damit erweitern sie das traditionelle Digital-Divide-Modell und betonen die Bedeutung individueller Wahrnehmungen, Überzeugungen und Einstellungen gegenüber KI. Der Begriff AI Divide bezeichnet die wachsende soziale Kluft zwischen Menschen, die KI-Systeme verstehen, nutzen und mitgestalten können – und jenen, die davon ausgeschlossen sind. [^aidivide] 
+Carter et al. (2020) konzeptualisieren den AI divide als Unterdimension des digital divide und definieren ihn als KI-bezogene Ungleichheiten hinsichtlich des Zugangs zu KI (erste Ebene), der Fähigkeit, KI zu nutzen (zweite Ebene), und der Ergebnisse der KI-Nutzung (dritte Ebene) – auf individueller, institutioneller oder Länderebene. Damit erweitern sie [Digital Divide](#digital-divide) und betonen die Bedeutung individueller Wahrnehmungen, Überzeugungen und Einstellungen gegenüber KI. Der Begriff AI Divide bezeichnet die wachsende soziale Kluft zwischen Menschen, die KI-Systeme verstehen, nutzen und mitgestalten können – und jenen, die davon ausgeschlossen sind. [^aidivide] 
 Die UNESCO betont den Diversitätsbezug: Der AI divide bezeichnet den ungleichen Zugang sowie ungleiche Vorteile und Chancen bei KI-Technologien über verschiedene Regionen, Communities und sozioökonomische Gruppen hinweg; die am stärksten marginalisierten Gruppen – Frauen, People of Color, Menschen mit Behinderung, LGBTQ+-Personen – tragen die Hauptlast dieser Kluft.[^aidivide1] 
-
-
-
 Bezug zu Soziale Arbeit: Unterschiede im Zugang zu Technik, Infrastruktur, Sprachkompetenz oder Bildung beeinflussen, wer KI aktiv nutzen kann. Digitale Ungleichheiten werden in bestimmten Szenarien durch KI sogar verschärft – nicht reduziert.
 
 
-
 ### AI Literacies / KI Literacies / KI Kompetenzen
-
-Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre Wirkungen einzuordnen. AI Literacies umfassen technisches Grundverständnis, einen Blick für [Bias](#bias) und [Konfabulation](#konfabulation), Kenntnis rechtlicher Rahmen sowie die Fähigkeit, Einsatzentscheidungen zu reflektieren. Der Begriff ist analog zu Medienkompetenz konzipiert und seit 2024 auch im EU AI Act als organisationale Pflicht verankert. AI Literacies kann aus drei Kompetenzfeldern generiert werden Verstehen von Funktionsweisen und Prinzipien der KI; Anwendung in alltags- und berufsspezifischen Kontexten; Bewertung und Reflexion des Einsatzes von KI im Hinblick auf Qualität, Fairness und gesellschaftliche Auswirkungen. [^ailiteracies]
+Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre Wirkungen einzuordnen. AI Literacies umfassen technisches Grundverständnis, einen Blick für [Bias](#bias) und [Konfabulation](#konfabulation), Kenntnis rechtlicher Rahmen sowie die Fähigkeit, Einsatzentscheidungen zu reflektieren. Der Begriff ist analog zu Medienkompetenz konzipiert und seit 2024 auch im EU AI Act als organisationale Pflicht verankert. AI Literacies meint die Fähigkeit, KI-Systeme zu verstehen, kritisch zu bewerten und sinnvoll zu nutzen – in technischer, ethischer und gesellschaftlicher Hinsicht. Sie umfasst Wissen, Anwendung
+und Reflexion. AI Literacies kann aus drei Kompetenzfeldern generiert werden: Verstehen von Funktionsweisen und Prinzipien der KI; Anwendung in alltags- und berufsspezifischen Kontexten; Bewertung und Reflexion des Einsatzes von KI im Hinblick auf Qualität, Fairness und gesellschaftliche Auswirkungen. [^ailiteracies]
 ***Anmerkung Sabine****: würde KI Litercies weglassen, weil im deutschsprachigen Diskurs eher von KI-Kompetenz oder KI Literalität gesprochen. 
 
 ### Alignment
@@ -117,20 +114,16 @@ Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016
 - **Zweckbindung**:  
 
 ### Deskilling
-
 Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. Wenn KI-generierte Texte, Einschätzungen oder Empfehlungen unkritisch übernommen werden, kann das fachliche Urteilsvermögen abnehmen -ein relevantes Risiko für die Qualität Sozialer Arbeit.[^deskilling]
 
 ### Digital Divide
-
 Jan van Dijk (2020) beschreibt den Begriff ‚Digital Divide‘ als Kluft zwischen jenen Menschen, die Zugang zu digitalen Technologien haben und mit diesen umgehen können und jenen Menschen, die keinen Zugang zu digitalen Technologien haben bzw. mit diesen nicht umgehen können. Der Zugang zu digitalen Technologien umfasst die Verfügbarkeit von Endgeräten wie Computer, Smartphones oder iPads, das Vorhandensein einer (stabilen und starken) Internetverbindung sowie Apps und Softwarelösungen, wie soziale Medien, E-Mail, Suchmaschinen oder E-Banking (first level of digital divide). Der Umgang mit digitalen Technologien bezieht sich auf die Digital Literacies der Anwender:innen (second level of digital divide). Massimo Ragnedda und Maria L. Ruiu (2020) beschreiben darüber hinaus, dass die allgemeinen Lebenschancen in der digitalen Gesellschaft stark von den Möglichkeiten online partizipieren zu können beeinflusst werden und digitale Präsenz zu einem wesentlichen Faktor des sozialen Kapitals wurde (third level of digital divide).[^divide]
 
 ### Diversität
-
-Vielfalt in verschiedenen Dimensionen (Geschlecht, Alter, ethnische Zugehörigkeit, Behinderung etc.). Im Projekt sowohl als Forschungsgegenstand (Wie bildet generative KI Diversität ab? Wo entstehen Verzerrungen?) als auch als Gestaltungsprinzip für inklusive KI-Nutzung relevant.
+Vielfalt in verschiedenen Dimensionen (Geschlecht, Alter, ethnische Zugehörigkeit, Behinderung etc.). Im Projekt sowohl als Forschungsgegenstand (Wie bildet generative KI Diversität ab? Wo entstehen Verzerrungen?) als auch als Gestaltungsprinzip für inklusive KI-Nutzung relevant. Diversität/Diversity werden häufig auch die Begriffe Heterogenität, Unterschiedlichkeit, Verschiedenheit, Mannigfaltigkeit und Differenz verwendet. Der Begriff Diversität fokussiert auf Gemeinsamkeiten und Unterschiede zwischen Menschen. Dabei stehen historisch gewachsene gesellschaftliche Differenzsetzungen im Mittelpunkt, die soziale Ungleichheiten hervorgebracht haben. [^diversität]
 - **sozialwissenschaftlich**: Diversität beschreibt die Vielfalt der Unterschiede und Gemeinsamkeiten zwischen Menschen, die durch historisch gewachsene soziale Kategorien geprägt ist, welche zu Mustern der Ungleichheit geführt haben: Alter, Herkunft, Bildung, Behinderung, sexuelle Orientierung, Religion, soziale Lage usw. Diversität ist somit sowohl deskriptiv (Menschen unterscheiden sich voneinander) als auch normativ (die Unterschiede führen zu Disrkiminierung / sozialen Ungleichheiten.) Diversität ist kein „Sonderthema", sondern Kern sozialarbeiterischer Praxis: Klient:innen bringen unterschiedliche Lebensrealitäten mit – und benötigen unterschiedliche Zugänge bzw. Arten von Unterstützung. Diversität ist deshalb nicht nur ein Wert, sondern eine professionelle Aufgabe in der Sozialen Arbeit.
 
 ### Diversitätssensibilität
-
 Die Fähigkeit, Vielfalt und ihre Auswirkungen in sozialen Interaktionen und Institutionen wahrzunehmen, zu reflektieren und angemessen darauf zu reagieren. Erfordert die Bereitschaft, andere Perspektiven einzunehmen, Toleranz gegenüber Unklarheiten und Unvertrautem sowie kritische Selbstreflexion. Erkennt an, dass gut gemeinte Handlungen dennoch ausgrenzend wirken können: z. B. wenn Kategorien, die eigentlich „einbeziehen“ sollen, Menschen letztlich als „die Anderen“ abstempeln.
 
 ### Diskriminierung
@@ -192,7 +185,8 @@ Schutzmechanismen, die unerwünschte Antworten eines [LLM](#llm) verhindern soll
 ## H
 
 ### Halluzination
-Siehe [Konfabulation](#konfabulation). Der ältere und gebräuchlichere Begriff für dasselbe Phänomen.
+Siehe [Konfabulation](#konfabulation). Der ältere und gebräuchlichere Begriff für dasselbe Phänomen. Halluzinationen sind kein Ausnahmefehler, sondern strukturell bedingt: Sprachmodelle erzeugen statis-
+tisch wahrscheinliche Wortfolgen – unabhängig von Wahrheit oder Logik. 
 
 ### Heteronormativität
 
@@ -216,7 +210,7 @@ EU High-Level Expert Group on AI (2019): Ethics Guidelines for Trustworthy AI. B
 
 ### Intersektionalität
 
-Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierungsdimensionen beschreibt.[^sectionality] Im Projekt fokussiert auf die Achsen: Geschlecht, Alter und Migration. Als Visualisierung wird ein Venn-Diagramm verwendet, um die Überlappung und gegenseitige Verstärkung sichtbar zu machen.
+Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierungsdimensionen beschreibt.[^sectionality] Im Projekt fokussiert auf die Achsen: Geschlecht, Alter und Migration. Als Visualisierung wird ein Venn-Diagramm verwendet, um die Überlappung und gegenseitige Verstärkung sichtbar zu machen. Unter Intersektionalität wird verstanden, dass historisch gewordene Macht- und Herrschaftsverhältnisse, Subjektivierungsprozesse sowie soziale Ungleichheiten wie Geschlecht, Sexualität/Heteronormativität, Race/Ethnizität/Nation, Behinderung oder soziales Milieu nicht isoliert voneinander konzeptualisiert werden können, sondern in ihren ,Verwobenheiten’ oder ,Überkreuzungen‘ (intersections) analysiert werden müssen. Additive Perspektiven werden überwunden, indem der Fokus auf das gleichzeitige Zusammenwirken von sozialen Kategorien bzw. sozialen Ungleichheiten gelegt wird. Es geht demnach nicht allein um die Berücksichtigung mehrerer sozialer Kategorien, sondern ebenfalls um die Analyse ihrer Wechselwirkungen.“ [^sectionality1] 
 
 ### I-Methodology
 
@@ -432,6 +426,8 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 
 [^sectionality]: Kimberlé Crenshaw (1989): Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine. In: The University of Chicago Legal Forum. S. 139–167.
 
+[^sectionality1]: Walgenbach, K. (2014). Heterogenität – Intersektionalität – Diversity in der Erziehungswissenschaft. Opladen & Toronto: Barbara Budrich.
+
 [^matthi]: Barbara Hönig, Matthäus-Effekt. In: Christian Fleck und Christian Dayé: Meilensteine der Soziologie. Campus, Frankfurt am Main 2020, ISBN 978-3-593-51102-3, S. 456–462.
 
 [^kognito]: Tversky, A. & Kahneman, D. (1974): Judgment under Uncertainty: Heuristics and Biases, in: Science, 185(4157), 1124–1131.
@@ -456,6 +452,8 @@ Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.10
 [^aidivide]: Carter L, Liu D, Cantrell C (2020) Exploring the intersection of the digital divide and artificial intelligence: a hermeneutic literature review. AIS Transactions on Human-computer Interaction 12(4): 253–275.
 
 [^aidivide1]: UNESCO Global AI Ethics and Governance Observatory (2025). https://www.unesco.org/ethics-ai/en/articles/ai-literacy-and-new-digital-divide-global-call-action
+
+[^diversität]: Abdul-Hussain, S. & Hofmann, R. (2013). Begriffserklärung Diversität. Verfügbar am 23.03.2020 unter https://erwachsenenbildung.at/themen/diversitymanagement/grundlagen/begriffserklaerung.php
 
 ---
 
