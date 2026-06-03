@@ -22,6 +22,7 @@ __pycache__/
 # Vertrauliche Dokumente (Repo ist public – nicht einchecken)
 Konsortialvertrag+Anhang_sig_final.pdf
 *_sig_final.pdf
+Vertrag*.pdf
 
 # Buchhaltung / Belege (nicht ins public Repo)
 Eigenbeleg_*
