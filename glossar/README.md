@@ -23,6 +23,16 @@ Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz 
 
 KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über einfache Frage-Antwort-Interaktion hinaus. Im Projektkontext eine offene Frage: Inwieweit werden agentenbasierte KI-Systeme für die Soziale Arbeit relevant, und welche Chancen und Risiken bringen sie mit sich?
 
+### AI Divide (analog zu Digital Divide)
+Carter et al. (2020) konzeptualisieren den AI divide als Unterdimension des digital divide und definieren ihn als KI-bezogene Ungleichheiten hinsichtlich des Zugangs zu KI (erste Ebene), der Fähigkeit, KI zu nutzen (zweite Ebene), und der Ergebnisse der KI-Nutzung (dritte Ebene) – auf individueller, institutioneller oder Länderebene. Damit erweitern sie das traditionelle Digital-Divide-Modell und betonen die Bedeutung individueller Wahrnehmungen, Überzeugungen und Einstellungen gegenüber KI. Der Begriff AI Divide bezeichnet die wachsende soziale Kluft zwischen Menschen, die KI-Systeme verstehen, nutzen und mitgestalten können – und jenen, die davon ausgeschlossen sind. [^aidivide] 
+Die UNESCO betont den Diversitätsbezug: Der AI divide bezeichnet den ungleichen Zugang sowie ungleiche Vorteile und Chancen bei KI-Technologien über verschiedene Regionen, Communities und sozioökonomische Gruppen hinweg; die am stärksten marginalisierten Gruppen – Frauen, People of Color, Menschen mit Behinderung, LGBTQ+-Personen – tragen die Hauptlast dieser Kluft.[^aidivide1] 
+
+
+
+Bezug zu Soziale Arbeit: Unterschiede im Zugang zu Technik, Infrastruktur, Sprachkompetenz oder Bildung beeinflussen, wer KI aktiv nutzen kann. Digitale Ungleichheiten werden in bestimmten Szenarien durch KI sogar verschärft – nicht reduziert.
+
+
+
 ### AI Literacies / KI Literacies / KI Kompetenzen
 
 Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre Wirkungen einzuordnen. AI Literacies umfassen technisches Grundverständnis, einen Blick für [Bias](#bias) und [Konfabulation](#konfabulation), Kenntnis rechtlicher Rahmen sowie die Fähigkeit, Einsatzentscheidungen zu reflektieren. Der Begriff ist analog zu Medienkompetenz konzipiert und seit 2024 auch im EU AI Act als organisationale Pflicht verankert. AI Literacies kann aus drei Kompetenzfeldern generiert werden Verstehen von Funktionsweisen und Prinzipien der KI; Anwendung in alltags- und berufsspezifischen Kontexten; Bewertung und Reflexion des Einsatzes von KI im Hinblick auf Qualität, Fairness und gesellschaftliche Auswirkungen. [^ailiteracies]
@@ -442,6 +452,10 @@ Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.10
 [^sozialearbeit]: AG Sozialpädagogik, FBKSSO, Netzwerk Sozialpädagogik Österreich, OBDS, OGSA, ÖFAS & ÖFEB Sektion Sozialpädagogik (Hrsg.) (2025): Qualifikationsrahmen Soziale Arbeit in Österreich. https://obds.at/was-ist-soziale-arbeit/
 
 [^ailiteracies]: Schindler, Julia (2025): Glossar. Begriffe und Konzepte im Kontext von Künstlicher Intelligenz in der Bildung. In: Magazin erwachsenenbildung.at. Das Fachmedium für Forschung, Praxis und Diskurs. Ausgabe 55, 2025. Online: https://erwachsenenbildung.at/magazin/ausgabe-55
+
+[^aidivide]: Carter L, Liu D, Cantrell C (2020) Exploring the intersection of the digital divide and artificial intelligence: a hermeneutic literature review. AIS Transactions on Human-computer Interaction 12(4): 253–275.
+
+[^aidivide1]: UNESCO Global AI Ethics and Governance Observatory (2025). https://www.unesco.org/ethics-ai/en/articles/ai-literacy-and-new-digital-divide-global-call-action
 
 ---
 
