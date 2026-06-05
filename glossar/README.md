@@ -109,7 +109,7 @@ Kontext ist im Bezug auf Diskriminierung, Fairness, Chancengerechtigkeit und co.
 
 Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016/679). Im Projektkontext zentrale Frage: Welche personenbezogenen Daten dürfen in KI-Tools eingegeben werden? Besondere Relevanz bei Daten von Klient:innen der Sozialen Arbeit, die oft zu vulnerablen Gruppen gehören.
 
-- **personenbezogene Daten**:
+- **personenbezogene Daten**: Darunter versteht die DSGVO alle Informationen, die sich auf eine „identifizierte oder identifizierbare natürliche Person“ (die „betroffene Person“) beziehen. Damit sind alle Daten erfasst, die sich einer – auch indirekt – bestimmbaren Person zuordnen lassen, wie Name, Kennnummern, Standort, Online-Kennungen usw.[^dsgvo] Der Begriff wird in der Praxis sehr weit ausgelegt und danach gefragt, ob in einer Einrichtung Mittel bestehen, um den Personenbezug herstellen zu können.[^dsgvo1]   
 - **sensible Daten**:
 - **Zweckbindung**:  
 
@@ -432,6 +432,10 @@ sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 [^scripts]: Bath, Corinna (2011): Wie lässt sich die Vergeschlechtlichung informatischer Artefakte theoretisch fassen? Vom Genderskript zur posthumanistischen Performativität. In: Wiedlack, Maria/Lasthofer, Katrin (Hrsg.): Körperregime und Geschlecht. Innsbruck: Studienverlag, S. 221–243.
 
 [^divide]: Susanne Sackl-Sharif, Andrea Mayr & Sabine Klinger (2024). Zwischen Digital Divide und kreativ-tranformativer Gestaltung des digitalen Raums. Zur Arbeit mit Adressat:innen in der digitalisierten Sozialen Arbeit. In: K. Lauermann, R. More, M. Sigot & S. Sting (Hrsg.): Soziale Arbeit zwischen Inklusion und Exkulsion. Perspektiven aus Forschung und Praxis. Opladen/Berlin/Toronto: Barbara Budrich Verlag, S. 142-152.
+
+[^dsgvo]: Vgl Art 4 Z 1 DSGVO.
+
+[^dsgvo1]: Vgl die Rechtsprechung des EuGH: EuGH 19.10.2016, C-582/14, Breyer, ECLI:EU:C:2016:779.
 
 [^deskilling]: Farhan, A. (2023). The impact of artificial intelligence on human workers. Journal of Communication Education, 17(2), 93–104.
 
