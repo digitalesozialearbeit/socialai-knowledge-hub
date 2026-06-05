@@ -206,7 +206,7 @@ Die heute übliche, trennscharfe Unterscheidung der drei Kontrollmodi geht maßg
 
 EU High-Level Expert Group on AI (2019): Ethics Guidelines for Trustworthy AI. Brüssel: Europäische Kommission. (Primärquelle für HITL/HOTL/HIC als Aufsichtsmechanismen).
 
-- **juridische Besonderheiten**: (?)
+- **rechtliche Besonderheiten**: Das Recht definiert diese Konzepte nicht eigens und legt sie gewissen Verpflichtungen eher implizit zugrunde. Ein Beispiel wäre die [Menschliche Aufischt](#Menschliche Aufsicht / Human Oversight) nach Art 14 KI-VO sowie das Verbot automatisierter Entscheidungsfindungen nach Art 22 DSGVO, in denen sich der Zugang ausdrückt, dass Menschen stets das letzte Wort in maschinenengesetützten Entscheidungsprozessen haben sollten. 
 
 ---
 
