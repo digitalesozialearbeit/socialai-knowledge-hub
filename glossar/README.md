@@ -397,8 +397,12 @@ Vertrauen Arndt
 Vulnerabilität wird zum einen logisch in einen Zusammenhang mit Unverletztheit oder Nichtverletzbarkeit gebracht und zum anderen wird Resilienz als Gegenstück der Vulnerabilität mitgedacht. In diesem Sinne bezeichnet Vulnerabilität „die Verletzlichkeit oder Verletzbarkeit einer Person, einer sozialen Gruppe, eines Gegenstandes oder eines Systems angesichts bestehender Gefährdungen, Risiken,
 Krisen, Stress, Schocks oder bereits eingetretener belastenden Ereignisse.[^vulnerabilität] Vulnerable Zielgruppen“ sind in der Sozialen Arbeit demnach Personen oder Gruppen, die als in besonderem Maße verletzbar, gefährdet oder schutzbedürftig gelten.
 
+- **rechtlich**: Weder das Unionsrecht noch das österreichische Recht enthalten eine allgemeine Legaldefinition der Vulnerabilität. Der Begriff ist über mehrere Rechtsakte verstreut und muss kontextabhängig rekonstruiert werden. Das Konzept der Vulnerabilität besteht dabei aus einer Aufzählung an vulnerablen Personengruppen, die je nach Rechtsakt variieren. So finden sich im europäischen Arbeitsrecht[^vulnerabilität1] beispielsweise Hinweise auf schwangere Arbeitnehmerinnen und Wöchnerinnen als vulnerable Personen, während die DSGVO die Schutzbedürftigkeit von Kindern als Faktor bei der Risikobewertung einer Datenverarbeitung hervorhebt (vgl ErwGr 75 DSGVO). In der KI-VO finden sich immer wieder Verweise auf die Schutzbedürftigkeit von Personen aufgrund von Status, Autorität, Wissen, wirtschaftlichen oder sozialen Umständen (zB Armut, ethnische und religiöse Minderheiten), Alter sowie Menschen mit Behinderung.[^vulnerabilität2] Als Indikatoren für Vulnerabilität gelten damit zusammengefasst meist das Bestehen eines Machtungleichgewichts, mangelnde Einsichtsfähigkeit in oder mangelndes Wissen um einen Prozess und Ungleichbehandlungen aufgrund der Herkunft, des Geschlechts oder der sozialen Klasse.[^vulnerabilität3] 
 
-rechtlich
+
+
+
+
 sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 
 ---
@@ -468,6 +472,12 @@ Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.10
 
 [^vulnerabilität]: Juliane Noack- Napoles: Vulnerabilität als Deutungshorizont sozialer Probleme am Beispiel von Einsamkeit
 EthikJournal 8. Jg. 2. Ausgabe (https://www.ethikjournal.de/fileadmin/user_upload/ethikjournal/Texte_Ausgabe_2022_2/Noack_Napoles_Ethikjournal_2_22.pdf)
+
+[^vulnerabilität1]:RL 92/85/EWG des Rates über die Durchführung von Maßnahmen zur Verbesserung der Sicherheit und des Gesundheitsschutzes von schwangeren Arbeitnehmerinnen, Wöchnerinnen und stillenden Arbeitnehmerinnen am Arbeitsplatz, ABl L 1992/348, 1.
+
+[^vulnerabilität2]: Vgl Art 5, Art 7 Abs 2 lit h, ErwGr 29 KI-VO. 
+
+[^vulnerabilität3]: Müller/Schneeberger, Menschenrechtsfolgenabschätzungen im Artificial Intelligence Act. Ein Instrument zum Schutz von vulnerablen Gruppen oder bloße Pflichtübung?, juridikum 2/2024, 265; Malgieri, Vulnerability and Data Protection Law (2023), 54 ff. 
 
 [^gaig]: Digital Gender Gap – Schwerpunkt 2026 Künstliche Intelligenz, ein Kooperationsprojekt der Initiative D21 und des Instituts für w eiteren Informationen zur Arbeitsmarkt- und Berufsforschung (IAB).
 
