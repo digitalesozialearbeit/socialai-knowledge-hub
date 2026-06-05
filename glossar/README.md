@@ -56,6 +56,11 @@ Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im prak
 
 ### Automatisierte Entscheidungsfindindung 
 
+Eine automatisierte bzw. algorithmische Entscheidungsfindung bezieht sich auf computergestützte Prozesse, einschließlich solcher, die auf maschinellem Lernen, Statistik oder anderen Datenverarbeitungs- oder Techniken der künstlichen Intelligenz beruhen, bei denen automatisch eine bestimmte Auswahl oder Festlegung getroffen wird. Dies geschieht, indem das Programm systematisch festgesetzte Regeln anwendet oder Muster in Datan analysiert, um zu einem Endergebnis (oftmals Entscheidung) zu kommen, wobei kein menschliches Eingreifen erforderlich ist.[^automatisierte Entscheidungsfindung]
+
+- **Rechtlich:** wird ein solches System primär über Art 22 DSGVO (automatisierte Entscheidung im Einzelfall) geregelt, wonach derartige Entscheidungsprozesse nur unter engen Voraussetzungen zulässig sind. In einem solchen Fall stehen Betroffenen gewisse Rechte offen – beispielsweise auf Darlegung des eigenen Standpunkts, auf Anfechtung der Entscheidung, auf Eingreifen einer natürlichen Person sowie auf Auskunft über die involvierte Logik, Tragweite und Auswirkungen der Entscheidung. Die KI-VO hingegen verbietet automatisierte Entscheidungen nicht per se, sondern schreibt beim Einsatz von Hochrisiko-KI-Systemen in Entscheidungsfindungsprozessen die Sicherstellung [Menschlicher Aufsicht / Human Oversight](#menschliche-aufsicht--human-oversight) vor und gesteht Betroffenen unter gewissen Voraussetzungen ein Recht auf Erklärung zu. 
+
+
 ---
 
 ## B
@@ -473,6 +478,8 @@ Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.10
 [^aidivide1]: UNESCO Global AI Ethics and Governance Observatory (2025). https://www.unesco.org/ethics-ai/en/articles/ai-literacy-and-new-digital-divide-global-call-action
 
 [^diversität]: Abdul-Hussain, S. & Hofmann, R. (2013). Begriffserklärung Diversität. Verfügbar am 23.03.2020 unter https://erwachsenenbildung.at/themen/diversitymanagement/grundlagen/begriffserklaerung.php
+
+[^automatisierte Entscheidungsfindung]: Vgl European Law Institute, Model Rules on Impact Assessment of Algorithmic Decision-Making Systems Used by Public Administration, europelawinstitute.eu, 16 (2022),  https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Model_Rules_on_Impact_Assessment_of_ADMSs_Used_by_Public_Administration.pdf (zuletzt abgerufen am 05. Juni 2026); Research Institute, AI Know. Information und Mitbestimmung bei KI-basierten Entscheidungen im Beschäftigten Kontext (2026), 49. 
 
 [^vulnerabilität]: Juliane Noack- Napoles: Vulnerabilität als Deutungshorizont sozialer Probleme am Beispiel von Einsamkeit
 EthikJournal 8. Jg. 2. Ausgabe (https://www.ethikjournal.de/fileadmin/user_upload/ethikjournal/Texte_Ausgabe_2022_2/Noack_Napoles_Ethikjournal_2_22.pdf)
