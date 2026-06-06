@@ -388,7 +388,10 @@ Das Werkzeug, das Text in [Tokens](#token) zerlegt. Verschiedene Modelle verwend
 Die Architektur hinter modernen [LLMs](#llm), 2017 in „Attention Is All You Need" vorgestellt.[^transformer] Der zentrale Mechanismus ist Attention. Das Modell lernt, welche Teile des Eingabetexts füreinander relevant sind. Self-Attention ersetzt rekurrente Strukturen früherer Architekturen und ermöglicht parallele Verarbeitung langer Sequenzen.
 
 ### Transparenz
-- **juridisch**:
+- **rechtlich**: Transparenz ist sowohl im Datenschutzrecht als auch in der KI-VO ein tragender Grundsatz und drückt sich in unterschiedlichen rechtlichen Verpflichtungen aus. Die DSGVO beruht unter anderem auf dem Grundsatz der transparenten Datenverarbeitung, wonach Daten in einer für die Betroffenen nachvollziehbaren Weise zu verarbeiten sind.[^transparenz] Konkretisiert wird dieses Transparenzgebot insbesondere in den Art 12-14, wonach der Verantwortliche (derjenige, der die Mittel und Zwecke der Datenverarbeitung festlegt) die Personen, deren Daten verarbeitet werden, auf klare und verständliche Weise unter anderem über die Datenverarbeitung, deren Zwecke und die Datenkategorien zu informieren hat. Transparenz im Datenschutz besteht also immer gegenüber Betroffenen und betrifft deren nachvollziehbare Unterrichtung über gewisse Umstände, die mit der Datenverarbeitung zusammenhängen. 
+Der Transparenzbegriff, welcher der KI-VO zugrunde liegt, entstammt ursprünglich den [HLEG Ethik-Leitlinien für vertrauenswürdige KI](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60425)[^transparenz1] und wird von der KI-VO in unterschiedliche Verpflichtungen entlang der KI-Wertschöpfungskette übersetzt: Einerseits muss der Anbieter  eines Hochrisiko-KI-Systems den Betreibern  hinreichende Informationen über die Funktionsweise und Grenzen des Systems bereitstellen, damit dieser seinen Betreiberpflichten nachkommen kann.  Daneben begründet die KI-VO produktbezogene Transparenzpflichten von Anbietern und Betreibern gegenüber Betroffenen, etwa die Offenlegung, dass man mit einem KI-System interagiert, sowie die Kennzeichnung von Deepfakes und KI-generierten Inhalten.  Zusätzlich kennt auch die KI-VO Informationspflichten an Betroffene, die im Wesentlichen den Betreiber treffen: so etwa die vorab Informationspflicht an Arbeitnehmer, dass ein Hochrisiko-KI-System am Arbeitsplatz eingesetzt wird, die Aufklärung von Betroffenen von Hochrisiko-KI-Entscheidungen über den KI-Einsatz sowie nachgelagerte Erklärungspflichten über KI-basierte Entscheidungsprozesse.  
+
+
 - **technisch**:
 
 ---
@@ -480,6 +483,10 @@ Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.10
 [^diversität]: Abdul-Hussain, S. & Hofmann, R. (2013). Begriffserklärung Diversität. Verfügbar am 23.03.2020 unter https://erwachsenenbildung.at/themen/diversitymanagement/grundlagen/begriffserklaerung.php
 
 [^automatisierte-entscheidungsfindung]: Vgl European Law Institute, Model Rules on Impact Assessment of Algorithmic Decision-Making Systems Used by Public Administration, europelawinstitute.eu, 16 (2022),  https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Model_Rules_on_Impact_Assessment_of_ADMSs_Used_by_Public_Administration.pdf (zuletzt abgerufen am 05. Juni 2026); Research Institute, AI Know. Information und Mitbestimmung bei KI-basierten Entscheidungen im Beschäftigten Kontext (2026), 49. 
+
+[^transparenz]: Vgl Art 5 Abs 1 lit a DSGVO.
+
+[^transparenz1]: Vgl dazu den Verweis in ErwGr 27 KI-VO.
 
 [^vulnerabilität]: Juliane Noack- Napoles: Vulnerabilität als Deutungshorizont sozialer Probleme am Beispiel von Einsamkeit
 EthikJournal 8. Jg. 2. Ausgabe (https://www.ethikjournal.de/fileadmin/user_upload/ethikjournal/Texte_Ausgabe_2022_2/Noack_Napoles_Ethikjournal_2_22.pdf)
