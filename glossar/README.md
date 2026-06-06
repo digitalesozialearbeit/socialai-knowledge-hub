@@ -389,7 +389,7 @@ Die Architektur hinter modernen [LLMs](#llm), 2017 in „Attention Is All You Ne
 
 ### Transparenz
 - **rechtlich**: Transparenz ist sowohl im Datenschutzrecht als auch in der KI-VO ein tragender Grundsatz und drückt sich in unterschiedlichen rechtlichen Verpflichtungen aus. Die DSGVO beruht unter anderem auf dem Grundsatz der transparenten Datenverarbeitung, wonach Daten in einer für die Betroffenen nachvollziehbaren Weise zu verarbeiten sind.[^transparenz] Konkretisiert wird dieses Transparenzgebot insbesondere in den Art 12-14, wonach der Verantwortliche (derjenige, der die Mittel und Zwecke der Datenverarbeitung festlegt) die Personen, deren Daten verarbeitet werden, auf klare und verständliche Weise unter anderem über die Datenverarbeitung, deren Zwecke und die Datenkategorien zu informieren hat. Transparenz im Datenschutz besteht also immer gegenüber Betroffenen und betrifft deren nachvollziehbare Unterrichtung über gewisse Umstände, die mit der Datenverarbeitung zusammenhängen. 
-Der Transparenzbegriff, welcher der KI-VO zugrunde liegt, entstammt ursprünglich den [HLEG Ethik-Leitlinien für vertrauenswürdige KI](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60425)[^transparenz1] und wird von der KI-VO in unterschiedliche Verpflichtungen entlang der KI-Wertschöpfungskette übersetzt: Einerseits muss der Anbieter  eines Hochrisiko-KI-Systems den Betreibern  hinreichende Informationen über die Funktionsweise und Grenzen des Systems bereitstellen, damit dieser seinen Betreiberpflichten nachkommen kann.  Daneben begründet die KI-VO produktbezogene Transparenzpflichten von Anbietern und Betreibern gegenüber Betroffenen, etwa die Offenlegung, dass man mit einem KI-System interagiert, sowie die Kennzeichnung von Deepfakes und KI-generierten Inhalten.  Zusätzlich kennt auch die KI-VO Informationspflichten an Betroffene, die im Wesentlichen den Betreiber treffen: so etwa die vorab Informationspflicht an Arbeitnehmer, dass ein Hochrisiko-KI-System am Arbeitsplatz eingesetzt wird, die Aufklärung von Betroffenen von Hochrisiko-KI-Entscheidungen über den KI-Einsatz sowie nachgelagerte Erklärungspflichten über KI-basierte Entscheidungsprozesse.  
+Der Transparenzbegriff, welcher der KI-VO zugrunde liegt, entstammt ursprünglich den [HLEG Ethik-Leitlinien für vertrauenswürdige KI](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60425)[^transparenz1] und wird von der KI-VO in unterschiedliche Verpflichtungen entlang der KI-Wertschöpfungskette übersetzt: Einerseits muss der Anbieter[^transparenz2] eines Hochrisiko-KI-Systems den Betreibern[^transparenz3] hinreichende Informationen über die Funktionsweise und Grenzen des Systems bereitstellen, damit dieser seinen Betreiberpflichten nachkommen kann.[^transparenz4] Daneben begründet die KI-VO produktbezogene Transparenzpflichten von Anbietern und Betreibern gegenüber Betroffenen, etwa die Offenlegung, dass man mit einem KI-System interagiert, sowie die Kennzeichnung von Deepfakes und KI-generierten Inhalten.[^transparenz5] Zusätzlich kennt auch die KI-VO Informationspflichten an Betroffene, die im Wesentlichen den Betreiber treffen: so etwa die vorab Informationspflicht an Arbeitnehmer, dass ein Hochrisiko-KI-System am Arbeitsplatz eingesetzt wird, die Aufklärung von Betroffenen von Hochrisiko-KI-Entscheidungen über den KI-Einsatz sowie nachgelagerte Erklärungspflichten über KI-basierte Entscheidungsprozesse.[^transparenz6]   
 
 
 - **technisch**:
@@ -487,6 +487,16 @@ Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.10
 [^transparenz]: Vgl Art 5 Abs 1 lit a DSGVO.
 
 [^transparenz1]: Vgl dazu den Verweis in ErwGr 27 KI-VO.
+
+[^transparenz2]: Jene Einrichtung, die das KI-System entwickelt bzw entwickeln lässt und es unter eigener Marke bzw eigenem Namen in Verkehr bringt (Art 3 Z 3 KI-VO). 
+
+[^transparenz3]: Jene Einrichtung, die ein externes KI-System zukauft und es in eigener Verantwortung zu beruflichen Zwecken verwendet (Art 3 Z 4 KI-VO). 
+
+[^transparenz4]: Vgl Art 13 KI-VO. 
+
+[^transparenz5]: Vgl Art 50 KI-VO.  
+
+[^transparenz6]: Vgl Art 26 Abs 7, Art 26 Abs 11 und Art 86 KI-VO.   
 
 [^vulnerabilität]: Juliane Noack- Napoles: Vulnerabilität als Deutungshorizont sozialer Probleme am Beispiel von Einsamkeit
 EthikJournal 8. Jg. 2. Ausgabe (https://www.ethikjournal.de/fileadmin/user_upload/ethikjournal/Texte_Ausgabe_2022_2/Noack_Napoles_Ethikjournal_2_22.pdf)
