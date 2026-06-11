@@ -1,5 +1,11 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-06-11 – docsify-wikilink-Plugin entfernt
+
+Der offene Punkt „Wikilink-Plugin vor Go-Live testen" (seit 03/2026) ist damit aufgelöst: In drei Monaten Betrieb hat niemand Wikilink-Syntax geschrieben, alle Querverweise (auch die ~20 neuen im Glossar) sind Standard-Markdown-Links. Das ungetestete Plugin wurde aus `index.html` entfernt, Konventionen in `docs/architecture.md` und `CLAUDE.md` angepasst (Wikilinks jetzt unter „Vermeiden"). Bei Bedarf mit einer Zeile reaktivierbar.
+
+---
+
 ## 2026-06-11 – JAW-Prompt-Auswertung intern abgelegt
 
 ### Anlass

@@ -21,7 +21,6 @@
 | Plugin | Zweck | CDN |
 |--------|-------|-----|
 | search | Volltextsuche über alle Seiten | `docsify/lib/plugins/search.min.js` |
-| docsify-wikilink | `[[Wikilinks]]` für Obsidian-Kompatibilität | `docsify-wikilink@1` |
 | flexible-alerts | `> [!NOTE]` Callouts (Obsidian-Syntax) | `docsify-plugin-flexible-alerts` |
 | copy-code | Code-Blöcke kopierbar | `docsify-copy-code` |
 | zoom-image | Bilder klickbar vergrößern | `docsify/lib/plugins/zoom-image.min.js` |
@@ -101,12 +100,12 @@ socialai-knowledge-hub/
 - Standard-Markdown (Headings, Listen, Tabellen, Code-Blöcke)
 - YAML Frontmatter (wird von docsify gestrippt, Obsidian nutzt es)
 - Relative Links: `[Text](../pfad/datei.md)`
-- Wikilinks: `[[Dateiname]]` (via Plugin)
 - Callouts: `> [!NOTE]`, `> [!WARNING]`, `> [!TIP]` (identische Syntax)
 - Bilder: `![Alt](assets/img/bild.png)`
 
 ### Vermeiden (funktioniert nur in Obsidian)
 
+- Wikilinks: `[[Dateiname]]` (das Plugin `docsify-wikilink` wurde im Juni 2026 entfernt: in 3 Monaten Betrieb hat niemand Wikilinks geschrieben, alle Querverweise sind Standard-Markdown-Links; bei Bedarf reaktivierbar)
 - Block-Referenzen: `[[seite#^block-id]]`
 - Dataview-Queries: `` ```dataview ... ``` ``
 - Inline-Tags: `#tag` im Fließtext (wird als Heading interpretiert)
