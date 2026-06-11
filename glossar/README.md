@@ -38,7 +38,7 @@ und Reflexion. AI Literacies kann aus drei Kompetenzfeldern generiert werden: Ve
 ### Alignment
 Der Prozess, ein KI-Modell so zu trainieren, dass es hilfreich, harmlos und ehrlich antwortet. Methoden wie [RLHF](#rlhf) und [Constitutional AI](#constitutional-ai) sind Teil davon.
 
-### Andozentrismus
+### Androzentrismus
 Androzentrismus (von griech. andros „Mann“ und kentron „Mittelpunkt“) bezeichnet die unhinterfragte Setzung des männlichen Geschlechts als universelle Norm. Dabei wird die männliche Perspektive, Erfahrung oder Lebensweise als neutraler Maßstab betrachtet, während alles Weibliche als Abweichung oder „Sonderfall“ gilt.
 
 ### API
@@ -54,9 +54,9 @@ Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im prak
 - **Rechtlich:** Neigung zu einem automatischen oder übermäßigen Vertrauen in eine von einem KI-System hervorgebrachte Ausgabe (Art 14 Abs 4 lit b KI-VO)
 - **Sozialwissenschaftlich:** Der Automation Bias bezeichnet das Phänomen, dass Menschen den Vorschlägen und Entscheidungen von Maschinen mehr vertrauen als ihren eigenen. Eine kürzlich erschienene Studie der Unternehmensberatung EY ["AI Sentiment Index 2025"](https://www.ey.com/content/dam/ey-unified-site/ey-com/de-de/newsroom/2025/05/ey-praesentation-ai-sentiment-index-2025.pdf) ergab: Nur jede oder jeder Vierte in Deutschland überprüft die Ergebnisse von generativer KI. Definiton von [Bundeszentrale für politische Bildung](https://www.bpb.de/lernen/digitale-bildung/werkstatt/569392/automation-bias/).
 
-### Automatisierte Entscheidungsfindindung 
+### Automatisierte Entscheidungsfindung 
 
-Eine automatisierte bzw. algorithmische Entscheidungsfindung bezieht sich auf computergestützte Prozesse, einschließlich solcher, die auf maschinellem Lernen, Statistik oder anderen Datenverarbeitungs- oder Techniken der künstlichen Intelligenz beruhen, bei denen automatisch eine bestimmte Auswahl oder Festlegung getroffen wird. Dies geschieht, indem das Programm systematisch festgesetzte Regeln anwendet oder Muster in Datan analysiert, um zu einem Endergebnis (oftmals Entscheidung) zu kommen, wobei kein menschliches Eingreifen erforderlich ist.[^automatisierte-entscheidungsfindung]
+Eine automatisierte bzw. algorithmische Entscheidungsfindung bezieht sich auf computergestützte Prozesse, einschließlich solcher, die auf maschinellem Lernen, Statistik oder anderen Datenverarbeitungs- oder Techniken der künstlichen Intelligenz beruhen, bei denen automatisch eine bestimmte Auswahl oder Festlegung getroffen wird. Dies geschieht, indem das Programm systematisch festgesetzte Regeln anwendet oder Muster in Daten analysiert, um zu einem Endergebnis (oftmals Entscheidung) zu kommen, wobei kein menschliches Eingreifen erforderlich ist.[^automatisierte-entscheidungsfindung]
 
 - **Rechtlich:** wird ein solches System primär über Art 22 DSGVO (automatisierte Entscheidung im Einzelfall) geregelt, wonach derartige Entscheidungsprozesse nur unter engen Voraussetzungen zulässig sind. In einem solchen Fall stehen Betroffenen gewisse Rechte offen – beispielsweise auf Darlegung des eigenen Standpunkts, auf Anfechtung der Entscheidung, auf Eingreifen einer natürlichen Person sowie auf Auskunft über die involvierte Logik, Tragweite und Auswirkungen der Entscheidung. Die KI-VO hingegen verbietet automatisierte Entscheidungen nicht per se, sondern schreibt beim Einsatz von Hochrisiko-KI-Systemen in Entscheidungsfindungsprozessen die Sicherstellung [Menschlicher Aufsicht / Human Oversight](#menschliche-aufsicht--human-oversight) vor und gesteht Betroffenen unter gewissen Voraussetzungen ein Recht auf Erklärung zu. 
 
@@ -85,7 +85,7 @@ Systematische Verzerrung in Daten, Repräsentation, Modellen oder Entscheidungen
 Bewusst abgegrenzt von **Chancengleichheit**. Während Chancengleichheit formale Gleichbehandlung meint, zielt Chancengerechtigkeit darauf ab, unterschiedliche Ausgangsbedingungen auszugleichen - also faire Ergebnisse statt gleicher Behandlung. Chancengerechtigkeit umfasst einen gerechten und faireren Zugang zu Ressourcen und gesellschaftlichen Systemen wie Sozial- und Gesundheitsleistungen, Bildung, Arbeit und Wohnen, entsprechend der individuellen Bedarfe. Menschen machen in ihrem Lebenslauf unterschiedliche Ausschluss- und Diskriminierungserfahrungen, welche sich auf ihre Lebensgestaltung und Selbstbestimmungsmöglichkeiten auswirken. Dabei spielen Anerkennung und Zugehörigkeitsgefühl eine wichtige Rolle. Definition siehe [Dachverband Wiener Sozialeinrichtungen](https://dachverband.at/zukunft-soziale-stadt/chancengerechtigkeit/).
 
 ### Chain of Thought
-**CoT**, eine Prompting-Technik, bei der das Modell aufgefordert wird, schrittweise zu denken, etwa durch „let's think step by step". Verbessert die Qualität bei komplexen Aufgaben, weil Zwischenschritte explizit werden. Mit der Verbreitung von [Reasoning-Modellen](#reasoning-modell) verliert die manuelle CoT-Aufforderung an Bedeutung, weil diese Modelle das Verhalten internalisiert haben.
+**CoT**, eine Prompting-Technik, bei der das Modell aufgefordert wird, schrittweise zu denken, etwa durch „let's think step by step".[^cot] Verbessert die Qualität bei komplexen Aufgaben, weil Zwischenschritte explizit werden. Mit der Verbreitung von [Reasoning-Modellen](#reasoning-modell) verliert die manuelle CoT-Aufforderung an Bedeutung, weil diese Modelle das Verhalten internalisiert haben.
 
 ### Chatbot
 Eine Anwendung, die eine Konversationsoberfläche um ein Sprachmodell legt. Bekannte Beispiele sind ChatGPT, Claude und Gemini. Der Chatbot ist nicht das Modell selbst, sondern die Schnittstelle dazu. Zwischen Eingabe und Modellantwort liegen weitere Schritte, etwa Sicherheitsprüfungen, Tool-Anbindungen oder Suchfunktionen.
@@ -117,6 +117,7 @@ Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016
 - **personenbezogene Daten**: Darunter versteht die DSGVO alle Informationen, die sich auf eine „identifizierte oder identifizierbare natürliche Person“ (die „betroffene Person“) beziehen. Damit sind alle Daten erfasst, die sich einer – auch indirekt – bestimmbaren Person zuordnen lassen, wie Name, Kennnummern, Standort, Online-Kennungen usw.[^dsgvo] Der Begriff wird in der Praxis sehr weit ausgelegt und danach gefragt, ob in einer Einrichtung Mittel bestehen, um den Personenbezug herstellen zu können.[^dsgvo1]   
 - **sensible Daten**:
 - **Zweckbindung**:  
+- **Datenminimierung**: 
 
 ### Deskilling
 Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. Wenn KI-generierte Texte, Einschätzungen oder Empfehlungen unkritisch übernommen werden, kann das fachliche Urteilsvermögen abnehmen -ein relevantes Risiko für die Qualität Sozialer Arbeit.[^deskilling]
@@ -137,7 +138,7 @@ Ungleichbehandlung aufgrund der (vermeintlichen) Zugehörigkeit zu einer Gruppe 
 - **juridisch**. mittelbar / unmittelbar, GIBG
 
 ### Distillation
-Ein Verfahren, bei dem ein kleineres, schnelleres Modell aus einem größeren abgeleitet wird, indem es lernt, dessen Outputs nachzubilden. Distillierte Modelle laufen mit deutlich weniger Rechenleistung, erreichen aber meist nicht die volle Qualität des Ursprungsmodells. Viele frei verfügbare Open-Weights-Modelle sind Distillationen größerer kommerzieller Modelle.
+Ein Verfahren, bei dem ein kleineres, schnelleres Modell aus einem größeren abgeleitet wird, indem es lernt, dessen Outputs nachzubilden.[^distillation] Distillierte Modelle laufen mit deutlich weniger Rechenleistung, erreichen aber meist nicht die volle Qualität des Ursprungsmodells. Viele frei verfügbare Open-Weights-Modelle sind Distillationen größerer kommerzieller Modelle.
 
 ---
 
@@ -164,7 +165,7 @@ Eine mathematische Darstellung von Text als Zahlenvektor in einem hochdimensiona
 Feministische AI Literacies in der Sozialen Arbeit sind diversitäts- und machtsensible, intersektionale und Bias-erkennende Fähigkeiten und Fertigkeiten im Umgang mit generativen KI-Tools mit einem speziellen Fokus auf Prompting und kritische Output-Bewertung sowie Kontext- bzw. Anwendungssensitivität. [^feministAI]
 
 ### Few-Shot Prompting
-Eine [Prompting-Technik](#prompt-engineering), bei der dem Modell einige Beispiele im Prompt mitgegeben werden, die das gewünschte Eingabe-Ausgabe-Format zeigen. Das Modell lernt das Muster aus dem Kontext, ohne neu trainiert zu werden.
+Eine [Prompting-Technik](#prompt-engineering), bei der dem Modell einige Beispiele im Prompt mitgegeben werden, die das gewünschte Eingabe-Ausgabe-Format zeigen. Das Modell lernt das Muster aus dem Kontext, ohne neu trainiert zu werden.[^fewshot]
 
 ### Fine-Tuning
 Die Anpassung eines vortrainierten [LLM](#llm) auf einen spezifischen Anwendungsbereich oder Stil durch zusätzliches Training mit ausgewählten Daten. Fine-Tuning verändert die Modellgewichte und prägt das Modell dauerhaft. Es ist aufwendig und erfordert geeignete Daten. Für viele Anwendungsfälle sind [Prompt Engineering](#prompt-engineering) und [RAG](#rag) effizientere Wege, weil sie ohne Eingriff in das Modell auskommen.
@@ -194,8 +195,7 @@ Schutzmechanismen, die unerwünschte Antworten eines [LLM](#llm) verhindern soll
 ## H
 
 ### Halluzination
-Siehe [Konfabulation](#konfabulation). Der ältere und gebräuchlichere Begriff für dasselbe Phänomen. Halluzinationen sind kein Ausnahmefehler, sondern strukturell bedingt: Sprachmodelle erzeugen statis-
-tisch wahrscheinliche Wortfolgen – unabhängig von Wahrheit oder Logik. 
+Siehe [Konfabulation](#konfabulation). Der ältere und gebräuchlichere Begriff für dasselbe Phänomen. Halluzinationen sind kein Ausnahmefehler, sondern strukturell bedingt: Sprachmodelle erzeugen statistisch wahrscheinliche Wortfolgen – unabhängig von Wahrheit oder Logik. 
 
 ### Heteronormativität
 
@@ -236,6 +236,12 @@ Techniken, mit denen Schutzmechanismen eines [LLM](#llm) umgangen werden, etwa u
 
 ## K
 
+### KI-Modell vs. KI-System
+
+Eine für die Praxis zentrale Unterscheidung. Das **KI-Modell** ist das trainierte Artefakt selbst: die Architektur (z.B. [Transformer](#transformer)) mit ihren gelernten Gewichten, die aus Eingaben Ausgaben erzeugt. Beispiele sind GPT-5, Claude Opus oder Gemini 2.5 Pro. Das **KI-System** ist die Anwendung, in die ein oder mehrere Modelle eingebettet sind: Benutzeroberfläche, [System Prompts](#system-prompt), [Guardrails](#guardrails), Werkzeuganbindungen (Websuche, [RAG](#rag), [MCP](#mcp)) und Sicherheitsprüfungen. Ein [Chatbot](#chatbot) wie ChatGPT oder Claude ist also ein KI-System, nicht das Modell selbst: Dasselbe Modell verhält sich in verschiedenen Systemen unterschiedlich, und ein System kann zwischen mehreren Modellen wechseln, ohne dass Nutzer:innen das bemerken.
+- **Rechtlich:** Die KI-VO knüpft ihre Pflichten an das „KI-System" (Art 3 Z 1 KI-VO) und an „KI-Modelle mit allgemeinem Verwendungszweck" (GPAI-Modelle, Art 3 Z 63 KI-VO) und unterscheidet entsprechend zwischen den Pflichten von Modell-Anbietern (Art 53 ff KI-VO) und System-Anbietern bzw. -Betreibern.
+- **Für die Soziale Arbeit relevant:** Datenschutz-, Transparenz- und Qualitätsfragen stellen sich meist auf System-Ebene (Was passiert mit den Eingaben? Welche Zusatzfunktionen sind aktiv?), während [Bias](#bias) und [Konfabulation](#konfabulation) auf Modell-Ebene entstehen und auf System-Ebene nur abgemildert werden können.
+
 ### Knowledge Cutoff
 Der Wissensstichtag eines [LLM](#llm). Das Datum, bis zu dem die Trainingsdaten reichen. Alles danach kennt das Modell nicht, sofern es keine externen Tools wie Websuche oder [RAG](#rag) nutzt.
 
@@ -270,7 +276,7 @@ Der Matthäus-Effekt beschreibt das soziologische Prinzip, dass Erfolg, Aufmerks
 
 
 ### Mind Perception 
-Waytz et al 2010 So schreibt die Mehrheit der Menschen LLMs wie ChatGPT spontan phänomenales Bewusstsein zu, also subjektive Erfahrungen wie Gefühle und Empfindungen (Colombatto & Fleming, 2024).
+Mind Perception bezeichnet den sozialpsychologischen Prozess, durch den Menschen anderen Entitäten einen „Geist" zuschreiben, also mentale Zustände wie Absichten, Gefühle und Bewusstsein. Waytz et al. (2010) zeigen, dass diese Zuschreibung entlang zweier Dimensionen erfolgt (Handlungsfähigkeit und Empfindungsfähigkeit) und keineswegs auf Menschen beschränkt ist: Auch Tieren, Göttern und Maschinen wird ein Geist zugeschrieben.[^mindperception] Für den Umgang mit generativer KI ist das hochrelevant: So schreibt die Mehrheit der Menschen [LLMs](#llm) wie ChatGPT spontan phänomenales Bewusstsein zu, also subjektive Erfahrungen wie Gefühle und Empfindungen.[^mindperception1] Diese Zuschreibung begünstigt [quasisoziale Beziehungen](#quasisoziale-beziehung) zu Chatbots und kann übermäßiges Vertrauen in KI-Ausgaben fördern (siehe [Automation Bias](#automation-bias-automatisierungsverzerrung)).
 
 ### Multimodalität
 Die Fähigkeit eines KI-Systems, mehrere Medien gleichzeitig zu verarbeiten, etwa Text, Bild, Audio und Video. Multimodale Modelle können ein Foto beschreiben, eine Tonaufnahme transkribieren oder ein Diagramm interpretieren. Vision-Language-Modelle bilden den verbreitetsten Untertyp. Multimodalität vergrößert den Datenschutzaufwand, weil sensible Daten in mehr Formaten verarbeitet werden.
@@ -311,7 +317,7 @@ Eine Methodik für die iterative Zusammenarbeit zwischen Mensch und KI. Kernprin
 
 ### Probabilistische Systeme
 
-in Abgrenzung zu deterministischen Systemen
+Systeme, deren Ausgaben auf Wahrscheinlichkeiten beruhen, in Abgrenzung zu **deterministischen Systemen**, die bei gleicher Eingabe immer exakt dieselbe Ausgabe liefern. Klassische Software ist deterministisch: Eine Datenbankabfrage oder eine Berechnung führt verlässlich und nachvollziehbar zum selben Ergebnis. [LLMs](#llm) sind dagegen probabilistisch: Sie berechnen für jedes nächste [Token](#token) eine Wahrscheinlichkeitsverteilung und wählen daraus aus (gesteuert u.a. über die [Temperatur](#temperatur)). Dieselbe Frage kann deshalb unterschiedliche Antworten erzeugen, und kein Ergebnis ist garantiert korrekt oder reproduzierbar. Diese Eigenschaft ist die gemeinsame Wurzel von [Konfabulation](#konfabulation) und [Prompt Brittleness](#prompt-brittleness). Für die Soziale Arbeit folgt daraus: KI-Ausgaben sind als Vorschläge mit Unsicherheit zu behandeln, nicht als verlässliche Auskünfte – fachliche Prüfung bleibt unverzichtbar (siehe [Automation Bias](#automation-bias-automatisierungsverzerrung)).
 
 ---
 
@@ -339,7 +345,7 @@ Ein Verfahren, das die Präzision der Modellgewichte reduziert, etwa von 16 auf 
 Eine Modellklasse, die seit 2024 verbreitet ist und vor der eigentlichen Antwort einen längeren internen Denkprozess erzeugt.[^reasoning] Beispiele sind OpenAI o1 und o3, DeepSeek R1 und Claude-Modelle mit aktiviertem Thinking-Modus. Reasoning-Modelle erreichen bei mathematischen, logischen und Programmieraufgaben deutlich bessere Ergebnisse als klassische [LLMs](#llm), benötigen dafür aber erheblich mehr Rechenzeit und Tokens. Sie konfabulieren weiterhin, mit dem Unterschied, dass auch der Denkprozess selbst halluziniert sein kann.
 
 ### RLHF
-**Reinforcement Learning from Human Feedback**. Eine Methode im [Post-Training](#post-training) von [LLMs](#llm). Menschen bewerten Modellantworten, das Modell lernt aus diesem Feedback. Teil des [Alignment](#alignment)-Prozesses und Mitursache von [Sycophancy](#sycophancy).
+**Reinforcement Learning from Human Feedback**. Eine Methode im [Post-Training](#post-training) von [LLMs](#llm).[^rlhf] Menschen bewerten Modellantworten, das Modell lernt aus diesem Feedback. Teil des [Alignment](#alignment)-Prozesses und Mitursache von [Sycophancy](#sycophancy).
 
 ---
 
@@ -392,7 +398,7 @@ Die Architektur hinter modernen [LLMs](#llm), 2017 in „Attention Is All You Ne
 Der Transparenzbegriff, welcher der KI-VO zugrunde liegt, entstammt ursprünglich den [HLEG Ethik-Leitlinien für vertrauenswürdige KI](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60425)[^transparenz1] und wird von der KI-VO in unterschiedliche Verpflichtungen entlang der KI-Wertschöpfungskette übersetzt: Einerseits muss der Anbieter[^transparenz2] eines Hochrisiko-KI-Systems den Betreibern[^transparenz3] hinreichende Informationen über die Funktionsweise und Grenzen des Systems bereitstellen, damit dieser seinen Betreiberpflichten nachkommen kann.[^transparenz4] Daneben begründet die KI-VO produktbezogene Transparenzpflichten von Anbietern und Betreibern gegenüber Betroffenen, etwa die Offenlegung, dass man mit einem KI-System interagiert, sowie die Kennzeichnung von Deepfakes und KI-generierten Inhalten.[^transparenz5] Zusätzlich kennt auch die KI-VO Informationspflichten an Betroffene, die im Wesentlichen den Betreiber treffen: so etwa die vorab Informationspflicht an Arbeitnehmer, dass ein Hochrisiko-KI-System am Arbeitsplatz eingesetzt wird, die Aufklärung von Betroffenen von Hochrisiko-KI-Entscheidungen über den KI-Einsatz sowie nachgelagerte Erklärungspflichten über KI-basierte Entscheidungsprozesse.[^transparenz6]   
 
 
-- **technisch**:
+- **technisch**: Auf technischer Ebene bezeichnet Transparenz die Dokumentation und Nachvollziehbarkeit von KI-Modellen und -Systemen: Welche Daten wurden für das Training verwendet, welche Fähigkeiten und Grenzen hat das Modell, wie wurde es evaluiert? Etablierte Instrumente sind Model Cards (strukturierte Steckbriefe zu Trainingsdaten, Einsatzzweck und Leistungsgrenzen)[^modelcards] und System Cards, die ganze Anwendungen inklusive Sicherheitsmaßnahmen beschreiben. Vollständige Transparenz scheitert in der Praxis oft daran, dass kommerzielle Anbieter Trainingsdaten und Architekturdetails als Geschäftsgeheimnis behandeln; auch [Open-Weights](#open-source--open-weights)-Modelle legen meist nur die Gewichte offen, nicht die Daten. Von der Dokumentations-Transparenz zu unterscheiden ist die Erklärbarkeit einzelner Entscheidungen, siehe [Explainable AI (XAI)](#explainable-ai-xai).
 
 ---
 ## V
@@ -510,6 +516,20 @@ EthikJournal 8. Jg. 2. Ausgabe (https://www.ethikjournal.de/fileadmin/user_uploa
 [^gaig]: Digital Gender Gap – Schwerpunkt 2026 Künstliche Intelligenz, ein Kooperationsprojekt der Initiative D21 und des Instituts für w eiteren Informationen zur Arbeitsmarkt- und Berufsforschung (IAB).
 
 [^quasi]: Linnemann, Gesa/Löhe, Julian/Rottkemper, Beate (2024): Bedeutung von Selbstoffenbarungseffekten in quasisozialen Beziehungen mit auf generativer KI basierten Systemen in Settings von Onlineberatung und -therapie. In: e-beratungsjournal.net – Zeitschrift für Onlineberatung und computervermittelte Kommunikation 20(1), Artikel 1, S. 1–21. https://doi.org/10.48341/9X1S-5Y11
+
+[^modelcards]: Mitchell, Margaret et al. „Model Cards for Model Reporting". *Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT\* '19)*, 2019, 220–229. https://doi.org/10.1145/3287560.3287596
+
+[^fewshot]: Brown, Tom B. et al. „Language Models are Few-Shot Learners". *Advances in Neural Information Processing Systems 33 (NeurIPS 2020)*. https://arxiv.org/abs/2005.14165
+
+[^cot]: Wei, Jason et al. „Chain-of-Thought Prompting Elicits Reasoning in Large Language Models". *Advances in Neural Information Processing Systems 35 (NeurIPS 2022)*. https://arxiv.org/abs/2201.11903
+
+[^rlhf]: Ouyang, Long et al. „Training Language Models to Follow Instructions with Human Feedback". *Advances in Neural Information Processing Systems 35 (NeurIPS 2022)*. https://arxiv.org/abs/2203.02155
+
+[^distillation]: Hinton, Geoffrey, Oriol Vinyals und Jeff Dean. „Distilling the Knowledge in a Neural Network". arXiv:1503.02531, 2015. https://arxiv.org/abs/1503.02531
+
+[^mindperception]: Waytz, Adam, Kurt Gray, Nicholas Epley und Daniel M. Wegner. „Causes and Consequences of Mind Perception". *Trends in Cognitive Sciences* 14.8 (2010), 383–388. https://doi.org/10.1016/j.tics.2010.05.006
+
+[^mindperception1]: Colombatto, Clara und Stephen M. Fleming. „Folk Psychological Attributions of Consciousness to Large Language Models". *Neuroscience of Consciousness* 2024.1 (2024). https://doi.org/10.1093/nc/niae013
 
 ---
 
