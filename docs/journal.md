@@ -27,7 +27,7 @@ Elke Maurer (JAW) hatte am 06.03.2026 die Auswertung der MyJaW-Prompts vom Febru
 ## 2026-06-11 – Sync mit uniCLOUD-Arbeitsordner und Glossar-Überarbeitung
 
 ### Anlass
-Der uniCLOUD-Share (cloud.uni-graz.at/s/2Mn7RtgsoPdPnfH) wurde als Zusatz-Arbeitsordner des Konsortiums analysiert (Struktur nach APs, Protokolle 4+5, Anwendungsfelder, Logos). Zusammen mit dem Mail-Kontext (Susi, 09.06.: Glossar-Review-Bitte an DHC) ergaben sich konkrete Arbeitsaufträge.
+Der uniCLOUD-Share (Link intern bekannt, nicht im Repo) wurde als Zusatz-Arbeitsordner des Konsortiums analysiert (Struktur nach APs, Protokolle 4+5, Anwendungsfelder, Logos). Zusammen mit dem Mail-Kontext (Susi, 09.06.: Glossar-Review-Bitte an DHC) ergaben sich konkrete Arbeitsaufträge.
 
 ### Aktualisierte Dokumente
 
@@ -64,7 +64,6 @@ Der uniCLOUD-Share (cloud.uni-graz.at/s/2Mn7RtgsoPdPnfH) wurde als Zusatz-Arbeit
 |---|-------|--------|
 | 1 | Juridische Glossar-Stubs (sensible Daten, Zweckbindung, Datenminimierung, Diskriminierung juridisch, XAI juridisch) | Bei RI |
 | 2 | Sozialwissenschaftliche Stubs (Vertrauenswürdige KI „Arndt", Digital Divide 4. Ebene, Vulnerabilität sozialwiss.) | Bei KFU |
-| 3 | uniCLOUD-Share ist öffentlich ohne Passwort, enthält aber Teilnehmendenliste mit personenbezogenen Daten | Im Konsortium ansprechen |
 
 ---
 
