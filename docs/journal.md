@@ -1,5 +1,29 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-06-11 – JAW-Prompt-Auswertung intern abgelegt
+
+### Anlass
+Elke Maurer (JAW) hatte am 06.03.2026 die Auswertung der MyJaW-Prompts vom Februar 2026 geschickt (606 kategorisierte Prompts aus QMS-Channel und Free Chat, gefiltert um Kund:innen-Bezüge). Sie bedient das offene Kick-off-Item „AP 3/4: Prompts sammeln".
+
+### Entscheidung
+**Interne Nutzungsdaten von JAW werden nicht veröffentlicht.** Das Repo ist public, daher liegen Quell-PDF und aufbereitete Auswertung (Kategorien-Tabellen, Tätigkeitstypen, Beispiel-Prompts, Projektrelevanz für AP 3/4/5) nur lokal in `docs/intern/` (gitignored).
+
+### Änderungen
+
+| Dokument | Änderungen |
+|----------|------------|
+| `docs/intern/` (lokal) | Quell-PDF + aufbereitete Auswertung `jaw-prompts-auswertung-2026-02.md` |
+| `.gitignore` | `docs/intern/` ausgeschlossen |
+| `projekt/zusammenarbeit.md` | Kick-off-Item 4 „Prompts sammeln" auf „Teilweise" gesetzt (JAW intern vorliegend, SOS-KD offen) |
+| `docs/knowledge.md` | AP 4 um Stand März 2026 ergänzt |
+
+### Offene Punkte
+- Frage von Sabine (06.03.): Wurde in MyJaW iterativ gepromptet oder nur Einzel-Prompts? Antwort von Elke/JAW-IT steht aus
+- Prompts von SOS-KD fehlen noch
+- Nebenbei geklärt (Mail Christian an Sabine, 03.06.): USt-Frage bei den Förderraten. Es gibt keine USt, DHC stellt keine Rechnung (FFG fördert direkt, Uni Graz ist nur Treuhänderin), Beträge sind netto; 16.502,21 € korrekt (vgl. § 5.4 Förderungsvertrag)
+
+---
+
 ## 2026-06-11 – Sync mit uniCLOUD-Arbeitsordner und Glossar-Überarbeitung
 
 ### Anlass

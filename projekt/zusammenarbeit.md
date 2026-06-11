@@ -49,7 +49,7 @@ Die folgenden Aufgaben wurden beim Kick-off als nächste Schritte vereinbart:
 | 1 | **Glossar** erstellen (zentrale Begriffe definieren) | AP 2 | Internes Meeting am 22.04.2026 |
 | 2 | **AP 2:** Aufgabenverteilung RI + Uni klären, RI-Stunden verteilen | AP 2 | Offen |
 | 3 | **AP 3:** Termine für FK-Workshops abstimmen | AP 3 | ✅ 29.06. + 30.06.2026 |
-| 4 | **AP 3/4:** Prompts sammeln | AP 3, AP 4 | Offen |
+| 4 | **AP 3/4:** Prompts sammeln | AP 3, AP 4 | Teilweise: JAW-Auswertung Feb. 2026 liegt intern vor, SOS-KD offen |
 | 5 | **AP 5:** RI-Stunden: wo verbucht bis AP 5? | AP 5 | Offen |
 | 6 | **AP 9:** Publikations-Policy vereinbaren | AP 9 | Offen |
 | 7 | **1. Quartalstreffen** planen | AP 1 | ✅ 09.04.2026 |

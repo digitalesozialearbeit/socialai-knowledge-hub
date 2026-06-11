@@ -26,3 +26,6 @@ Vertrag*.pdf
 
 # Buchhaltung / Belege (nicht ins public Repo)
 Eigenbeleg_*
+
+# Interne Partner-Daten (z.B. JAW-Nutzungsdaten - nicht ins public Repo)
+docs/intern/

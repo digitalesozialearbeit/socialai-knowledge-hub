@@ -107,6 +107,7 @@
 - **Meilensteine:** Prompt-Set fertiggestellt (13.11.2026), Datensatz + Auswertungsbericht (29.01.2027)
 - **Deliverables:** Standardisiertes Set ~50 Praxis-Prompts (in Abstimmung mit Praxispartner:innen), Datensatz der KI-Outputs, Auswertungsbericht
 - **Stunden:** Uni Graz 150h, DHC 100h, SOS-KD 100h, JAW 100h, RI 0h
+- **Stand März 2026:** JAW hat eine Auswertung der MyJaW-Prompts vom Februar 2026 geliefert (Elke Maurer, Mail 06.03.2026): 606 kategorisierte Prompts aus QMS-Channel und Free Chat, gefiltert um Kund:innen-/Jugendlichen-Bezüge, je 5 Beispiel-Prompts pro Kategorie. Interne Nutzungsdaten, daher **nicht im öffentlichen Hub** (lokal in `docs/intern/`, gitignored). Direkter Input für das Prompt-Set. Offene Frage (Sabine, 06.03.): Wurde iterativ gepromptet oder nur Einzel-Prompts? Prompts von SOS-KD stehen noch aus
 
 ### AP 5 -Konzeption Prompting-Framework
 - **Zeitraum:** 02/2027 -05/2027
