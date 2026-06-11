@@ -11,6 +11,7 @@
 
 * **Wissen**
   * [Übersicht](/wissen/)
+  * [Anwendungsfelder](/wissen/anwendungsfelder.md)
 
 * **Recht & Compliance**
   * [Übersicht](/recht/)

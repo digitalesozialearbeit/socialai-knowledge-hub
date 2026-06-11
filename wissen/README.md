@@ -7,6 +7,12 @@ Hier werden Projektergebnisse gesammelt, sobald die jeweiligen Arbeitspakete abg
 
 ---
 
+## Aktuelle Inhalte
+
+- [Anwendungsfelder generativer KI in der Sozialen Arbeit](wissen/anwendungsfelder.md) – Grundlage für die Innovationsworkshops (AP 3), Arbeitsstand Juni 2026
+
+---
+
 ## Geplante Inhalte
 
 | Zeitraum | Inhalt | Quelle |
