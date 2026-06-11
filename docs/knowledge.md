@@ -58,6 +58,13 @@
 - **Inhaltliche Ergebnisse:** Wissensstand zu Bias in generativer KI, Ansätze zur Bias-Reduktion, Forschungslücken, Grundlage für alle weiteren APs
 - **Stunden:** Uni Graz 160h, RI 135h, DHC 70h, SOS-KD 10h, JAW 10h
 - **Kick-off-Notiz:** RI-Stunden in AP2 verteilen. Aufteilung/Texturing zwischen RI + Uni
+- **Konkretisierung (Protokolle 4+5, Mails Mai/Juni 2026):**
+  - **Gesamtglossar** lebt im Hub (`glossar/README.md`). Arbeitsteilung: DHC technische Begriffe, RI juridische, KFU sozialwissenschaftliche. Erste Version Ende Juni, **Endversion Mitte Juli 2026** (nach den Innovationsworkshops)
+  - **PRISMA-Analyse:** Update auf Basis derselben Prompts wie im List-Projekt, Analysezeitraum bis **30.06.2026**; KI- und Mensch-Bewertungen im Screening vergleichen
+  - **Literaturanalyse startet erst nach den Innovationsworkshops** (Use Cases als Grundlage), Fertigstellung bis Ende 2026
+  - **RI-Teil:** rechtswissenschaftliches Review auf Basis der Use Cases; erweitert um die Frage: Gibt es Forschung zu Recht, LLMs und Sozialer Arbeit? Umgang mit Gender, Diversität, Vulnerabilität?
+  - **AP2-Kernteam:** Christopher, Sabine, Susi. Nächstes Treffen **01.07.2026, 10–12 Uhr**, Büro Sabine (Raum 33.2.72); Christopher bringt Entwurf eines PRISMA-Recherche-Tools mit (Hinweise von Sabine: CADIMA, COVIDENCE, Plymouth Question Frameworks)
+  - **Deliverables bis 12/2026:** FFG-Review-Bericht (alle), PRISMA-Publikation (Sabine, Susi, Christopher); ggf. theoretische Publikation zu AI Literacies (KFU, RI, DHC, 2027)
 
 ### AP 3 -Innovationsworkshops mit Führungskräften
 - **Zeitraum:** 06/2026 -07/2026 (vorgezogen beim Kick-off, urspr. 07–10/2026)
@@ -86,6 +93,12 @@
 - **Offene Fragen:** Welche FKs genau? Inhaltliche Fragen klären, Koordination mit Praxispartnern
 - **Deliverables:** Wissenschaftlicher Bericht, Informationsmaterialien zu AI Act und DSGVO
 - **Stunden:** Uni Graz 430h, RI 100h, DHC 60h, SOS-KD 50h, JAW 50h
+- **Stand Juni 2026 (Protokoll 5, Mails):**
+  - DHC-Workshop (29.06., Tag 1): Konzept (240 Min.) per Mail vom 01.06. abgestimmt; Überschneidungen mit RI-Tag bereinigt. Wunsch von Susi/RI: explizit zwischen **KI-System und KI-Modell** unterscheiden, RI baut am Tag 2 darauf auf (Begriff dazu im Glossar ergänzt)
+  - RI-Workshop (30.06., Tag 2): Input AI Act/DSGVO, danach Anwendungsfelder sammeln und clustern (Herbstlaub-Methode), Gruppenarbeit zu Workflows inkl. rechtlicher Fragen und Gender/Diversität/Bias
+  - Teilnehmende bringen am 29.06. einen **Laptop** für praktische Übungen mit
+  - KFU (Sabine, Susi, Christina) stellt Stifte, Kärtchen und Verpflegung
+  - **Anwendungsfelder-Dokument** (4 Use-Case-Felder: Fallarbeit, Berichtswesen/Administration, Contenterstellung, Chatbots in der Beratung) in den Hub übernommen: `wissen/anwendungsfelder.md`
 
 ### AP 4 -Experimentelle Analyse Prompt-Engineering
 - **Zeitraum:** 10/2026 -01/2027

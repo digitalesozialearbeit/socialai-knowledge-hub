@@ -1,5 +1,42 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-06-11 – Sync mit uniCLOUD-Arbeitsordner und Glossar-Überarbeitung
+
+### Anlass
+Der uniCLOUD-Share (cloud.uni-graz.at/s/2Mn7RtgsoPdPnfH) wurde als Zusatz-Arbeitsordner des Konsortiums analysiert (Struktur nach APs, Protokolle 4+5, Anwendungsfelder, Logos). Zusammen mit dem Mail-Kontext (Susi, 09.06.: Glossar-Review-Bitte an DHC) ergaben sich konkrete Arbeitsaufträge.
+
+### Aktualisierte Dokumente
+
+| Dokument | Änderungen |
+|----------|------------|
+| `glossar/README.md` | Neuer Begriff **KI-Modell vs. KI-System** (Wunsch Susi/RI für Workshop-Tag 2); Stubs gefüllt: Probabilistische Systeme, Transparenz (technisch), Mind Perception; Literatur ergänzt (Few-Shot, CoT, RLHF, Distillation, Model Cards, Mind Perception); Tippfehler korrigiert; Platzhalter Datenminimierung für RI ergänzt |
+| `wissen/anwendungsfelder.md` | **Neu:** bereinigte Fassung des AP3-Arbeitsdokuments Anwendungsfelder (4 Use-Case-Felder) |
+| `wissen/README.md` | Link auf Anwendungsfelder-Seite |
+| `_sidebar.md` | Navigationseintrag Anwendungsfelder |
+| `index.html` | SocialAI-Logo in der Sidebar (docsify `logo`-Option) |
+| `assets/logos/` | Offizielles SocialAI-Logo (RGB-PNG: Standard, White, Network Dense) aus uniCLOUD übernommen |
+| `docs/knowledge.md` | AP2 + AP3 mit Stand aus Protokoll 4 (27.05.), Protokoll 5 (09.06.) und Mails konkretisiert |
+
+### Beschlüsse aus Protokollen/Mails (übernommen nach knowledge.md)
+
+| # | Beschluss | Quelle |
+|---|-----------|--------|
+| 1 | Glossar-Endversion bis Mitte Juli; DHC technische, RI juridische, KFU sozialwissenschaftliche Begriffe | Protokoll 4 + Mail Susi 09.06. |
+| 2 | PRISMA-Update mit denselben Prompts, Analysezeitraum bis 30.06.2026 | Lit-Review-Überblick (uniCLOUD) |
+| 3 | Literaturanalyse erst nach Innovationsworkshops, bis Ende 2026 | Protokoll 4 |
+| 4 | AP2-Kernteam Christopher/Sabine/Susi; Treffen 01.07.2026, 10–12 Uhr, Büro Sabine; Christopher bringt PRISMA-Tool-Entwurf | Mail-Thread 09.06. |
+| 5 | DHC-Tag unterscheidet KI-System vs. KI-Modell (RI baut darauf auf); Teilnehmende bringen Laptops | Protokoll 5 + Mail Susi |
+
+### Offene Punkte
+
+| # | Punkt | Status |
+|---|-------|--------|
+| 1 | Juridische Glossar-Stubs (sensible Daten, Zweckbindung, Datenminimierung, Diskriminierung juridisch, XAI juridisch) | Bei RI |
+| 2 | Sozialwissenschaftliche Stubs (Vertrauenswürdige KI „Arndt", Digital Divide 4. Ebene, Vulnerabilität sozialwiss.) | Bei KFU |
+| 3 | uniCLOUD-Share ist öffentlich ohne Passwort, enthält aber Teilnehmendenliste mit personenbezogenen Daten | Im Konsortium ansprechen |
+
+---
+
 ## 2026-04-09 -Update nach 1. Quartalstreffen
 
 ### Anlass
