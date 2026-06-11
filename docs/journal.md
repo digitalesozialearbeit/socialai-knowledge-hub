@@ -1,5 +1,11 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-06-11 – Fußnoten-Rendering für docsify
+
+Das Glossar nutzt Standard-Markdown-Fußnoten (`[^id]` im Text, `[^id]: Definition` am Seitenende). GitHub und Obsidian rendern die Syntax nativ, docsify/marked nicht – auf der Website erschien sie als roher Text. Neues docsify-Plugin in `index.html` (beforeEach, gleiche Machart wie Frontmatter-Strip und Glossar-Filter): Definitionen werden eingesammelt, Verweise in nummerierte hochgestellte Links umgeschrieben, am Seitenende entsteht eine „Literatur"-Liste mit Ankern und Rücksprung-Links (↩). Quelldateien bleiben unverändert GitHub-/Obsidian-kompatibel. Verifiziert per Node-Test gegen das echte Glossar: alle 53 Definitionen aufgelöst, 55 Verweise, keine Waisen, keine rohe Syntax übrig.
+
+---
+
 ## 2026-06-11 – docsify-wikilink-Plugin entfernt
 
 Der offene Punkt „Wikilink-Plugin vor Go-Live testen" (seit 03/2026) ist damit aufgelöst: In drei Monaten Betrieb hat niemand Wikilink-Syntax geschrieben, alle Querverweise (auch die ~20 neuen im Glossar) sind Standard-Markdown-Links. Das ungetestete Plugin wurde aus `index.html` entfernt, Konventionen in `docs/architecture.md` und `CLAUDE.md` angepasst (Wikilinks jetzt unter „Vermeiden"). Bei Bedarf mit einer Zeile reaktivierbar.

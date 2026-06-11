@@ -66,6 +66,19 @@
       padding: 1px 8px;
       font-size: 11.5px;
     }
+    /* Fussnoten */
+    sup.fn-ref {
+      font-size: 0.72em;
+      line-height: 0;
+    }
+    sup.fn-ref a {
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .fn-list {
+      font-size: 0.88em;
+      color: var(--mono-shade1, #555);
+    }
   </style>
 </head>
 <body>
@@ -107,6 +120,46 @@
             // Obsidian-Kommentare %%...%% entfernen
             content = content.replace(/%%[\s\S]*?%%/g, '');
             return content;
+          });
+        },
+        // Markdown-Fussnoten ([^id] im Text, [^id]: Definition):
+        // marked kennt die Syntax nicht, daher hier in nummerierte
+        // Verweise + Literaturliste umschreiben
+        function(hook) {
+          hook.beforeEach(function(content) {
+            var defs = {}, found = false;
+            content = content.replace(/^\[\^([^\]]+)\]:[ \t]*(.*)$/gm, function(m, id, text) {
+              defs[id] = text.trim();
+              found = true;
+              return '';
+            });
+            if (!found) return content;
+            var order = [];
+            content = content.replace(/\[\^([^\]]+)\]/g, function(m, id) {
+              if (!(id in defs)) return m;
+              var n = order.indexOf(id) + 1;
+              if (!n) { order.push(id); n = order.length; }
+              return '<sup class="fn-ref" id="fnref-' + n + '">[' + n + '](#fn-' + n + ')</sup>';
+            });
+            var out = ['', '## Literatur', ''];
+            order.forEach(function(id, i) {
+              var n = i + 1;
+              out.push(n + '. <span id="fn-' + n + '"></span>' + defs[id] + ' [↩](#fnref-' + n + ')');
+            });
+            var orphans = Object.keys(defs).filter(function(id) { return order.indexOf(id) === -1; });
+            if (orphans.length) {
+              out.push('');
+              orphans.forEach(function(id) { out.push('- ' + defs[id]); });
+            }
+            return content + '\n' + out.join('\n') + '\n';
+          });
+          hook.doneEach(function() {
+            var h = document.getElementById('literatur');
+            var el = h && h.nextElementSibling;
+            while (el) {
+              el.classList.add('fn-list');
+              el = el.nextElementSibling;
+            }
           });
         },
         // Glossar: Kategorie-Filter + A-Z-Sprungleiste
