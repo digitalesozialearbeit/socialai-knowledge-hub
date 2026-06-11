@@ -27,6 +27,13 @@ Der uniCLOUD-Share (cloud.uni-graz.at/s/2Mn7RtgsoPdPnfH) wurde als Zusatz-Arbeit
 | 4 | AP2-Kernteam Christopher/Sabine/Susi; Treffen 01.07.2026, 10–12 Uhr, Büro Sabine; Christopher bringt PRISMA-Tool-Entwurf | Mail-Thread 09.06. |
 | 5 | DHC-Tag unterscheidet KI-System vs. KI-Modell (RI baut darauf auf); Teilnehmende bringen Laptops | Protokoll 5 + Mail Susi |
 
+### Nachtrag: Glossar-Review-Durchgang und Filter-UI (gleicher Tag)
+
+- **Multi-Agent-Review** des Glossars (5 Perspektiven: Sprache, Format, Links, Technik-Fachlichkeit, Kohärenz; inhaltliche Findings adversarial verifiziert): 7 bestätigte inhaltliche Fixes, 4 defekte Anker repariert, ~20 Querverweise ergänzt, Setext-Rendering-Bug im Kopfbereich behoben, alphabetische Sortierung in 6 Abschnitten korrigiert, Perspektiv-Labels vereinheitlicht (**Rechtlich:** / **Sozialwissenschaftlich:** / **Technisch:**), Literaturangaben korrigiert
+- **Kategorisierung + Filter:** Jeder der 85 Begriffe trägt jetzt eine Tag-Zeile (`Technik` 57, `Sozialwissenschaft` 30, `Recht` 13, `Soziale Arbeit` 7). Neues docsify-Plugin in `index.html` rendert daraus Filter-Buttons mit Zählern und eine A–Z-Sprungleiste; Tags erscheinen als Chips. Auf GitHub/Obsidian rendern die Tags harmlos als Inline-Code
+- **`glossar/technisch.md` stillgelegt:** vollständig redundant zum Gesamtglossar (alle 47 Begriffe übernommen), Datei durch Verweis ersetzt, Sidebar-Eintrag entfernt ("Gesamtglossar" statt zwei Einträge)
+- Verifiziert im Browser (localhost-Preview): Filter, A–Z-Leiste und Chips funktionieren, keine Konsolenfehler
+
 ### Offene Punkte
 
 | # | Punkt | Status |

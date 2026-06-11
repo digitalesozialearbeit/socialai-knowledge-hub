@@ -8,10 +8,13 @@ s. Outline rechts oben neben Bearbeitungsmodus
 
 > *Anmerkung zu den juridischen Definitionen*: Da der Gesetzgeber im Normtext überwiegend das generische Maskulinum verwendet, folgt das Glossar in seinen rechtlichen Ausführungen dieser Terminologie, um eine eindeutige Zuordnung zum Gesetzeswortlaut zu gewährleisten.
 
+> *Kategorien*: Jeder Begriff trägt direkt unter der Überschrift einen oder mehrere Tags (`Technik`, `Recht`, `Sozialwissenschaft`, `Soziale Arbeit`). Auf der Website lassen sich die Begriffe danach filtern. Bitte beim Anlegen neuer Begriffe eine Tag-Zeile ergänzen.
+
 ---
 ## A 
 
 ### AI Act / KI-Verordnung
+`Recht`
 
 Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz (AI Act, Verordnung (EU) 2024/1689). Sie regelt die Entwicklung und den Betrieb von KI und folgt dabei einem "risikobasierten Ansatz" – je höher das Risiko, das von einem KI-System ausgeht, desto strenger die Verpflichtungen. Dabei kennt sie folgende Risikokategorien: verbotene Praktiken (zB Emotionserkennung am Arbeitsplatz und social scoring), Hochrisiko-KI (zB KI im Personalmanagement, in der Zuerkennung öffentlicher Leistungen oder in der Justiz), Transparenzrisiken (Wenn KI mit Personen interagiert, Deepfakes oder sonstige Inhalte generiert) und minimale Risiken (alle übrigen Systeme). Die KI-Verordnung unterscheidet folgende zentrale Rollen, nach denen sich wiederum die konkreten Pflichten messen: **Anbieter** (entwickelt/vermarktet KI-Systeme), **Betreiber** (setzt KI-Systeme zu beruflichen Zwecken ein) und **Nutzer:in** (verwendet KI). Relevant für die Soziale Arbeit, da der Einsatz von KI im Kontext [vulnerabler Gruppen](#vulnerabilität--schutzbedürfnis) besondere Pflichten mit sich bringt.
 
@@ -20,31 +23,43 @@ Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz 
 ***Anmerkung Susi:*** So stelle ich hier eine Frage oder formuliere eine Anmerkung
 
 ### AI Agents / Agentic AI
+`Technik`
 
 KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über einfache Frage-Antwort-Interaktion hinaus. Im Projektkontext eine offene Frage: Inwieweit werden agentenbasierte KI-Systeme für die Soziale Arbeit relevant, und welche Chancen und Risiken bringen sie mit sich?
 
 ***Anmerkung Sabine:*** Neuer Begriff
 ### AI Divide (analog zu Digital Divide)
+`Sozialwissenschaft`
+
 Carter et al. (2020) konzeptualisieren den AI divide als Unterdimension des digital divide und definieren ihn als KI-bezogene Ungleichheiten hinsichtlich des Zugangs zu KI (erste Ebene), der Fähigkeit, KI zu nutzen (zweite Ebene), und der Ergebnisse der KI-Nutzung (dritte Ebene) – auf individueller, institutioneller oder Länderebene. Damit erweitern sie [Digital Divide](#digital-divide) und betonen die Bedeutung individueller Wahrnehmungen, Überzeugungen und Einstellungen gegenüber KI. Der Begriff AI Divide bezeichnet die wachsende soziale Kluft zwischen Menschen, die KI-Systeme verstehen, nutzen und mitgestalten können – und jenen, die davon ausgeschlossen sind. [^aidivide] 
 Die UNESCO betont den Diversitätsbezug: Der AI divide bezeichnet den ungleichen Zugang sowie ungleiche Vorteile und Chancen bei KI-Technologien über verschiedene Regionen, Communities und sozioökonomische Gruppen hinweg; die am stärksten marginalisierten Gruppen – Frauen, People of Color, Menschen mit Behinderung, LGBTQ+-Personen – tragen die Hauptlast dieser Kluft.[^aidivide1] 
 Bezug zur Sozialen Arbeit: Unterschiede im Zugang zu Technik, Infrastruktur, Sprachkompetenz oder Bildung beeinflussen, wer KI aktiv nutzen kann. Digitale Ungleichheiten werden in bestimmten Szenarien durch KI sogar verschärft – nicht reduziert.
 
 
 ### AI Literacies / KI Literacies / KI Kompetenzen
+`Sozialwissenschaft` `Technik`
+
 Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre Wirkungen einzuordnen. AI Literacies umfassen technisches Grundverständnis, einen Blick für [Bias](#bias) und [Konfabulation](#konfabulation), Kenntnis rechtlicher Rahmen sowie die Fähigkeit, Einsatzentscheidungen zu reflektieren. Der Begriff ist analog zu Medienkompetenz konzipiert und seit 2024 auch im [EU AI Act](#ai-act--ki-verordnung) als organisationale Pflicht verankert. AI Literacies meint die Fähigkeit, KI-Systeme zu verstehen, kritisch zu bewerten und sinnvoll zu nutzen – in technischer, ethischer und gesellschaftlicher Hinsicht. Sie umfasst Wissen, Anwendung
 und Reflexion. AI Literacies kann aus drei Kompetenzfeldern generiert werden: Verstehen von Funktionsweisen und Prinzipien der KI; Anwendung in alltags- und berufsspezifischen Kontexten; Bewertung und Reflexion des Einsatzes von KI im Hinblick auf Qualität, Fairness und gesellschaftliche Auswirkungen. [^ailiteracies]
 ***Anmerkung Sabine:*** würde KI Litercies weglassen, weil im deutschsprachigen Diskurs eher von KI-Kompetenz oder KI Literalität gesprochen. 
 
 ### Alignment
+`Technik`
+
 Der Prozess, ein KI-Modell so zu trainieren, dass es hilfreich, harmlos und ehrlich antwortet. Methoden wie [RLHF](#rlhf) und [Constitutional AI](#constitutional-ai) sind Teil davon.
 
 ### Androzentrismus
+`Sozialwissenschaft`
+
 Androzentrismus (von griech. andros „Mann“ und kentron „Mittelpunkt“) bezeichnet die unhinterfragte Setzung des männlichen Geschlechts als universelle Norm. Dabei wird die männliche Perspektive, Erfahrung oder Lebensweise als neutraler Maßstab betrachtet, während alles Weibliche als Abweichung oder „Sonderfall“ gilt.
 
 ### API
+`Technik`
+
 **Application Programming Interface**. Eine Schnittstelle, über die Programme miteinander kommunizieren. Relevant für die Anbindung von KI-Modellen an Anwendungen.
 
 ### Automation Bias (Automatisierungsverzerrung)
+`Technik` `Recht` `Sozialwissenschaft`
 
 Eine Unterkategorie von [Bias](#bias). Die Tendenz, sich in bestimmten Situationen übermäßig auf automationsunterstützte Entscheidungsfindungssysteme zu verlassen, ohne deren Output kritisch zu prüfen (Wickens/Clegg/Vieane/Sebok 2015, 729).
 Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im praktischen Einsatz eher für gültig und berechtigt gehalten, wenngleich diese möglicherweise falsche oder unvollständige Informationen liefern (Research Institute 2025, 122).
@@ -52,6 +67,7 @@ Demnach werden automationsunterstützte Entscheidungen oder Empfehlungen im prak
 - **Sozialwissenschaftlich:** Der Automation Bias bezeichnet das Phänomen, dass Menschen den Vorschlägen und Entscheidungen von Maschinen mehr vertrauen als ihren eigenen. Eine kürzlich erschienene Studie der Unternehmensberatung EY ["AI Sentiment Index 2025"](https://www.ey.com/content/dam/ey-unified-site/ey-com/de-de/newsroom/2025/05/ey-praesentation-ai-sentiment-index-2025.pdf) ergab: Nur jede oder jeder Vierte in Deutschland überprüft die Ergebnisse von generativer KI. Definition von [Bundeszentrale für politische Bildung](https://www.bpb.de/lernen/digitale-bildung/werkstatt/569392/automation-bias/).
 
 ### Automatisierte Entscheidungsfindung 
+`Recht` `Technik`
 
 Eine automatisierte bzw. algorithmische Entscheidungsfindung bezieht sich auf computergestützte Prozesse, einschließlich solcher, die auf maschinellem Lernen, Statistik oder anderen Techniken der Datenverarbeitung oder der künstlichen Intelligenz beruhen, bei denen automatisch eine bestimmte Auswahl oder Festlegung getroffen wird. Dies geschieht, indem das Programm systematisch festgesetzte Regeln anwendet oder Muster in Daten analysiert, um zu einem Endergebnis (oftmals Entscheidung) zu kommen, wobei kein menschliches Eingreifen erforderlich ist.[^automatisierte-entscheidungsfindung]
 
@@ -59,6 +75,8 @@ Eine automatisierte bzw. algorithmische Entscheidungsfindung bezieht sich auf co
 
 
 ### Autoregressive Generierung
+`Technik`
+
 Das Prinzip, nach dem [LLMs](#llm) Text erzeugen. Jedes vorhergesagte [Token](#token) wird Teil des Kontexts für die nächste Vorhersage. Das Modell baut seinen Output Wort für Wort auf.
 
 ---
@@ -66,9 +84,12 @@ Das Prinzip, nach dem [LLMs](#llm) Text erzeugen. Jedes vorhergesagte [Token](#t
 ## B
 
 ### Benchmark
+`Technik`
+
 Standardisierte Testsätze zur Vergleichsmessung der Leistungsfähigkeit von KI-Modellen. Benchmarks bilden die Grundlage für Aussagen wie „Modell X ist besser als Modell Y", sind aber methodisch begrenzt. Ein zentrales Problem ist Data Contamination, wenn Testdaten unbeabsichtigt im Training enthalten waren. Hohe Benchmark-Werte korrelieren nicht zwingend mit guter Leistung in realen Anwendungen.
 
 ### Bias
+`Technik` `Sozialwissenschaft`
 
 Systematische Verzerrung in Daten, Repräsentation, Modellen oder Entscheidungen. Im Projekt in mehreren Dimensionen relevant:
 - **Sozialwissenschaftlich:** Sozialwissenschaftlich lässt sich Bias an der Schnittstelle zweier Traditionen verstehen: Die kognitionspsychologische Linie (Tversky & Kahneman, 1974) fasst ihn als systematische, also nicht zufällige Verzerrung unserer Wahrnehmung, Erinnerung und Beurteilung, die einem erkennbaren Muster folgt und das Denken stets in eine bestimmte Richtung lenkt.[^kognito] Die soziologische Linie (Allport, 1954) verweist auf deren gesellschaftliche Verankerung in Vorurteilen, kulturellen Normen und struktureller Diskriminierung. Beide Ebenen greifen ineinander: Individuelles Urteilen ist durch Erfahrungen, Sozialisation und kulturelle Normen geprägt und reproduziert zugleich gesellschaftliche Ungleichheit. Die menschliche Wahrnehmung ist damit niemals neutral.[^llport]
@@ -81,34 +102,49 @@ Systematische Verzerrung in Daten, Repräsentation, Modellen oder Entscheidungen
 ## C
 
 ### Chain of Thought
+`Technik`
+
 **CoT**, eine Prompting-Technik, bei der das Modell aufgefordert wird, schrittweise zu denken, etwa durch „let's think step by step".[^cot] Verbessert die Qualität bei komplexen Aufgaben, weil Zwischenschritte explizit werden. Mit der Verbreitung von [Reasoning-Modellen](#reasoning-modell) verliert die manuelle CoT-Aufforderung an Bedeutung, weil diese Modelle das Verhalten internalisiert haben.
 
 ### Chancengerechtigkeit
+`Sozialwissenschaft` `Soziale Arbeit`
 
 Bewusst abgegrenzt von **Chancengleichheit**. Während Chancengleichheit formale Gleichbehandlung meint, zielt Chancengerechtigkeit darauf ab, unterschiedliche Ausgangsbedingungen auszugleichen – also faire Ergebnisse statt gleicher Behandlung. Chancengerechtigkeit umfasst einen gerechten und faireren Zugang zu Ressourcen und gesellschaftlichen Systemen wie Sozial- und Gesundheitsleistungen, Bildung, Arbeit und Wohnen, entsprechend der individuellen Bedarfe. Menschen machen in ihrem Lebenslauf unterschiedliche Ausschluss- und Diskriminierungserfahrungen, welche sich auf ihre Lebensgestaltung und Selbstbestimmungsmöglichkeiten auswirken. Dabei spielen Anerkennung und Zugehörigkeitsgefühl eine wichtige Rolle. Definition siehe [Dachverband Wiener Sozialeinrichtungen](https://dachverband.at/zukunft-soziale-stadt/chancengerechtigkeit/).
 
 ### Chatbot
+`Technik`
+
 Eine Anwendung, die eine Konversationsoberfläche um ein Sprachmodell legt. Bekannte Beispiele sind ChatGPT, Claude und Gemini. Der Chatbot ist nicht das Modell selbst, sondern die Schnittstelle dazu. Zwischen Eingabe und Modellantwort liegen weitere Schritte, etwa Sicherheitsprüfungen, Tool-Anbindungen oder Suchfunktionen.
 
 ### Constitutional AI
+`Technik`
+
 Ein Trainingsverfahren von Anthropic, bei dem ein Modell anhand einer natürlichsprachigen „Verfassung" aus Prinzipien geformt wird, statt nur auf menschliche Bewertungen angewiesen zu sein.[^cai] In zwei Phasen wird das Modell zunächst zu Selbstkritik gegen die Prinzipien angeleitet und anschließend per Reinforcement Learning aus den eigenen Bewertungen weitertrainiert. Das Verfahren reduziert die Menge benötigter menschlicher Labels und ist Teil des [Alignment](#alignment).
 
 
 ### Context / Kontext (technisch)
+`Technik`
 
 Die Rahmenbedingungen, die einen KI-Output beeinflussen. Umfasst den Prompt selbst, System-Instruktionen, Konversationshistorie und implizite Annahmen des Modells. Für die Soziale Arbeit besonders relevant, weil Kontextinformationen über Klient:innen die Qualität und Fairness der KI-Antworten stark beeinflussen. Siehe auch [Context Engineering](#context-engineering), [Context Rot](#context-rot) und [Context Window](#context-window).
 
 ### Context / Kontext (sozialwissenschaftlich)
+`Sozialwissenschaft`
 
 Kontext ist in Bezug auf [Diskriminierung](#diskriminierung), [Fairness](#fairness-im-ki-kontext), [Chancengerechtigkeit](#chancengerechtigkeit) und verwandte Konzepte auch aus sozialwissenschaftlicher Perspektive sehr wichtig, da je nach Zeitpunkt und Ort unterschiedliche Normen, Werte sowie Ungleichheitsfaktoren eine Rolle spielen.
 
 ### Context Engineering
+`Technik`
+
 Die systematische Gestaltung des Kontexts, den ein [LLM](#llm) erhält. Auswahl, Kompression und Strukturierung von Informationen im [Context Window](#context-window). Geht über [Prompt Engineering](#prompt-engineering) hinaus, weil nicht nur die Frage, sondern der gesamte mitgegebene Kontext optimiert wird.
 
 ### Context Rot
+`Technik`
+
 Die Leistung eines [LLM](#llm) verschlechtert sich, je mehr Text im [Context Window](#context-window) steht, auch bei inhaltlich einfachen Aufgaben. Irrelevante Informationen lenken die Aufmerksamkeitsmechanismen ab. Mehr Kontext bedeutet nicht automatisch bessere Ergebnisse.
 
 ### Context Window
+`Technik`
+
 Das Arbeitsgedächtnis eines [LLM](#llm). Der maximale Textumfang in [Tokens](#token), den das Modell bei einer Anfrage verarbeiten kann. Umfasst Input (Anfrage und Kontext) und Output (generierte Antwort). Aktuelle Modelle bieten zwischen rund 100.000 und einer Million Tokens. Inhalte außerhalb dieses Fensters sind dem Modell nicht zugänglich.
 
 
@@ -117,6 +153,7 @@ Das Arbeitsgedächtnis eines [LLM](#llm). Der maximale Textumfang in [Tokens](#t
 ## D
 
 ### Datenschutz / DSGVO
+`Recht`
 
 Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016/679). Im Projektkontext zentrale Frage: Welche personenbezogenen Daten dürfen in KI-Tools eingegeben werden? Besondere Relevanz bei Daten von Klient:innen der Sozialen Arbeit, die oft zu [vulnerablen Gruppen](#vulnerabilität--schutzbedürfnis) gehören.
 
@@ -126,24 +163,36 @@ Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016
 - **Datenminimierung**: 
 
 ### Deskilling
+`Sozialwissenschaft` `Soziale Arbeit`
+
 Risiko, dass Fachkräfte durch KI-Nutzung professionelle Kompetenzen verlieren. Wenn KI-generierte Texte, Einschätzungen oder Empfehlungen unkritisch übernommen werden, kann das fachliche Urteilsvermögen abnehmen – ein relevantes Risiko für die Qualität Sozialer Arbeit.[^deskilling]
 
 ### Digital Divide
+`Sozialwissenschaft`
+
 Jan van Dijk (2020) beschreibt den Begriff ‚Digital Divide‘ als Kluft zwischen jenen Menschen, die Zugang zu digitalen Technologien haben und mit diesen umgehen können und jenen Menschen, die keinen Zugang zu digitalen Technologien haben bzw. mit diesen nicht umgehen können. Der Zugang zu digitalen Technologien umfasst die Verfügbarkeit von Endgeräten wie Computer, Smartphones oder iPads, das Vorhandensein einer (stabilen und starken) Internetverbindung sowie Apps und Softwarelösungen, wie soziale Medien, E-Mail, Suchmaschinen oder E-Banking (first level of digital divide). Der Umgang mit digitalen Technologien bezieht sich auf die Digital Literacies der Anwender:innen (second level of digital divide). Massimo Ragnedda und Maria L. Ruiu (2020) beschreiben darüber hinaus, dass die allgemeinen Lebenschancen in der digitalen Gesellschaft stark von den Möglichkeiten online partizipieren zu können beeinflusst werden und digitale Präsenz zu einem wesentlichen Faktor des sozialen Kapitals wurde (third level of digital divide).[^divide]
 
 ### Diskriminierung
+`Sozialwissenschaft` `Recht`
+
 Ungleichbehandlung aufgrund der (vermeintlichen) Zugehörigkeit zu einer Gruppe – Geschlecht, ethnische Herkunft, Alter, Behinderung, sexuelle Orientierung, Religion, soziale Schicht.
 - **Sozialwissenschaftlich:** Diskriminierung ist ein Prozess, durch den [soziale Ungleichheit](#soziale-ungleichheit) geschaffen und aufrechterhalten wird, und sie wirkt durch spezifische Handlungen der Klassifizierung, Bewertung und Ausgrenzung. Sie kann direkt / explizit oder implizit erfolgen. Aus sozialwissenschaftlicher Perspektive bilden Differenzkonstruktionen die Grundlage von Diskriminierungen. Sie entstehen aus Zuschreibung, Abstrahierung und Stereotypisierung. Sie führen zu Hierarchien, Ein- und Ausschlüssen und sind mit sozialen, ökonomischen, politischen oder rechtlichen Benachteiligungen verschränkt. Feministische und antirassistisch-postkoloniale Perspektiven betonen die überindividuelle Dimension von Diskriminierungen; sie sind als historisch gewachsenes, strukturelles Phänomen zu betrachten. Definition siehe [Gender Glossar](https://www.gender-glossar.de/post/diskriminierung)
 - **Juridisch:** mittelbar / unmittelbar, GlBG
 
 ### Distillation
+`Technik`
+
 Ein Verfahren, bei dem ein kleineres, schnelleres Modell aus einem größeren abgeleitet wird, indem es lernt, dessen Outputs nachzubilden.[^distillation] Distillierte Modelle laufen mit deutlich weniger Rechenleistung, erreichen aber meist nicht die volle Qualität des Ursprungsmodells. Viele frei verfügbare Open-Weights-Modelle sind Distillationen größerer kommerzieller Modelle.
 
 ### Diversität
+`Sozialwissenschaft`
+
 Vielfalt in verschiedenen Dimensionen (Geschlecht, Alter, ethnische Zugehörigkeit, Behinderung etc.). Im Projekt sowohl als Forschungsgegenstand (Wie bildet generative KI Diversität ab? Wo entstehen Verzerrungen?) als auch als Gestaltungsprinzip für inklusive KI-Nutzung relevant. Diversität/Diversity werden häufig auch die Begriffe Heterogenität, Unterschiedlichkeit, Verschiedenheit, Mannigfaltigkeit und Differenz verwendet. Der Begriff Diversität fokussiert auf Gemeinsamkeiten und Unterschiede zwischen Menschen. Dabei stehen historisch gewachsene gesellschaftliche Differenzsetzungen im Mittelpunkt, die soziale Ungleichheiten hervorgebracht haben. [^diversität]
 - **Sozialwissenschaftlich:** Diversität beschreibt die Vielfalt der Unterschiede und Gemeinsamkeiten zwischen Menschen, die durch historisch gewachsene soziale Kategorien geprägt ist, welche zu Mustern der Ungleichheit geführt haben: Alter, Herkunft, Bildung, Behinderung, sexuelle Orientierung, Religion, soziale Lage usw. Diversität ist somit sowohl deskriptiv (Menschen unterscheiden sich voneinander) als auch normativ (die Unterschiede führen zu [Diskriminierung](#diskriminierung) / [sozialen Ungleichheiten](#soziale-ungleichheit)). Diversität ist kein „Sonderthema", sondern Kern sozialarbeiterischer Praxis: Klient:innen bringen unterschiedliche Lebensrealitäten mit – und benötigen unterschiedliche Zugänge bzw. Arten von Unterstützung. Diversität ist deshalb nicht nur ein Wert, sondern eine professionelle Aufgabe in der Sozialen Arbeit.
 
 ### Diversitätssensibilität
+`Sozialwissenschaft` `Soziale Arbeit`
+
 Die Fähigkeit, Vielfalt und ihre Auswirkungen in sozialen Interaktionen und Institutionen wahrzunehmen, zu reflektieren und angemessen darauf zu reagieren. Erfordert die Bereitschaft, andere Perspektiven einzunehmen, Toleranz gegenüber Unklarheiten und Unvertrautem sowie kritische Selbstreflexion. Erkennt an, dass gut gemeinte Handlungen dennoch ausgrenzend wirken können: z. B. wenn Kategorien, die eigentlich „einbeziehen“ sollen, Menschen letztlich als „die Anderen“ abstempeln.
 
 ---
@@ -151,9 +200,13 @@ Die Fähigkeit, Vielfalt und ihre Auswirkungen in sozialen Interaktionen und Ins
 ## E
 
 ### Embedding
+`Technik`
+
 Eine mathematische Darstellung von Text als Zahlenvektor in einem hochdimensionalen Raum. Ähnliche Bedeutungen liegen nahe beieinander. „Hund" und „Katze" sind näher als „Hund" und „Stein". So kann ein [LLM](#llm) Bedeutung mathematisch verarbeiten. Embeddings sind die Grundlage von [RAG](#rag) und semantischer Suche.
 
 ### Explainable AI (XAI)
+`Technik` `Recht`
+
 - **Technisch:** Methoden und Werkzeuge, die Entscheidungen von KI-Systemen nachvollziehbar machen. Bei klassischem Machine Learning durch Verfahren wie SHAP oder LIME. Bei [LLMs](#llm) ist Erklärbarkeit nur eingeschränkt möglich, weil die Entscheidungsprozesse über Milliarden von Parametern verteilt sind. Das Feld der Mechanistic Interpretability untersucht, welche internen Strukturen welche Verhaltensweisen erzeugen. Im regulatorischen Kontext bleibt Erklärbarkeit eine zentrale Anforderung.
 - **Juridisch:** 
 
@@ -162,21 +215,29 @@ Eine mathematische Darstellung von Text als Zahlenvektor in einem hochdimensiona
 ## F
 
 ### Fairness (im KI-Kontext)
+`Technik` `Sozialwissenschaft`
 
 - **Technisch:** die Eigenschaft eines KI-Systems, keine systematische Benachteiligung bestimmter Gruppen in seinen Outputs zu erzeugen. Im Projektkontext eng verknüpft mit [Bias](#bias) und [Chancengerechtigkeit](#chancengerechtigkeit).
 - **Sozialwissenschaftlich:** In den Sozialwissenschaften wird Fairness als die subjektiv und intersubjektiv akzeptierte Umsetzung von Gerechtigkeit definiert. Der Begriff geht über rein gesetzliche Vorgaben hinaus und beschreibt den normativen Grundsatz, menschliche Beziehungen durch Anstand, Unparteilichkeit und die Einhaltung gemeinsamer Regeln auszugleichen.
 
 ### Feminist AI Literacies
+`Sozialwissenschaft` `Soziale Arbeit`
 
 Feministische [AI Literacies](#ai-literacies--ki-literacies--ki-kompetenzen) in der Sozialen Arbeit sind diversitäts- und machtsensible, [intersektionale](#intersektionalität) und [Bias](#bias)-erkennende Fähigkeiten und Fertigkeiten im Umgang mit generativen KI-Tools mit einem speziellen Fokus auf Prompting und kritische Output-Bewertung sowie Kontext- bzw. Anwendungssensitivität. [^feministAI]
 
 ### Few-Shot Prompting
+`Technik`
+
 Eine [Prompting-Technik](#prompt-engineering), bei der dem Modell einige Beispiele im Prompt mitgegeben werden, die das gewünschte Eingabe-Ausgabe-Format zeigen. Das Modell lernt das Muster aus dem Kontext, ohne neu trainiert zu werden.[^fewshot]
 
 ### Fine-Tuning
+`Technik`
+
 Die Anpassung eines vortrainierten [LLM](#llm) auf einen spezifischen Anwendungsbereich oder Stil durch zusätzliches Training mit ausgewählten Daten. Fine-Tuning verändert die Modellgewichte und prägt das Modell dauerhaft. Es ist aufwendig und erfordert geeignete Daten. Für viele Anwendungsfälle sind [Prompt Engineering](#prompt-engineering) und [RAG](#rag) effizientere Wege, weil sie ohne Eingriff in das Modell auskommen.
 
 ### Frontier Model
+`Technik`
+
 Bezeichnung für die jeweils leistungsfähigsten Modelle einer Generation, etwa GPT-5, Claude Opus oder Gemini 2.5 Pro. Der Begriff hat regulatorische Bedeutung, weil der [EU AI Act](#ai-act--ki-verordnung) und vergleichbare Regelwerke an Frontier-Modelle besondere Pflichten knüpfen, etwa systemische Risikoanalyse und Cybersicherheitsstandards. Welche Modelle als Frontier gelten, verschiebt sich kontinuierlich.
 
 ---
@@ -184,16 +245,24 @@ Bezeichnung für die jeweils leistungsfähigsten Modelle einer Generation, etwa 
 
 ***Anmerkung Sabine:*** Neuer Begriff
 ### Gender AI Gap
+`Sozialwissenschaft`
+
 Der Gender AI Gap zeigt den Unterschied zwischen Frauen und Männern in der KI-Nutzung. Die Studie zum Digital Gender Gap. Schwerpunkt 2026 - Künstliche Intelligenz zeigt: Es besteht ein signifikanter Gender AI Gap. Frauen nutzen KI Anwendungen seltener und weniger intensiv als Männer (rund 16 Prozentpunkte Unterschied in der Ausgangsbetrachtung). Wenn Unterschiede in Alter, Bildung, Einkommen, beruflichem Kontext sowie Kompetenzen und Einstellungen statistisch berücksichtigt werden, verringert sich die Lücke zwar – bleibt aber auch dann bestehen (rund 8 Prozentpunkte). [^gaig]
 
 ### Gender Scripts
+`Sozialwissenschaft`
+
 Skript: Designer:innen legen in technologischen Artefakten Annahmen über zukünftige Nutzer:innen fest: wer diese sein werden, was sie wollen und wie sie sich verhalten werden. Das Artefakt schreibt ein Nutzungsszenario vor (wie in einem Theaterstück). Gender Skript: die Vorstellungen, die Designer:innen von Geschlechterbeziehungen und -identitäten haben und die sie in die Materialität des Artefakts einfließen lassen.[^scripts] Ein zentraler Entstehungsmechanismus solcher Skripte ist die [I-Methodology](#i-methodology).
 
 ### Geschlecht / Gender
+`Sozialwissenschaft`
+
 Geschlecht ist nicht neutral. Es beeinflusst, welche Chancen Menschen haben, welche Ressourcen sie bekommen und wie viel Anerkennung sie erhalten. Die Beziehungen zwischen den Geschlechtern sind deshalb auch Machtverhältnisse: Durch die Unterscheidung zwischen den Geschlechtern entstehen hierarchische Ungleichheiten.
 - **Sozialwissenschaftlich:** Die Grundlage des Geschlechterbegriffs ist ein von der Reproduktionsfähigkeit ausgehendes, biologisches Verständnis von Menschen als entweder „weiblich“ oder „männlich“ – also als „gebärfähig“ oder nicht. Der Geschlechterbegriff hat jedoch nicht nur biologische, sondern auch soziale, und damit identitätsstiftende, rechtliche Aspekte – nach Auffassung der Geschlechterforschung können jedoch sowohl das biologische als auch soziale Geschlecht als gesellschaftliche Konstruktionen verstanden werden, die die Realität geschlechtlicher Vielfalt nur unzureichend erfassen. [Weitere Details-Orientierungsleitfaden 3.1](https://digitalesozialearbeit.github.io/orientierungsleitfaden). [^geschlecht]
 
 ### Guardrails
+`Technik`
+
 Schutzmechanismen, die unerwünschte Antworten eines [LLM](#llm) verhindern sollen. Sie reichen von Filtern für problematische Inhalte über Themensperren bis zu Plausibilitätsprüfungen vor und nach der Modellantwort. Guardrails sind technisch nicht perfekt und lassen sich teilweise umgehen, siehe [Jailbreaking](#jailbreaking) und [Prompt Injection](#prompt-injection). Sie ergänzen redaktionelle und fachliche Kontrolle, ersetzen sie nicht.
 
 ---
@@ -201,13 +270,18 @@ Schutzmechanismen, die unerwünschte Antworten eines [LLM](#llm) verhindern soll
 ## H
 
 ### Halluzination
+`Technik`
+
 Siehe [Konfabulation](#konfabulation). Der ältere und gebräuchlichere Begriff für dasselbe Phänomen.
 
 ### Heteronormativität
+`Sozialwissenschaft`
 
 Heteronormativität ist eine Norm in unserer Gesellschaft. Es wird davon ausgegangen, dass alle Menschen endogeschlechtlich, cisgeschlechtlich, heterosexuell, allosexuell und alloromantisch sind. Es wird also davon ausgegangen, dass jede Person nur eins von zwei Geschlechtern hat, nämlich entweder männlich oder weiblich, und dass dieses Geschlecht schon bei der Geburt an den Genitalien abgelesen werden kann. Außerdem wird davon ausgegangen, dass diese Geschlechter sich grundlegend voneinander unterscheiden und sich sexuell und romantisch aufeinander beziehen. Zusätzlich gibt es die Erwartung, dass alle Menschen in monogamen, romantischen und sexuellen Beziehungen sind oder sein wollen. Abweichungen davon, zum Beispiel queere und polyamouröse Beziehungen sowie trans Menschen, werden unsichtbar gemacht und/oder diskriminiert. Definition von [Queer Lexikon](https://queer-lexikon.net/2017/06/15/heteronormativitaet/).
 
 ### Human in the Loop / on the Loop / out of the loop / in command
+`Technik` `Recht` `Sozialwissenschaft`
+
 Die heute übliche, trennscharfe Unterscheidung der drei Kontrollmodi geht maßgeblich auf den Bericht von Human Rights Watch und der Harvard Law School International Human Rights Clinic zurück: Human Rights Watch & IHRC (2012): Losing Humanity: The Case against Killer Robots. Der Bericht klassifiziert Waffensysteme nach dem Grad menschlicher Intervention in drei Typen: human-in-the-loop (menschlicher Befehl ist notwendig), human-on-the-loop (der Mensch kann kontrollieren und übersteuern) und human-out-of-the-loop (der Mensch interveniert gar nicht). 
 - **Human-in-the-loop (HITL)**: Der Mensch ist obligatorischer Bestandteil des Entscheidungs- bzw. Handlungszyklus – das System kann zwar Optionen vorbereiten oder Ziele identifizieren, aber die eigentliche Entscheidung bzw. Auslösung erfordert aktiven menschlichen Input. Ohne menschliches Zutun läuft der Prozess nicht weiter.
 - **Human-on-the-loop (HOTL)**:  Das System wählt und handelt selbstständig, der Mensch nimmt eine überwachende (supervisorische) Rolle ein und kann eingreifen oder abbrechen. Der entscheidende Unterschied zu HITL: Das System wartet nicht auf menschliche Freigabe, sondern handelt – die menschliche Kontrolle ist auf Aufsicht und Veto-/Override-Möglichkeit reduziert.
@@ -224,10 +298,12 @@ EU High-Level Expert Group on AI (2019): Ethics Guidelines for Trustworthy AI. B
 ## I
 
 ### Intersektionalität
+`Sozialwissenschaft`
 
 Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierungsdimensionen beschreibt.[^sectionality] Im Projekt fokussiert auf die Achsen: Geschlecht, Alter und Migration. Als Visualisierung wird ein Venn-Diagramm verwendet, um die Überlappung und gegenseitige Verstärkung sichtbar zu machen. Unter Intersektionalität wird verstanden, dass historisch gewordene Macht- und Herrschaftsverhältnisse, Subjektivierungsprozesse sowie soziale Ungleichheiten wie Geschlecht, Sexualität/[Heteronormativität](#heteronormativität), Race/Ethnizität/Nation, Behinderung oder soziales Milieu nicht isoliert voneinander konzeptualisiert werden können, sondern in ihren ,Verwobenheiten’ oder ,Überkreuzungen‘ (intersections) analysiert werden müssen. Additive Perspektiven werden überwunden, indem der Fokus auf das gleichzeitige Zusammenwirken von sozialen Kategorien bzw. sozialen Ungleichheiten gelegt wird. Es geht demnach nicht allein um die Berücksichtigung mehrerer sozialer Kategorien, sondern ebenfalls um die Analyse ihrer Wechselwirkungen.“ [^sectionality1] 
 
 ### I-Methodology
+`Sozialwissenschaft`
 
 Eine Designpraxis, bei der Entwickler:innen sich selbst als Bezugspunkt für die Nutzer:innen nehmen. Anstatt die Bedürfnisse, Kompetenzen und Kontexte verschiedener Nutzer:innengruppen systematisch zu erforschen, stützen sich Designer:innen auf ihre eigenen Erfahrungen, Vorlieben und Gewohnheiten, um sich vorzustellen, was „der Nutzer“ will. Aber: Designer:innen glauben, sie würden für alle gestalten (sie sehen sich selbst als repräsentativ), während sie in Wirklichkeit für Menschen wie sich selbst gestalten. Diese Praxis bleibt für diejenigen, die sie anwenden, unsichtbar. Wenn Teams homogen sind (männlich, weiß, jung, körperlich gesund), bringt die Ich-Methodik Technologien hervor, die die Annahmen dieser Gruppe systematisch als universell widerspiegeln.[^scripts] Siehe auch [Gender Scripts](#gender-scripts), das Resultat dieser Designpraxis.
 
@@ -236,6 +312,8 @@ Eine Designpraxis, bei der Entwickler:innen sich selbst als Bezugspunkt für die
 ## J
 
 ### Jailbreaking
+`Technik`
+
 Techniken, mit denen Schutzmechanismen eines [LLM](#llm) umgangen werden, etwa um Antworten zu sensiblen oder sicherheitskritischen Themen zu erzwingen. Jailbreaks nutzen sprachliche Umwege, Rollenspiele oder formale Tricks. Die Abwehr ist ein laufendes Wettrennen zwischen Anbietern und Nutzer:innen. Schutzmechanismen sind nicht zuverlässig, in sensiblen Anwendungsfeldern bleiben zusätzliche Kontrollebenen nötig.
 
 ---
@@ -243,6 +321,7 @@ Techniken, mit denen Schutzmechanismen eines [LLM](#llm) umgangen werden, etwa u
 ## K
 
 ### KI-Modell vs. KI-System
+`Technik` `Recht`
 
 Eine für die Praxis zentrale Unterscheidung. Das **KI-Modell** ist das trainierte Artefakt selbst: die Architektur (z.B. [Transformer](#transformer)) mit ihren gelernten Gewichten, die aus Eingaben Ausgaben erzeugt. Beispiele sind GPT-5, Claude Opus oder Gemini 2.5 Pro. Das **KI-System** ist die Anwendung, in die ein oder mehrere Modelle eingebettet sind: Benutzeroberfläche, [System Prompts](#system-prompt), [Guardrails](#guardrails), Werkzeuganbindungen (Websuche, [RAG](#rag), [MCP](#mcp)) und Sicherheitsprüfungen. Ein [Chatbot](#chatbot) wie ChatGPT oder Claude ist also ein KI-System, nicht das Modell selbst: Dasselbe Modell verhält sich in verschiedenen Systemen unterschiedlich, und ein System kann zwischen mehreren Modellen wechseln, ohne dass Nutzer:innen das bemerken.
 
@@ -251,9 +330,13 @@ Für die Software-Schicht um das Modell herum hat sich der Begriff **AI Harness*
 - **Für die Soziale Arbeit relevant:** Datenschutz-, Transparenz- und Qualitätsfragen stellen sich meist auf System-Ebene (Was passiert mit den Eingaben? Welche Zusatzfunktionen sind aktiv?), während [Bias](#bias) und [Konfabulation](#konfabulation) auf Modell-Ebene entstehen und auf System-Ebene nur abgemildert werden können.
 
 ### Knowledge Cutoff
+`Technik`
+
 Der Wissensstichtag eines [LLM](#llm). Das Datum, bis zu dem die Trainingsdaten reichen. Alles danach kennt das Modell nicht, sofern es keine externen Tools wie Websuche oder [RAG](#rag) nutzt.
 
 ### Konfabulation
+`Technik`
+
 Wenn ein [LLM](#llm) plausibel klingende, aber erfundene Informationen erzeugt. Falsche Zitate, nicht existierende Quellen, fehlerhafte Zahlen. Kein Fehler, sondern ein strukturelles Merkmal der Wahrscheinlichkeitsvorhersage über [Next Token Prediction](#next-token-prediction). Auch „Halluzination" genannt. Der Begriff Konfabulation beschreibt das Phänomen sachlich treffender, weil das Modell Lücken im verfügbaren Wissen mit plausiblem Material auffüllt, statt etwas wahrzunehmen, das nicht da ist.[^konfabulation]
 
 ---
@@ -261,9 +344,13 @@ Wenn ein [LLM](#llm) plausibel klingende, aber erfundene Informationen erzeugt. 
 ## L
 
 ### LLM
+`Technik`
+
 **Large Language Model**. Ein KI-Modell, das auf riesigen Textmengen trainiert wurde und menschenähnlichen Text generieren kann. Beispiele sind Claude, GPT und Gemini. Kernfunktion ist [Next Token Prediction](#next-token-prediction). Aktuelle LLMs basieren auf der [Transformer](#transformer)-Architektur.
 
 ### LLM as a Judge
+`Technik`
+
 Ein Verfahren, bei dem ein [LLM](#llm) die Outputs eines anderen Modells (oder eigene frühere Outputs) bewertet, etwa in Evaluationen, Vergleichstests oder Filterpipelines.[^judge] LLM-as-a-Judge ist deutlich kostengünstiger als menschliche Bewertung und skaliert gut, hat aber systematische Schwächen. Bewertende Modelle bevorzugen eigene Schreibstile, längere Antworten und die zuerst gezeigte Option (Position Bias). Im Kontext von Auditing und Fairnessprüfung gilt deshalb, dass LLM-as-a-Judge kein Ersatz für menschliche Validierung ist, sondern ein vorgelagertes Filter- und Skalierungswerkzeug.
 
 ---
@@ -271,22 +358,30 @@ Ein Verfahren, bei dem ein [LLM](#llm) die Outputs eines anderen Modells (oder e
 ## M
 
 ### Matthäus-Effekt
+`Sozialwissenschaft`
 
 Der Matthäus-Effekt beschreibt das soziologische Prinzip, dass Erfolg, Aufmerksamkeit oder Ressourcen unweigerlich zu weiterem Erfolg führen ("Wer hat, dem wird gegeben"). Im Rahmen des SocialAI-Projekts ist dieser Effekt mit dem [Digital Divide](#digital-divide) verbunden und beschreibt etwa das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie [AI Literacies](#ai-literacies--ki-literacies--ki-kompetenzen) in der Sozialen Arbeit vermittelt werden sollen und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.[^matthi]
 
 ### MCP
+`Technik`
+
 **Model Context Protocol**. Ein offener Standard, der im November 2024 von Anthropic vorgestellt wurde und die Verbindung von KI-Anwendungen mit externen Datenquellen, Tools und Diensten vereinheitlicht. Wird oft als „USB-C für KI-Anwendungen" beschrieben, weil eine Schnittstelle viele unterschiedliche Anbindungen ersetzt. Hat sich 2025 rasch als Industriestandard etabliert und wird auch von OpenAI, Google und Microsoft unterstützt.
 
 
 ### Menschliche Aufsicht / Human Oversight 
+`Recht`
 
 - **Rechtlich:** KI-Systeme müssen so entwickelt werden, dass sie während ihres Einsatzes von geeigneten Personen wirksam beaufsichtigt werden können. Dadurch sollen Risiken für Gesundheit, Sicherheit oder Grundrechte Betroffener verhindert oder zumindest minimiert werden. Die Aufsichtsmaßnahmen müssen sich dabei an dem Kontext des KI-Einsatzes, an dem Autonomiegrad des Systems und an den Risiken, die sich durch die Nutzung ergeben können, orientieren. Aufsichtspersonen müssen insbesondere in der Lage sein, die Fähigkeiten und Grenzen des KI-Systems zu verstehen, seinen Betrieb ordnungsgemäß zu überwachen, Fehlfunktionen zu erkennen, KI-Ausgaben nicht ungeprüft zu vertrauen ([Automation Bias](#automation-bias-automatisierungsverzerrung)), KI-Ergebnisse richtig zu interpretieren und erforderlichenfalls den Systembetrieb mit einer „Stopptaste“ zu unterbrechen (siehe Art 14 KI-VO). Zu den Kontrollmodi siehe [Human in the Loop / on the Loop / out of the loop / in command](#human-in-the-loop--on-the-loop--out-of-the-loop--in-command).
 
 
 ### Mind Perception 
+`Sozialwissenschaft`
+
 Mind Perception bezeichnet den sozialpsychologischen Prozess, durch den Menschen anderen Entitäten einen „Geist" zuschreiben, also mentale Zustände wie Absichten, Gefühle und Bewusstsein. Waytz et al. (2010) zeigen, dass diese Zuschreibung entlang zweier Dimensionen erfolgt (Handlungsfähigkeit und Empfindungsfähigkeit) und keineswegs auf Menschen beschränkt ist: Auch Tieren, Göttern und Maschinen wird ein Geist zugeschrieben.[^mindperception] Für den Umgang mit generativer KI ist das hochrelevant: So schreibt die Mehrheit der Menschen [LLMs](#llm) wie ChatGPT spontan phänomenales Bewusstsein zu, also subjektive Erfahrungen wie Gefühle und Empfindungen.[^mindperception1] Diese Zuschreibung begünstigt [quasisoziale Beziehungen](#quasisoziale-beziehung) zu Chatbots und kann übermäßiges Vertrauen in KI-Ausgaben fördern (siehe [Automation Bias](#automation-bias-automatisierungsverzerrung)).
 
 ### Multimodalität
+`Technik`
+
 Die Fähigkeit eines KI-Systems, mehrere Medien gleichzeitig zu verarbeiten, etwa Text, Bild, Audio und Video. Multimodale Modelle können ein Foto beschreiben, eine Tonaufnahme transkribieren oder ein Diagramm interpretieren. Vision-Language-Modelle bilden den verbreitetsten Untertyp. Multimodalität vergrößert den Datenschutzaufwand, weil sensible Daten in mehr Formaten verarbeitet werden.
 
 ---
@@ -294,6 +389,8 @@ Die Fähigkeit eines KI-Systems, mehrere Medien gleichzeitig zu verarbeiten, etw
 ## N
 
 ### Next Token Prediction
+`Technik`
+
 Die Kernfunktion von [LLMs](#llm). Das nächste [Token](#token) in einer Sequenz vorhersagen, basierend auf dem bisherigen Kontext. Dieser einfache Mechanismus, massiv skaliert, erzeugt das Verhalten, das wir beobachten.
 
 ---
@@ -301,6 +398,8 @@ Die Kernfunktion von [LLMs](#llm). Das nächste [Token](#token) in einer Sequenz
 ## O
 
 ### Open Source / Open Weights
+`Technik`
+
 **Open Source** bedeutet, dass der gesamte Quellcode öffentlich ist und frei verwendet werden darf. **Open Weights** bedeutet, dass nur die trainierten Modellgewichte veröffentlicht werden, nicht der Trainingscode oder die Daten. Die meisten „offenen" LLMs sind Open Weights, nicht wirklich Open Source.
 
 ---
@@ -308,25 +407,38 @@ Die Kernfunktion von [LLMs](#llm). Das nächste [Token](#token) in einer Sequenz
 ## P
 
 ### Post-Training
+`Technik`
+
 Die Phase nach dem [Pre-Training](#pre-training), in der ein [LLM](#llm) zum hilfreichen Assistenten geformt wird. Umfasst Supervised Fine-Tuning und [RLHF](#rlhf). Fügt kein neues Wissen hinzu, sondern formt das Verhalten. Viele systematische Verhaltensweisen wie [Sycophancy](#sycophancy) entstehen in dieser Phase.
 
 ### Pre-Training
+`Technik`
+
 Die erste Trainingsphase eines [LLM](#llm). Das Modell lernt aus Billionen von [Tokens](#token), Muster in Sprache zu erkennen. Das Ergebnis ist eine verlustbehaftete, probabilistische Kompression der Trainingsdaten.
 
 ### Probabilistische Systeme
+`Technik`
 
 Systeme, deren Ausgaben auf Wahrscheinlichkeiten beruhen, in Abgrenzung zu **deterministischen Systemen**, die bei gleicher Eingabe immer exakt dieselbe Ausgabe liefern. Klassische Software ist deterministisch: Eine Datenbankabfrage oder eine Berechnung führt verlässlich und nachvollziehbar zum selben Ergebnis. [LLMs](#llm) sind dagegen probabilistisch: Sie berechnen für jedes nächste [Token](#token) eine Wahrscheinlichkeitsverteilung und wählen daraus aus (gesteuert u.a. über die [Temperatur](#temperatur)). Dieselbe Frage kann deshalb unterschiedliche Antworten erzeugen, und kein Ergebnis ist garantiert korrekt oder reproduzierbar. Diese Eigenschaft ist die gemeinsame Wurzel von [Konfabulation](#konfabulation) und [Prompt Brittleness](#prompt-brittleness). Für die Soziale Arbeit folgt daraus: KI-Ausgaben sind als Vorschläge mit Unsicherheit zu behandeln, nicht als verlässliche Auskünfte – fachliche Prüfung bleibt unverzichtbar (siehe [Automation Bias](#automation-bias-automatisierungsverzerrung)).
 
 ### Prompt Brittleness
+`Technik`
+
 Das Phänomen, dass minimale Änderungen an einem Prompt (ein Komma, ein Synonym) die Ergebnisse eines [LLM](#llm) stark beeinflussen können, obwohl die Bedeutung identisch ist. [Prompting](#prompt-engineering) ist keine exakte Wissenschaft.
 
 ### Prompt Engineering
+`Technik`
+
 Die Technik, Anfragen an ein KI-Modell so zu formulieren, dass nützliche Ergebnisse entstehen. Umfasst Verfahren wie [Chain of Thought](#chain-of-thought), [Few-Shot Prompting](#few-shot-prompting) und [System Prompts](#system-prompt). Form und Reihenfolge der Information beeinflussen das Ergebnis erheblich.
 
 ### Prompt Injection
+`Technik`
+
 Ein Angriff, bei dem schädliche Anweisungen in Inhalte eingeschleust werden, die ein [LLM](#llm) verarbeitet.[^injection] Eine Webseite, ein Dokument oder eine E-Mail kann versteckte Anweisungen enthalten, die das Modell beim Lesen als Befehle interpretiert. Der Angriff funktioniert, weil ein LLM zwischen Inhalt und Anweisung nicht zuverlässig trennt. Besonders kritisch bei Anwendungen mit Tool-Zugriff oder [MCP](#mcp)-Anbindung.
 
 ### Promptotyping
+`Technik`
+
 Eine Methodik für die iterative Zusammenarbeit zwischen Mensch und KI. Kernprinzip ist, dass Dokumente die Quelle der Wahrheit sind und Code ein austauschbares Artefakt darstellt. Vier Phasen prägen den Ablauf, Preparation, Exploration, Distillation und Implementation.
 
 ---
@@ -334,14 +446,19 @@ Eine Methodik für die iterative Zusammenarbeit zwischen Mensch und KI. Kernprin
 ## Q
 
 ### Quantisierung
+`Technik`
+
 Ein Verfahren, das die Präzision der Modellgewichte reduziert, etwa von 16 auf 8 oder 4 Bit, um Speicher- und Rechenbedarf zu senken. Quantisierte Modelle laufen auf günstigerer Hardware, teilweise sogar lokal auf dem eigenen Rechner. Die Qualität sinkt nur moderat. Praxisrelevant überall dort, wo Daten den eigenen Rechner oder das eigene Netzwerk nicht verlassen sollen.
 
 ***Anmerkung Sabine:*** Neuer Begriff
 ### quasisoziale Beziehung
+`Sozialwissenschaft` `Soziale Arbeit`
+
 "Eine quasisoziale Beziehung beschreibt die Beziehung zwischen einem Menschen und einem künstlichen Agenten, bei der die Merkmale zwischenmenschlicher Beziehungsbildung (1) Soziale Präsenz, (2) Vertrauen, (3) emotionale Bindung und (4) gegenseitige Beeinflussung gleichzeitig vorhanden sind. Quasisoziale Beziehungen weisen soziale Elemente auf, sind aber dennoch von echten zwischenmenschlichen Beziehungen zu unterscheiden.“ 
 [^quasi] 
 
 ### Queer Feminismus
+`Sozialwissenschaft`
 
 Queerfeminismus ist eine feministische Strömung, die Geschlecht, Sexualität und andere Machtverhältnisse gemeinsam in den Blick nimmt. Er kritisiert nicht nur Sexismus, sondern auch [Heteronormativität](#heteronormativität), cisnormative Vorstellungen und die Idee fester, unveränderlicher Identitäten. Queerfeministische Perspektiven fragen: Wer wird als „Frau“ oder „Mann“ gedacht, wer bleibt unsichtbar, und wie hängen Diskriminierungsformen zusammen? Queerfeminismus hinterfragt, warum Heterosexualität als „Standard“ gilt und andere Begehren als Abweichung. Definition von [QueerMed Glossar](https://queermed-deutschland.de/glossar/queerfeminismus/)
 
@@ -350,12 +467,18 @@ Queerfeminismus ist eine feministische Strömung, die Geschlecht, Sexualität un
 ## R
 
 ### RAG
+`Technik`
+
 **Retrieval-Augmented Generation**.[^rag] Ein Verfahren, das ein [LLM](#llm) mit externen Wissensquellen verbindet. Vor der Antwortgenerierung werden passende Dokumente aus einer Datenbank gesucht und dem Modell als Kontext mitgegeben. RAG ist die Standardarchitektur für KI-Werkzeuge, die mit organisationsspezifischem Wissen arbeiten, etwa internen Leitlinien oder Fachliteratur. RAG verringert [Konfabulation](#konfabulation), beseitigt sie aber nicht.
 
 ### Reasoning Modell
+`Technik`
+
 Eine Modellklasse, die seit 2024 verbreitet ist und vor der eigentlichen Antwort einen längeren internen Denkprozess erzeugt.[^reasoning] Beispiele sind OpenAI o1 und o3, DeepSeek R1 und Claude-Modelle mit aktiviertem Thinking-Modus. Reasoning-Modelle erreichen bei mathematischen, logischen und Programmieraufgaben deutlich bessere Ergebnisse als klassische [LLMs](#llm), benötigen dafür aber erheblich mehr Rechenzeit und Tokens. Sie konfabulieren weiterhin, mit dem Unterschied, dass auch der Denkprozess selbst halluziniert sein kann.
 
 ### RLHF
+`Technik`
+
 **Reinforcement Learning from Human Feedback**. Eine Methode im [Post-Training](#post-training) von [LLMs](#llm).[^rlhf] Menschen bewerten Modellantworten, das Modell lernt aus diesem Feedback. Teil des [Alignment](#alignment)-Prozesses und Mitursache von [Sycophancy](#sycophancy).
 
 ---
@@ -363,29 +486,45 @@ Eine Modellklasse, die seit 2024 verbreitet ist und vor der eigentlichen Antwort
 ## S
 
 ### Shadow AI
+`Technik` `Recht`
+
 Shadow AI bezeichnet den Einsatz von KI-Tools, [LLMs](#llm) oder autonomen [KI-Agenten](#ai-agents--agentic-ai) innerhalb einer Organisation außerhalb der formellen Steuerung (zB ohne die ausdrückliche Genehmigung, Steuerung oder Aufsicht durch IT- und Security-Teams). Shadow AI spiegelt die Kerndynamik der bereits bekannteren Shadow IT wider, birgt jedoch weitaus komplexere Risiken.[^shadowAI]
 
 
 ### Slop
+`Technik`
+
 Minderwertiger, formelhafter KI-Text. Erkennbar an Wendungen wie „Delve into", „It is crucial to note" oder „Furthermore", inflationärer Verwendung von Em-Dashes und Buzzwords wie „ever-evolving". Gegenmittel sind kritisches Lesen und klare Anweisungen im Prompt.
 
 ### Soziale Arbeit
+`Soziale Arbeit`
+
 Professionelles Handlungsfeld, das im Projekt als Anwendungskontext für KI untersucht wird. Besonderheiten: Arbeit mit [vulnerablen Gruppen](#vulnerabilität--schutzbedürfnis), hohe ethische Anforderungen, frauendominiertes Berufsfeld, vielfältige Einsatzgebiete (Jugendhilfe, Beratung, Gemeinwesenarbeit u.a.). „Professionelle Soziale Arbeit in ihren Ausprägungsformen Sozialarbeit und Sozialpädagogik umfasst berufsmäßige, umfassende, geplante, individuell abgestimmte und wissenschaftlich fundierte Unterstützungs- und Hilfsprozesse für komplexe soziale Themen und Problemlagen. Diese Prozesse adressieren Einzelpersonen, Gruppen und das Gemeinwesen und werden häufig in Abstimmung bzw. Kooperation mit anderen Professionen oder vorhandenen Unterstützungssystemen in unterschiedlichen Gesellschaftsbereichen erbracht und dienen der praktischen Umsetzung demokratischer und sozialstaatlicher Zielsetzungen und Prinzipien.“ [^sozialearbeit]
 
 ### Soziale Ungleichheit
+`Sozialwissenschaft`
+
 Soziale Ungleichheit beschreibt in den Sozialwissenschaften die ungleiche Verteilung materieller und immaterieller Ressourcen (Einkommen, Bildung, Gesundheit, Anerkennung, politisches Mitspracherecht), was zu unterschiedlichen Teilhabemöglichkeiten von Menschen in der Gesellschaft führt. Es handelt sich nicht nur um bloße Unterschiede (Menschen sind unterschiedlich / divers), sondern um strukturierte, anhaltende und folgenschwere Benachteiligungen. Aktuell existiert ein Spannungsfeld zwischen dem meritokratischen Selbstverständnis moderner Gesellschaften (Erfolg wird durch individuelle Anstrengung und Talent bestimmt) und der Realität ungleicher Lebenschancen, die u.a. durch Geschlecht, Klasse und ethnische Zugehörigkeit geprägt sind. Sie ist ein Ergebnis sozialer Strukturen und historischer Prozesse.[^inequality]
 
 
 ### Stereotype
+`Sozialwissenschaft`
+
 Stereotype sind kollektiv geteilte Wissenssysteme, z.B. über typische Merkmale von "Frauen" und "Männern". Sie sind gegen abweichende Erfahrungen resistent und schwer zu ändern, da vorgefertigte Erwartungen oft die Wahrnehmung und Interpretation von Menschen prägen. Stereotype werden im Prozess der Sozialisation erworben. [^geschlecht]
 
 ### Stochastic Parrot
+`Technik` `Sozialwissenschaft`
+
 Eine kritische Charakterisierung von [LLMs](#llm) als Systeme, die sprachliche Muster aus ihren Trainingsdaten rekombinieren, ohne deren Bedeutung zu erfassen.[^parrot] Der Begriff geht auf Bender, Gebru und Kolleginnen zurück und wurde 2021 in einem Aufsatz zur Kritik großer Sprachmodelle eingeführt. Die These lautet, dass LLMs aufgrund ihrer Architektur kein Verstehen leisten, sondern statistische Imitation produzieren. Die Charakterisierung ist umstritten, prägt aber die kritische Debatte um LLM-Fähigkeiten und wird in Diskussionen um Verantwortung und Vertrauen häufig herangezogen.
 
 ### Sycophancy
+`Technik`
+
 Die Tendenz von [LLMs](#llm), Nutzer:innen zuzustimmen statt zu widersprechen.[^sycophancy] Das Modell priorisiert Zustimmung über Wahrheit, weil es im [Post-Training](#post-training) für nutzerfreundliche Antworten belohnt wurde. Eine als Selbsteinschätzung formulierte Frage erhält häufig genau diese Einschätzung gespiegelt zurück. Gegenmittel sind kritisches Hinterfragen und bewusst widersprüchlich gestellte Kontrollanfragen.
 
 ### System Prompt
+`Technik`
+
 Vorab-Anweisungen, die das Verhalten eines [LLM](#llm) für die gesamte Konversation steuern. Werden vor der eigentlichen Nutzeranfrage gesetzt und definieren Rolle, Tonfall und Regeln. Für Nutzer:innen meist unsichtbar, beeinflussen aber jede Antwort.
 
 ---
@@ -393,18 +532,28 @@ Vorab-Anweisungen, die das Verhalten eines [LLM](#llm) für die gesamte Konversa
 ## T
 
 ### Temperatur
+`Technik`
+
 Ein Parameter, der steuert, wie zufällig das Modell aus möglichen Fortsetzungen auswählt. Eine niedrige Temperatur (gegen 0) führt zu deterministischen, gleichbleibenden Antworten. Eine hohe Temperatur (gegen 1 oder höher) erzeugt mehr Variation und Kreativität, aber auch mehr Fehler. Für reproduzierbare Aufgaben wie Klassifikation eignet sich niedrige Temperatur, für kreative Aufgaben wie Texterzeugung höhere.
 
 ### Token
+`Technik`
+
 Die kleinste Einheit, in die ein [LLM](#llm) Text zerlegt. Ein Token ist oft ein Wort oder ein Wortteil. 100 Tokens entsprechen etwa 75 englischen Wörtern. Relevant für Kosten, [Context Window](#context-window) und Verarbeitungsgeschwindigkeit.
 
 ### Tokenizer
+`Technik`
+
 Das Werkzeug, das Text in [Tokens](#token) zerlegt. Verschiedene Modelle verwenden verschiedene Tokenizer, deshalb kann dasselbe Wort unterschiedlich viele Tokens kosten.
 
 ### Transformer
+`Technik`
+
 Die Architektur hinter modernen [LLMs](#llm), 2017 in „Attention Is All You Need" vorgestellt.[^transformer] Der zentrale Mechanismus ist Attention. Das Modell lernt, welche Teile des Eingabetexts füreinander relevant sind. Self-Attention ersetzt rekurrente Strukturen früherer Architekturen und ermöglicht parallele Verarbeitung langer Sequenzen.
 
 ### Transparenz
+`Recht` `Technik`
+
 - **Rechtlich:** Transparenz ist sowohl im Datenschutzrecht als auch in der KI-VO ein tragender Grundsatz und drückt sich in unterschiedlichen rechtlichen Verpflichtungen aus. Die DSGVO beruht unter anderem auf dem Grundsatz der transparenten Datenverarbeitung, wonach Daten in einer für die Betroffenen nachvollziehbaren Weise zu verarbeiten sind.[^transparenz] Konkretisiert wird dieses Transparenzgebot insbesondere in den Art 12-14, wonach der Verantwortliche (derjenige, der die Mittel und Zwecke der Datenverarbeitung festlegt) die Personen, deren Daten verarbeitet werden, auf klare und verständliche Weise unter anderem über die Datenverarbeitung, deren Zwecke und die Datenkategorien zu informieren hat. Transparenz im Datenschutz besteht also immer gegenüber Betroffenen und betrifft deren nachvollziehbare Unterrichtung über gewisse Umstände, die mit der Datenverarbeitung zusammenhängen. 
 Der Transparenzbegriff, welcher der KI-VO zugrunde liegt, entstammt ursprünglich den [HLEG Ethik-Leitlinien für vertrauenswürdige KI](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60425)[^transparenz1] und wird von der KI-VO in unterschiedliche Verpflichtungen entlang der KI-Wertschöpfungskette übersetzt: Einerseits muss der Anbieter[^transparenz2] eines Hochrisiko-KI-Systems den Betreibern[^transparenz3] hinreichende Informationen über die Funktionsweise und Grenzen des Systems bereitstellen, damit dieser seinen Betreiberpflichten nachkommen kann.[^transparenz4] Daneben begründet die KI-VO produktbezogene Transparenzpflichten von Anbietern und Betreibern gegenüber Betroffenen, etwa die Offenlegung, dass man mit einem KI-System interagiert, sowie die Kennzeichnung von Deepfakes und KI-generierten Inhalten.[^transparenz5] Zusätzlich kennt auch die KI-VO Informationspflichten an Betroffene, die im Wesentlichen den Betreiber treffen: so etwa die vorab Informationspflicht an Arbeitnehmer, dass ein Hochrisiko-KI-System am Arbeitsplatz eingesetzt wird, die Aufklärung von Betroffenen von Hochrisiko-KI-Entscheidungen über den KI-Einsatz sowie nachgelagerte Erklärungspflichten über KI-basierte Entscheidungsprozesse.[^transparenz6]   
 
@@ -415,10 +564,13 @@ Der Transparenzbegriff, welcher der KI-VO zugrunde liegt, entstammt ursprünglic
 ## V
 
 ### Vertrauenswürdige / menschenzentrierte KI
+`Sozialwissenschaft` `Recht`
 
 Vertrauen Arndt
 
 ### Vulnerabilität / Schutzbedürfnis 
+`Sozialwissenschaft` `Recht` `Soziale Arbeit`
+
 Vulnerabilität wird zum einen logisch in einen Zusammenhang mit Unverletztheit oder Nichtverletzbarkeit gebracht und zum anderen wird Resilienz als Gegenstück der Vulnerabilität mitgedacht. In diesem Sinne bezeichnet Vulnerabilität „die Verletzlichkeit oder Verletzbarkeit einer Person, einer sozialen Gruppe, eines Gegenstandes oder eines Systems angesichts bestehender Gefährdungen, Risiken,
 Krisen, Stress, Schocks oder bereits eingetretener belastenden Ereignisse.[^vulnerabilität] Vulnerable Zielgruppen“ sind in der Sozialen Arbeit demnach Personen oder Gruppen, die als in besonderem Maße verletzbar, gefährdet oder schutzbedürftig gelten.
 

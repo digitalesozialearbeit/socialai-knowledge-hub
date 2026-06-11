@@ -63,6 +63,7 @@ Content served by docsify lives at the repo root:
 - Obsidian-compatible: wikilinks (`[[Link]]`), callouts (`> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`), YAML frontmatter (gets stripped)
 - Avoid Obsidian-only features: block references, dataview queries, inline `#tags`
 - Images go in `assets/` and are referenced as `![](assets/img/file.png)`
+- Glossary entries (`glossar/README.md`): tag line of inline-code chips directly under each `###` heading (`` `Technik` `Recht` `Sozialwissenschaft` `Soziale Arbeit` ``); a docsify plugin in `index.html` renders filter buttons and an A-Z jump bar from these. Entries are sorted alphabetically within letter sections. `glossar/technisch.md` is retired (redirect only)
 
 ### Navigation
 

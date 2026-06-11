@@ -6,8 +6,7 @@
   * [Zusammenarbeit](/projekt/zusammenarbeit.md)
 
 * **Glossar**
-  * [Projektbegriffe](/glossar/)
-  * [Technisches Glossar](/glossar/technisch.md)
+  * [Gesamtglossar](/glossar/)
 
 * **Wissen**
   * [Übersicht](/wissen/)

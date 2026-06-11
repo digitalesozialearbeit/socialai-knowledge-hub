@@ -7,6 +7,10 @@
   <meta name="description" content="Interner Knowledge Hub des SocialAI-Projekts (FFG Laura Bassi 4.0)">
   <meta name="robots" content="noindex, nofollow">
 
+  <!-- Favicon: SocialAI-Netzwerk-Logo -->
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48">
+
   <!-- Theme: docsify-themeable (wie legal-history-hub) -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <style>
@@ -18,6 +22,49 @@
     }
     .app-name-link img {
       max-width: 180px;
+    }
+    /* Glossar: Kategorie-Filter + A-Z-Leiste */
+    .glossar-filter {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 6px;
+      margin: 1em 0 0.5em;
+    }
+    .glossar-filter button {
+      border: 1px solid var(--theme-color, #2c5aa0);
+      background: transparent;
+      color: var(--theme-color, #2c5aa0);
+      border-radius: 14px;
+      padding: 3px 12px;
+      cursor: pointer;
+      font-size: 13px;
+    }
+    .glossar-filter button.active {
+      background: var(--theme-color, #2c5aa0);
+      color: #fff;
+    }
+    .glossar-az {
+      margin: 0 0 1.5em;
+    }
+    .glossar-az button {
+      border: none;
+      background: none;
+      color: var(--theme-color, #2c5aa0);
+      cursor: pointer;
+      padding: 2px 5px;
+      font-weight: 600;
+    }
+    .glossar-az button[disabled] {
+      opacity: 0.3;
+      cursor: default;
+    }
+    .glossar-tags code {
+      background: rgba(44, 90, 160, 0.12);
+      color: var(--theme-color, #2c5aa0);
+      border-radius: 10px;
+      padding: 1px 8px;
+      font-size: 11.5px;
     }
   </style>
 </head>
@@ -60,6 +107,104 @@
             // Obsidian-Kommentare %%...%% entfernen
             content = content.replace(/%%[\s\S]*?%%/g, '');
             return content;
+          });
+        },
+        // Glossar: Kategorie-Filter + A-Z-Sprungleiste
+        function(hook, vm) {
+          hook.doneEach(function() {
+            if (!/^\/glossar(\/(README)?)?$/.test(vm.route.path)) return;
+            var main = document.getElementById('main');
+            if (!main) return;
+
+            // Eintraege (H3-Bloecke) und Buchstaben-Bloecke (H2) gruppieren
+            var entries = [], blocks = [], entry = null, block = null;
+            Array.prototype.slice.call(main.children).forEach(function(el) {
+              var t = el.tagName;
+              if (t === 'H2' && /^[A-Z]$/.test(el.textContent.trim())) {
+                block = { h2: el, entries: [], extra: [] };
+                blocks.push(block);
+                entry = null;
+              } else if (t === 'H3') {
+                entry = { nodes: [el], tags: [] };
+                entries.push(entry);
+                if (block) block.entries.push(entry);
+              } else if (t === 'HR') {
+                if (block) block.extra.push(el);
+                entry = null;
+              } else if (entry) {
+                entry.nodes.push(el);
+              }
+            });
+            if (!entries.length) return;
+
+            // Tag-Zeile erkennen: erster Absatz nach der Ueberschrift, der nur <code>-Chips enthaelt
+            var cats = {};
+            entries.forEach(function(e) {
+              var p = e.nodes[1];
+              if (!p || p.tagName !== 'P' || !p.querySelector('code')) return;
+              var onlyChips = Array.prototype.every.call(p.childNodes, function(n) {
+                return (n.nodeType === 1 && n.tagName === 'CODE') || (n.nodeType === 3 && !n.textContent.trim());
+              });
+              if (!onlyChips) return;
+              p.className = 'glossar-tags';
+              e.tags = Array.prototype.map.call(p.querySelectorAll('code'), function(c) {
+                return c.textContent.trim();
+              });
+              e.tags.forEach(function(tg) { cats[tg] = (cats[tg] || 0) + 1; });
+            });
+            if (!Object.keys(cats).length) return;
+
+            // Filterleiste + A-Z-Leiste bauen
+            var bar = document.createElement('div');
+            bar.className = 'glossar-filter';
+            var az = document.createElement('div');
+            az.className = 'glossar-az';
+            var buttons = [];
+
+            function apply(cat) {
+              entries.forEach(function(e) {
+                e.visible = !cat || e.tags.indexOf(cat) !== -1;
+                e.nodes.forEach(function(n) { n.style.display = e.visible ? '' : 'none'; });
+              });
+              blocks.forEach(function(b) {
+                var any = b.entries.some(function(e) { return e.visible; });
+                b.h2.style.display = any ? '' : 'none';
+                b.extra.forEach(function(n) { n.style.display = any ? '' : 'none'; });
+                if (b.azBtn) b.azBtn.disabled = !any;
+              });
+              buttons.forEach(function(btn) {
+                btn.el.classList.toggle('active', btn.cat === cat);
+              });
+            }
+
+            function addButton(label, count, cat) {
+              var b = document.createElement('button');
+              b.textContent = label + ' (' + count + ')';
+              b.onclick = function() { apply(cat); };
+              bar.appendChild(b);
+              buttons.push({ el: b, cat: cat });
+            }
+
+            addButton('Alle', entries.length, null);
+            Object.keys(cats).sort().forEach(function(c) { addButton(c, cats[c], c); });
+
+            blocks.forEach(function(b) {
+              var a = document.createElement('button');
+              a.textContent = b.h2.textContent.trim();
+              a.onclick = function() { b.h2.scrollIntoView({ behavior: 'smooth' }); };
+              az.appendChild(a);
+              b.azBtn = a;
+            });
+
+            var h1 = main.querySelector('h1');
+            if (h1) {
+              h1.parentNode.insertBefore(az, h1.nextSibling);
+              h1.parentNode.insertBefore(bar, az);
+            } else {
+              main.insertBefore(az, main.firstChild);
+              main.insertBefore(bar, az);
+            }
+            apply(null);
           });
         }
       ]
