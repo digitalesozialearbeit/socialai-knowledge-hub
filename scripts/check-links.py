@@ -2,7 +2,7 @@
 """Check all internal markdown links for broken targets.
 
 Resolution rules:
-- Docsify site files (top-level and projekt/, glossar/, wissen/, recht/):
+- Docsify site files (top-level and projekt/, glossar/, wissen/, recht/, workshops/):
   Absolute links (/foo) resolve from ROOT, relative links resolve from ROOT too
   (docsify without relativePath).
 - Other files (docs/, etc.): Links resolve relative to the source file's directory.
@@ -20,7 +20,7 @@ CODE_FENCE_RE = re.compile(r'^```', re.MULTILINE)
 ERRORS = 0
 
 # Docsify site directories (links resolve from ROOT)
-DOCSIFY_DIRS = {'projekt', 'glossar', 'wissen', 'recht'}
+DOCSIFY_DIRS = {'projekt', 'glossar', 'wissen', 'recht', 'workshops'}
 
 
 def strip_code(content: str) -> str:
