@@ -69,7 +69,7 @@ Content served by docsify lives at the repo root:
 
 - When adding new pages, update `_sidebar.md` manually
 - Sidebar uses absolute paths from root (e.g., `/projekt/uebersicht.md`)
-- Links within content pages use relative paths (`../glossar/README.md`)
+- Links within content pages also use **absolute root paths** (`/glossar/README.md`, `/glossar/README.md#anchor`), not `../`-relative paths. docsify runs without `relativePath`, so every link resolves from the site root; a `../` link from a subfolder (e.g. `/workshops/`) points above the root and 404s on the live site. Run `scripts/check-links.py` from the repo root (where the docsify-aware resolver applies) to catch these.
 
 ### Link Checking
 
