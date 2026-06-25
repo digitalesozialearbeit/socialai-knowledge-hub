@@ -1,14 +1,17 @@
-# Glossar (gesamt)
+# Glossar
 
-## Inhaltsverzeichnis 
+Dieses Glossar sammelt rund hundert Begriffe rund um Künstliche Intelligenz, Fairness und Soziale Arbeit – von „AI Act" über „Bias" und „Konfabulation" bis „Vulnerabilität". Es ist als Nachschlagewerk gedacht: für den schnellen Blick zwischendurch, als Begleitung in Workshops und als gemeinsame Sprache rund um das Thema. Du musst die Begriffe nicht der Reihe nach lesen – schau einfach nach, was dir gerade begegnet.
 
-s. Outline rechts oben neben Bearbeitungsmodus 
+> [!TIP]
+> So findest du dich zurecht:
+> - Über die **A-Z-Leiste** springst du direkt zum gewünschten Anfangsbuchstaben.
+> - Mit den **Kategorie-Filtern** (`Technik`, `Recht`, `Sozialwissenschaft`, `Soziale Arbeit`) blendest du gezielt die Begriffe eines Bereichs ein.
+> - Viele Einträge sind untereinander **verlinkt** – ein Klick führt dich zum verwandten Begriff.
 
----
+> [!NOTE]
+> In den rechtlichen Definitionen folgt das Glossar bewusst dem Wortlaut der Gesetze. Wo der Gesetzestext das generische Maskulinum verwendet, wird diese Form übernommen, um die eindeutige Zuordnung zum Normtext zu erhalten.
 
-> *Anmerkung zu den juridischen Definitionen*: Da der Gesetzgeber im Normtext überwiegend das generische Maskulinum verwendet, folgt das Glossar in seinen rechtlichen Ausführungen dieser Terminologie, um eine eindeutige Zuordnung zum Gesetzeswortlaut zu gewährleisten.
-
-> *Kategorien*: Jeder Begriff trägt direkt unter der Überschrift einen oder mehrere Tags (`Technik`, `Recht`, `Sozialwissenschaft`, `Soziale Arbeit`). Auf der Website lassen sich die Begriffe danach filtern. Bitte beim Anlegen neuer Begriffe eine Tag-Zeile ergänzen.
+***Anmerkung Redaktion:*** Beim Anlegen neuer Begriffe bitte eine Tag-Zeile (`Technik`, `Recht`, `Sozialwissenschaft`, `Soziale Arbeit`) direkt unter die Überschrift setzen – sonst greift der Kategorie-Filter nicht.
 
 ---
 ## A 
@@ -16,9 +19,7 @@ s. Outline rechts oben neben Bearbeitungsmodus
 ### AI Act / KI-Verordnung
 `Recht`
 
-Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz (AI Act, Verordnung (EU) 2024/1689). Sie regelt die Entwicklung und den Betrieb von KI und folgt dabei einem "risikobasierten Ansatz" – je höher das Risiko, das von einem KI-System ausgeht, desto strenger die Verpflichtungen. Dabei kennt sie folgende Risikokategorien: verbotene Praktiken (zB Emotionserkennung am Arbeitsplatz und social scoring), Hochrisiko-KI (zB KI im Personalmanagement, in der Zuerkennung öffentlicher Leistungen oder in der Justiz), Transparenzrisiken (Wenn KI mit Personen interagiert, Deepfakes oder sonstige Inhalte generiert) und minimale Risiken (alle übrigen Systeme). Die KI-Verordnung unterscheidet folgende zentrale Rollen, nach denen sich wiederum die konkreten Pflichten messen: **Anbieter** (entwickelt/vermarktet KI-Systeme), **Betreiber** (setzt KI-Systeme zu beruflichen Zwecken ein) und **Nutzer:in** (verwendet KI). Relevant für die Soziale Arbeit, da der Einsatz von KI im Kontext [vulnerabler Gruppen](#vulnerabilität--schutzbedürfnis) besondere Pflichten mit sich bringt.
-
-***Anmerkung Sabine:*** Wenn Organisationen Sozialer Arbeit KI-Systeme in eigener Verantwortung einsetzen, sind sie verpflichtet, bestimmte Anforderungen zu erfüllen – etwa zur Qualifikation des eingesetzten Personals oder zur Dokumentation. Der genaue Umfang dieser Pflichten hängt von der Art des eingesetzten Systems, seiner Herkunft sowie der jeweiligen Risikoklassifizierung nach dem AI Act ab.
+Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz (AI Act, Verordnung (EU) 2024/1689). Sie regelt die Entwicklung und den Betrieb von KI und folgt dabei einem „risikobasierten Ansatz" – je höher das Risiko, das von einem KI-System ausgeht, desto strenger die Verpflichtungen. Dabei kennt sie folgende Risikokategorien: verbotene Praktiken (zB Emotionserkennung am Arbeitsplatz und social scoring), Hochrisiko-KI (zB KI im Personalmanagement, in der Zuerkennung öffentlicher Leistungen oder in der Justiz), Transparenzrisiken (Wenn KI mit Personen interagiert, Deepfakes oder sonstige Inhalte generiert) und minimale Risiken (alle übrigen Systeme). Die KI-Verordnung unterscheidet folgende zentrale Rollen, nach denen sich wiederum die konkreten Pflichten messen: **Anbieter** (entwickelt/vermarktet KI-Systeme), **Betreiber** (setzt KI-Systeme zu beruflichen Zwecken ein) und **Nutzer:in** (verwendet KI). Relevant für die Soziale Arbeit, da der Einsatz von KI im Kontext [vulnerabler Gruppen](#vulnerabilität--schutzbedürfnis) besondere Pflichten mit sich bringt. Setzen Organisationen der Sozialen Arbeit KI-Systeme in eigener Verantwortung ein, müssen sie bestimmte Anforderungen erfüllen, etwa zur Qualifikation des eingesetzten Personals oder zur Dokumentation. Welche Pflichten konkret gelten, hängt von der Art des Systems, seiner Herkunft sowie der jeweiligen Risikoklasse ab.
 
 ***Anmerkung Susi:*** So stelle ich hier eine Frage oder formuliere eine Anmerkung
 
@@ -28,6 +29,7 @@ Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz 
 KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über einfache Frage-Antwort-Interaktion hinaus. Im Projektkontext eine offene Frage: Inwieweit werden agentenbasierte KI-Systeme für die Soziale Arbeit relevant, und welche Chancen und Risiken bringen sie mit sich?
 
 ***Anmerkung Sabine:*** Neuer Begriff
+
 ### AI Divide (analog zu Digital Divide)
 `Sozialwissenschaft`
 
@@ -36,11 +38,11 @@ Die UNESCO betont den Diversitätsbezug: Der AI divide bezeichnet den ungleichen
 Bezug zur Sozialen Arbeit: Unterschiede im Zugang zu Technik, Infrastruktur, Sprachkompetenz oder Bildung beeinflussen, wer KI aktiv nutzen kann. Digitale Ungleichheiten werden in bestimmten Szenarien durch KI sogar verschärft – nicht reduziert.
 
 
-### AI Literacies / KI Literacies / KI Kompetenzen
+### AI Literacies / KI-Kompetenzen
 `Sozialwissenschaft` `Technik`
 
-Die Fähigkeit, KI-Systeme informiert zu nutzen, kritisch zu beurteilen und ihre Wirkungen einzuordnen. AI Literacies umfassen technisches Grundverständnis, einen Blick für [Bias](#bias) und [Konfabulation](#konfabulation), Kenntnis rechtlicher Rahmen sowie die Fähigkeit, Einsatzentscheidungen zu reflektieren. Der Begriff ist analog zu Medienkompetenz konzipiert und seit 2024 auch im [EU AI Act](#ai-act--ki-verordnung) als organisationale Pflicht verankert. AI Literacies meint die Fähigkeit, KI-Systeme zu verstehen, kritisch zu bewerten und sinnvoll zu nutzen – in technischer, ethischer und gesellschaftlicher Hinsicht. Sie umfasst Wissen, Anwendung
-und Reflexion. AI Literacies kann aus drei Kompetenzfeldern generiert werden: Verstehen von Funktionsweisen und Prinzipien der KI; Anwendung in alltags- und berufsspezifischen Kontexten; Bewertung und Reflexion des Einsatzes von KI im Hinblick auf Qualität, Fairness und gesellschaftliche Auswirkungen. [^ailiteracies]
+Die Fähigkeit, KI-Systeme zu verstehen, kritisch zu beurteilen und sinnvoll zu nutzen – in technischer, ethischer und gesellschaftlicher Hinsicht. Der Begriff ist analog zur Medienkompetenz konzipiert und seit 2024 auch im [EU AI Act](#ai-act--ki-verordnung) als organisationale Pflicht verankert. KI-Kompetenzen lassen sich in drei Feldern beschreiben: **Verstehen** der Funktionsweisen und Prinzipien von KI; **Anwenden** in alltags- und berufsspezifischen Kontexten; **Bewerten und Reflektieren** des Einsatzes im Hinblick auf Qualität, Fairness und gesellschaftliche Auswirkungen. Dazu gehören auch ein Blick für [Bias](#bias) und [Konfabulation](#konfabulation) sowie die Kenntnis der rechtlichen Rahmenbedingungen. [^ailiteracies]
+
 ***Anmerkung Sabine:*** würde KI Litercies weglassen, weil im deutschsprachigen Diskurs eher von KI-Kompetenz oder KI Literalität gesprochen. 
 
 ### Alignment
@@ -158,9 +160,9 @@ Das Arbeitsgedächtnis eines [LLM](#llm). Der maximale Textumfang in [Tokens](#t
 Datenschutz-Grundverordnung der Europäischen Union (DSGVO, Verordnung (EU) 2016/679). Im Projektkontext zentrale Frage: Welche personenbezogenen Daten dürfen in KI-Tools eingegeben werden? Besondere Relevanz bei Daten von Klient:innen der Sozialen Arbeit, die oft zu [vulnerablen Gruppen](#vulnerabilität--schutzbedürfnis) gehören.
 
 - **personenbezogene Daten**: Darunter versteht die DSGVO alle Informationen, die sich auf eine „identifizierte oder identifizierbare natürliche Person“ (die „betroffene Person“) beziehen. Damit sind alle Daten erfasst, die sich einer – auch indirekt – bestimmbaren Person zuordnen lassen, wie Name, Kennnummern, Standort, Online-Kennungen usw.[^dsgvo] Der Begriff wird in der Praxis sehr weit ausgelegt und danach gefragt, ob in einer Einrichtung Mittel bestehen, um den Personenbezug herstellen zu können.[^dsgvo1]   
-- **sensible Daten**:
-- **Zweckbindung**:  
-- **Datenminimierung**: 
+- **sensible Daten**: Besonders schutzwürdige Daten, etwa zu Gesundheit, ethnischer Herkunft, religiöser oder weltanschaulicher Überzeugung oder sexueller Orientierung. Sie genießen nach der DSGVO einen verstärkten Schutz und dürfen nur unter engen Voraussetzungen verarbeitet werden – in der Sozialen Arbeit ein häufiger und besonders heikler Fall.
+- **Zweckbindung**: Personenbezogene Daten dürfen nur für den festgelegten, eindeutigen Zweck verwendet werden, für den sie erhoben wurden. Eine spätere Weiterverwendung für andere Zwecke ist nicht ohne Weiteres zulässig.
+- **Datenminimierung**: Es dürfen nur so viele Daten verarbeitet werden, wie für den jeweiligen Zweck wirklich nötig sind. Im Zweifel gilt: so wenig wie möglich.
 
 ### Deskilling
 `Sozialwissenschaft` `Soziale Arbeit`
@@ -177,7 +179,7 @@ Jan van Dijk (2020) beschreibt den Begriff ‚Digital Divide‘ als Kluft zwisch
 
 Ungleichbehandlung aufgrund der (vermeintlichen) Zugehörigkeit zu einer Gruppe – Geschlecht, ethnische Herkunft, Alter, Behinderung, sexuelle Orientierung, Religion, soziale Schicht.
 - **Sozialwissenschaftlich:** Diskriminierung ist ein Prozess, durch den [soziale Ungleichheit](#soziale-ungleichheit) geschaffen und aufrechterhalten wird, und sie wirkt durch spezifische Handlungen der Klassifizierung, Bewertung und Ausgrenzung. Sie kann direkt / explizit oder implizit erfolgen. Aus sozialwissenschaftlicher Perspektive bilden Differenzkonstruktionen die Grundlage von Diskriminierungen. Sie entstehen aus Zuschreibung, Abstrahierung und Stereotypisierung. Sie führen zu Hierarchien, Ein- und Ausschlüssen und sind mit sozialen, ökonomischen, politischen oder rechtlichen Benachteiligungen verschränkt. Feministische und antirassistisch-postkoloniale Perspektiven betonen die überindividuelle Dimension von Diskriminierungen; sie sind als historisch gewachsenes, strukturelles Phänomen zu betrachten. Definition siehe [Gender Glossar](https://www.gender-glossar.de/post/diskriminierung)
-- **Juridisch:** mittelbar / unmittelbar, GlBG
+- **Juridisch:** Das Recht unterscheidet unmittelbare Diskriminierung (eine Person wird wegen eines geschützten Merkmals direkt schlechter behandelt) von mittelbarer Diskriminierung (eine scheinbar neutrale Regel, ein Kriterium oder ein Verfahren benachteiligt in der Praxis bestimmte Gruppen besonders). In Österreich bildet das Gleichbehandlungsgesetz (GlBG) hierfür den zentralen rechtlichen Rahmen.
 
 ### Distillation
 `Technik`
@@ -208,7 +210,6 @@ Eine mathematische Darstellung von Text als Zahlenvektor in einem hochdimensiona
 `Technik` `Recht`
 
 - **Technisch:** Methoden und Werkzeuge, die Entscheidungen von KI-Systemen nachvollziehbar machen. Bei klassischem Machine Learning durch Verfahren wie SHAP oder LIME. Bei [LLMs](#llm) ist Erklärbarkeit nur eingeschränkt möglich, weil die Entscheidungsprozesse über Milliarden von Parametern verteilt sind. Das Feld der Mechanistic Interpretability untersucht, welche internen Strukturen welche Verhaltensweisen erzeugen. Im regulatorischen Kontext bleibt Erklärbarkeit eine zentrale Anforderung.
-- **Juridisch:** 
 
 ---
 
@@ -223,7 +224,7 @@ Eine mathematische Darstellung von Text als Zahlenvektor in einem hochdimensiona
 ### Feminist AI Literacies
 `Sozialwissenschaft` `Soziale Arbeit`
 
-Feministische [AI Literacies](#ai-literacies--ki-literacies--ki-kompetenzen) in der Sozialen Arbeit sind diversitäts- und machtsensible, [intersektionale](#intersektionalität) und [Bias](#bias)-erkennende Fähigkeiten und Fertigkeiten im Umgang mit generativen KI-Tools mit einem speziellen Fokus auf Prompting und kritische Output-Bewertung sowie Kontext- bzw. Anwendungssensitivität. [^feministAI]
+Feministische [AI Literacies](#ai-literacies--ki-kompetenzen) in der Sozialen Arbeit sind diversitäts- und machtsensible, [intersektionale](#intersektionalität) und [Bias](#bias)-erkennende Fähigkeiten und Fertigkeiten im Umgang mit generativen KI-Tools mit einem speziellen Fokus auf Prompting und kritische Output-Bewertung sowie Kontext- bzw. Anwendungssensitivität. [^feministAI]
 
 ### Few-Shot Prompting
 `Technik`
@@ -244,6 +245,7 @@ Bezeichnung für die jeweils leistungsfähigsten Modelle einer Generation, etwa 
 ## G
 
 ***Anmerkung Sabine:*** Neuer Begriff
+
 ### Gender AI Gap
 `Sozialwissenschaft`
 
@@ -360,7 +362,7 @@ Ein Verfahren, bei dem ein [LLM](#llm) die Outputs eines anderen Modells (oder e
 ### Matthäus-Effekt
 `Sozialwissenschaft`
 
-Der Matthäus-Effekt beschreibt das soziologische Prinzip, dass Erfolg, Aufmerksamkeit oder Ressourcen unweigerlich zu weiterem Erfolg führen ("Wer hat, dem wird gegeben"). Im Rahmen des SocialAI-Projekts ist dieser Effekt mit dem [Digital Divide](#digital-divide) verbunden und beschreibt etwa das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie [AI Literacies](#ai-literacies--ki-literacies--ki-kompetenzen) in der Sozialen Arbeit vermittelt werden sollen und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.[^matthi]
+Der Matthäus-Effekt beschreibt das soziologische Prinzip, dass Erfolg, Aufmerksamkeit oder Ressourcen unweigerlich zu weiterem Erfolg führen ("Wer hat, dem wird gegeben"). Im Rahmen des SocialAI-Projekts ist dieser Effekt mit dem [Digital Divide](#digital-divide) verbunden und beschreibt etwa das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie [AI Literacies](#ai-literacies--ki-kompetenzen) in der Sozialen Arbeit vermittelt werden sollen und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.[^matthi]
 
 ### MCP
 `Technik`
@@ -451,6 +453,7 @@ Eine Methodik für die iterative Zusammenarbeit zwischen Mensch und KI. Kernprin
 Ein Verfahren, das die Präzision der Modellgewichte reduziert, etwa von 16 auf 8 oder 4 Bit, um Speicher- und Rechenbedarf zu senken. Quantisierte Modelle laufen auf günstigerer Hardware, teilweise sogar lokal auf dem eigenen Rechner. Die Qualität sinkt nur moderat. Praxisrelevant überall dort, wo Daten den eigenen Rechner oder das eigene Netzwerk nicht verlassen sollen.
 
 ***Anmerkung Sabine:*** Neuer Begriff
+
 ### quasisoziale Beziehung
 `Sozialwissenschaft` `Soziale Arbeit`
 
@@ -566,7 +569,7 @@ Der Transparenzbegriff, welcher der KI-VO zugrunde liegt, entstammt ursprünglic
 ### Vertrauenswürdige / menschenzentrierte KI
 `Sozialwissenschaft` `Recht`
 
-Vertrauen Arndt
+Leitbild für den Umgang mit KI, das nicht nur auf technische Leistungsfähigkeit zielt, sondern den Menschen und das Gemeinwohl in den Mittelpunkt stellt. Die [Ethik-Leitlinien für vertrauenswürdige KI](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60425) der hochrangigen Expert:innengruppe der EU (HLEG, 2019) nennen drei Grundbedingungen: KI soll rechtmäßig, ethisch und robust sein. Daraus leiten sie Anforderungen ab wie menschliche Aufsicht (siehe [Menschliche Aufsicht / Human Oversight](#menschliche-aufsicht--human-oversight)), technische Sicherheit, Schutz der Privatsphäre, [Transparenz](#transparenz), Vielfalt und Fairness, gesellschaftliches und ökologisches Wohlergehen sowie Rechenschaftspflicht. „Menschenzentriert" bedeutet, dass KI die Selbstbestimmung der Menschen stärken und nicht untergraben soll – ein Anspruch, der für die Soziale Arbeit besonders bedeutsam ist.
 
 ### Vulnerabilität / Schutzbedürfnis 
 `Sozialwissenschaft` `Recht` `Soziale Arbeit`
@@ -575,12 +578,6 @@ Vulnerabilität wird zum einen logisch in einen Zusammenhang mit Unverletztheit 
 Krisen, Stress, Schocks oder bereits eingetretener belastenden Ereignisse.[^vulnerabilität] Vulnerable Zielgruppen“ sind in der Sozialen Arbeit demnach Personen oder Gruppen, die als in besonderem Maße verletzbar, gefährdet oder schutzbedürftig gelten.
 
 - **Rechtlich:** Weder das Unionsrecht noch das österreichische Recht enthalten eine allgemeine Legaldefinition der Vulnerabilität. Der Begriff ist über mehrere Rechtsakte verstreut und muss kontextabhängig rekonstruiert werden. Das Konzept der Vulnerabilität besteht dabei aus einer Aufzählung an vulnerablen Personengruppen, die je nach Rechtsakt variieren. So finden sich im europäischen Arbeitsrecht[^vulnerabilität1] beispielsweise Hinweise auf schwangere Arbeitnehmerinnen und Wöchnerinnen als vulnerable Personen, während die DSGVO die Schutzbedürftigkeit von Kindern als Faktor bei der Risikobewertung einer Datenverarbeitung hervorhebt (vgl ErwGr 75 DSGVO). In der KI-VO finden sich immer wieder Verweise auf die Schutzbedürftigkeit von Personen aufgrund von Status, Autorität, Wissen, wirtschaftlichen oder sozialen Umständen (zB Armut, ethnische und religiöse Minderheiten), Alter sowie Menschen mit Behinderung.[^vulnerabilität2] Als Indikatoren für Vulnerabilität gelten damit zusammengefasst meist das Bestehen eines Machtungleichgewichts, mangelnde Einsichtsfähigkeit in oder mangelndes Wissen um einen Prozess und Ungleichbehandlungen aufgrund der Herkunft, des Geschlechts oder der sozialen Klasse.[^vulnerabilität3] 
-
-
-
-
-
-sozialwissenschaftlich / mit Blick auf Soziale Arbeit
 
 ---
 
@@ -693,6 +690,3 @@ EthikJournal 8. Jg. 2. Ausgabe (https://www.ethikjournal.de/fileadmin/user_uploa
 [^mindperception]: Waytz, Adam, Kurt Gray, Nicholas Epley und Daniel M. Wegner. „Causes and Consequences of Mind Perception". *Trends in Cognitive Sciences* 14.8 (2010), 383–388. https://doi.org/10.1016/j.tics.2010.05.006
 
 [^mindperception1]: Colombatto, Clara und Stephen M. Fleming. „Folk Psychological Attributions of Consciousness to Large Language Models". *Neuroscience of Consciousness* 2024.1 (2024). https://doi.org/10.1093/nc/niae013
-
----
-
