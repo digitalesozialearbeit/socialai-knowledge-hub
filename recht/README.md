@@ -1,6 +1,6 @@
 # Recht & Compliance
 
-Rechtliche Informationen zum Einsatz von Künstlicher Intelligenz in der Sozialen Arbeit. Die Inhalte werden vom Research Institute (RI) erarbeitet und im Rahmen der Arbeitspakete AP 3 und AP 5 bereitgestellt.
+Rechtliche Informationen zum Einsatz von Künstlicher Intelligenz in der Sozialen Arbeit. Die Inhalte werden vom [Research Institute](https://researchinstitute.at) (RI) erarbeitet und im Rahmen der Arbeitspakete AP 3 und AP 5 bereitgestellt.
 
 > [!NOTE]
 > Dieser Bereich wird laufend mit rechtlichen Informationen ergänzt. Die ersten Materialien werden im Rahmen der Innovationsworkshops (AP 3, Juni/Juli 2026) entstehen.

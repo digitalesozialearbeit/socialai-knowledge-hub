@@ -51,11 +51,11 @@ In Österreich gibt es derzeit keine vergleichbare Initiative, die KI, Chancenge
 
 | Partner | Kürzel | Hauptaufgaben |
 |---------|--------|---------------|
-| **Universität Graz** | Uni Graz | Wissenschaftliche Projektleitung, empirische Forschung, Gender-/Diversitätsintegration, Wissenstransfer |
-| **Digital Humanities Craft** | DHC | Technische KI-Expertise, Prompt-Engineering-Experimente, Framework-Entwicklung, Prompt Pattern Library, Open-Source-Veröffentlichung |
-| **Research Institute** | RI | Rechtswissenschaftliche Forschung (AI Act, DSGVO), ethische Beratung, Informationsmaterialien, Workshop-Durchführung |
-| **SOS-Kinderdorf** | SOS-KD | Feldzugang, Praxiserprobung, Teilnahme an Workshops/Befragungen, Feedback & Validierung. Päd. Leitung: Martin Baumann (seit 04/2026), Abrechnung: Anna |
-| **Jugend am Werk – Steiermark GmbH** | JAW | Feldzugang, Praxiserprobung, Teilnahme an Workshops/Befragungen, Feedback & Validierung |
+| **[Universität Graz](https://www.uni-graz.at)** | Uni Graz | Wissenschaftliche Projektleitung, empirische Forschung, Gender-/Diversitätsintegration, Wissenstransfer |
+| **[Digital Humanities Craft](https://dhcraft.org)** | DHC | Technische KI-Expertise, Prompt-Engineering-Experimente, Framework-Entwicklung, Prompt Pattern Library, Open-Source-Veröffentlichung |
+| **[Research Institute](https://researchinstitute.at)** | RI | Rechtswissenschaftliche Forschung (AI Act, DSGVO), ethische Beratung, Informationsmaterialien, Workshop-Durchführung |
+| **[SOS-Kinderdorf](https://www.sos-kinderdorf.at)** | SOS-KD | Feldzugang, Praxiserprobung, Teilnahme an Workshops/Befragungen, Feedback & Validierung. Päd. Leitung: Martin Baumann (seit 04/2026), Abrechnung: Anna |
+| **[Jugend am Werk – Steiermark GmbH](https://jaw.or.at)** | JAW | Feldzugang, Praxiserprobung, Teilnahme an Workshops/Befragungen, Feedback & Validierung |
 
 ### AP-Leads (zugewiesen beim Kick-off)
 
