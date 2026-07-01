@@ -42,6 +42,7 @@ Bezug zur Sozialen Arbeit: Unterschiede im Zugang zu Technik, Infrastruktur, Spr
 `Sozialwissenschaft` `Technik`
 
 Die Fähigkeit, KI-Systeme zu verstehen, kritisch zu beurteilen und sinnvoll zu nutzen – in technischer, ethischer und gesellschaftlicher Hinsicht. Der Begriff ist analog zur Medienkompetenz konzipiert und seit 2024 auch im [EU AI Act](#ai-act--ki-verordnung) als organisationale Pflicht verankert. KI-Kompetenzen lassen sich in drei Feldern beschreiben: **Verstehen** der Funktionsweisen und Prinzipien von KI; **Anwenden** in alltags- und berufsspezifischen Kontexten; **Bewerten und Reflektieren** des Einsatzes im Hinblick auf Qualität, Fairness und gesellschaftliche Auswirkungen. Dazu gehören auch ein Blick für [Bias](#bias) und [Konfabulation](#konfabulation) sowie die Kenntnis der rechtlichen Rahmenbedingungen. [^ailiteracies]
+- **Rechtlich:** „KI‑Kompetenz“ bezeichnet die Fähigkeiten, die Kenntnisse und das Verständnis, die es Anbietern, Betreibern und Betroffenen unter Berücksichtigung ihrer jeweiligen Rechte und Pflichten ermöglichen, KI‑Systeme sachkundig einzusetzen sowie sich der Chancen und Risiken von KI und möglicher Schäden, die sie verursachen kann, bewusst zu werden (Art 3 Z 56 KI-VO).
 
 ***Anmerkung Sabine:*** würde KI Litercies weglassen, weil im deutschsprachigen Diskurs eher von KI-Kompetenz oder KI Literalität gesprochen. 
 
