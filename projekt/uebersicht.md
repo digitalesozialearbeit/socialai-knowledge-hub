@@ -6,7 +6,8 @@
 |------|------|
 | **Projekttitel** | SocialAI: Chancengerechtigkeit und KI in der Sozialen Arbeit |
 | **Förderprogramm** | FFG Laura Bassi 4.0 |
-| **Projektnummer** | 62981337 |
+| **FFG-Projektnummer** | FO999929330 |
+| **Antrag-ID (eCall)** | 62981337 |
 | **Laufzeit** | 01.02.2026 -31.01.2029 (36 Monate) |
 | **Kick-off** | 25.02.2026, 9:00–15:00 Uhr |
 | **Moderation Kick-off** | Dr.in Lisa Horvath |
@@ -118,7 +119,9 @@ In Österreich gibt es derzeit keine vergleichbare Initiative, die KI, Chancenge
 | 01.10.2027 | Zwischenberichte (eCall) | AP 1 |
 | 03.11.2027 | Befragung abgeschlossen | AP 6 |
 | 10.03.2028 | Ergebnisbericht Fragebogen | AP 6 |
+| Mitte 2028 | 2. Befragung (Termin offen) | AP 6 |
 | 03–07/2028 | Co-Creation-Workshops | AP 7 |
+| 31.07.2028 | Bericht Co-Creation-Workshops | AP 7 |
 | 04.09.2028 | Publikation Bedarfserhebung | AP 9 |
 | 02.10.2028 | DOL-Konzept finalisiert | AP 8 |
 | 18.01.2029 | Abschluss-Webinar | AP 9 |

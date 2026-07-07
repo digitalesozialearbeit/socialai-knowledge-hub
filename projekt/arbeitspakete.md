@@ -275,6 +275,7 @@
 | 01.10.2027 | Fragebogen finalisiert |
 | 03.11.2027 | Befragung abgeschlossen |
 | 10.03.2028 | Ergebnisbericht |
+| Mitte 2028 | 2. Befragung (Kick-off-Beschluss, Termin offen) |
 
 **Deliverables:**
 - Standardisierter Fragebogen
@@ -313,6 +314,12 @@
 - 7.2 Durchführung (N=16–24 Fachkräfte)
 - 7.3 Nachbereitung
 - 7.4 Wissenschaftliche Begleitung
+
+**Meilensteine:**
+| Datum | Meilenstein |
+|-------|------------|
+| 30.06.2028 | 7.1 Abschluss der Co-Creation-Workshopserie |
+| 31.07.2028 | 7.2 Schriftlicher Bericht zur wissenschaftlichen Begleitung |
 
 **Deliverables:**
 - Workshop-Konzept

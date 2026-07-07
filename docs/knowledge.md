@@ -10,7 +10,8 @@
 |------|------|
 | Projekttitel | SocialAI: Chancengerechtigkeit und KI in der Sozialen Arbeit |
 | Förderprogramm | FFG Laura Bassi 4.0 |
-| Projektnummer | 62981337 |
+| FFG-Projektnummer | FO999929330 (lt. Förderungsvertrag) |
+| Antrag-ID (eCall) | 62981337 |
 | Laufzeit | 01.02.2026 -31.01.2029 (36 Monate) |
 | Kick-off | 25.02.2026, 9:00–15:00 Uhr |
 | Moderation Kick-off | Dr.in Lisa Horvath |

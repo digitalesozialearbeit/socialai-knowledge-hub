@@ -97,6 +97,7 @@ Standardisierte Testsätze zur Vergleichsmessung der Leistungsfähigkeit von KI-
 Systematische Verzerrung in Daten, Repräsentation, Modellen oder Entscheidungen. Im Projekt in mehreren Dimensionen relevant:
 - **Sozialwissenschaftlich:** Sozialwissenschaftlich lässt sich Bias an der Schnittstelle zweier Traditionen verstehen: Die kognitionspsychologische Linie (Tversky & Kahneman, 1974) fasst ihn als systematische, also nicht zufällige Verzerrung unserer Wahrnehmung, Erinnerung und Beurteilung, die einem erkennbaren Muster folgt und das Denken stets in eine bestimmte Richtung lenkt.[^kognito] Die soziologische Linie (Allport, 1954) verweist auf deren gesellschaftliche Verankerung in Vorurteilen, kulturellen Normen und struktureller Diskriminierung. Beide Ebenen greifen ineinander: Individuelles Urteilen ist durch Erfahrungen, Sozialisation und kulturelle Normen geprägt und reproduziert zugleich gesellschaftliche Ungleichheit. Die menschliche Wahrnehmung ist damit niemals neutral.[^llport]
 - **Sozialwissenschaftliche Subformen:** **a) Unconscious/Implicit Bias:** bezeichnet kognitive Prozesse, bei denen frühere Erfahrungen, soziale Kategorien und kulturell vermittelte Stereotype Urteile beeinflussen, ohne dass sich die handelnden Personen dessen bewusst sind. Widerspricht oft den eigenen Werten, die expliziert werden können, beeinflusst jedoch systematisch Entscheidungen.[^ncon] **b) Confirmation Bias**: Tendenz, Informationen zu vertrauen oder zu bevorzugen, die die eigene Weltsicht bestärkt, bereits vorhandene Weltbilder verstärkt.[^conf] **c) Affinity/In-Group Bias**: Tendenz, Personen zu bevorzugen, die einem ähnlich sind.[^group]
+- **Intersektional:** Verzerrungen wirken entlang mehrerer, sich überschneidender Dimensionen (etwa Geschlecht, Alter, Migration) zusammen und können sich wechselseitig verstärken, siehe [Intersektionalität](#intersektionalität).
 - **Technisch:** Systematische Verzerrung in den Antworten eines [LLM](#llm), die aus Trainingsdaten und Trainingsprozess stammt.[^bias] Bias zeigt sich etwa in Geschlechter- und Altersstereotypen oder in der Bevorzugung bestimmter Perspektiven. Die Forschung unterscheidet repräsentative Schäden (Stereotypisierung) und allokative Schäden (ungleiche Ressourcenverteilung). Bias lässt sich nicht vollständig beseitigen, sondern nur sichtbar machen und reflektiert kompensieren. 
 
 
@@ -300,15 +301,15 @@ EU High-Level Expert Group on AI (2019): Ethics Guidelines for Trustworthy AI. B
 
 ## I
 
-### Intersektionalität
-`Sozialwissenschaft`
-
-Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierungsdimensionen beschreibt.[^sectionality] Im Projekt fokussiert auf die Achsen: Geschlecht, Alter und Migration. Als Visualisierung wird ein Venn-Diagramm verwendet, um die Überlappung und gegenseitige Verstärkung sichtbar zu machen. Unter Intersektionalität wird verstanden, dass historisch gewordene Macht- und Herrschaftsverhältnisse, Subjektivierungsprozesse sowie soziale Ungleichheiten wie Geschlecht, Sexualität/[Heteronormativität](#heteronormativität), Race/Ethnizität/Nation, Behinderung oder soziales Milieu nicht isoliert voneinander konzeptualisiert werden können, sondern in ihren ,Verwobenheiten’ oder ,Überkreuzungen‘ (intersections) analysiert werden müssen. Additive Perspektiven werden überwunden, indem der Fokus auf das gleichzeitige Zusammenwirken von sozialen Kategorien bzw. sozialen Ungleichheiten gelegt wird. Es geht demnach nicht allein um die Berücksichtigung mehrerer sozialer Kategorien, sondern ebenfalls um die Analyse ihrer Wechselwirkungen.“ [^sectionality1] 
-
 ### I-Methodology
 `Sozialwissenschaft`
 
 Eine Designpraxis, bei der Entwickler:innen sich selbst als Bezugspunkt für die Nutzer:innen nehmen. Anstatt die Bedürfnisse, Kompetenzen und Kontexte verschiedener Nutzer:innengruppen systematisch zu erforschen, stützen sich Designer:innen auf ihre eigenen Erfahrungen, Vorlieben und Gewohnheiten, um sich vorzustellen, was „der Nutzer“ will. Aber: Designer:innen glauben, sie würden für alle gestalten (sie sehen sich selbst als repräsentativ), während sie in Wirklichkeit für Menschen wie sich selbst gestalten. Diese Praxis bleibt für diejenigen, die sie anwenden, unsichtbar. Wenn Teams homogen sind (männlich, weiß, jung, körperlich gesund), bringt die Ich-Methodik Technologien hervor, die die Annahmen dieser Gruppe systematisch als universell widerspiegeln.[^scripts] Siehe auch [Gender Scripts](#gender-scripts), das Resultat dieser Designpraxis.
+
+### Intersektionalität
+`Sozialwissenschaft`
+
+Konzept, das die Überschneidung und Wechselwirkung verschiedener Diskriminierungsdimensionen beschreibt.[^sectionality] Im Projekt fokussiert auf die Achsen: Geschlecht, Alter und Migration. Als Visualisierung wird ein Venn-Diagramm verwendet, um die Überlappung und gegenseitige Verstärkung sichtbar zu machen. Unter Intersektionalität wird verstanden, dass historisch gewordene Macht- und Herrschaftsverhältnisse, Subjektivierungsprozesse sowie soziale Ungleichheiten wie Geschlecht, Sexualität/[Heteronormativität](#heteronormativität), Race/Ethnizität/Nation, Behinderung oder soziales Milieu nicht isoliert voneinander konzeptualisiert werden können, sondern in ihren ,Verwobenheiten’ oder ,Überkreuzungen‘ (intersections) analysiert werden müssen. Additive Perspektiven werden überwunden, indem der Fokus auf das gleichzeitige Zusammenwirken von sozialen Kategorien bzw. sozialen Ungleichheiten gelegt wird. Es geht demnach nicht allein um die Berücksichtigung mehrerer sozialer Kategorien, sondern ebenfalls um die Analyse ihrer Wechselwirkungen.“ [^sectionality1]
 
 ---
 
@@ -363,7 +364,7 @@ Ein Verfahren, bei dem ein [LLM](#llm) die Outputs eines anderen Modells (oder e
 ### Matthäus-Effekt
 `Sozialwissenschaft`
 
-Der Matthäus-Effekt beschreibt das soziologische Prinzip, dass Erfolg, Aufmerksamkeit oder Ressourcen unweigerlich zu weiterem Erfolg führen ("Wer hat, dem wird gegeben"). Im Rahmen des SocialAI-Projekts ist dieser Effekt mit dem [Digital Divide](#digital-divide) verbunden und beschreibt etwa das Phänomen, dass Weiterbildungsangebote überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie [AI Literacies](#ai-literacies--ki-kompetenzen) in der Sozialen Arbeit vermittelt werden sollen und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.[^matthi]
+Der Matthäus-Effekt beschreibt das soziologische Prinzip, dass Erfolg, Aufmerksamkeit oder Ressourcen unweigerlich zu weiterem Erfolg führen ("Wer hat, dem wird gegeben"). Im Rahmen des SocialAI-Projekts ist dieser Effekt mit dem [Digital Divide](#digital-divide) verbunden und beschreibt etwa das Phänomen, dass Weiterbildungsangebote in der Erwachsenenbildung überproportional von bereits gut qualifizierten Personen genutzt werden. Relevant für die Frage, wie [AI Literacies](#ai-literacies--ki-kompetenzen) in der Sozialen Arbeit vermittelt werden sollen und wie bestehende Ungleichheiten im Zugang zu digitaler Bildung nicht verstärkt werden.[^matthi]
 
 ### MCP
 `Technik`
