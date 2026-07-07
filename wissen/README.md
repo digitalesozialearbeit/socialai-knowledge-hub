@@ -3,13 +3,14 @@
 Hier werden Projektergebnisse gesammelt, sobald die jeweiligen Arbeitspakete abgeschlossen sind. Diese Seite dient als Einstiegspunkt für alle Wissensartikel, Zusammenfassungen und Forschungsergebnisse des SocialAI-Projekts.
 
 > [!NOTE]
-> Dieser Bereich wird im Laufe des Projekts kontinuierlich mit Inhalten gefüllt. Die ersten Beiträge werden nach Abschluss des Literatur-Reviews (AP 2, voraussichtlich Ende 2026) erwartet.
+> Dieser Bereich wird im Laufe des Projekts kontinuierlich mit Inhalten gefüllt. Erste Inhalte liegen vor (Anwendungsfelder, Workshop-Erkenntnisse, Papers); der nächste größere Schub folgt mit dem Literatur-Review (AP 2, Ende 2026).
 
 ---
 
 ## Aktuelle Inhalte
 
-- [Anwendungsfelder generativer KI in der Sozialen Arbeit](wissen/anwendungsfelder.md) – Grundlage für die Innovationsworkshops (AP 3), Arbeitsstand Juni 2026
+- [Anwendungsfelder generativer KI in der Sozialen Arbeit](wissen/anwendungsfelder.md) – Grundlage für die Innovationsworkshops (AP 3), Arbeitsstand Juli 2026
+- Erkenntnisse aus den Innovationsworkshops (AP 3, 29./30.06.2026) – [Workshop Tag 1](/workshops/innovationsworkshop-2026-06-29.md), [Workshop Tag 2](/workshops/innovationsworkshop-2026-06-30.md), [KI und Recht: Grundlagen](/recht/ki-recht-grundlagen.md)
 
 ---
 
@@ -18,11 +19,11 @@ Hier werden Projektergebnisse gesammelt, sobald die jeweiligen Arbeitspakete abg
 | Zeitraum | Inhalt | Quelle |
 |----------|--------|--------|
 | Nach AP 2 (Ende 2026) | Zusammenfassung Literatur-Review: Bias in generativer KI | Review-Bericht |
-| Nach AP 3 (07/2026) | Erkenntnisse aus Innovationsworkshops, Praxisfragen der Führungskräfte | Workshop-Dokumentation |
 | Nach AP 4 (01/2027) | Ergebnisse der experimentellen Prompt-Analyse | Auswertungsbericht |
 | Nach AP 5 (05/2027) | Dokumentation des Prompting-Frameworks | Framework-Konzept |
 | Nach AP 6 (03/2028) | Ergebnisse der Fragebogenerhebung, Bedarfsanalyse | Auswertungsbericht |
 | Nach AP 7 (07/2028) | Erkenntnisse aus Co-Creation-Workshops | Ergebnisdokumentation |
+| Nach AP 8 (01/2029) | Digitaler Orientierungsleitfaden + Prompt Pattern Library (eigenes Repo) | [Orientierungsleitfaden](https://digitalesozialearbeit.github.io/orientierungsleitfaden/) |
 
 ---
 
@@ -32,7 +33,7 @@ Hier werden Projektergebnisse gesammelt, sobald die jeweiligen Arbeitspakete abg
 
 ## Unveröffentlichte Arbeitspapiere
 
-> [!WARNING]
+> [!NOTE]
 > Die folgenden Texte sind **unveröffentlichte Entwürfe**. Sie dienen der internen Dokumentation und sind nicht zitierfähig.
 
 - [Pollin et al. (2025): Wenn gute Absichten nach hinten losgehen](wissen/papers/pollin-et-al-2025-pilotstudie-bias-diversitaetssensible-prompts.md) - FAIR-SW-Bench Pilotstudie, Diversitäts-Instruktions-Paradox

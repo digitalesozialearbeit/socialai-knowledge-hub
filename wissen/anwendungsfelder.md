@@ -1,9 +1,9 @@
 # Anwendungsfelder generativer KI in der Sozialen Arbeit
 
-Diese Seite beschreibt vier Anwendungsfelder, in denen generative KI in der Sozialen Arbeit zum Einsatz kommen kann. Sie bildet die inhaltliche Grundlage für die Innovationsworkshops mit Führungskräften der Praxispartner:innen (AP 3) und wird auf Basis der Workshop-Ergebnisse weiterentwickelt.
+Diese Seite beschreibt vier Anwendungsfelder, in denen generative KI in der Sozialen Arbeit zum Einsatz kommen kann. Sie bildete die inhaltliche Grundlage für die Innovationsworkshops mit Führungskräften der Praxispartner:innen (AP 3, 29./30.06.2026).
 
 > [!NOTE]
-> Arbeitsstand Juni 2026. Die Anwendungsfelder werden in den Innovationsworkshops am 29. und 30. Juni 2026 gemeinsam mit den Teilnehmenden diskutiert, adaptiert und erweitert. Ausführliche Beispiele mit vollständigen Prompting-Prozessen finden sich im [Orientierungsleitfaden](https://digitalesozialearbeit.github.io/orientierungsleitfaden/) (Kapitel 4).
+> Arbeitsstand Juli 2026. Die Anwendungsfelder wurden in den Innovationsworkshops am 29. und 30. Juni 2026 gemeinsam mit den Teilnehmenden diskutiert und um konkrete Praxisbeispiele erweitert; die gesammelten Einsatzfelder aus der Praxis stehen in der [Nachlese zu Workshop Tag 2](https://digitalesozialearbeit.github.io/socialai-workshops/#/workshops/innovationsworkshop-2026-06-30). Ausführliche Beispiele mit vollständigen Prompting-Prozessen finden sich im [Orientierungsleitfaden](https://digitalesozialearbeit.github.io/orientierungsleitfaden/) (Kapitel 4).
 
 Quer durch alle Anwendungsfelder stellt sich die Frage nach einem gender- und diversitätssensiblen Umgang mit KI: Wann ist es wichtig, Geschlecht, Diversität und soziale Ungleichheit zu berücksichtigen? Welche [Bias](glossar/README.md) sind bekannt und wie lassen sie sich reduzieren?
 
@@ -17,7 +17,7 @@ In der Fallarbeit können generative KI-Tools in den Bereichen Anamnese, Diagnos
 
 **b) Risikoeinschätzung / Predictive Risk Modelling:** Die Risiko- und Gefährdungseinschätzung verfolgt das Ziel, risikobehaftete Lebenssituationen und risikoreiches Verhalten zu identifizieren, um zukünftiges Verhalten oder die Entwicklung sozialer Verhältnisse abschätzen zu können. Eingesetzt wird sie beispielsweise im Bereich der Kindeswohlgefährdung.
 
-> [!WARNING]
+> [!NOTE]
 > Gerade in der Fallarbeit ist der Einsatz von KI rechtlich und ethisch besonders sensibel: Es werden personenbezogene und oft sensible Daten vulnerabler Personen verarbeitet, und automatisierte Einschätzungen können weitreichende Folgen haben. Zentrale Stichworte: DSGVO, AI Act (Hochrisiko-Bereiche), menschliche Aufsicht.
 
 ## Anwendungsfeld 2: Berichtswesen und Administration

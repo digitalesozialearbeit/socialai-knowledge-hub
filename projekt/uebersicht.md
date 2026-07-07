@@ -108,7 +108,7 @@ In Österreich gibt es derzeit keine vergleichbare Initiative, die KI, Chancenge
 | 25.02.2026 | Kick-off (erledigt) | AP 1 |
 | 09.04.2026 | 1. Quartalstreffen (erledigt) | AP 1 |
 | 10.06.2026 | Review-Bericht fertig | AP 2 |
-| 29.06.–30.06.2026 | Innovationsworkshops FK in Graz | AP 3 |
+| 29.06.–30.06.2026 | Innovationsworkshops FK in Graz (erledigt) | AP 3 |
 | 13.11.2026 | Prompt-Set fertiggestellt | AP 4 |
 | 26.11.2026 | Publikation Lit-Review | AP 9 |
 | 29.01.2027 | Datensatz + Auswertungsbericht | AP 4 |

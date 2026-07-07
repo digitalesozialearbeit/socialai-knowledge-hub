@@ -114,10 +114,10 @@
 | **Lead** | Sabine (Uni Graz) |
 
 > [!NOTE]
-> Beim Kick-off vorgezogen (ursprünglich 07–10/2026).
+> Beim Kick-off vorgezogen (ursprünglich 07–10/2026). **Abgeschlossen:** Workshops am 29./30.06.2026 an der Uni Graz durchgeführt (Tag 1 Technik: DHC, Tag 2 Recht/Ethik: RI), 14 Teilnehmende (Antragsziel 10–12 erfüllt). Der Bericht zur wissenschaftlichen Begleitforschung (Klinger, Sackl-Sharif & Schmieder, Uni Graz) liegt seit Juli 2026 vor. Nachlese: [Tag 1](/workshops/innovationsworkshop-2026-06-29.md), [Tag 2](/workshops/innovationsworkshop-2026-06-30.md).
 
 > [!TIP]
-> **Update Jour fixe 09.04.2026:** Termine fix: **29.06.2026 (9–13 Uhr)** und **30.06.2026 (13–17 Uhr)** in Graz. 20–25 Teilnehmende. Workshop-Konzeption schriftlich bis 01.06., Anmeldungen bis 21.05. Asynchrone Frage-Plattform und Vorab-Fragebogen werden von Christian aufgesetzt. Wissenschaftliche Begleitung durch Sabine, Christina + 1 weitere Person.
+> **Update Jour fixe 09.04.2026:** Termine fix: **29.06.2026 (9–13 Uhr)** und **30.06.2026 (13–17 Uhr)** in Graz. 20–25 Teilnehmende angepeilt (Antrag: N~10–12). Workshop-Konzeption schriftlich bis 01.06., Anmeldungen bis 21.05. Vorab-Fragebogen von Christian aufgesetzt; das beim Kick-off angedachte Vorab-Online-Meeting und die asynchrone Frage-Plattform entfielen zugunsten des Surveys (Fragen über Freitext bzw. per E-Mail). Wissenschaftliche Begleitung durch Sabine, Christina + 1 weitere Person.
 
 **Aufgaben:**
 - 3.1 Konzeption & Durchführung
@@ -126,7 +126,7 @@
 
 **Format (Kick-off-Beschluss, konkretisiert am 09.04.2026):**
 - **Termine:** 29.06.2026, 9–13 Uhr (WS 1) und 30.06.2026, 13–17 Uhr (WS 2), Graz
-- **Ort:** Uni Graz (Christina sucht klimatisierten Raum), alternativ SOS-KD- oder JAW-Standort
+- **Ort:** Uni Graz (beide Tage)
 - **Teilnehmende:** 20–25 Führungskräfte von JAW & SOS-KD, Anmeldedeadline 21.05.2026
 - **Vorab-Survey (LimeSurvey, 1x vor Workshop):**
   - Versand ca. 15.05., Reminder 21.05.
@@ -139,10 +139,16 @@
 - Workshop-Konzeption schriftlich bis **01.06.2026** (Christian/Heidi/Madeleine)
 - Christina ist erste Ansprechpartnerin für Workshop-Konzeption seitens Uni
 
-**Offene Fragen (Kick-off):** ~~Termine~~ ✅, ~~Welche FK genau~~ (Registrierung bis 21.05.), Inhaltliche Abstimmung Christian/Heidi/Madeleine läuft
+**Offene Fragen (Kick-off):** alle geklärt – ~~Termine~~ ✅, ~~Welche FK genau~~ ✅ (14 Anmeldungen), ~~Inhaltliche Abstimmung Christian/Heidi/Madeleine~~ ✅
+
+**Meilensteine:**
+| Datum (Plan) | Meilenstein | Status |
+|-------|------------|--------|
+| 11.09.2026 | 3.1 Abhaltung der Innovationsworkshops | ✅ erreicht am 29./30.06.2026 |
+| 25.10.2026 | 3.2 Schriftlicher Bericht mit dokumentierten Erkenntnissen | ✅ Bericht liegt vor (07/2026) |
 
 **Deliverables:**
-- Wissenschaftlicher Bericht
+- Wissenschaftlicher Bericht ✅
 - Informationsmaterialien zu AI Act und DSGVO
 
 **Stundenverteilung:**
