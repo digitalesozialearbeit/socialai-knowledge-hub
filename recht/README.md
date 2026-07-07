@@ -3,7 +3,7 @@
 Rechtliche Informationen zum Einsatz von Künstlicher Intelligenz in der Sozialen Arbeit. Die Inhalte werden vom [Research Institute](https://researchinstitute.at) (RI) erarbeitet und im Rahmen der Arbeitspakete AP 3 und AP 5 bereitgestellt.
 
 > [!NOTE]
-> Dieser Bereich wird laufend mit rechtlichen Informationen ergänzt. Die ersten Materialien werden im Rahmen der Innovationsworkshops (AP 3, Juni/Juli 2026) entstehen.
+> Dieser Bereich wird laufend mit rechtlichen Informationen ergänzt. Die erste Wissensseite ist aus dem Innovationsworkshop Recht (30.06.2026) entstanden: **[KI und Recht: Grundlagen für die Soziale Arbeit](/recht/ki-recht-grundlagen.md)**.
 
 ---
 
@@ -39,7 +39,7 @@ Geplante Inhalte:
 
 | Thema | Status | Quelle |
 |-------|--------|--------|
-| AI Act -Pflichten für Soziale Arbeit | Offen | RI (AP 3, AP 5) |
-| DSGVO im KI-Kontext | Offen | RI (AP 3) |
+| AI Act -Pflichten für Soziale Arbeit | Erste Zusammenfassung: [KI und Recht](/recht/ki-recht-grundlagen.md) | RI (AP 3, AP 5) |
+| DSGVO im KI-Kontext | Erste Zusammenfassung: [KI und Recht](/recht/ki-recht-grundlagen.md) | RI (AP 3) |
 | Informationsmaterialien für Führungskräfte | Offen | RI (AP 3) |
 | Rechtliche Aspekte des Prompting-Frameworks | Offen | RI (AP 5) |
