@@ -41,6 +41,8 @@ Bezug zur Sozialen Arbeit: Unterschiede im Zugang zu Technik, Infrastruktur, Spr
 ### AI Literacies / KI-Kompetenzen
 `Sozialwissenschaft` `Technik` `Recht`
 
+AI Literacy zusammengefasst, der die Fähigkeit beschreibt, grundlegendes Wissen über KI zu erwerben, deren Funktionsweisen zu verstehen und kritisch reflektie
+ren zu können [^ailiteracies2].
 Die Fähigkeit, KI-Systeme zu verstehen, kritisch zu beurteilen und sinnvoll zu nutzen – in technischer, ethischer und gesellschaftlicher Hinsicht. Der Begriff ist analog zur Medienkompetenz konzipiert und seit 2024 auch im [EU AI Act](#ai-act--ki-verordnung) als organisationale Pflicht verankert. KI-Kompetenzen lassen sich in drei Feldern beschreiben: **Verstehen** der Funktionsweisen und Prinzipien von KI; **Anwenden** in alltags- und berufsspezifischen Kontexten; **Bewerten und Reflektieren** des Einsatzes im Hinblick auf Qualität, Fairness und gesellschaftliche Auswirkungen. Dazu gehören auch ein Blick für [Bias](#bias) und [Konfabulation](#konfabulation) sowie die Kenntnis der rechtlichen Rahmenbedingungen. [^ailiteracies]
 - **Rechtlich:** „KI‑Kompetenz“ bezeichnet die Fähigkeiten, die Kenntnisse und das Verständnis, die es Anbietern, Betreibern und Betroffenen ermöglichen, KI‑Systeme sachkundig einzusetzen sowie sich der Chancen und Risiken von KI und möglicher Schäden, die sie verursachen kann, bewusst zu werden (Art 3 Z 56 KI-VO). Dabei sind deren jeweiligen Rechte, Pflichten, technischen Vorkenntnisse und Erfahrung zu berücksichtigen sowie der Kontext, in dem das KI-System eingesetzt werden soll (Art 4 KI-VO).
 
@@ -643,6 +645,8 @@ Mayo Clinic Proceedings: Digital Health,Volume 4, Issue 2. https://doi.org/10.10
 [^sozialearbeit]: AG Sozialpädagogik, FBKSSO, Netzwerk Sozialpädagogik Österreich, OBDS, OGSA, ÖFAS & ÖFEB Sektion Sozialpädagogik (Hrsg.) (2025): Qualifikationsrahmen Soziale Arbeit in Österreich. https://obds.at/was-ist-soziale-arbeit/
 
 [^ailiteracies]: Schindler, Julia (2025): Glossar. Begriffe und Konzepte im Kontext von Künstlicher Intelligenz in der Bildung. In: Magazin erwachsenenbildung.at. Das Fachmedium für Forschung, Praxis und Diskurs. Ausgabe 55, 2025. Online: https://erwachsenenbildung.at/magazin/ausgabe-55
+
+ [^ailiteracies2]: Long, Duri/Magerko, Brian (2020): What is AI Literacy? Competences and Design Considerations. Proceedings of the 2020 CHI conference on human factors in computing systems, ACM (2020). dl.acm.org/doi/10.1145/3313831.3376727
 
 [^aidivide]: Carter L, Liu D, Cantrell C (2020) Exploring the intersection of the digital divide and artificial intelligence: a hermeneutic literature review. AIS Transactions on Human-computer Interaction 12(4): 253–275.
 
