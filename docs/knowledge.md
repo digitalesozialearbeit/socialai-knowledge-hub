@@ -24,7 +24,7 @@
 |---------|--------|---------------|
 | **Universität Graz** | Uni Graz | Wissenschaftliche Projektleitung, empirische Forschung, Gender-/Diversitätsintegration, Wissenstransfer |
 | **Digital Humanities Craft** | DHC | Technische KI-Expertise, Prompt-Engineering-Experimente, Framework-Entwicklung, Prompt Pattern Library, Open-Source-Veröffentlichung |
-| **Research Institute** | RI | Rechtswissenschaftliche Forschung (AI Act, DSGVO), ethische Beratung, Informationsmaterialien, Workshop-Durchführung |
+| **Research Institute** | RI | Rechtswissenschaftliche Forschung (AI Act, DSGVO, Urheberrecht), ethische Beratung, Informationsmaterialien, Workshop-Durchführung |
 | **SOS-Kinderdorf** | SOS-KD | Feldzugang, Praxiserprobung, Teilnahme an Workshops/Befragungen, Feedback & Validierung |
 | **Jugend am Werk** | JAW | Feldzugang, Praxiserprobung, Teilnahme an Workshops/Befragungen, Feedback & Validierung |
 
@@ -109,6 +109,7 @@
 ### AP 4 -Experimentelle Analyse Prompt-Engineering
 - **Zeitraum:** 10/2026 -01/2027
 - **Aufgaben:** 4.1 Experimentelle Analyse von Prompt-Engineering-Strategien (DHC)
+- **Design (lt. Antrag):** Vergleich Zero-Shot-Baseline vs. diversitätssensible Strategien (System Instructions, Chain-of-Thought, Few-Shot-Learning, JSON-Schema-Constraints); Auswertung mit Bias-Metriken
 - **Kick-off-Beschluss:** Unabhängig von AP3 (nicht darauf aufbauend, kann parallel laufen)
 - **Meilensteine:** Prompt-Set fertiggestellt (13.11.2026), Datensatz + Auswertungsbericht (29.01.2027)
 - **Deliverables:** Standardisiertes Set ~50 Praxis-Prompts (in Abstimmung mit Praxispartner:innen), Datensatz der KI-Outputs, Auswertungsbericht
@@ -216,7 +217,7 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 ## Nächste Schritte (Kick-off)
 
 1. ~~**Glossar** erstellen (zentrale Begriffe definieren)~~ → internes Meeting am 22.04.2026
-2. **AP 2:** Aufgabenverteilung RI + Uni klären, RI-Stunden verteilen
+2. ~~**AP 2:** Aufgabenverteilung RI + Uni klären, RI-Stunden verteilen~~ → geklärt: RI-Stunden in AP 2 verteilt, Arbeitsteilung DHC/RI/KFU im Glossar
 3. ~~**AP 3:** Termine für FK-Workshops mit Anna (SOS-KD) abstimmen~~ → 29.06. + 30.06.2026 fix
 4. **AP 3/4:** Prompts sammeln -wie/wo schon in Workshops?
 5. **AP 5:** RI-Stunden: wo verbucht bis AP5?
@@ -241,5 +242,6 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 1. **AP 2:** Ergebnisse des Kernteam-Treffens vom 01.07.2026 in den Hub nachtragen (Protokoll/uniCLOUD)
 2. **AP 5:** RI-Stunden-Verbuchung bis AP 5 klären (offen seit Kick-off)
 3. **AP 6:** Zeitplan an den Kick-off-Beschluss anpassen (2x Erhebung: Anfang 2027 + Mitte 2028); Meilensteine stehen noch auf dem Antragsstand
-4. **AP 9:** Publikations-Policy (Logos, Disclaimer, Vorab-Review, Autor:innenschaft) – zunehmend dringlich, da die PRISMA-Publikation in Arbeit ist
+4. **AP 9:** Publikations-Policy (Logos, Disclaimer, Vorab-Review, Autor:innenschaft) – zunehmend dringlich, da die PRISMA-Publikation in Arbeit ist. Dabei auch Antrags-Diskrepanzen klären: DOL-Lizenz CC BY-SA (Antrag) vs. MIT-Repo (Kick-off-Folien); „mind. 3 Publikationen" (Antrag) vs. „mind. 2" (Folien/Hub)
 5. **Glossar:** Sabines Anmerkung zu „AI Literacies / KI-Kompetenzen" (Titel eindeutschen?) entscheiden; neuer Entwurf „Sensible Daten" wartet auf RI-Review
+6. **AP 3:** Klären, ob das Antrags-Deliverable „KI-Richtlinie für Organisationen" (Ziel 2) bewusst entfallen ist – es fehlt auf allen Seiten und schon in den Kick-off-Folien; `recht/ki-recht-grundlagen.md` empfiehlt interne KI-Richtlinien nur inhaltlich (Health-Check 10.07.)

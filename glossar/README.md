@@ -126,15 +126,15 @@ Eine Anwendung, die eine Konversationsoberfläche um ein Sprachmodell legt. Beka
 Ein Trainingsverfahren von Anthropic, bei dem ein Modell anhand einer natürlichsprachigen „Verfassung" aus Prinzipien geformt wird, statt nur auf menschliche Bewertungen angewiesen zu sein.[^cai] In zwei Phasen wird das Modell zunächst zu Selbstkritik gegen die Prinzipien angeleitet und anschließend per Reinforcement Learning aus den eigenen Bewertungen weitertrainiert. Das Verfahren reduziert die Menge benötigter menschlicher Labels und ist Teil des [Alignment](#alignment).
 
 
-### Context / Kontext (technisch)
-`Technik`
-
-Die Rahmenbedingungen, die einen KI-Output beeinflussen. Umfasst den Prompt selbst, System-Instruktionen, Konversationshistorie und implizite Annahmen des Modells. Für die Soziale Arbeit besonders relevant, weil Kontextinformationen über Klient:innen die Qualität und Fairness der KI-Antworten stark beeinflussen. Siehe auch [Context Engineering](#context-engineering), [Context Rot](#context-rot) und [Context Window](#context-window).
-
 ### Context / Kontext (sozialwissenschaftlich)
 `Sozialwissenschaft`
 
 Kontext ist in Bezug auf [Diskriminierung](#diskriminierung), [Fairness](#fairness-im-ki-kontext), [Chancengerechtigkeit](#chancengerechtigkeit) und verwandte Konzepte auch aus sozialwissenschaftlicher Perspektive sehr wichtig, da je nach Zeitpunkt und Ort unterschiedliche Normen, Werte sowie Ungleichheitsfaktoren eine Rolle spielen.
+
+### Context / Kontext (technisch)
+`Technik`
+
+Die Rahmenbedingungen, die einen KI-Output beeinflussen. Umfasst den Prompt selbst, System-Instruktionen, Konversationshistorie und implizite Annahmen des Modells. Für die Soziale Arbeit besonders relevant, weil Kontextinformationen über Klient:innen die Qualität und Fairness der KI-Antworten stark beeinflussen. Siehe auch [Context Engineering](#context-engineering), [Context Rot](#context-rot) und [Context Window](#context-window).
 
 ### Context Engineering
 `Technik`

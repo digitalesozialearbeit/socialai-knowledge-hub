@@ -1,6 +1,6 @@
 # Arbeitspakete
 
-> Stand: Kick-off (25.02.2026) + Jour fixe (09.04.2026). Updates aus dem Jour fixe sind als [!TIP]-Callouts markiert.
+> Stand: Kick-off (25.02.2026) + Jour fixe (09.04.2026) + laufende Updates (zuletzt 07/2026). Spätere Updates sind als [!TIP]-Callouts markiert.
 
 > [!TIP]
 > Klicke auf ein Arbeitspaket, um Details zu Aufgaben, Meilensteinen, Deliverables und Stundenverteilung zu sehen.
@@ -76,7 +76,7 @@
 **Meilensteine:**
 | Datum | Meilenstein |
 |-------|------------|
-| 10.06.2026 | Schriftlicher Review-Bericht |
+| 10.06.2026 | Schriftlicher Review-Bericht (verschoben: Literaturanalyse nach den Innovationsworkshops, Fertigstellung bis Ende 2026) |
 
 **Deliverables:**
 - Review-Bericht
@@ -183,6 +183,8 @@
 
 **Aufgaben:**
 - 4.1 Experimentelle Analyse von Prompt-Engineering-Strategien (DHC)
+
+**Design (lt. Antrag):** Vergleich einer Zero-Shot-Baseline mit diversitätssensiblen Strategien (System Instructions, Chain-of-Thought, Few-Shot-Learning, JSON-Schema-Constraints), Auswertung mit Bias-Metriken.
 
 **Meilensteine:**
 | Datum | Meilenstein |

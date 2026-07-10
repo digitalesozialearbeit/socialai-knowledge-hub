@@ -54,7 +54,7 @@ In Österreich gibt es derzeit keine vergleichbare Initiative, die KI, Chancenge
 |---------|--------|---------------|
 | **[Universität Graz](https://www.uni-graz.at)** | Uni Graz | Wissenschaftliche Projektleitung, empirische Forschung, Gender-/Diversitätsintegration, Wissenstransfer |
 | **[Digital Humanities Craft](https://dhcraft.org)** | DHC | Technische KI-Expertise, Prompt-Engineering-Experimente, Framework-Entwicklung, Prompt Pattern Library, Open-Source-Veröffentlichung |
-| **[Research Institute](https://researchinstitute.at)** | RI | Rechtswissenschaftliche Forschung (AI Act, DSGVO), ethische Beratung, Informationsmaterialien, Workshop-Durchführung |
+| **[Research Institute](https://researchinstitute.at)** | RI | Rechtswissenschaftliche Forschung (AI Act, DSGVO, Urheberrecht), ethische Beratung, Informationsmaterialien, Workshop-Durchführung |
 | **[SOS-Kinderdorf](https://www.sos-kinderdorf.at)** | SOS-KD | Feldzugang, Praxiserprobung, Teilnahme an Workshops/Befragungen, Feedback & Validierung. Päd. Leitung: Martin Baumann (seit 04/2026), Abrechnung: Anna |
 | **[Jugend am Werk – Steiermark GmbH](https://jaw.or.at)** | JAW | Feldzugang, Praxiserprobung, Teilnahme an Workshops/Befragungen, Feedback & Validierung |
 
@@ -108,7 +108,7 @@ In Österreich gibt es derzeit keine vergleichbare Initiative, die KI, Chancenge
 |-------|------------|-----|
 | 25.02.2026 | Kick-off (erledigt) | AP 1 |
 | 09.04.2026 | 1. Quartalstreffen (erledigt) | AP 1 |
-| 10.06.2026 | Review-Bericht fertig | AP 2 |
+| 10.06.2026 | Review-Bericht fertig (verschoben auf Ende 2026, siehe AP 2) | AP 2 |
 | 29.06.–30.06.2026 | Innovationsworkshops FK in Graz (erledigt) | AP 3 |
 | 13.11.2026 | Prompt-Set fertiggestellt | AP 4 |
 | 26.11.2026 | Publikation Lit-Review | AP 9 |

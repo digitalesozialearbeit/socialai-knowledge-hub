@@ -41,6 +41,7 @@ Geplante Inhalte:
 |-------|--------|--------|
 | AI Act -Pflichten für Soziale Arbeit | Erste Zusammenfassung: [KI und Recht](/recht/ki-recht-grundlagen.md) | RI (AP 3, AP 5) |
 | DSGVO im KI-Kontext | Erste Zusammenfassung: [KI und Recht](/recht/ki-recht-grundlagen.md) | RI (AP 3) |
+| Urheberrecht und KI-generierte Inhalte | Erste Zusammenfassung: [KI und Recht](/recht/ki-recht-grundlagen.md) | RI |
 | Informationsmaterialien für Führungskräfte | Offen | RI (AP 3) |
 | Rechtliche Aspekte des Prompting-Frameworks | Offen | RI (AP 5) |
 | Rechtswissenschaftliches Review (Teil des Literatur-Reviews) | Offen | RI (AP 2) |

@@ -26,7 +26,8 @@ Willkommen im internen Knowledge Hub des Projekts **SocialAI: Chancengerechtigke
 |---|---|
 | **Projekttitel** | SocialAI: Chancengerechtigkeit und KI in der Sozialen Arbeit |
 | **Förderprogramm** | FFG Laura Bassi 4.0 |
-| **Projektnummer** | 62981337 |
+| **FFG-Projektnummer** | FO999929330 |
+| **Antrag-ID (eCall)** | 62981337 |
 | **Laufzeit** | 01.02.2026 -31.01.2029 (36 Monate) |
 | **Konsortium** | [Universität Graz](https://www.uni-graz.at), [Digital Humanities Craft](https://dhcraft.org), [Research Institute](https://researchinstitute.at), [SOS-Kinderdorf](https://www.sos-kinderdorf.at), [Jugend am Werk](https://jaw.or.at) |
 
