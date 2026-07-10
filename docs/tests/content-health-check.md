@@ -6,6 +6,8 @@
 
 Sicherstellen, dass das Wissen aus den Quelldokumenten (`docs/sources/`) korrekt, vollständig und konsistent in den publizierten Seiten des Knowledge Hub abgebildet ist. Stille Wissensverluste aufdecken: fehlende Inhalte, abweichende Zahlen, vergessene Kick-off-Beschlüsse.
 
+**Abgrenzung zu `/promptotyping check`:** Die check-Operation prüft die Promptotyping-Dokumente (`docs/knowledge.md`, `requirements.md`, `architecture.md`, `implementation.md`, `journal.md`) auf Konsistenz untereinander und gegen den Repo-Zustand. Dieser Health Check prüft die publizierten Seiten gegen die Quelldokumente, mit projektspezifischen Faktenlisten (Stunden, Meilensteine, Begriffe). Beide ergänzen sich und ersetzen einander nicht.
+
 ## Methodik
 
 Dieser Health Check folgt der **Promptotyping**-Methodik ("Documents as Source of Truth, Code as Disposable Artifact"). Die Quelldokumente in `docs/sources/` sind die Wahrheit; die publizierten Seiten sind Destillate. Wenn Quelle und Destillat abweichen, ist das Destillat zu korrigieren (es sei denn, die Abweichung war eine bewusste redaktionelle Entscheidung).
@@ -29,9 +31,11 @@ Dieser Health Check folgt der **Promptotyping**-Methodik ("Documents as Source o
 | `projekt/arbeitspakete.md` | knowledge.md, antrag-arbeitsplan.md, kick-off-fotoprotokoll.md | Alle 9 APs: Zeiträume, Aufgaben, Deliverables, Stunden, Kick-off-Änderungen |
 | `projekt/zusammenarbeit.md` | knowledge.md, kick-off-fotoprotokoll.md | Dos/Don'ts, Entscheidungsregeln, nächste Schritte |
 | `glossar/README.md` | knowledge.md, kick-off-fotoprotokoll.md, antrag-narrativ.md | Alle beim Kick-off gesammelten Begriffe vorhanden und korrekt definiert |
-| `glossar/technisch.md` | (eigenständig, kein direktes Quell-Mapping) | Fachliche Korrektheit, Konsistenz mit Projektbegriffen |
 | `wissen/README.md` | knowledge.md | Geplante Inhalte decken alle APs ab, Zeiträume stimmen |
+| `wissen/anwendungsfelder.md` | AP3-Arbeitsdokument (uniCLOUD), knowledge.md | 4 Use-Case-Felder korrekt, Arbeitsstand aktuell |
+| `workshops/innovationsworkshop-2026-06-29.md` + `-2026-06-30.md` | Workshop-Nachbereitung, knowledge.md (AP 3) | Ablauf und Ergebnisse korrekt, keine internen Partnerdaten |
 | `recht/README.md` | knowledge.md, antrag-narrativ.md | Geplante Materialien decken RI-Aufgaben ab |
+| `recht/ki-recht-grundlagen.md` | RI-Workshop-Materialien Tag 2 (intern) | Fachliche Korrektheit, Konsistenz mit den Recht-Einträgen im Glossar |
 
 ## Prüfschritte
 

@@ -1,5 +1,39 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-07-10 10:55 – handoff
+
+**Summary:** Promptotyping-Docs per `/promptotyping check` auf den Ist-Stand gebracht und die offenen Fragen in vier Runden mit Christian geklärt. knowledge.md dokumentiert jetzt den AP-3-Abschluss, den AP-2-Stand und die Klagenfurt-LV als AP-4-Input; architecture.md und implementation.md beschreiben wieder die reale Konfiguration; das Glossar wurde redaktionell bereinigt und um einen Entwurf „Sensible Daten" erweitert (86 Einträge).
+
+**Nachtrag 12.06.–07.07. (bisher nicht journaliert):** Innovationsworkshops am 29./30.06. durchgeführt (14 TN, Begleitforschungsbericht liegt seit 07/2026 vor, beide AP-3-Meilensteine vorzeitig erreicht); Workshop-Begleitseiten (`workshops/`) und Recht-Wissensseite (`recht/ki-recht-grundlagen.md`) publiziert; Public-Repo-Strategie „Ansatz A" beschlossen (24.06.) und `scripts/sync-glossar.py` als Spiegel-Baustein gebaut; `glossar/technisch.md` entfernt; Content-Health-Check am 07.07. (3 Commits: Projektnummer, AP-6/7-Meilensteine, AP-3-Abschluss auf Projektseiten).
+
+**Decisions:**
+- **Glossar-Redaktion (Christian, 10.07.):** Die drei „Neuer Begriff"-Notizen und Susis Demo-Notiz entfernt; die Anmerkungs-Konvention steht jetzt in der Redaktionsnotiz am Seitenanfang. Sabines Vorschlag zur Umbenennung von „AI Literacies / KI-Kompetenzen" bleibt bis zur Endversion offen. „Sensible Daten" (Art. 9 DSGVO) als DHC-Entwurf angelegt, RI reviewt.
+- **Glossar-Endversion Mitte Juli:** wird als Git-Tag im Hub-Repo markiert; der öffentliche Spiegel folgt unabhängig davon (Split-Termin offen).
+- **Klarstellung:** `socialai-workshops` ist das bestehende Workshop-Nachlese-Repo, NICHT das geplante Spiegel-Repo (neues Repo, leere History, Whitelist). In architecture.md dokumentiert.
+- **Hub-Pflege bis AP-4-Start:** bleibt bei DHC (Status quo bestätigt); Epic-6-Zuständigkeitsfragen offen bis Konsortiumsentscheidung.
+- **Sichtbarkeit interner Anmerkungen** im noch öffentlichen Repo: bekannt und akzeptiert bis zum Split.
+- **AP 4:** Studentische Arbeiten der Klagenfurt-LV „Gender, Diversity & AI" (SS 2026, Sackl-Sharif/Steiner) fließen in die experimentelle Analyse ein (knowledge.md + arbeitspakete.md).
+- **content-health-check.md bleibt bestehen:** nicht redundant zu `/promptotyping check` (prüft publizierte Seiten gegen Quellen statt Promptotyping-Docs gegeneinander); Abgrenzungsnotiz im Dokument ergänzt.
+
+**Dead ends:** keine.
+
+**Phase:** Implementation (Iteration). Alle fünf Kern-Docs existieren und sind aktuell (knowledge, requirements, architecture, implementation, journal); Health-Check-Mapping aktualisiert. Site produktiv, Link-Checker grün, sync-glossar-Testlauf sauber (strip: 3 Anmerkungen → 0).
+
+**Open issues:**
+- Glossar-Endversion blockiert durch: RI-Review „Sensible Daten" + Literacies-Titelentscheidung (Sabine). Danach Git-Tag setzen.
+- AP-2-Kernteam-Treffen vom 01.07. fand statt; Ergebnisse/Protokoll fehlen im Hub (ggf. uniCLOUD). PRISMA-Update läuft planmäßig.
+- Glossar-Verständlichkeits-Bestätigung durch Praxispartner:innen (Erfolgskriterium Epic 2) wurde bei den Workshops nicht erhoben; nächste Gelegenheit AP 7.
+- Jour-fixe-Agenda in knowledge.md („Offene Punkte", Stand 10.07.): AP-5-RI-Stunden, AP-6-Zeitplan, AP-9-Publikations-Policy, AP-2-Protokoll.
+- AP 4 (ab 10/2026): JAW-Antwort zur Iterativ-Frage und SOS-KD-Prompts stehen weiter aus.
+
+**Next steps:**
+1. RI-Review für „Sensible Daten" anstoßen und Literacies-Frage mit Sabine klären (Mail oder nächstes Treffen)
+2. Nach beiden Klärungen: Glossar-Endversion als Git-Tag markieren
+3. AP-2-Protokoll vom 01.07. besorgen und Ergebnisse in knowledge.md nachtragen
+4. Jour-fixe-Agenda-Punkte (siehe knowledge.md) beim nächsten Quartalstreffen einbringen
+
+---
+
 ## 2026-06-11 – Fußnoten-Rendering für docsify
 
 Das Glossar nutzt Standard-Markdown-Fußnoten (`[^id]` im Text, `[^id]: Definition` am Seitenende). GitHub und Obsidian rendern die Syntax nativ, docsify/marked nicht – auf der Website erschien sie als roher Text. Neues docsify-Plugin in `index.html` (beforeEach, gleiche Machart wie Frontmatter-Strip und Glossar-Filter): Definitionen werden eingesammelt, Verweise in nummerierte hochgestellte Links umgeschrieben, am Seitenende entsteht eine „Literatur"-Liste mit Ankern und Rücksprung-Links (↩). Quelldateien bleiben unverändert GitHub-/Obsidian-kompatibel. Verifiziert per Node-Test gegen das echte Glossar: alle 53 Definitionen aufgelöst, 55 Verweise, keine Waisen, keine rohe Syntax übrig.

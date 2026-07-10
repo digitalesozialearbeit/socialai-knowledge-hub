@@ -1,6 +1,6 @@
 # Knowledge: SocialAI Projekt
 
-> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026) und Jour-fixe-Protokoll (09.04.2026)
+> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026), Jour-fixe-Protokoll (09.04.2026), Protokollen 4+5 (27.05./09.06.2026) sowie der Workshop-Nachbereitung (29./30.06.2026)
 >
 > **Dieses Dokument ist die autoritative Referenz.** Rohdaten in `sources/` enthalten OCR-Artefakte und sollen nicht direkt referenziert werden.
 
@@ -60,11 +60,11 @@
 - **Stunden:** Uni Graz 160h, RI 135h, DHC 70h, SOS-KD 10h, JAW 10h
 - **Kick-off-Notiz:** RI-Stunden in AP2 verteilen. Aufteilung/Texturing zwischen RI + Uni
 - **Konkretisierung (Protokolle 4+5, Mails Mai/Juni 2026):**
-  - **Gesamtglossar** lebt im Hub (`glossar/README.md`). Arbeitsteilung: DHC technische Begriffe, RI juridische, KFU sozialwissenschaftliche. Erste Version Ende Juni, **Endversion Mitte Juli 2026** (nach den Innovationsworkshops)
-  - **PRISMA-Analyse:** Update auf Basis derselben Prompts wie im List-Projekt, Analysezeitraum bis **30.06.2026**; KI- und Mensch-Bewertungen im Screening vergleichen
+  - **Gesamtglossar** lebt im Hub (`glossar/README.md`). Arbeitsteilung: DHC technische Begriffe, RI juridische, KFU sozialwissenschaftliche. Erste Version Ende Juni, **Endversion Mitte Juli 2026** (nach den Innovationsworkshops). Beschluss 10.07.: Die Endversion wird als markierter Stand (Git-Tag) im Hub-Repo festgehalten; der öffentliche Spiegel folgt unabhängig davon
+  - **PRISMA-Analyse:** Update auf Basis derselben Prompts wie im List-Projekt, Analysezeitraum bis **30.06.2026**; KI- und Mensch-Bewertungen im Screening vergleichen – läuft planmäßig (Stand 10.07.2026)
   - **Literaturanalyse startet erst nach den Innovationsworkshops** (Use Cases als Grundlage), Fertigstellung bis Ende 2026
   - **RI-Teil:** rechtswissenschaftliches Review auf Basis der Use Cases; erweitert um die Frage: Gibt es Forschung zu Recht, LLMs und Sozialer Arbeit? Umgang mit Gender, Diversität, Vulnerabilität?
-  - **AP2-Kernteam:** Christopher, Sabine, Susi. Nächstes Treffen **01.07.2026, 10–12 Uhr**, Büro Sabine (Raum 33.2.72); Christopher bringt Entwurf eines PRISMA-Recherche-Tools mit (Hinweise von Sabine: CADIMA, COVIDENCE, Plymouth Question Frameworks)
+  - **AP2-Kernteam:** Christopher, Sabine, Susi. Treffen am **01.07.2026** hat stattgefunden (Christopher brachte Entwurf eines PRISMA-Recherche-Tools mit; Hinweise von Sabine: CADIMA, COVIDENCE, Plymouth Question Frameworks). Ergebnisse/Protokoll noch in den Hub nachzutragen (ggf. uniCLOUD)
   - **Deliverables bis 12/2026:** FFG-Review-Bericht (alle), PRISMA-Publikation (Sabine, Susi, Christopher); ggf. theoretische Publikation zu AI Literacies (KFU, RI, DHC, 2027)
 
 ### AP 3 -Innovationsworkshops mit Führungskräften
@@ -100,6 +100,11 @@
   - Teilnehmende bringen am 29.06. einen **Laptop** für praktische Übungen mit
   - KFU (Sabine, Susi, Christina) stellt Stifte, Kärtchen und Verpflegung
   - **Anwendungsfelder-Dokument** (4 Use-Case-Felder: Fallarbeit, Berichtswesen/Administration, Contenterstellung, Chatbots in der Beratung) in den Hub übernommen: `wissen/anwendungsfelder.md`
+- **Stand Juli 2026 (abgeschlossen):**
+  - Workshops am **29./30.06.2026** an der Uni Graz durchgeführt: Tag 1 Technik (DHC), Tag 2 Recht/Ethik (RI). **14 Teilnehmende** (Antragsziel 10–12 erfüllt; Jour-fixe-Ziel 20–25 nicht erreicht)
+  - Beide Meilensteine vorzeitig erreicht: 3.1 Abhaltung (Plan 11.09.2026) am 29./30.06.; 3.2 Schriftlicher Bericht (Plan 25.10.2026) liegt seit 07/2026 vor: Bericht zur wissenschaftlichen Begleitforschung (Klinger, Sackl-Sharif & Schmieder, Uni Graz; V1 intern in `docs/intern/`, Publikationsregeln beachten)
+  - Nachlese im Hub: `workshops/innovationsworkshop-2026-06-29.md`, `workshops/innovationsworkshop-2026-06-30.md`; aus Tag 2 entstand die Wissensseite `recht/ki-recht-grundlagen.md`
+  - Offen aus den Deliverables: **Informationsmaterialien zu AI Act und DSGVO** (RI); die Recht-Wissensseite deckt einen ersten Teil ab
 
 ### AP 4 -Experimentelle Analyse Prompt-Engineering
 - **Zeitraum:** 10/2026 -01/2027
@@ -109,6 +114,7 @@
 - **Deliverables:** Standardisiertes Set ~50 Praxis-Prompts (in Abstimmung mit Praxispartner:innen), Datensatz der KI-Outputs, Auswertungsbericht
 - **Stunden:** Uni Graz 150h, DHC 100h, SOS-KD 100h, JAW 100h, RI 0h
 - **Stand März 2026:** JAW hat eine Auswertung der MyJaW-Prompts vom Februar 2026 geliefert (Elke Maurer, Mail 06.03.2026): 606 kategorisierte Prompts aus QMS-Channel und Free Chat, gefiltert um Kund:innen-/Jugendlichen-Bezüge, je 5 Beispiel-Prompts pro Kategorie. Interne Nutzungsdaten, daher **nicht im öffentlichen Hub** (lokal in `docs/intern/`, gitignored). Direkter Input für das Prompt-Set. Offene Frage (Sabine, 06.03.): Wurde iterativ gepromptet oder nur Einzel-Prompts? Prompts von SOS-KD stehen noch aus
+- **Stand Juli 2026:** In die experimentelle Analyse fließen zusätzlich die studentischen Arbeiten der LV [„Gender, Diversity & AI"](https://chsteiner.github.io/klagenfurt-lv-gender-diversity-and-ai/) ein (Universität Klagenfurt, Master Informatik, SS 2026; Lehrende: Susanne Sackl-Sharif und Christian Steiner). Die Studierenden entwickelten in Einzelarbeit Tools, die Bias in LLMs sichtbar und messbar machen: je 10+ eigene Test-Prompts, mind. eine Bias-Dimension, mind. ein LLM, dokumentierte Methodik, lauffähiger Code. Abschlusspräsentationen am 24.06.2026. Prompts, Methodiken und Befunde dienen als Input für das Prompt-Set und das Auswertungsdesign
 
 ### AP 5 -Konzeption Prompting-Framework
 - **Zeitraum:** 02/2027 -05/2027
@@ -202,8 +208,8 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 |-------|--------|-----------------|
 | Bias in generativer KI (Typen, Mechanismen) | Offen | AP 2 Literatur-Review |
 | Prompting-Strategien zur Bias-Reduktion | Offen | AP 4 Experimentelle Analyse |
-| AI Act -Pflichten für Soziale Arbeit | Offen | RI (AP 3, AP 5) |
-| DSGVO im KI-Kontext | Offen | RI (AP 3) |
+| AI Act -Pflichten für Soziale Arbeit | Erste Fassung publiziert: `recht/ki-recht-grundlagen.md` (aus Workshop-Tag 2) | RI (AP 3, AP 5) |
+| DSGVO im KI-Kontext | Erste Fassung publiziert: `recht/ki-recht-grundlagen.md` (aus Workshop-Tag 2) | RI (AP 3) |
 | Intersektionalität -operationale Definition | Offen | Glossar (AP 2) |
 | Prompt Patterns für Soziale Arbeit | Offen | AP 5 Framework |
 
@@ -229,3 +235,11 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 6. **AP 3:** Workshop-Konzeption schriftlich bis **01.06.2026**, Anmeldungen bis **21.05.2026**
 7. **AP 3:** Christian setzt LimeSurvey-Fragebogen auf (6 Fragen, Versand ~15.05.)
 8. **AP 3:** Christina sucht klimatisierten Raum an Uni Graz
+
+## Offene Punkte für das nächste Jour fixe (Stand 10.07.2026)
+
+1. **AP 2:** Ergebnisse des Kernteam-Treffens vom 01.07.2026 in den Hub nachtragen (Protokoll/uniCLOUD)
+2. **AP 5:** RI-Stunden-Verbuchung bis AP 5 klären (offen seit Kick-off)
+3. **AP 6:** Zeitplan an den Kick-off-Beschluss anpassen (2x Erhebung: Anfang 2027 + Mitte 2028); Meilensteine stehen noch auf dem Antragsstand
+4. **AP 9:** Publikations-Policy (Logos, Disclaimer, Vorab-Review, Autor:innenschaft) – zunehmend dringlich, da die PRISMA-Publikation in Arbeit ist
+5. **Glossar:** Sabines Anmerkung zu „AI Literacies / KI-Kompetenzen" (Titel eindeutschen?) entscheiden; neuer Entwurf „Sensible Daten" wartet auf RI-Review

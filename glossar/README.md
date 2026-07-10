@@ -11,7 +11,7 @@ Dieses Glossar sammelt rund hundert Begriffe rund um Künstliche Intelligenz, Fa
 > [!NOTE]
 > In den rechtlichen Definitionen folgt das Glossar bewusst dem Wortlaut der Gesetze. Wo der Gesetzestext das generische Maskulinum verwendet, wird diese Form übernommen, um die eindeutige Zuordnung zum Normtext zu erhalten.
 
-***Anmerkung Redaktion:*** Beim Anlegen neuer Begriffe bitte eine Tag-Zeile (`Technik`, `Recht`, `Sozialwissenschaft`, `Soziale Arbeit`) direkt unter die Überschrift setzen – sonst greift der Kategorie-Filter nicht.
+***Anmerkung Redaktion:*** Beim Anlegen neuer Begriffe bitte eine Tag-Zeile (`Technik`, `Recht`, `Sozialwissenschaft`, `Soziale Arbeit`) direkt unter die Überschrift setzen – sonst greift der Kategorie-Filter nicht. Interne Fragen und Review-Kommentare als eigenen Absatz im Format `***Anmerkung Name:*** Text` direkt unter den betreffenden Eintrag schreiben; solche Absätze werden bei der Übertragung in die öffentliche Fassung automatisch entfernt.
 
 ---
 ## A 
@@ -21,14 +21,10 @@ Dieses Glossar sammelt rund hundert Begriffe rund um Künstliche Intelligenz, Fa
 
 Verordnung der Europäischen Union zur Regulierung von Künstlicher Intelligenz (AI Act, Verordnung (EU) 2024/1689). Sie regelt die Entwicklung und den Betrieb von KI und folgt dabei einem „risikobasierten Ansatz" – je höher das Risiko, das von einem KI-System ausgeht, desto strenger die Verpflichtungen. Dabei kennt sie folgende Risikokategorien: verbotene Praktiken (zB Emotionserkennung am Arbeitsplatz und social scoring), Hochrisiko-KI (zB KI im Personalmanagement, in der Zuerkennung öffentlicher Leistungen oder in der Justiz), Transparenzrisiken (Wenn KI mit Personen interagiert, Deepfakes oder sonstige Inhalte generiert) und minimale Risiken (alle übrigen Systeme). Die KI-Verordnung unterscheidet folgende zentrale Rollen, nach denen sich wiederum die konkreten Pflichten messen: **Anbieter** (entwickelt/vermarktet KI-Systeme), **Betreiber** (setzt KI-Systeme zu beruflichen Zwecken ein) und **Nutzer:in** (verwendet KI). Relevant für die Soziale Arbeit, da der Einsatz von KI im Kontext [vulnerabler Gruppen](#vulnerabilität--schutzbedürfnis) besondere Pflichten mit sich bringt. Setzen Organisationen der Sozialen Arbeit KI-Systeme in eigener Verantwortung ein, müssen sie bestimmte Anforderungen erfüllen, etwa zur Qualifikation des eingesetzten Personals oder zur Dokumentation. Welche Pflichten konkret gelten, hängt von der Art des Systems, seiner Herkunft sowie der jeweiligen Risikoklasse ab.
 
-***Anmerkung Susi:*** So stelle ich hier eine Frage oder formuliere eine Anmerkung
-
 ### AI Agents / Agentic AI
 `Technik`
 
 KI-Systeme, die eigenständig Teilaufgaben planen und ausführen können, über einfache Frage-Antwort-Interaktion hinaus. Im Projektkontext eine offene Frage: Inwieweit werden agentenbasierte KI-Systeme für die Soziale Arbeit relevant, und welche Chancen und Risiken bringen sie mit sich?
-
-***Anmerkung Sabine:*** Neuer Begriff
 
 ### AI Divide (analog zu Digital Divide)
 `Sozialwissenschaft`
@@ -248,8 +244,6 @@ Bezeichnung für die jeweils leistungsfähigsten Modelle einer Generation, etwa 
 ---
 ## G
 
-***Anmerkung Sabine:*** Neuer Begriff
-
 ### Gender AI Gap
 `Sozialwissenschaft`
 
@@ -456,8 +450,6 @@ Eine Methodik für die iterative Zusammenarbeit zwischen Mensch und KI. Kernprin
 
 Ein Verfahren, das die Präzision der Modellgewichte reduziert, etwa von 16 auf 8 oder 4 Bit, um Speicher- und Rechenbedarf zu senken. Quantisierte Modelle laufen auf günstigerer Hardware, teilweise sogar lokal auf dem eigenen Rechner. Die Qualität sinkt nur moderat. Praxisrelevant überall dort, wo Daten den eigenen Rechner oder das eigene Netzwerk nicht verlassen sollen.
 
-***Anmerkung Sabine:*** Neuer Begriff
-
 ### quasisoziale Beziehung
 `Sozialwissenschaft` `Soziale Arbeit`
 
@@ -491,6 +483,13 @@ Eine Modellklasse, die seit 2024 verbreitet ist und vor der eigentlichen Antwort
 ---
 
 ## S
+
+### Sensible Daten
+`Recht`
+
+Umgangssprachliche Bezeichnung für die „besonderen Kategorien personenbezogener Daten" nach Art. 9 DSGVO: Daten, aus denen die rassische und ethnische Herkunft, politische Meinungen, religiöse oder weltanschauliche Überzeugungen oder die Gewerkschaftszugehörigkeit hervorgehen, sowie genetische Daten, biometrische Daten zur eindeutigen Identifizierung einer natürlichen Person, Gesundheitsdaten und Daten zum Sexualleben oder der sexuellen Orientierung. Ihre Verarbeitung ist grundsätzlich untersagt und nur in den in Art. 9 Abs. 2 DSGVO abschließend geregelten Ausnahmen zulässig (etwa ausdrückliche Einwilligung oder Erforderlichkeit im Bereich des Sozialschutzes oder der Gesundheitsvorsorge). Für die Soziale Arbeit zentral: Falldokumentationen enthalten regelmäßig Gesundheitsdaten und andere sensible Daten von Klient:innen. Werden solche Informationen in KI-Tools eingegeben, liegt eine Verarbeitung vor – ohne Rechtsgrundlage ist das unzulässig, siehe [Datenschutz / DSGVO](#datenschutz--dsgvo) und [Vulnerabilität](#vulnerabilität--schutzbedürfnis).
+
+***Anmerkung DHC:*** Entwurf (Juli 2026) – bitte RI-Review, insbesondere zur Formulierung der Ausnahmen des Art. 9 Abs. 2 DSGVO.
 
 ### Shadow AI
 `Technik` `Recht`

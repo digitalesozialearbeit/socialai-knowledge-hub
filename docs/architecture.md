@@ -16,68 +16,81 @@
 
 ## Docsify-Konfiguration
 
-### Plugins
+> Stand Juli 2026. Die autoritative Quelle ist `index.html`; dieser Abschnitt beschreibt die Struktur.
 
-| Plugin | Zweck | CDN |
+### Theme und CDN-Plugins
+
+| Komponente | Zweck | CDN |
 |--------|-------|-----|
-| search | Volltextsuche über alle Seiten | `docsify/lib/plugins/search.min.js` |
-| flexible-alerts | `> [!NOTE]` Callouts (Obsidian-Syntax) | `docsify-plugin-flexible-alerts` |
-| copy-code | Code-Blöcke kopierbar | `docsify-copy-code` |
-| zoom-image | Bilder klickbar vergrößern | `docsify/lib/plugins/zoom-image.min.js` |
+| docsify-themeable (theme-simple) | Theme, per CSS-Variablen angepasst (Themenfarbe `#2c5aa0`) | `docsify-themeable@0` |
+| search | Volltextsuche über alle Seiten | `docsify@4/lib/plugins/search.min.js` |
+| zoom-image | Bilder klickbar vergrößern | `docsify@4/lib/plugins/zoom-image.min.js` |
+| flexible-alerts | `> [!NOTE]` / `> [!TIP]` Callouts (Obsidian-Syntax) | `docsify-plugin-flexible-alerts@1` |
+| copy-code | Code-Blöcke kopierbar | `docsify-copy-code@2` |
+| pagination | Zurück/Weiter-Navigation am Seitenende | `docsify-pagination@2` |
+| prismjs | Syntax-Highlighting (javascript, json, markdown, bash) | `prismjs@1` |
 
-### Custom Hooks (Obsidian-Kompatibilität)
+### Custom Plugins (inline in index.html)
 
-```javascript
-// In index.html als docsify-Plugin
-function(hook) {
-  hook.beforeEach(function(content) {
-    // 1. YAML Frontmatter strippen
-    content = content.replace(/^---[\s\S]*?---\s*\n/, '');
-    // 2. Obsidian-Kommentare %%...%% entfernen
-    content = content.replace(/%%[\s\S]*?%%/g, '');
-    return content;
-  });
-}
-```
+| Plugin | Hook | Zweck |
+|--------|------|-------|
+| Obsidian-Kompatibilität | `beforeEach` | YAML-Frontmatter und `%%Kommentare%%` strippen |
+| Fußnoten-Renderer | `beforeEach` + `doneEach` | Markdown-Fußnoten (`[^id]` / `[^id]: Definition`) in nummerierte hochgestellte Links + „Literatur“-Liste mit Rücksprung-Ankern umschreiben (marked kennt die Syntax nicht) |
+| Glossar-Filter | `doneEach` (nur `/glossar/`) | Kategorie-Filter-Buttons mit Zählern und A–Z-Sprungleiste aus den Tag-Zeilen (Inline-Code-Chips) der Einträge bauen |
 
 ### Schlüsselkonfiguration
 
 ```javascript
 window.$docsify = {
   name: 'SocialAI Knowledge Hub',
+  nameLink: '/',
+  logo: '/assets/logos/socialai-logo-rgb.png',
   loadSidebar: true,        // _sidebar.md für Navigation
   subMaxLevel: 3,           // Headings in Sidebar als TOC
-  relativePath: true,       // Obsidian-kompatible Pfadauflösung
-  search: { paths: 'auto' },
   auto2top: true,
+  alias: { '/.*/_sidebar.md': '/_sidebar.md' },  // eine Sidebar für alle Unterordner
+  search: { paths: 'auto', depth: 3 },
+  pagination: { crossChapter: true },
+  copyCode: { buttonText: 'Kopieren' },
 };
 ```
+
+**Wichtig:** `relativePath` ist bewusst NICHT gesetzt (docsify-Default: false). Alle Links in Inhalten und Sidebar verwenden absolute Root-Pfade (`/projekt/uebersicht.md`); ein `../`-relativer Link aus einem Unterordner zeigt über die Site-Root hinaus und liefert live einen 404. `scripts/check-links.py` prüft genau diese Auflösung.
 
 ## Ordnerstruktur (Hub-Repo)
 
 ```
 socialai-knowledge-hub/
-  index.html                # Docsify Entry-Point
+  index.html                # Docsify Entry-Point (Config, Plugins, Custom Hooks)
   README.md                 # Startseite / Home (= docsify Homepage)
-  _sidebar.md               # Navigation
+  _sidebar.md               # Navigation (absolute Root-Pfade)
   .nojekyll                 # GitHub Pages: _-Dateien nicht ignorieren
 
   projekt/
     uebersicht.md           # Projektsteckbrief, Partner, Timeline
-    arbeitspakete.md         # Alle 9 APs im Überblick
-    zusammenarbeit.md        # Kick-off-Agreements, Kommunikation
+    arbeitspakete.md        # Alle 9 APs im Überblick
+    zusammenarbeit.md       # Kick-off-Agreements, Kommunikation
 
   glossar/
-    README.md               # Alphabetisches Glossar
+    README.md               # Gesamtglossar (85+ Begriffe, Tag-Zeilen für Filter)
 
   wissen/
     README.md               # Index der Wissensartikel
+    anwendungsfelder.md     # 4 Use-Case-Felder (AP 3)
+    papers/                 # Projektbezogene Papers (bereinigt)
 
   recht/
     README.md               # Index Recht & Compliance
+    ki-recht-grundlagen.md  # KI und Recht (aus Workshop-Tag 2)
+
+  workshops/                # Begleitseiten Innovationsworkshops (AP 3)
+    innovationsworkshop-2026-06-29.md
+    innovationsworkshop-2026-06-30.md
 
   assets/
     img/                    # Bilder, Diagramme
+    logos/                  # SocialAI-Logos (RGB-PNG)
+    surveys/                # Umfrage-Previews
 
   docs/                     # Promptotyping-Dokumente (nicht Teil der Website)
     knowledge.md
@@ -86,10 +99,15 @@ socialai-knowledge-hub/
     implementation.md
     journal.md
     sources/                # Konvertierte Quelldokumente + Original-PDFs
+    tests/                  # Arbeitsanweisungen für Checks (content-health-check.md)
+    intern/                 # GITIGNORED: Partnerdaten, Workshop-Pläne, Redaktion
 
-  scripts/                  # Hilfsskripte (z.B. PDF-Konvertierung)
+  scripts/
+    check-links.py          # Interne Links prüfen (docsify-aware)
+    convert_pdfs.py         # PDF -> Markdown (docling)
+    sync-glossar.py         # Öffentliche Glossar-Fassung erzeugen (Anmerkungen strippen)
 
-  .gitignore
+  .gitignore                # schließt docs/intern/ aus
   LICENSE                   # CC BY 4.0
 ```
 
@@ -99,8 +117,9 @@ socialai-knowledge-hub/
 
 - Standard-Markdown (Headings, Listen, Tabellen, Code-Blöcke)
 - YAML Frontmatter (wird von docsify gestrippt, Obsidian nutzt es)
-- Relative Links: `[Text](../pfad/datei.md)`
-- Callouts: `> [!NOTE]`, `> [!WARNING]`, `> [!TIP]` (identische Syntax)
+- Links auf andere Hub-Seiten: **absolute Root-Pfade** `[Text](/pfad/datei.md)`, auch mit Anker (`/glossar/README.md#anchor`). Keine `../`-relativen Pfade (404 auf der Live-Site, siehe Docsify-Konfiguration)
+- Callouts: nur `> [!NOTE]` (Info) und `> [!TIP]` (Hervorhebung); WARNING/IMPORTANT werden nicht verwendet
+- Markdown-Fußnoten: `[^id]` im Text, `[^id]: Definition` am Seitenende (Custom Plugin rendert sie)
 - Bilder: `![Alt](assets/img/bild.png)`
 
 ### Vermeiden (funktioniert nur in Obsidian)
@@ -114,7 +133,7 @@ socialai-knowledge-hub/
 ### Obsidian-Einstellungen (Empfehlung)
 
 Wer den Hub in Obsidian bearbeitet, sollte folgendes einstellen:
-- **Dateien & Links > Neues Link-Format:** Relativer Pfad zur Datei
+- **Dateien & Links > Neues Link-Format:** Absoluter Pfad im Vault; Links auf Hub-Seiten anschließend mit führendem `/` schreiben (`/projekt/uebersicht.md`). Vor dem Push `python scripts/check-links.py` laufen lassen
 - **Dateien & Links > Standard-Speicherort für Anhänge:** `assets/img/`
 
 ## Deployment-Workflow
@@ -128,6 +147,14 @@ Teammitglied bearbeitet .md  -->  git push  -->  GitHub Pages rendert automatisc
 ```
 
 Kein Build-Schritt. Kein CI/CD notwendig. Push = Live.
+
+## Öffentlicher Spiegel (in Vorbereitung)
+
+Beschluss vom 24.06.2026: Dieses Repo wird mittelfristig privat gestellt; ausgewählte Inhalte erscheinen in einem neuen öffentlichen Repo (Whitelist-Prinzip). Details und Redaktionsplan liegen intern (`docs/intern/`).
+
+Technischer Baustein dafür ist `scripts/sync-glossar.py`: erzeugt aus `glossar/README.md` die öffentliche Fassung als reine Strip-Operation. Absätze, die mit `***Anmerkung` beginnen, und `> [!INTERN]`-Callouts werden entfernt, alles andere geht unverändert durch. Solange das öffentliche Repo nicht existiert, schreibt das Skript in den lokalen Public-Draft (`docs/intern/public-draft/`).
+
+Zeitplan für den Split: offen (Stand Juli 2026). Nicht zu verwechseln mit dem bestehenden öffentlichen Workshop-Repo `socialai-workshops` (Nachlese der Innovationsworkshops) – das bleibt eigenständig bestehen.
 
 ## Beziehung zu bestehenden Systemen
 

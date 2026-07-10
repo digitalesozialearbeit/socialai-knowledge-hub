@@ -178,6 +178,9 @@
 > [!NOTE]
 > Kick-off-Beschluss: Unabhängig von AP 3 (nicht darauf aufbauend, kann parallel laufen).
 
+> [!TIP]
+> **Update Juli 2026:** In die experimentelle Analyse fließen auch die studentischen Arbeiten der LV [„Gender, Diversity & AI"](https://chsteiner.github.io/klagenfurt-lv-gender-diversity-and-ai/) ein (Universität Klagenfurt, Master Informatik, SS 2026; Lehrende: Susanne Sackl-Sharif und Christian Steiner): Tools, die Bias in LLMs sichtbar und messbar machen, inkl. eigener Test-Prompts und dokumentierter Methodik. Abschlusspräsentationen fanden am 24.06.2026 statt.
+
 **Aufgaben:**
 - 4.1 Experimentelle Analyse von Prompt-Engineering-Strategien (DHC)
 
