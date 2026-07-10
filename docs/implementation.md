@@ -63,4 +63,4 @@ npx docsify-cli serve .
 ## Qualitätssicherung
 
 - Vor jedem Push mit Link-Änderungen: `python scripts/check-links.py`
-- Content Health Check (Quellen vs. publizierte Seiten): Arbeitsanweisung in `docs/tests/content-health-check.md`, quartalsweise oder nach größeren Überarbeitungen ausführen (zuletzt 07.07.2026)
+- Content Health Check (Quellen vs. publizierte Seiten): Arbeitsanweisung in `docs/tests/content-health-check.md`, quartalsweise oder nach größeren Überarbeitungen ausführen (zuletzt 10.07.2026, alle Bereiche OK)

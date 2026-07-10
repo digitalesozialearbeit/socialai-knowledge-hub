@@ -32,6 +32,10 @@
 3. AP-2-Protokoll vom 01.07. besorgen und Ergebnisse in knowledge.md nachtragen
 4. Jour-fixe-Agenda-Punkte (siehe knowledge.md) beim nächsten Quartalstreffen einbringen
 
+**Nachtrag (gleicher Tag, nach dem Handoff):**
+- **Remote-Sync:** Sabines Web-UI-Commit vom 08.07. (Literacies-Eintrag + Fußnote Long/Magerko) per Rebase integriert. Zwei Rendering-Fehler daraus repariert (Zeilenumbruch im Wort, führendes Leerzeichen vor der Fußnoten-Definition, das das Fußnoten-Plugin aushebelte); der unvollständige Satzanfang liegt als `***Anmerkung DHC:***` bei Sabine (Commit e87767e)
+- **Content Health Check durchgeführt** (3 parallele Prüf-Agenten): Faktenabgleich OK (alle Stunden/Summen/Termine korrekt), Glossar 14/14 Kick-off-Begriffe, Struktur OK. Mechanische Befunde umgesetzt (Commit f411c7e): Homepage-Projektnummer korrekt gelabelt, AP-4-Versuchsdesign aus dem Antrag destilliert, Urheberrecht als RI-Aufgabe ergänzt, AP-2-Meilenstein-Verschiebung vermerkt, Context/Kontext-Sortierung. Neue Klärungspunkte in der Jour-fixe-Liste: Antrags-Deliverable „KI-Richtlinie für Organisationen" (AP 3) verschwunden?; Lizenz-Diskrepanz CC BY-SA vs. MIT und 3 vs. 2 Publikationen (AP 8/9)
+
 ---
 
 ## 2026-06-11 – Fußnoten-Rendering für docsify
