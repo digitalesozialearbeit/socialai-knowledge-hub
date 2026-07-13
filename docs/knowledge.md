@@ -1,6 +1,6 @@
 # Knowledge: SocialAI Projekt
 
-> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026), Jour-fixe-Protokoll (09.04.2026), Protokollen 4+5 (27.05./09.06.2026) sowie der Workshop-Nachbereitung (29./30.06.2026)
+> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026), Jour-fixe-Protokoll (09.04.2026), Protokollen 4+5 (27.05./09.06.2026), der Workshop-Nachbereitung (29./30.06.2026) sowie dem uniCLOUD-Share-Sync (13.07.2026)
 >
 > **Dieses Dokument ist die autoritative Referenz.** Rohdaten in `sources/` enthalten OCR-Artefakte und sollen nicht direkt referenziert werden.
 
@@ -66,6 +66,10 @@
   - **RI-Teil:** rechtswissenschaftliches Review auf Basis der Use Cases; erweitert um die Frage: Gibt es Forschung zu Recht, LLMs und Sozialer Arbeit? Umgang mit Gender, Diversität, Vulnerabilität?
   - **AP2-Kernteam:** Christopher, Sabine, Susi. Treffen am **01.07.2026** hat stattgefunden (Christopher brachte Entwurf eines PRISMA-Recherche-Tools mit; Hinweise von Sabine: CADIMA, COVIDENCE, Plymouth Question Frameworks). Ergebnisse/Protokoll noch in den Hub nachzutragen (ggf. uniCLOUD)
   - **Deliverables bis 12/2026:** FFG-Review-Bericht (alle), PRISMA-Publikation (Sabine, Susi, Christopher); ggf. theoretische Publikation zu AI Literacies (KFU, RI, DHC, 2027)
+- **Stand Juli 2026 (uniCLOUD-Sync 13.07.):**
+  - **FFG-Berichtsstruktur** (Gliederungsentwurf am Share, 06.07.): Einleitung (KFU); Teil I rechtswissenschaftliche Rahmenanalyse (**RI, bis Ende Oktober 2026**); Teil II PRISMA-Analyse (KFU + DHC); Teil III Diskussion/Ausblick. Offene Frage im Entwurf: Glossar verlinken oder in den Anhang. Konvertat: `docs/intern/ap2-ffg-bericht-gliederung.md`
+  - **Analysekategorien für die PRISMA-Kodierung** (Google-Spreadsheet, verlinkt im Lit-Review-Überblick): vier technische (AI Literacies, generative KI, Prompting, sonstige KI) und sechs soziale (Soziale Arbeit, Bias_Ungleichheit, Gender, Intersektionalität_Diversity, feministisch, Fairness)
+  - **Personas:** Neuer Ordner `AP2/Personas/` am Share (seit 05.05.) mit Beispielmaterial zur Persona-Methode (Uni-Graz-Broschüre „KI-Pilotierung: Good Practices", Höfler/Schmieder). Wofür die Personas im Projekt gedacht sind, ist nirgends dokumentiert – offener Punkt fürs Kernteam
 
 ### AP 3 -Innovationsworkshops mit Führungskräften
 - **Zeitraum:** 06/2026 -07/2026 (vorgezogen beim Kick-off, urspr. 07–10/2026)
@@ -105,6 +109,7 @@
   - Beide Meilensteine vorzeitig erreicht: 3.1 Abhaltung (Plan 11.09.2026) am 29./30.06.; 3.2 Schriftlicher Bericht (Plan 25.10.2026) liegt seit 07/2026 vor: Bericht zur wissenschaftlichen Begleitforschung (Klinger, Sackl-Sharif & Schmieder, Uni Graz; V1 intern in `docs/intern/`, Publikationsregeln beachten)
   - Nachlese im Hub: `workshops/innovationsworkshop-2026-06-29.md`, `workshops/innovationsworkshop-2026-06-30.md`; aus Tag 2 entstand die Wissensseite `recht/ki-recht-grundlagen.md`
   - Offen aus den Deliverables: **Informationsmaterialien zu AI Act und DSGVO** (RI); die Recht-Wissensseite deckt einen ersten Teil ab
+  - **Begleitforschungs-Materialien am Share** (`AP3/wissenschaftliche Begleitung/`, Stand 06.07., Sync 13.07.): Beobachtungsprotokolle Tag 1 + Tag 2 (folienweise, mit Wortmeldungen), Methodenkonzept (zusammenfassende Inhaltsanalyse nach Kuckartz, MAXQDA24), Kontextliteratur (Anastasiadis & Lembacher 2024). Konvertate zusammen mit Kurzfragebogen und RI-Ablaufplan in `docs/intern/`; die Protokolle enthalten Klarnamen und bleiben intern. Der Ordner `Teilnehmende/` wurde nicht übernommen (personenbezogen)
 
 ### AP 4 -Experimentelle Analyse Prompt-Engineering
 - **Zeitraum:** 10/2026 -01/2027
@@ -245,3 +250,4 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 4. **AP 9:** Publikations-Policy (Logos, Disclaimer, Vorab-Review, Autor:innenschaft) – zunehmend dringlich, da die PRISMA-Publikation in Arbeit ist. Dabei auch Antrags-Diskrepanzen klären: DOL-Lizenz CC BY-SA (Antrag) vs. MIT-Repo (Kick-off-Folien); „mind. 3 Publikationen" (Antrag) vs. „mind. 2" (Folien/Hub)
 5. **Glossar:** Sabines Anmerkung zu „AI Literacies / KI-Kompetenzen" (Titel eindeutschen?) entscheiden; neuer Entwurf „Sensible Daten" wartet auf RI-Review
 6. **AP 3:** Klären, ob das Antrags-Deliverable „KI-Richtlinie für Organisationen" (Ziel 2) bewusst entfallen ist – es fehlt auf allen Seiten und schon in den Kick-off-Folien; `recht/ki-recht-grundlagen.md` empfiehlt interne KI-Richtlinien nur inhaltlich (Health-Check 10.07.)
+7. **AP 2:** Zweck des neuen `Personas/`-Ordners am uniCLOUD-Share klären (Beispielmaterial zur Persona-Methode, Höfler/Schmieder; nirgends dokumentiert, wofür die Personas im Projekt gedacht sind). Randnotiz zu AP 9: In `AP2/Publikationsmöglichkeiten.docx` liegt eine MDPI-Einladung (Applied Sciences, Special Issue „Generative AI in Education", Deadline 20.11.2026)

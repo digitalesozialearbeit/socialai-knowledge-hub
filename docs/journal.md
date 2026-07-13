@@ -1,5 +1,26 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-07-13 – uniCLOUD-Sync: Begleitforschungs-Protokolle und AP-2-Berichtsstruktur
+
+Komplettes Share-Listing (WebDAV, mit Änderungsdaten) gegen den Hub-Stand vom 11.06. abgeglichen; 11 neue bzw. geänderte Dateien mit docling nach Markdown konvertiert und gesichtet. Sieben Konvertate nach `docs/intern/` übernommen (gitignored):
+
+- `protokoll-innoworkshop-tag1-2026-06-29.md` + `protokoll-innoworkshop-tag2-2026-06-30.md` – Beobachtungsprotokolle der Begleitforschung, folienweise mit Wortmeldungen; enthalten Klarnamen, nie veröffentlichen
+- `wiss-begleitung-methodenkonzept.md` – Inhaltsanalyse nach Kuckartz, MAXQDA24
+- `kurzfragebogen-innoworkshops.md` – Erhebungsinstrument (Forms-Design-Link entfernt)
+- `ablauf-innoworkshop-ri-tag2.md` – RI-Drehbuch Tag 2 (Herbstlaub-Methode)
+- `ap2-ffg-bericht-gliederung.md` – Berichtsskelett mit Zuständigkeiten
+- `anastasiadis-lembacher-2024-soziale-innovation.md` – Fremdpaper (soziales_kapital Bd. 28), Kontextliteratur der Begleitforschung
+
+knowledge.md ergänzt: FFG-Berichtsstruktur mit RI-Deadline **Ende Oktober 2026**, PRISMA-Analysekategorien (4 technische + 6 soziale), Personas-Fund als offener Kernteam-Punkt, Begleitforschungs-Fundorte (AP 3).
+
+Nicht übernommen: `Teilnehmende/`-Dateien (personenbezogen), Personas-Posterbeispiele (Spanischunterricht, kein Projektbezug), MDPI-Werbemail (nur Randnotiz bei den offenen Punkten). Weiterhin nicht am Share: AP-2-Kernteam-Protokoll vom 01.07.; der AP4-Ordner ist leer.
+
+**Klarstellung (Christian, 13.07.):** Die Copyright-Sperre der RI-Folien gilt nur nach außen; intern hat das Konsortium uneingeschränkte Nutzungserlaubnis (im Memory notiert).
+
+**Nachtrag (gleicher Tag):** Christian hat die explizite Genehmigung des RI, das Folien-PDF auf der öffentlichen Tag-2-Nachlese-Seite zu veröffentlichen. Umgesetzt im socialai-workshops-Repo: PDF als `slides/innovationsworkshop-2-recht-ethik-2026-06-30.pdf`, TIP-Callout nach Tag-1-Muster mit ©-Kennzeichnung (Werk Dritter, nicht CC BY, gedeckt durch die bestehende Ausnahme in LICENSE-CONTENT); Hub-Seite `workshops/innovationsworkshop-2026-06-30.md` entsprechend aktualisiert.
+
+---
+
 ## 2026-07-10 10:55 – handoff
 
 **Summary:** Promptotyping-Docs per `/promptotyping check` auf den Ist-Stand gebracht und die offenen Fragen in vier Runden mit Christian geklärt. knowledge.md dokumentiert jetzt den AP-3-Abschluss, den AP-2-Stand und die Klagenfurt-LV als AP-4-Input; architecture.md und implementation.md beschreiben wieder die reale Konfiguration; das Glossar wurde redaktionell bereinigt und um einen Entwurf „Sensible Daten" erweitert (86 Einträge).
