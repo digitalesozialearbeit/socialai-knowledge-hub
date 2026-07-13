@@ -70,6 +70,13 @@
   - **FFG-Berichtsstruktur** (Gliederungsentwurf am Share, 06.07.): Einleitung (KFU); Teil I rechtswissenschaftliche Rahmenanalyse (**RI, bis Ende Oktober 2026**); Teil II PRISMA-Analyse (KFU + DHC); Teil III Diskussion/Ausblick. Offene Frage im Entwurf: Glossar verlinken oder in den Anhang. Konvertat: `docs/intern/ap2-ffg-bericht-gliederung.md`
   - **Analysekategorien für die PRISMA-Kodierung** (Google-Spreadsheet, verlinkt im Lit-Review-Überblick): vier technische (AI Literacies, generative KI, Prompting, sonstige KI) und sechs soziale (Soziale Arbeit, Bias_Ungleichheit, Gender, Intersektionalität_Diversity, feministisch, Fairness)
   - **Personas:** Neuer Ordner `AP2/Personas/` am Share (seit 05.05.) mit Beispielmaterial zur Persona-Methode (Uni-Graz-Broschüre „KI-Pilotierung: Good Practices", Höfler/Schmieder). Wofür die Personas im Projekt gedacht sind, ist nirgends dokumentiert – offener Punkt fürs Kernteam
+- **Stand Quartalsmeeting 13.07.2026** (bereinigtes Protokoll: `docs/intern/quartalsmeeting-2026-07-13-bereinigt.md`):
+  - **Erste Publikation erschienen** (Deep-Research-Literature-Reviews, Pollin/Sackl-Sharif/Klinger); **zweite Publikation bis Ende 2026** geplant (Umgangsstrategien mit Bias auf Basis der Literatur)
+  - **PRISMA-Fokus:** Bias/Bias-Detection in der Sozialen Arbeit
+  - **Glossar wird dem FFG-Bericht als Anhang beigegeben**; nach Fertigstellung Weitergabe an Sozialarbeiter:innen möglich
+  - **Erster FFG-Zwischenbericht: Ende Februar 2027**; ungewöhnlich: Die FFG will diesmal Inhalte sehen. Infomaterialien (AP 3) sind mit dem Zwischenbericht abzugeben
+  - Sprachregelung: statt „Use Cases" durchgängig **„Anwendungsfelder"**
+  - Susi lädt AP-2-Literatur und die erste Publikation in die uniCLOUD
 
 ### AP 3 -Innovationsworkshops mit Führungskräften
 - **Zeitraum:** 06/2026 -07/2026 (vorgezogen beim Kick-off, urspr. 07–10/2026)
@@ -110,6 +117,12 @@
   - Nachlese im Hub: `workshops/innovationsworkshop-2026-06-29.md`, `workshops/innovationsworkshop-2026-06-30.md`; aus Tag 2 entstand die Wissensseite `recht/ki-recht-grundlagen.md`
   - Offen aus den Deliverables: **Informationsmaterialien zu AI Act und DSGVO** (RI); die Recht-Wissensseite deckt einen ersten Teil ab
   - **Begleitforschungs-Materialien am Share** (`AP3/wissenschaftliche Begleitung/`, Stand 06.07., Sync 13.07.): Beobachtungsprotokolle Tag 1 + Tag 2 (folienweise, mit Wortmeldungen), Methodenkonzept (zusammenfassende Inhaltsanalyse nach Kuckartz, MAXQDA24), Kontextliteratur (Anastasiadis & Lembacher 2024). Konvertate zusammen mit Kurzfragebogen und RI-Ablaufplan in `docs/intern/`; die Protokolle enthalten Klarnamen und bleiben intern. Der Ordner `Teilnehmende/` wurde nicht übernommen (personenbezogen)
+- **Stand Quartalsmeeting 13.07.2026** (Reflexionsrunde; bereinigtes Protokoll in `docs/intern/`):
+  - **Sehr positives Feedback** beider Praxispartner, ausdrücklich auch von KI-kritischen Teilnehmenden; die von Teilnehmenden eingebrachte Grundsatzfrage „Brauche ich KI überhaupt?" ist im Begleitforschungsbericht dokumentiert
+  - **RI-Infomaterialien konkretisiert:** DSGVO-Infomaterial mit speziellem Bezug zur Sozialen Arbeit bis **Mitte Oktober 2026**, danach Feedback-Schleife mit den Praxispartnern; Abgabe an die FFG mit dem Zwischenbericht Ende Februar 2027. Zäsur-Prinzip wegen laufender Gesetzgebung (Marktüberwachungsbehörden in Österreich fehlen noch)
+  - **Gender-Beobachtung:** Teilnehmende überwiegend männlich gelesen (sonst bei KI-/Digitalisierungsworkshops oft umgekehrt); Auswahl lief über Selbstmeldung. **Learning für die Co-Creation-Workshops: gezielt weiblich gelesene Personen ansprechen**
+  - **Begleitforschungsbericht** bleibt FFG-intern (keine Publikation, keine Verteilung an Fachkräfte); wird beim Orientierungsleitfaden (AP 8) wieder aufgegriffen. Rückmeldungen der Partner erbeten
+  - **RI-Folien:** Verlinkung in der öffentlichen Nachlese im Meeting genehmigt und am selben Tag umgesetzt; der Nachlese-Link darf breit weitergegeben werden
 
 ### AP 4 -Experimentelle Analyse Prompt-Engineering
 - **Zeitraum:** 10/2026 -01/2027
@@ -121,6 +134,13 @@
 - **Stunden:** Uni Graz 150h, DHC 100h, SOS-KD 100h, JAW 100h, RI 0h
 - **Stand März 2026:** JAW hat eine Auswertung der MyJaW-Prompts vom Februar 2026 geliefert (Elke Maurer, Mail 06.03.2026): 606 kategorisierte Prompts aus QMS-Channel und Free Chat, gefiltert um Kund:innen-/Jugendlichen-Bezüge, je 5 Beispiel-Prompts pro Kategorie. Interne Nutzungsdaten, daher **nicht im öffentlichen Hub** (lokal in `docs/intern/`, gitignored). Direkter Input für das Prompt-Set. Offene Frage (Sabine, 06.03.): Wurde iterativ gepromptet oder nur Einzel-Prompts? Prompts von SOS-KD stehen noch aus
 - **Stand Juli 2026:** In die experimentelle Analyse fließen zusätzlich die studentischen Arbeiten der LV [„Gender, Diversity & AI"](https://chsteiner.github.io/klagenfurt-lv-gender-diversity-and-ai/) ein (Universität Klagenfurt, Master Informatik, SS 2026; Lehrende: Susanne Sackl-Sharif und Christian Steiner). Die Studierenden entwickelten in Einzelarbeit Tools, die Bias in LLMs sichtbar und messbar machen: je 10+ eigene Test-Prompts, mind. eine Bias-Dimension, mind. ein LLM, dokumentierte Methodik, lauffähiger Code. Abschlusspräsentationen am 24.06.2026. Prompts, Methodiken und Befunde dienen als Input für das Prompt-Set und das Auswertungsdesign
+- **Stand Quartalsmeeting + Vorbesprechung 13.07.2026** (bereinigtes Protokoll in `docs/intern/`):
+  - **Publikationspläne Klagenfurt:** Mehrere Studierende wollen publizieren; Plan: drei bis vier Arbeiten als **Fallvignetten zu Bias-Detection** bündeln (Themen u. a. psychische Gesundheit, Versicherung/Finanzen, Geschlecht/Ethnie/Alter). Die Arbeiten kommen unter eine öffentliche Lizenz, als Anerkennung gibt es einen symbolischen Vertrag; eine Studierende (stärkste Arbeit, über 3.000 Test-Prompts) hat Interesse an einer Projekt-Kooperation
+  - **Mögliche zwei Papers aus AP 4:** ein Methoden-/Workflow-Paper (Reproduzierbarkeit, technische Workflows) und ein Inhalts-Paper (Transfer der Ergebnisse in die Soziale Arbeit)
+  - **Kernprinzip: Reproduzierbarkeit statt Einzelbefunde.** Momentaufnahmen einzelner Modelle veralten; Ziel ist eine automatisierte, wiederholbare Bias-Test-Methodik, die den zeitlichen Verlauf über Modellgenerationen beobachtbar macht. Die Fallvignetten ergänzen das standardisierte Praxis-Prompt-Set, ersetzen es nicht
+  - **Deliverable-Lesart in Diskussion:** statt striktem „standardisiertem Set" ggf. Empfehlungen (was wichtig ist, was zu bedenken ist), abgestimmt mit den Praxispartner:innen
+  - **Geplante Erhebungen bei den Praxispartnern** (Konkretisierung ab Oktober): One-Pager der IT zur technischen Infrastruktur (Systeme, Anbieter, Modelle, Hosting; als Snapshot jetzt und am Projektende; Vertraulichkeit ggf. per NDA oder über den Konsortialvertrag), Beobachtung/Think-Aloud bei Fachkräften, die KI aktiv nutzen, evtl. Exkursion zu Einrichtungen in Graz/Steiermark; SOS-internes Vernetzungstreffen von KI-Interessierten als möglicher Rekrutierungskanal (frühestens Herbst)
+  - SOS-Prompts für das Prompt-Set stehen weiterhin aus
 
 ### AP 5 -Konzeption Prompting-Framework
 - **Zeitraum:** 02/2027 -05/2027
@@ -242,7 +262,9 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 7. **AP 3:** Christian setzt LimeSurvey-Fragebogen auf (6 Fragen, Versand ~15.05.)
 8. **AP 3:** Christina sucht klimatisierten Raum an Uni Graz
 
-## Offene Punkte für das nächste Jour fixe (Stand 10.07.2026)
+## Offene Punkte für das nächste Quartalsmeeting (Stand 13.07.2026)
+
+> Beim Quartalsmeeting am 13.07.2026 wurden diese Punkte nicht behandelt; sie wandern auf die Agenda des nächsten Quartalsmeetings am **06.10.2026, 13:00–14:30**.
 
 1. **AP 2:** Ergebnisse des Kernteam-Treffens vom 01.07.2026 in den Hub nachtragen (Protokoll/uniCLOUD)
 2. **AP 5:** RI-Stunden-Verbuchung bis AP 5 klären (offen seit Kick-off)

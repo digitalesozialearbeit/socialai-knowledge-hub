@@ -1,5 +1,37 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-07-13 21:35 – handoff
+
+**Summary:** uniCLOUD-Share komplett abgeglichen und 11 neue Dateien per docling konvertiert (7 Konvertate nach `docs/intern/`); RI-Folien-PDF mit expliziter Genehmigung im public Workshops-Repo veröffentlicht und auf der Tag-2-Nachlese verlinkt (Commits `1c32e5b`, `9b65312` dort); die beiden Transkripte des Quartalsmeetings vom selben Tag bereinigt, zu einem internen Protokoll zusammengeführt und in knowledge.md destilliert.
+
+**Decisions:**
+- **RI-Folien öffentlich:** Genehmigung wurde im Quartalsmeeting erteilt; Veröffentlichung mit ©-Kennzeichnung als Werk Dritter (bestehende LICENSE-CONTENT-Ausnahme greift). Intern hat das Konsortium ohnehin uneingeschränkte Nutzungserlaubnis.
+- **Erster FFG-Zwischenbericht: Ende Februar 2027** (ASR-Stelle unleserlich, von Christian bestätigt).
+- **Jour-fixe-Punkte** (AP-5-Stunden, AP-6-Zeitplan, AP-9-Policy, Glossar-Titel, KI-Richtlinie) blieben am 13.07. unbehandelt → Agenda für das Quartalsmeeting am 06.10.2026, 13:00–14:30.
+- **Partner-Interna** (JAW-Dienstleister, interne Arbeitsgruppen, Studierendennamen) bewusst nur im internen Protokoll, nicht in knowledge.md (Repo noch public).
+- **Protokolle** liegen künftig nur noch in der uniCLOUD (kein Mailversand mehr).
+
+**Dead ends:** Keine. Einzelne Transkriptpassagen waren nur sinngemäß rekonstruierbar (im bereinigten Protokoll gekennzeichnet).
+
+**Phase:** Implementation (Iteration). Alle fünf Kern-Docs existieren; knowledge.md und journal.md sind auf Stand 13.07. (Quartalsmeeting eingearbeitet); requirements/architecture/implementation unverändert gültig.
+
+**Open issues:**
+- FoWi-Paper (Pollin/Sackl-Sharif/Klinger) ist laut Meeting erschienen; Zitation fehlt noch, `wissen/README.md` listet es weiter als unveröffentlicht.
+- Zweck des `AP2/Personas/`-Ordners am Share ungeklärt (offener Kernteam-Punkt).
+- AP-2-Kernteam-Protokoll vom 01.07. weiterhin nicht am Share.
+- SOS-Prompts für das AP-4-Prompt-Set stehen aus (bis Oktober klären).
+- Glossar-Endversion (Mitte Juli) weiter blockiert durch RI-Review „Sensible Daten" und Literacies-Titelfrage.
+- Die rohen Transkript-`.txt` liegen noch in `docs/intern/` (Löschung nicht entschieden; bereinigte Fassung ersetzt sie inhaltlich).
+
+**Next steps:**
+1. FoWi-Zitation besorgen und den Eintrag in `wissen/README.md` auf „veröffentlicht" umstellen
+2. Action Points aus dem Quartalsmeeting verfolgen (IT-One-Pager-Anfragen Elke/Martin, RI-Fristen Mitte/Ende Oktober, Rückmeldungen zum Begleitforschungsbericht)
+3. Glossar: RI-Review und Titelfrage klären, dann Endversion als Git-Tag markieren
+4. AP-4-Vorbereitung ab Oktober (Klagenfurt-Fallvignetten mit Prompt-Set-Auftrag zusammenführen, Kontakt zur interessierten Studentin)
+5. Entscheiden, ob die rohen Transkript-`.txt` gelöscht werden
+
+---
+
 ## 2026-07-13 – uniCLOUD-Sync: Begleitforschungs-Protokolle und AP-2-Berichtsstruktur
 
 Komplettes Share-Listing (WebDAV, mit Änderungsdaten) gegen den Hub-Stand vom 11.06. abgeglichen; 11 neue bzw. geänderte Dateien mit docling nach Markdown konvertiert und gesichtet. Sieben Konvertate nach `docs/intern/` übernommen (gitignored):
@@ -17,7 +49,16 @@ Nicht übernommen: `Teilnehmende/`-Dateien (personenbezogen), Personas-Posterbei
 
 **Klarstellung (Christian, 13.07.):** Die Copyright-Sperre der RI-Folien gilt nur nach außen; intern hat das Konsortium uneingeschränkte Nutzungserlaubnis (im Memory notiert).
 
-**Nachtrag (gleicher Tag):** Christian hat die explizite Genehmigung des RI, das Folien-PDF auf der öffentlichen Tag-2-Nachlese-Seite zu veröffentlichen. Umgesetzt im socialai-workshops-Repo: PDF als `slides/innovationsworkshop-2-recht-ethik-2026-06-30.pdf`, TIP-Callout nach Tag-1-Muster mit ©-Kennzeichnung (Werk Dritter, nicht CC BY, gedeckt durch die bestehende Ausnahme in LICENSE-CONTENT); Hub-Seite `workshops/innovationsworkshop-2026-06-30.md` entsprechend aktualisiert.
+**Nachtrag (gleicher Tag):** Christian hat die explizite Genehmigung des RI, das Folien-PDF auf der öffentlichen Tag-2-Nachlese-Seite zu veröffentlichen. Umgesetzt im socialai-workshops-Repo: PDF als `slides/innovationsworkshop-2-recht-ethik-2026-06-30.pdf`, TIP-Callout nach Tag-1-Muster mit ©-Kennzeichnung (Werk Dritter, nicht CC BY, gedeckt durch die bestehende Ausnahme in LICENSE-CONTENT); Hub-Seite `workshops/innovationsworkshop-2026-06-30.md` entsprechend aktualisiert. (Die Genehmigung wurde, wie sich aus dem Meeting-Transkript ergab, im Quartalsmeeting erteilt.)
+
+**Nachtrag 2 (gleicher Tag) – Quartalsmeeting 13.07. verarbeitet:** Zwei ASR-Transkripte (Vorbesprechung 10:08, Quartalsmeeting 10:33) bereinigt und zu `docs/intern/quartalsmeeting-2026-07-13-bereinigt.md` zusammengeführt (Beschlüsse + Action Points vorangestellt; Rohtranskripte stark verrauscht, sinngemäße Rekonstruktion). knowledge.md nachgezogen:
+
+- **AP 2:** Erste Publikation (Deep-Research) erschienen, zweite bis Ende 2026; PRISMA-Fokus Bias-Detection in der Sozialen Arbeit; Glossar wird FFG-Berichts-Anhang; erster FFG-Zwischenbericht Ende Februar 2027 (ASR-Stelle unleserlich, von Christian bestätigt); Sprachregelung „Anwendungsfelder" statt „Use Cases"
+- **AP 3:** RI-Infomaterialien (DSGVO/Soziale Arbeit) bis Mitte Oktober 2026 mit Feedback-Schleife der Praxispartner; Gender-Beobachtung (TN überwiegend männlich gelesen) als Learning für Co-Creation; Begleitforschungsbericht bleibt FFG-intern
+- **AP 4:** Klagenfurt-Publikationspläne (3–4 Fallvignetten zu Bias-Detection, ggf. zwei Papers: Methoden/Workflow + Inhalte/Transfer; public license + symbolischer Vertrag); Kernprinzip Reproduzierbarkeit; Deliverable-Lesart „Empfehlungen statt striktes Set" in Diskussion; geplante Erhebungen bei den Partnern (IT-One-Pager ggf. mit NDA, Think-Aloud-Beobachtungen, Exkursion, SOS-Vernetzungstreffen)
+- **Termine/Prozess:** Nächstes Quartalsmeeting 06.10.2026, 13:00–14:30; Protokolle künftig nur noch via uniCLOUD (kein Mailversand). Die offenen Jour-fixe-Punkte (AP-5-Stunden, AP-6-Zeitplan, AP-9-Policy, Glossar-Titel, KI-Richtlinie) wurden nicht behandelt und stehen jetzt als Agenda für den 06.10.
+
+Offen daraus: FoWi-Paper-Eintrag in `wissen/README.md` von „unveröffentlicht" auf „veröffentlicht" umstellen, sobald die Zitation vorliegt; Partnerdaten aus dem Meeting (JAW-Dienstleister, interne Arbeitsgruppen) bewusst nur im internen Protokoll, nicht in knowledge.md.
 
 ---
 
