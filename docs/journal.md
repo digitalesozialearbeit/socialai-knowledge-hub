@@ -1,5 +1,15 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-07-14 – SOS-Unterlagen + Reorganisation docs/intern
+
+**SOS-Lieferung (AP 4):** Martin Baumann (SOS-KD/4Raum) hat am 13.07. abends per Mail geliefert („Unterlagen KI SOS Kinderdorf"): KI-Richtlinie (03/2025), drei Risikoassessments nach AI Act (01/2026: allgemein, Chatbot **JOSY**, Midjourney) und Auszüge aus der internen Online-Schulung. Alles entpackt, mit docling konvertiert und unter `docs/intern/ap4-partnerdaten/sos/` abgelegt (Original + Markdown). Aus der Mail außerdem: Der 4Raum-Datenbankanbieter setzt mehrere Modelle ein, sichtbar v. a. **GPT-OSS** (Open-Weight, self-hosted); die SOS-IT hat einen neuen Leiter, der KI-Zuständige ist evtl. ab September weg – IT-One-Pager-Anfrage daher vor September stellen. Antwort-Draft mit vier Präzisierungsfragen an den Anbieter liegt in Christians Gmail-Drafts.
+
+**Reorganisation `docs/intern/`:** Flache Ablage in semantische Unterordner umgebaut: `meetings/` (+ `transkripte-roh/`), `vertraege-finanzen/`, `workshops-2026-06/` (+ `begleitforschung/`), `ap2-literatur/` (+ `paper-quellen/`), `ap4-partnerdaten/` (`jaw/`, `sos/`). Alle Dateien kebab-case mit ISO-Datum benannt; `docs/intern/README.md` neu als Wegweiser mit Ablage-Konventionen. Pfad-Referenzen nachgezogen in `docs/knowledge.md`, `docs/architecture.md`, `scripts/sync-glossar.py` und im Memory. Das SOS-Zip wurde nach dem Entpacken gelöscht; die Bild-Pfade im Begleitforschungsbericht wurden auf den neuen Ordnernamen umgeschrieben. Historische Journal-Einträge nennen teils noch die alten Dateinamen; das README bildet den aktuellen Stand ab.
+
+**Public-Draft gelöscht:** Der Ordner `docs/intern/public-repo/` (Strategie, Redaktionsplan, Glossar-Draft) wurde auf Christians Bestätigung hin gelöscht – das öffentliche Repo `socialai-workshops` ist live und hat die Draft-Struktur übernommen. `scripts/sync-glossar.py` zielt jetzt standardmäßig auf den lokalen Klon (`../socialai-workshops/glossar/README.md`); Achtung-Notiz im Skript: vor dem Sync prüfen, ob der Glossar-Stand publikationsreif ist (der Hub-Stand enthält den noch nicht reviewten Eintrag „Sensible Daten"). architecture.md-Abschnitt „Öffentlicher Spiegel" entsprechend aktualisiert.
+
+---
+
 ## 2026-07-13 21:35 – handoff
 
 **Summary:** uniCLOUD-Share komplett abgeglichen und 11 neue Dateien per docling konvertiert (7 Konvertate nach `docs/intern/`); RI-Folien-PDF mit expliziter Genehmigung im public Workshops-Repo veröffentlicht und auf der Tag-2-Nachlese verlinkt (Commits `1c32e5b`, `9b65312` dort); die beiden Transkripte des Quartalsmeetings vom selben Tag bereinigt, zu einem internen Protokoll zusammengeführt und in knowledge.md destilliert.
@@ -51,7 +61,7 @@ Nicht übernommen: `Teilnehmende/`-Dateien (personenbezogen), Personas-Posterbei
 
 **Nachtrag (gleicher Tag):** Christian hat die explizite Genehmigung des RI, das Folien-PDF auf der öffentlichen Tag-2-Nachlese-Seite zu veröffentlichen. Umgesetzt im socialai-workshops-Repo: PDF als `slides/innovationsworkshop-2-recht-ethik-2026-06-30.pdf`, TIP-Callout nach Tag-1-Muster mit ©-Kennzeichnung (Werk Dritter, nicht CC BY, gedeckt durch die bestehende Ausnahme in LICENSE-CONTENT); Hub-Seite `workshops/innovationsworkshop-2026-06-30.md` entsprechend aktualisiert. (Die Genehmigung wurde, wie sich aus dem Meeting-Transkript ergab, im Quartalsmeeting erteilt.)
 
-**Nachtrag 2 (gleicher Tag) – Quartalsmeeting 13.07. verarbeitet:** Zwei ASR-Transkripte (Vorbesprechung 10:08, Quartalsmeeting 10:33) bereinigt und zu `docs/intern/quartalsmeeting-2026-07-13-bereinigt.md` zusammengeführt (Beschlüsse + Action Points vorangestellt; Rohtranskripte stark verrauscht, sinngemäße Rekonstruktion). knowledge.md nachgezogen:
+**Nachtrag 2 (gleicher Tag) – Quartalsmeeting 13.07. verarbeitet:** Zwei ASR-Transkripte (Vorbesprechung 10:08, Quartalsmeeting 10:33) bereinigt und zu `docs/intern/meetings/quartalsmeeting-2026-07-13-bereinigt.md` zusammengeführt (Beschlüsse + Action Points vorangestellt; Rohtranskripte stark verrauscht, sinngemäße Rekonstruktion). knowledge.md nachgezogen:
 
 - **AP 2:** Erste Publikation (Deep-Research) erschienen, zweite bis Ende 2026; PRISMA-Fokus Bias-Detection in der Sozialen Arbeit; Glossar wird FFG-Berichts-Anhang; erster FFG-Zwischenbericht Ende Februar 2027 (ASR-Stelle unleserlich, von Christian bestätigt); Sprachregelung „Anwendungsfelder" statt „Use Cases"
 - **AP 3:** RI-Infomaterialien (DSGVO/Soziale Arbeit) bis Mitte Oktober 2026 mit Feedback-Schleife der Praxispartner; Gender-Beobachtung (TN überwiegend männlich gelesen) als Learning für Co-Creation; Begleitforschungsbericht bleibt FFG-intern

@@ -148,13 +148,13 @@ Teammitglied bearbeitet .md  -->  git push  -->  GitHub Pages rendert automatisc
 
 Kein Build-Schritt. Kein CI/CD notwendig. Push = Live.
 
-## Öffentlicher Spiegel (in Vorbereitung)
+## Öffentlicher Spiegel
 
-Beschluss vom 24.06.2026: Dieses Repo wird mittelfristig privat gestellt; ausgewählte Inhalte erscheinen in einem neuen öffentlichen Repo (Whitelist-Prinzip). Details und Redaktionsplan liegen intern (`docs/intern/`).
+Beschluss vom 24.06.2026: Dieses Repo wird mittelfristig privat gestellt; ausgewählte Inhalte erscheinen öffentlich (Whitelist-Prinzip). Diese Rolle füllt das öffentliche Repo **`socialai-workshops`** (Workshop-Nachlesen, gespiegeltes Glossar, Impressum, Lizenzen) – es ist live und hat den früheren lokalen Public-Draft abgelöst, der am 14.07.2026 aus `docs/intern/` gelöscht wurde.
 
-Technischer Baustein dafür ist `scripts/sync-glossar.py`: erzeugt aus `glossar/README.md` die öffentliche Fassung als reine Strip-Operation. Absätze, die mit `***Anmerkung` beginnen, und `> [!INTERN]`-Callouts werden entfernt, alles andere geht unverändert durch. Solange das öffentliche Repo nicht existiert, schreibt das Skript in den lokalen Public-Draft (`docs/intern/public-draft/`).
+Technischer Baustein ist `scripts/sync-glossar.py`: erzeugt aus `glossar/README.md` die öffentliche Fassung als reine Strip-Operation. Absätze, die mit `***Anmerkung` beginnen, und `> [!INTERN]`-Callouts werden entfernt, alles andere geht unverändert durch. Standardziel ist seit 14.07.2026 der lokale Klon des öffentlichen Repos (`../socialai-workshops/glossar/README.md`). Vor dem Ausführen prüfen, ob der Glossar-Stand publikationsreif ist (Endversion = Git-Tag).
 
-Zeitplan für den Split: offen (Stand Juli 2026). Nicht zu verwechseln mit dem bestehenden öffentlichen Workshop-Repo `socialai-workshops` (Nachlese der Innovationsworkshops) – das bleibt eigenständig bestehen.
+Zeitplan für die Privatstellung dieses Hub-Repos: offen (Stand Juli 2026).
 
 ## Beziehung zu bestehenden Systemen
 

@@ -20,10 +20,11 @@ Fussnoten gehen unveraendert durch. Damit gilt deterministisch
 Aufruf:
     python scripts/sync-glossar.py [ZIELPFAD]
 
-Ohne Argument wird in den Public-Draft geschrieben
-(``docs/intern/public-draft/glossar/README.md``). Sobald das oeffentliche Repo
-existiert, kann eine GitHub Action dieses Skript aufrufen und als ZIELPFAD den
-ausgecheckten Pfad des Public-Repos uebergeben.
+Ohne Argument wird in den lokalen Klon des oeffentlichen Repos geschrieben
+(``../socialai-workshops/glossar/README.md``). Der fruehere lokale Public-Draft
+(docs/intern) wurde am 14.07.2026 geloescht. Achtung: Der Sync uebertraegt den
+aktuellen Hub-Glossar-Stand inkl. noch nicht reviewter Eintraege; vor dem
+Ausfuehren pruefen, ob der Stand publikationsreif ist (Endversion = Git-Tag).
 """
 
 from __future__ import annotations
@@ -34,7 +35,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SOURCE = REPO_ROOT / "glossar" / "README.md"
-DEFAULT_TARGET = REPO_ROOT / "docs" / "intern" / "public-draft" / "glossar" / "README.md"
+DEFAULT_TARGET = REPO_ROOT.parent / "socialai-workshops" / "glossar" / "README.md"
 
 # Marker fuer interne Notizen
 NOTE_PREFIX = "***Anmerkung"

@@ -67,10 +67,10 @@
   - **AP2-Kernteam:** Christopher, Sabine, Susi. Treffen am **01.07.2026** hat stattgefunden (Christopher brachte Entwurf eines PRISMA-Recherche-Tools mit; Hinweise von Sabine: CADIMA, COVIDENCE, Plymouth Question Frameworks). Ergebnisse/Protokoll noch in den Hub nachzutragen (ggf. uniCLOUD)
   - **Deliverables bis 12/2026:** FFG-Review-Bericht (alle), PRISMA-Publikation (Sabine, Susi, Christopher); ggf. theoretische Publikation zu AI Literacies (KFU, RI, DHC, 2027)
 - **Stand Juli 2026 (uniCLOUD-Sync 13.07.):**
-  - **FFG-Berichtsstruktur** (Gliederungsentwurf am Share, 06.07.): Einleitung (KFU); Teil I rechtswissenschaftliche Rahmenanalyse (**RI, bis Ende Oktober 2026**); Teil II PRISMA-Analyse (KFU + DHC); Teil III Diskussion/Ausblick. Offene Frage im Entwurf: Glossar verlinken oder in den Anhang. Konvertat: `docs/intern/ap2-ffg-bericht-gliederung.md`
+  - **FFG-Berichtsstruktur** (Gliederungsentwurf am Share, 06.07.): Einleitung (KFU); Teil I rechtswissenschaftliche Rahmenanalyse (**RI, bis Ende Oktober 2026**); Teil II PRISMA-Analyse (KFU + DHC); Teil III Diskussion/Ausblick. Offene Frage im Entwurf: Glossar verlinken oder in den Anhang. Konvertat: `docs/intern/ap2-literatur/ffg-bericht-gliederung.md`
   - **Analysekategorien für die PRISMA-Kodierung** (Google-Spreadsheet, verlinkt im Lit-Review-Überblick): vier technische (AI Literacies, generative KI, Prompting, sonstige KI) und sechs soziale (Soziale Arbeit, Bias_Ungleichheit, Gender, Intersektionalität_Diversity, feministisch, Fairness)
   - **Personas:** Neuer Ordner `AP2/Personas/` am Share (seit 05.05.) mit Beispielmaterial zur Persona-Methode (Uni-Graz-Broschüre „KI-Pilotierung: Good Practices", Höfler/Schmieder). Wofür die Personas im Projekt gedacht sind, ist nirgends dokumentiert – offener Punkt fürs Kernteam
-- **Stand Quartalsmeeting 13.07.2026** (bereinigtes Protokoll: `docs/intern/quartalsmeeting-2026-07-13-bereinigt.md`):
+- **Stand Quartalsmeeting 13.07.2026** (bereinigtes Protokoll: `docs/intern/meetings/quartalsmeeting-2026-07-13-bereinigt.md`):
   - **Erste Publikation erschienen** (Deep-Research-Literature-Reviews, Pollin/Sackl-Sharif/Klinger); **zweite Publikation bis Ende 2026** geplant (Umgangsstrategien mit Bias auf Basis der Literatur)
   - **PRISMA-Fokus:** Bias/Bias-Detection in der Sozialen Arbeit
   - **Glossar wird dem FFG-Bericht als Anhang beigegeben**; nach Fertigstellung Weitergabe an Sozialarbeiter:innen möglich
