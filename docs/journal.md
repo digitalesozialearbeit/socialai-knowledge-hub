@@ -1,5 +1,11 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-07-21 – 4Raum-Infrastruktur geklärt (Mail-Thread Martin, 14.–20.07.)
+
+Martin Baumann hat im Mail-Thread nachgeliefert; alle vier Infrastruktur-Fragen an den 4Raum-Datenbankanbieter sind beantwortet und in knowledge.md (AP 4, Stand 17.07.) destilliert: **gpt-oss-120b** self-hosted im Rechenzentrum des Anbieters; KI-Funktionen der Datenbank (Doku-Chatbot, Stil-Textvorschläge, Sprachglättung/Übersetzung, konfigurierbare KI-Formulare, Rechnungserkennung); **Abrechnung pro Anfrage** (1–4 Cent, intransparenter „Aufwand", Kontingente pro Benutzer:in) als realer Barriere-Befund: 4Raum nutzt die Funktionen deshalb bislang kaum. Martins Demo-Angebot („gemeinsam durchklicken") ist angenommen, Termin beim AP-4-Start ab Oktober (Antwort Christian, 20.07.). Memory `ki-tools-praxispartner` aktualisiert. Offen: ob Martin mit dem neuen SOS-IT-Chef bzw. dem scheidenden KI-Zuständigen noch etwas vereinbart (vor September!).
+
+---
+
 ## 2026-07-14 – SOS-Unterlagen + Reorganisation docs/intern
 
 **SOS-Lieferung (AP 4):** Martin Baumann (SOS-KD/4Raum) hat am 13.07. abends per Mail geliefert („Unterlagen KI SOS Kinderdorf"): KI-Richtlinie (03/2025), drei Risikoassessments nach AI Act (01/2026: allgemein, Chatbot **JOSY**, Midjourney) und Auszüge aus der internen Online-Schulung. Alles entpackt, mit docling konvertiert und unter `docs/intern/ap4-partnerdaten/sos/` abgelegt (Original + Markdown). Aus der Mail außerdem: Der 4Raum-Datenbankanbieter setzt mehrere Modelle ein, sichtbar v. a. **GPT-OSS** (Open-Weight, self-hosted); die SOS-IT hat einen neuen Leiter, der KI-Zuständige ist evtl. ab September weg – IT-One-Pager-Anfrage daher vor September stellen. Antwort-Draft mit vier Präzisierungsfragen an den Anbieter liegt in Christians Gmail-Drafts.

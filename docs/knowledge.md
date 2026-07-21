@@ -148,6 +148,11 @@
   - **Erste SOS-Praxis-Prompts:** Die Schulung enthält Beispiel-Prompts für Beratung und Betreuung (Berichtsoptimierung mit einfühlsamem Ton, Konflikt-Deeskalation, Freizeitideen für Wohngruppen, pädagogische Erklärungen) – direkter Input fürs Prompt-Set; Nutzungsdaten wie bei JAW stehen weiter aus
   - **4Raum:** Der Datenbankanbieter setzt mehrere Modelle ein, für Kund:innen sichtbar v. a. **GPT-OSS** (Open-Weight, selbst hostbar); Präzisierungsfragen (Modellvariante, Hosting, Einsatzort, Limits) sind per Mail gestellt (14.07.)
   - **Zeitdruck beim IT-Kontakt:** Die SOS-IT hat einen neuen Leiter, der KI-Zuständige ist evtl. ab September nicht mehr da – die One-Pager-Anfrage zur technischen Infrastruktur sollte vor September laufen
+- **Stand 17.07.2026 (Antworten des 4Raum-Datenbankanbieters, via Martin Baumann; Mails 14.–17.07.):** Alle vier Infrastruktur-Fragen sind beantwortet, der 4Raum-Teil des IT-One-Pagers ist damit im Wesentlichen komplett:
+  - **Modell und Hosting:** **gpt-oss-120b** ist im Einsatz (neben weiteren Modellen); die Modelle laufen **auf eigener Hardware im Rechenzentrum des Anbieters** (self-hosted, kein US-Cloud-Dienst)
+  - **KI-Funktionen der Datenbank:** Doku-Chatbot (Fragen zu einer einzelnen Doku oder übergreifend suchen/zusammenfassen), Textvorschläge mit wählbarem Stil, Sprachglättung bei Diktat, Übersetzung nicht-deutscher Spracheingaben, selbst konfigurierbare Formulare mit hinterlegten KI-Prompts (z. B. Zusammenfassung aller Dokus zu einem Thema), Rechnungserkennung im Buchhaltungsteil (von 4Raum nicht genutzt, ca. 10 Cent pro Rechnung)
+  - **Kostenmodell als Nutzungsbarriere (AP-4-/AP-6-Befund):** Abrechnung pro Anfrage nach intransparentem „Aufwand" (bisher 1–4 Cent pro Anfrage; größere Abfragezeiträume kosten mehr), Euro-Kontingente pro Benutzer:in, ohne Kontingent keine Nutzung. 4Raum nutzt die KI-Funktionen deshalb bislang kaum – ein realer Befund zu Nutzungsbarrieren jenseits von Kompetenz und Recht
+  - Martin bietet an, die Funktionen gemeinsam durchzuklicken – dankend angenommen, Termin beim AP-4-Start ab Oktober (Mail Christian, 20.07.). Ob mit dem neuen IT-Chef bzw. dem KI-Zuständigen von SOS noch etwas vereinbart wird, blieb Martin überlassen
 
 ### AP 5 -Konzeption Prompting-Framework
 - **Zeitraum:** 02/2027 -05/2027
