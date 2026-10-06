@@ -1,5 +1,18 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-10-06 – uniCLOUD-Sync vor dem Quartalsmeeting
+
+WebDAV-Listing des Shares: 149 Einträge, 10 seit dem 13.07. geändert (5 Dateien, 5 Ordnereinträge). Übernommen und konvertiert:
+
+- **Protokoll 6 (13.07.)**, am Share seit 24.09.: `docs/intern/meetings/protokoll-6-2026-07-13.md`. Deckt sich beim AP-4-Teil mit unserem Stand, enthält aber die Vorbesprechung (Publikationspläne AP 4) nicht; die Jour-fixe-Punkte, die laut bereinigtem Transkript auf den 06.10. wandern sollten (u. a. AP-9-Publikations-Policy), stehen weder im Protokoll noch in Sabines Agenda vom 06.10. In unserem Transkript (Action Points) steht für Elke und Martin der Auftrag, bei der eigenen IT den One-Pager zur technischen Infrastruktur anzufragen (Status offen).
+- **AP-2-FFG-Berichtsgliederung**, am 06.10. neu gefasst: RI-Frist für Teil I jetzt „bis Ende 2026“ (06.07.: Ende Oktober; Protokoll 6: spätestens Anfang November). Konvertat vom 13.07. ersetzt.
+- **AP-2-Überblick** (`Literature Review Überblick.docx`, am 06.10. bearbeitet): erstes Konvertat, Änderungen mangels Vorversion nicht feststellbar.
+- **Begleitforschungsbericht final** (V2 + PDF, 15.07.): Wortvergleich gegen V1 mit 56 Änderungsstellen, überwiegend redaktionell. Inhaltlich: Gender-Hinweis mit Ankündigung, in weiteren APs verstärkt Frauen einzuladen; JAW-Detail zur internen KI gestrichen; SOS-Chatbot ergänzt; Mayring (2015) ergänzt.
+
+knowledge.md (Quellenzeile, AP 2, AP 3, AP 4) nachgezogen; JAW- und Berichtsdetails bleiben intern. AP-4-Ordner am Share weiter leer.
+
+---
+
 ## 2026-07-21 – 4Raum-Infrastruktur geklärt (Mail-Thread Martin, 14.–20.07.)
 
 Martin Baumann hat im Mail-Thread nachgeliefert; alle vier Infrastruktur-Fragen an den 4Raum-Datenbankanbieter sind beantwortet und in knowledge.md (AP 4, Stand 17.07.) destilliert: **gpt-oss-120b** self-hosted im Rechenzentrum des Anbieters; KI-Funktionen der Datenbank (Doku-Chatbot, Stil-Textvorschläge, Sprachglättung/Übersetzung, konfigurierbare KI-Formulare, Rechnungserkennung); **Abrechnung pro Anfrage** (1–4 Cent, intransparenter „Aufwand", Kontingente pro Benutzer:in) als realer Barriere-Befund: 4Raum nutzt die Funktionen deshalb bislang kaum. Martins Demo-Angebot („gemeinsam durchklicken") ist angenommen, Termin beim AP-4-Start ab Oktober (Antwort Christian, 20.07.). Memory `ki-tools-praxispartner` aktualisiert. Offen: ob Martin mit dem neuen SOS-IT-Chef bzw. dem scheidenden KI-Zuständigen noch etwas vereinbart (vor September!).

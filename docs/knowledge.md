@@ -1,6 +1,6 @@
 # Knowledge: SocialAI Projekt
 
-> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026), Jour-fixe-Protokoll (09.04.2026), Protokollen 4+5 (27.05./09.06.2026), der Workshop-Nachbereitung (29./30.06.2026) sowie dem uniCLOUD-Share-Sync (13.07.2026)
+> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026), Jour-fixe-Protokoll (09.04.2026), Protokollen 4+5 (27.05./09.06.2026), der Workshop-Nachbereitung (29./30.06.2026), Protokoll 6 (13.07.2026) sowie den uniCLOUD-Share-Syncs (13.07. und 06.10.2026)
 >
 > **Dieses Dokument ist die autoritative Referenz.** Rohdaten in `sources/` enthalten OCR-Artefakte und sollen nicht direkt referenziert werden.
 
@@ -77,6 +77,11 @@
   - **Erster FFG-Zwischenbericht: Ende Februar 2027**; ungewöhnlich: Die FFG will diesmal Inhalte sehen. Infomaterialien (AP 3) sind mit dem Zwischenbericht abzugeben
   - Sprachregelung: statt „Use Cases" durchgängig **„Anwendungsfelder"**
   - Susi lädt AP-2-Literatur und die erste Publikation in die uniCLOUD
+  - Offizielles Protokoll 6 (Uni Graz): „Rahmenanalyse FFG (bis spätestens Anfang November 2026)“
+- **Stand 06.10.2026 (uniCLOUD-Sync):** Beide AP-2-Steuerdokumente am Share wurden am 06.10. bearbeitet
+  - **FFG-Berichtsgliederung neu gefasst:** RI-Frist für Teil I (rechtswissenschaftliche Rahmenanalyse) jetzt **„bis Ende 2026“** statt Ende Oktober. Damit stehen drei Fristen nebeneinander (Gliederung 06.07.: Ende Oktober; Protokoll 6: spätestens Anfang November; Gliederung 06.10.: Ende 2026) – die jüngste ist die Gliederung, ein Beschluss dazu ist nicht dokumentiert
+  - **Neu im RI-Teil:** Rahmen aus dem Antrag (Gender, Diversität, Chancengleichheit, Fairness, Verantwortung, Transparenz, Datenschutz, Ethik, Soziale Arbeit), die vier Leitfragen des Reviews (bekannte Bias in generativer KI, Ansätze zur Reduktion, Forschungslücken, KI-Einsatz in der Sozialen Arbeit), Schwerpunkt auf **Verantwortung, Transparenz und Datenschutz** als Kontextwissen; Glossar-Aspekte sollen zitiert und ggf. ergänzt werden
+  - Konvertate: `docs/intern/ap2-literatur/ffg-bericht-gliederung.md` (ersetzt den Stand 06.07.), `docs/intern/ap2-literatur/literature-review-ueberblick.md` (Kopfzeile weiter „Stand: 9. Juni 2026“; was am 06.10. geändert wurde, ist mangels Vorversion nicht feststellbar)
 
 ### AP 3 -Innovationsworkshops mit Führungskräften
 - **Zeitraum:** 06/2026 -07/2026 (vorgezogen beim Kick-off, urspr. 07–10/2026)
@@ -113,7 +118,7 @@
   - **Anwendungsfelder-Dokument** (4 Use-Case-Felder: Fallarbeit, Berichtswesen/Administration, Contenterstellung, Chatbots in der Beratung) in den Hub übernommen: `wissen/anwendungsfelder.md`
 - **Stand Juli 2026 (abgeschlossen):**
   - Workshops am **29./30.06.2026** an der Uni Graz durchgeführt: Tag 1 Technik (DHC), Tag 2 Recht/Ethik (RI). **14 Teilnehmende** (Antragsziel 10–12 erfüllt; Jour-fixe-Ziel 20–25 nicht erreicht)
-  - Beide Meilensteine vorzeitig erreicht: 3.1 Abhaltung (Plan 11.09.2026) am 29./30.06.; 3.2 Schriftlicher Bericht (Plan 25.10.2026) liegt seit 07/2026 vor: Bericht zur wissenschaftlichen Begleitforschung (Klinger, Sackl-Sharif & Schmieder, Uni Graz; V1 intern in `docs/intern/`, Publikationsregeln beachten)
+  - Beide Meilensteine vorzeitig erreicht: 3.1 Abhaltung (Plan 11.09.2026) am 29./30.06.; 3.2 Schriftlicher Bericht (Plan 25.10.2026) liegt seit 07/2026 vor: Bericht zur wissenschaftlichen Begleitforschung (Klinger, Sackl-Sharif & Schmieder, Uni Graz; V1 und finale Fassung intern in `docs/intern/`, Publikationsregeln beachten)
   - Nachlese im Hub: `workshops/innovationsworkshop-2026-06-29.md`, `workshops/innovationsworkshop-2026-06-30.md`; aus Tag 2 entstand die Wissensseite `recht/ki-recht-grundlagen.md`
   - Offen aus den Deliverables: **Informationsmaterialien zu AI Act und DSGVO** (RI); die Recht-Wissensseite deckt einen ersten Teil ab
   - **Begleitforschungs-Materialien am Share** (`AP3/wissenschaftliche Begleitung/`, Stand 06.07., Sync 13.07.): Beobachtungsprotokolle Tag 1 + Tag 2 (folienweise, mit Wortmeldungen), Methodenkonzept (zusammenfassende Inhaltsanalyse nach Kuckartz, MAXQDA24), Kontextliteratur (Anastasiadis & Lembacher 2024). Konvertate zusammen mit Kurzfragebogen und RI-Ablaufplan in `docs/intern/`; die Protokolle enthalten Klarnamen und bleiben intern. Der Ordner `Teilnehmende/` wurde nicht übernommen (personenbezogen)
@@ -122,6 +127,7 @@
   - **RI-Infomaterialien konkretisiert:** DSGVO-Infomaterial mit speziellem Bezug zur Sozialen Arbeit bis **Mitte Oktober 2026**, danach Feedback-Schleife mit den Praxispartnern; Abgabe an die FFG mit dem Zwischenbericht Ende Februar 2027. Zäsur-Prinzip wegen laufender Gesetzgebung (Marktüberwachungsbehörden in Österreich fehlen noch)
   - **Gender-Beobachtung:** Teilnehmende überwiegend männlich gelesen (sonst bei KI-/Digitalisierungsworkshops oft umgekehrt); Auswahl lief über Selbstmeldung. **Learning für die Co-Creation-Workshops: gezielt weiblich gelesene Personen ansprechen**
   - **Begleitforschungsbericht** bleibt FFG-intern (keine Publikation, keine Verteilung an Fachkräfte); wird beim Orientierungsleitfaden (AP 8) wieder aufgegriffen. Rückmeldungen der Partner erbeten
+- **Stand 06.10.2026 (uniCLOUD-Sync): Begleitforschungsbericht final** (V2 und PDF, beide 15.07.2026; Konvertat `docs/intern/workshops-2026-06/begleitforschung/bericht-final.md`). Gegenüber V1 überwiegend redaktionell (u. a. durchgängig „AI Literacies“); inhaltlich neu ist ein Hinweis, dass das männlich dominierte Teilnehmendenfeld nicht dem überwiegend weiblichen Feld der Sozialen Arbeit entspricht, mit der Ankündigung, **in weiteren Arbeitspaketen verstärkt Frauen einzuladen** – relevant schon für die Rekrutierung in AP 4 (Think-Aloud)
   - **RI-Folien:** Verlinkung in der öffentlichen Nachlese im Meeting genehmigt und am selben Tag umgesetzt; der Nachlese-Link darf breit weitergegeben werden
 
 ### AP 4 -Experimentelle Analyse Prompt-Engineering
@@ -141,6 +147,7 @@
   - **Deliverable-Lesart in Diskussion:** statt striktem „standardisiertem Set" ggf. Empfehlungen (was wichtig ist, was zu bedenken ist), abgestimmt mit den Praxispartner:innen
   - **Geplante Erhebungen bei den Praxispartnern** (Konkretisierung ab Oktober): One-Pager der IT zur technischen Infrastruktur (Systeme, Anbieter, Modelle, Hosting; als Snapshot jetzt und am Projektende; Vertraulichkeit ggf. per NDA oder über den Konsortialvertrag), Beobachtung/Think-Aloud bei Fachkräften, die KI aktiv nutzen, evtl. Exkursion zu Einrichtungen in Graz/Steiermark; SOS-internes Vernetzungstreffen von KI-Interessierten als möglicher Rekrutierungskanal (frühestens Herbst)
   - SOS-Prompts für das Prompt-Set stehen weiterhin aus
+  - **Offizielles Protokoll 6** (am Share seit 24.09.; Konvertat `docs/intern/meetings/protokoll-6-2026-07-13.md`) hält zu AP 4 nur die Ideen fest, die **„beim nächsten Quartalsmeeting nochmals aufgegriffen“** werden (06.10.2026): Exkursion und IT-Gespräche (Susi), Thinking-Aloud (Sabine), Infrastruktur-Dokumentation mit Möglichkeit zur Nachfrage (Chris; die **SOS-IT sitzt in Innsbruck**, ggf. Online-Meeting), Feldforschung zum Nutzungsverhalten, KI-Café von SOS (Martin). Die Vorbesprechung mit den Publikationsplänen (Fallvignetten, zwei Papers) ist dort nicht protokolliert, ebenso wenig der One-Pager-Vorschlag mit NDA-Frage; diese stammen nur aus unserem bereinigten Transkript
 - **Stand 14.07.2026 (SOS-Unterlagen, Mail Martin Baumann vom 13.07.):** SOS-KD hat KI-Richtlinie (Dienstanweisung, 03/2025, überarbeitet 01/2026), AI-Act-Risikoassessments (Vorlage + ausgefüllt für den internen Chatbot und die Bildgenerierung) und Auszüge aus der verpflichtenden KI-Schulung geliefert. Interne Partnerdaten, daher **nicht im öffentlichen Hub** (Konvertate lokal in `docs/intern/ap4-partnerdaten/sos/`). Kernbefunde:
   - **Formalisierte KI-Governance:** Freigabeprozess über KI-Beauftragte:n mit Risikoassessment je System (AI-Act-Risikoklassen, Bias als eigenes Prüfkriterium), Hochrisiko nur mit Genehmigung der Geschäftsführung, verpflichtende Grundschulung für alle Mitarbeitenden, Human-in-the-Loop-Pflicht, Kennzeichnungspflicht für KI-Bilder und -AV (für Texte explizit nicht), jährliche Evaluierung
   - **Interner Chatbot „JOSY"** (früher „Hermine"): GPT-basiert, intern gesichert betrieben, als „begrenztes Risiko" eingestuft und seit 10/2025 freigegeben (halbjährliches Review); Varianten u. a. mit Websuche und Intranet-RAG. Daneben weitere KI im Einsatz (Bildgenerierung, Rechnungswesen, Fundraising-Analytik)
