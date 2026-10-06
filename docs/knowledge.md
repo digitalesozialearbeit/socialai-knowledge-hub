@@ -283,7 +283,7 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 
 ## Offene Punkte für das nächste Quartalsmeeting (Stand 13.07.2026)
 
-> Beim Quartalsmeeting am 13.07.2026 wurden diese Punkte nicht behandelt; sie wandern auf die Agenda des nächsten Quartalsmeetings am **06.10.2026, 13:00–14:30**. Sabines Agenda dafür (Einladungsmail vom 24.09.) führt sie nicht; unter „Sonstiges" einbringen.
+> Beim Quartalsmeeting am 13.07.2026 wurden diese Punkte nicht behandelt; sie wandern auf die Agenda des nächsten Quartalsmeetings am **06.10.2026, 13:00–14:30**. Sabines Agenda dafür (Einladungsmail vom 24.09.) führt davon nur AP 6 (Erhebungszeiträume März 2027 und März 2028); die übrigen unter „Sonstiges" einbringen.
 
 1. **AP 2:** Ergebnisse des Kernteam-Treffens vom 01.07.2026 in den Hub nachtragen (Protokoll/uniCLOUD)
 2. **AP 5:** RI-Stunden-Verbuchung bis AP 5 klären (offen seit Kick-off)
