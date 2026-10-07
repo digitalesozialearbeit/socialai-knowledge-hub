@@ -14,6 +14,8 @@ In knowledge.md destilliert (Quellenzeile, AP 2, AP 3, AP 4, AP 6, Offene Punkte
 - **Nicht geklärt:** ob die Journal-Einreichung (erste Fassung Dezember, Endfassung Februar) die für Ende 2026 geplante zweite Publikation ist.
 - **Nächstes Quartalsmeeting: 21.01.2027, 13:30–15:00.**
 
+**Nachtrag Protokoll 7** (am Share seit 06.10., Konvertat `docs/intern/meetings/protokoll-7-2026-10-06.md`): bringt konkrete AP-4-Fristen, die in der Aufnahme nicht vorkommen (One-Pager und Think-Aloud-Teilnehmende 31.10., Promptliste 23.10./10.11., SOS-IT-Ansprechperson und KI-Café-Termin 17.10.), und nennt Christian für die Zotero-Freigabe. Abweichungen (Uhrzeit 14:00–15:40 statt laut Einladung 13:00; Elke und Martin fehlen in der Teilnehmendenliste) stehen in der internen Zusammenfassung. knowledge.md (Quellenzeile, AP 2, AP 4) nachgezogen. One-Pager und Think-Aloud gehen nach Festlegung von Christian in Paper 2.
+
 Partner-Interna (personelle Übergangsphase am RI, KI-Café-Referenten, Diskussionen in den ARGEn) stehen nur in der internen Zusammenfassung, weil das Hub-Repo public ist.
 
 ---

@@ -1,6 +1,6 @@
 # Knowledge: SocialAI Projekt
 
-> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026), Jour-fixe-Protokoll (09.04.2026), Protokollen 4+5 (27.05./09.06.2026), der Workshop-Nachbereitung (29./30.06.2026), Protokoll 6 (13.07.2026), den uniCLOUD-Share-Syncs (13.07. und 06.10.2026) sowie dem bereinigten Transkript des Quartalsmeetings vom 06.10.2026
+> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026), Jour-fixe-Protokoll (09.04.2026), Protokollen 4+5 (27.05./09.06.2026), der Workshop-Nachbereitung (29./30.06.2026), Protokoll 6 (13.07.2026), den uniCLOUD-Share-Syncs (13.07. und 06.10.2026) sowie dem bereinigten Transkript und Protokoll 7 des Quartalsmeetings vom 06.10.2026
 >
 > **Dieses Dokument ist die autoritative Referenz.** Rohdaten in `sources/` enthalten OCR-Artefakte und sollen nicht direkt referenziert werden.
 
@@ -88,7 +88,7 @@
   - **FFG-Zwischenbericht: Abgabe „am 28.2."** (das Jahr 2027 folgt aus dem Stand 13.07.; AP 1 oben nennt für die Zwischenberichte noch den Antragsstand 01.10.2027); AP 2 und AP 3 sollen 2026 fertig sein und mitgehen
   - **PRISMA-Update:** 160 neue Texte, insgesamt 302 (Susi); Christopher hat dafür eine eigene Review-Umgebung gebaut
   - **Publikation:** Einreichung bei einem Journal-Call zu Adult Skills und Literacies (Digital/AI Literacies) durch Susi, Sabine und Christopher; eine erste Fassung könnte im Dezember 2026 eingereicht werden, die Endfassung spätestens im Februar 2027. Ob das die oben (Stand 13.07.) für Ende 2026 geplante zweite Publikation ist, sagt die Aufnahme nicht; wenn ja, verschiebt sie sich und liegt nach dem AP-9-Meilenstein „Publikation Lit-Review" (26.11.2026)
-  - **Zotero-Bibliothek** zum Review soll öffentlich werden, damit die Praxispartner Texte ohne Einladung weitergeben können; Bewertungen folgen später
+  - **Zotero-Bibliothek** zum Review soll öffentlich werden, damit die Praxispartner Texte ohne Einladung weitergeben können; Bewertungen folgen später. Laut Protokoll 7 schaltet Christian den Link frei
 
 ### AP 3 -Innovationsworkshops mit Führungskräften
 - **Zeitraum:** 06/2026 -07/2026 (vorgezogen beim Kick-off, urspr. 07–10/2026)
@@ -172,9 +172,10 @@
   - **Experimente abgeschlossen**, größer angelegt als die der Klagenfurter LV; Christian und Susi ordnen die Ergebnisse ein, sie gehen in ein Paper. AP 4 liegt zeitlich etwas voraus. Kernbefund laut Christian: Die Unterschiede zwischen Modellen (Frontier- vs. Open-Weights-Modell) sind riesig und für die Praxis das größte Problem
   - **IT-One-Pager:** Christian schickt Elke und Martin ein klares Template/Formular (Modelle, Anbieter, Hosting, Limits, Änderungen seit Juli), das sie an ihre IT weitergeben
   - **Promptliste gegenlesen:** Elke und Martin ordnen die Beispielprompts der Experimente ein (kommt bei uns vor / ungefähr / nicht)
-  - **Think-Aloud mit Fachkräften:** bis **31.10.2026** Terminfindung angestoßen und Teilnehmende gefunden, Durchführung **bis Ende 2026**; online oder vor Ort. One-Pager und Think-Aloud könnten in ein zweites Paper gehen
+  - **Think-Aloud mit Fachkräften:** laut Aufnahme bis **31.10.2026** Terminfindung angestoßen und Teilnehmende gefunden, Durchführung **bis Ende 2026** (zur Zuordnung siehe Fristen laut Protokoll 7 unten); online oder vor Ort. One-Pager und Think-Aloud gehen nach Festlegung von Christian (07.10.) in ein zweites Paper, nicht in Paper 1
   - **Demo der Doku-Software von 4Raum:** Der Anbieter hat zugesagt; Martin holt Terminvorschläge ein (dabei idealerweise eine Person, die die Software täglich nutzt, und Sabine oder Susi)
   - **KI-Café (SOS):** Statt Teilnahme genügen die Aufzeichnungen; Martin lädt sie in einen uniCLOUD-Ordner
+  - **Fristen laut Protokoll 7** (nicht in der Aufnahme): IT-One-Pager von Elke und Martin bis **31.10.**; je zwei bis drei Fachkräfte für das Think-Aloud bis **31.10.**; Promptliste: Versand **23.10.**, Rückmeldung bis **10.11.**; von SOS die neue IT-Ansprechperson und der nächste KI-Café-Termin bis **17.10.** Das Protokoll ordnet „Terminfindung bis 31.10., Durchführung bis Ende 2026" der Software-Demo zu; in der Aufnahme ist nicht eindeutig, ob das Think-Aloud oder die Demo gemeint war
 
 ### AP 5 -Konzeption Prompting-Framework
 - **Zeitraum:** 02/2027 -05/2027
