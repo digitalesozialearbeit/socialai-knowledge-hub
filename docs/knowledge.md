@@ -191,7 +191,7 @@
 - **Meilensteine:** Fragebogen finalisiert (01.10.2027), Befragung abgeschlossen (03.11.2027), Ergebnisbericht (10.03.2028)
 - **Deliverables:** Standardisierter Fragebogen, anonymisierter Datensatz (SPSS/CSV), Auswertungsbericht mit Bedarfsanalyse (~40 S.)
 - **Stunden:** Uni Graz 720h, SOS-KD 50h, JAW 50h, RI 0h, DHC 0h
-- **Stand Quartalsmeeting 06.10.2026:** Zwei Wellen im **März 2027 und März 2028** (ein Jahr Abstand, vergleichbar), Planung ab Jänner 2027 nach Abschluss des Literature Reviews. Das RI liefert höchstens per Mail rechtliche Hinweise zu Items. Zeitraum (06/2027–03/2028) und Meilensteine oben stehen weiter auf dem Antragsstand und passen zur ersten Welle im März 2027 nicht
+- **Stand Quartalsmeeting 06.10.2026:** Zwei Wellen im **März 2027 und März 2028** (ein Jahr Abstand, vergleichbar), Planung ab Jänner 2027 nach Abschluss des Literature Reviews. Das RI liefert höchstens per Mail rechtliche Hinweise zu Items. Zeitraum (06/2027–03/2028) und Meilensteine oben stehen weiter auf dem Antragsstand und passen nicht: Der Zeitraum beginnt erst nach der ersten Welle im März 2027, und der Meilenstein „Ergebnisbericht" (10.03.2028) fällt in die zweite Welle im März 2028
 
 ### AP 7 -Co-Creation-Workshops
 - **Zeitraum:** 03/2028 -07/2028
