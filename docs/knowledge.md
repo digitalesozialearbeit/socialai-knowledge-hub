@@ -82,12 +82,12 @@
   - **FFG-Berichtsgliederung neu gefasst:** RI-Frist für Teil I (rechtswissenschaftliche Rahmenanalyse) jetzt **„bis Ende 2026"** statt Ende Oktober. Damit stehen drei Fristen nebeneinander (Gliederung 06.07.: Ende Oktober; Protokoll 6: spätestens Anfang November; Gliederung 06.10.: Ende 2026) – die jüngste ist die Gliederung, ein Beschluss dazu ist nicht dokumentiert
   - **Neu im RI-Teil der Gliederung** (wortgleich übernommen aus dem Lit-Review-Überblick, Stand 09.06.): Rahmen aus dem Antrag (Gender, Diversität, Chancengleichheit, Fairness, Verantwortung, Transparenz, Datenschutz, Ethik, Soziale Arbeit), die vier Leitfragen des Reviews (bekannte Bias in generativer KI, Ansätze zur Reduktion, Forschungslücken, KI-Einsatz in der Sozialen Arbeit), Schwerpunkt auf **Verantwortung, Transparenz und Datenschutz** als Kontextwissen; Glossar-Aspekte sollen zitiert und ggf. ergänzt werden
   - Konvertate: `docs/intern/ap2-literatur/ffg-bericht-gliederung.md` (ersetzt den Stand 06.07.), `docs/intern/ap2-literatur/literature-review-ueberblick.md` (Kopfzeile weiter „Stand: 9. Juni 2026"; was am 06.10. geändert wurde, ist mangels Vorversion nicht feststellbar)
-- **Stand Quartalsmeeting 06.10.2026** (bereinigtes Transkript und Zusammenfassung in `docs/intern/meetings/`; Aufnahme, nicht am Audio geprüft):
-  - **RI-Frist für Teil I mündlich bestätigt: bis Ende 2026** (Sabine, die den Bericht verantwortet). Damit ist die Frist aus der Gliederung vom 06.10. die geltende; die älteren Angaben (Ende Oktober, Anfang November) sind überholt
+- **Stand Quartalsmeeting 06.10.2026** (bereinigtes Transkript und Zusammenfassung in `docs/intern/meetings/`; Aufnahme, nicht am Audio geprüft; Sprecher großteils erschlossen, nicht gehört):
+  - **RI-Frist für Teil I mündlich bestätigt: bis Ende 2026** (vermutlich Sabine, die den Bericht verantwortet). Damit ist die Frist aus der Gliederung vom 06.10. die geltende; die älteren Angaben (Ende Oktober, Anfang November) sind überholt
   - **Umfang Teil I bewusst knapp** („muss nicht 20 Seiten sein"): welche Gesetze, warum wichtig; Schwerpunkt Verantwortung, Transparenz, Datenschutz; Basis sind die Infomaterialien aus AP 3. Dazu die Antragsfrage, ob es Texte zu Recht, LLMs und Sozialer Arbeit gibt (wenn nicht, ist das ein Ergebnis). Madeleine schreibt direkt ins Template auf der uniCLOUD
-  - **FFG-Zwischenbericht: Abgabe 28.02.2027**; AP 2 und AP 3 sollen 2026 fertig sein und mitgehen
+  - **FFG-Zwischenbericht: Abgabe „am 28.2."** (das Jahr 2027 folgt aus dem Stand 13.07.; AP 1 oben nennt für die Zwischenberichte noch den Antragsstand 01.10.2027); AP 2 und AP 3 sollen 2026 fertig sein und mitgehen
   - **PRISMA-Update:** 160 neue Texte, insgesamt 302 (Susi); Christopher hat dafür eine eigene Review-Umgebung gebaut
-  - **Publikation:** Einreichung bei einem Journal-Call zu Adult Skills und Literacies (Digital/AI Literacies) durch Susi, Sabine und Christopher; erste Fassung Dezember 2026, Endfassung spätestens Februar 2027
+  - **Publikation:** Einreichung bei einem Journal-Call zu Adult Skills und Literacies (Digital/AI Literacies) durch Susi, Sabine und Christopher; eine erste Fassung könnte im Dezember 2026 eingereicht werden, die Endfassung spätestens im Februar 2027. Ob das die oben (Stand 13.07.) für Ende 2026 geplante zweite Publikation ist, sagt die Aufnahme nicht; wenn ja, verschiebt sie sich und liegt nach dem AP-9-Meilenstein „Publikation Lit-Review" (26.11.2026)
   - **Zotero-Bibliothek** zum Review soll öffentlich werden, damit die Praxispartner Texte ohne Einladung weitergeben können; Bewertungen folgen später
 
 ### AP 3 -Innovationsworkshops mit Führungskräften
@@ -173,7 +173,7 @@
   - **IT-One-Pager:** Christian schickt Elke und Martin ein klares Template/Formular (Modelle, Anbieter, Hosting, Limits, Änderungen seit Juli), das sie an ihre IT weitergeben
   - **Promptliste gegenlesen:** Elke und Martin ordnen die Beispielprompts der Experimente ein (kommt bei uns vor / ungefähr / nicht)
   - **Think-Aloud mit Fachkräften:** bis **31.10.2026** Terminfindung angestoßen und Teilnehmende gefunden, Durchführung **bis Ende 2026**; online oder vor Ort. One-Pager und Think-Aloud könnten in ein zweites Paper gehen
-  - **Demo der Doku-Software SocialDB** (die Datenbank von 4Raum, Stand 17.07. oben): Der Anbieter (Gutleben Systems, Graz) hat zugesagt; Martin holt Terminvorschläge ein (dabei idealerweise eine Person, die die Software täglich nutzt, und Sabine oder Susi)
+  - **Demo der Doku-Software von 4Raum:** Der Anbieter hat zugesagt; Martin holt Terminvorschläge ein (dabei idealerweise eine Person, die die Software täglich nutzt, und Sabine oder Susi)
   - **KI-Café (SOS):** Statt Teilnahme genügen die Aufzeichnungen; Martin lädt sie in einen uniCLOUD-Ordner
 
 ### AP 5 -Konzeption Prompting-Framework
@@ -191,7 +191,7 @@
 - **Meilensteine:** Fragebogen finalisiert (01.10.2027), Befragung abgeschlossen (03.11.2027), Ergebnisbericht (10.03.2028)
 - **Deliverables:** Standardisierter Fragebogen, anonymisierter Datensatz (SPSS/CSV), Auswertungsbericht mit Bedarfsanalyse (~40 S.)
 - **Stunden:** Uni Graz 720h, SOS-KD 50h, JAW 50h, RI 0h, DHC 0h
-- **Stand Quartalsmeeting 06.10.2026:** Zwei Wellen im **März 2027 und März 2028** (ein Jahr Abstand, vergleichbar), Planung ab Jänner 2027 nach Abschluss des Literature Reviews. Das RI liefert höchstens per Mail rechtliche Hinweise zu Items. Die Meilensteine oben stehen weiter auf dem Antragsstand
+- **Stand Quartalsmeeting 06.10.2026:** Zwei Wellen im **März 2027 und März 2028** (ein Jahr Abstand, vergleichbar), Planung ab Jänner 2027 nach Abschluss des Literature Reviews. Das RI liefert höchstens per Mail rechtliche Hinweise zu Items. Zeitraum (06/2027–03/2028) und Meilensteine oben stehen weiter auf dem Antragsstand und passen zur ersten Welle im März 2027 nicht
 
 ### AP 7 -Co-Creation-Workshops
 - **Zeitraum:** 03/2028 -07/2028
@@ -301,7 +301,7 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 
 > Beim Quartalsmeeting am 13.07.2026 wurden diese Punkte nicht behandelt; sie wandern auf die Agenda des nächsten Quartalsmeetings am **06.10.2026, 13:00–14:30**. Sabines Agenda dafür (Einladungsmail vom 24.09.) führt davon nur AP 6 (Erhebungszeiträume März 2027 und März 2028); die übrigen unter „Sonstiges" einbringen.
 >
-> **Nach dem Quartalsmeeting vom 06.10.2026:** Punkt 3 ist entschieden (siehe AP 6). Zu Punkt 2 sagte Sabine, das RI sei in AP 4 bis 7 „gar nicht mit eingeplant“; das widerspricht der Kick-off-Änderung zu AP 5 (10–20h für das RI) und ist damit weiter offen. Die Punkte 1 und 4 bis 7 kommen in der Aufnahme nicht vor; die ersten rund neun Minuten des Meetings sind allerdings nicht aufgenommen. **Nächstes Quartalsmeeting: 21.01.2027, 13:30 bis 15:00.**
+> **Nach dem Quartalsmeeting vom 06.10.2026:** Punkt 3 ist entschieden (siehe AP 6). Zu Punkt 2 meinte Sabine, nach eigener Aussage nicht mehr ganz sicher, das RI sei in AP 4 bis 7 „gar nicht mit eingeplant"; die Kick-off-Änderung zu AP 5 (10–20h für das RI) kam nicht zur Sprache, der Punkt bleibt offen. Die Punkte 1 und 4 bis 7 kommen in der Aufnahme nicht vor; sie beginnt allerdings erst um 13:09 (Dateiname, Sitzungsbeginn laut Einladung 13:00), mitten im Punkt „Personelles". **Nächstes Quartalsmeeting: 21.01.2027, 13:30 bis 15:00.**
 
 1. **AP 2:** Ergebnisse des Kernteam-Treffens vom 01.07.2026 in den Hub nachtragen (Protokoll/uniCLOUD)
 2. **AP 5:** RI-Stunden-Verbuchung bis AP 5 klären (offen seit Kick-off)
