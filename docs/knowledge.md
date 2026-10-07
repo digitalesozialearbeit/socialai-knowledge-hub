@@ -88,7 +88,7 @@
   - **FFG-Zwischenbericht: Abgabe „am 28.2."** (das Jahr 2027 folgt aus dem Stand 13.07.; AP 1 oben nennt für die Zwischenberichte noch den Antragsstand 01.10.2027; Berichtszeitraum laut Protokoll 7: 01.02.2026 bis 31.01.2027); AP 2 und AP 3 sollen 2026 fertig sein und mitgehen
   - **PRISMA-Update:** 160 neue Texte, insgesamt 302 (Susi); Christopher hat dafür eine eigene Review-Umgebung gebaut
   - **Publikation:** Einreichung bei einem Journal-Call zu Adult Skills und Literacies (Digital/AI Literacies) durch Susi, Sabine und Christopher; eine erste Fassung könnte im Dezember 2026 eingereicht werden, die Endfassung spätestens im Februar 2027. Ob das die oben (Stand 13.07.) für Ende 2026 geplante zweite Publikation ist, sagt die Aufnahme nicht; wenn ja, verschiebt sie sich und liegt nach dem AP-9-Meilenstein „Publikation Lit-Review" (26.11.2026)
-  - **Zotero-Bibliothek** zum Review soll öffentlich werden, damit die Praxispartner Texte ohne Einladung weitergeben können; Bewertungen folgen später. Laut Protokoll 7 schaltet Christian den Link frei
+  - **Zotero-Bibliothek** zum Review soll öffentlich werden, damit die Praxispartner Texte ohne Einladung weitergeben können; Bewertungen folgen später. Protokoll 7 nennt Christian für die Freigabe; er ist aber nicht Mitglied der Gruppe und kann sie nicht öffentlich schalten (07.10.). In der Aufnahme regt er an, dass die Uni-Graz-Seite die Bibliothek öffentlich macht („Ihr könnt jetzt das Zotero auch public machen", 13:49). Wer es tut, ist damit offen
 
 ### AP 3 -Innovationsworkshops mit Führungskräften
 - **Zeitraum:** 06/2026 -07/2026 (vorgezogen beim Kick-off, urspr. 07–10/2026)
