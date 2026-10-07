@@ -1,5 +1,22 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-10-07 – Quartalsmeeting 06.10. transkribiert und destilliert
+
+Google-Recorder-Aufnahme „6. Okt. um 13-09" (90:47 min) mit Whisper large-v3 transkribiert (1269 Segmente), mit dem Recorder-Text zu einem bereinigten Transkript zusammengeführt und zusammengefasst: `docs/intern/meetings/6. Okt. um 13-09.transkript.md` und `quartalsmeeting-2026-10-06-zusammenfassung.md`. Nicht am Audio geprüft; Sprecher großteils erschlossen. Die Aufnahme beginnt erst um 13:09, die ersten rund neun Minuten fehlen. Rohtranskripte, Audio und Zip lokal gelöscht, das Audio liegt nur noch in Google Recorder.
+
+In knowledge.md destilliert (Quellenzeile, AP 2, AP 3, AP 4, AP 6, Offene Punkte):
+
+- **RI-Frist Teil I: bis Ende 2026**, mündlich bestätigt; die drei nebeneinanderstehenden Fristen (Eintrag vom 06.10.) sind damit aufgelöst. FFG-Zwischenbericht: Abgabe 28.02.2027.
+- **RI-Infomaterialien:** Entwurf bis Mitte Oktober an die Praxispartner, gut zwei Wochen Feedback, Einarbeitung Ende Oktober/Anfang November.
+- **AP 6:** Befragungen im März 2027 und März 2028, Planung ab Jänner 2027.
+- **AP 4:** Experimente abgeschlossen; Christian schickt das IT-One-Pager-Template; Promptliste gegenlesen; Think-Aloud bis 31.10. anstoßen und bis Ende 2026 durchführen; Demo der 4Raum-Doku-Software SocialDB (Anbieter Gutleben Systems, Graz; beides von Christian nachgereicht), Martin holt Termine ein.
+- **Widerspruch:** Laut Sabine ist das RI in AP 4 bis 7 nicht eingeplant, laut Kick-off bekommt es in AP 5 10–20h. Bleibt als offener Punkt stehen.
+- **Nächstes Quartalsmeeting: 21.01.2027, 13:30–15:00.**
+
+Partner-Interna (personelle Übergangsphase am RI, KI-Café-Referenten, Diskussionen in den ARGEn) stehen nur in der internen Zusammenfassung, weil das Hub-Repo public ist.
+
+---
+
 ## 2026-10-06 – uniCLOUD-Sync vor dem Quartalsmeeting
 
 WebDAV-Listing des Shares: 149 Einträge, 10 seit dem 13.07. geändert (5 Dateien, 5 Ordnereinträge). Übernommen und konvertiert:

@@ -1,6 +1,6 @@
 # Knowledge: SocialAI Projekt
 
-> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026), Jour-fixe-Protokoll (09.04.2026), Protokollen 4+5 (27.05./09.06.2026), der Workshop-Nachbereitung (29./30.06.2026), Protokoll 6 (13.07.2026) sowie den uniCLOUD-Share-Syncs (13.07. und 06.10.2026)
+> Destilliert aus: FFG-Kick-Off-Folien (24.02.2026), Kick-off-Fotoprotokoll (25.02.2026), Jour-fixe-Protokoll (09.04.2026), Protokollen 4+5 (27.05./09.06.2026), der Workshop-Nachbereitung (29./30.06.2026), Protokoll 6 (13.07.2026), den uniCLOUD-Share-Syncs (13.07. und 06.10.2026) sowie dem bereinigten Transkript des Quartalsmeetings vom 06.10.2026
 >
 > **Dieses Dokument ist die autoritative Referenz.** Rohdaten in `sources/` enthalten OCR-Artefakte und sollen nicht direkt referenziert werden.
 
@@ -82,6 +82,13 @@
   - **FFG-Berichtsgliederung neu gefasst:** RI-Frist für Teil I (rechtswissenschaftliche Rahmenanalyse) jetzt **„bis Ende 2026"** statt Ende Oktober. Damit stehen drei Fristen nebeneinander (Gliederung 06.07.: Ende Oktober; Protokoll 6: spätestens Anfang November; Gliederung 06.10.: Ende 2026) – die jüngste ist die Gliederung, ein Beschluss dazu ist nicht dokumentiert
   - **Neu im RI-Teil der Gliederung** (wortgleich übernommen aus dem Lit-Review-Überblick, Stand 09.06.): Rahmen aus dem Antrag (Gender, Diversität, Chancengleichheit, Fairness, Verantwortung, Transparenz, Datenschutz, Ethik, Soziale Arbeit), die vier Leitfragen des Reviews (bekannte Bias in generativer KI, Ansätze zur Reduktion, Forschungslücken, KI-Einsatz in der Sozialen Arbeit), Schwerpunkt auf **Verantwortung, Transparenz und Datenschutz** als Kontextwissen; Glossar-Aspekte sollen zitiert und ggf. ergänzt werden
   - Konvertate: `docs/intern/ap2-literatur/ffg-bericht-gliederung.md` (ersetzt den Stand 06.07.), `docs/intern/ap2-literatur/literature-review-ueberblick.md` (Kopfzeile weiter „Stand: 9. Juni 2026"; was am 06.10. geändert wurde, ist mangels Vorversion nicht feststellbar)
+- **Stand Quartalsmeeting 06.10.2026** (bereinigtes Transkript und Zusammenfassung in `docs/intern/meetings/`; Aufnahme, nicht am Audio geprüft):
+  - **RI-Frist für Teil I mündlich bestätigt: bis Ende 2026** (Sabine, die den Bericht verantwortet). Damit ist die Frist aus der Gliederung vom 06.10. die geltende; die älteren Angaben (Ende Oktober, Anfang November) sind überholt
+  - **Umfang Teil I bewusst knapp** („muss nicht 20 Seiten sein"): welche Gesetze, warum wichtig; Schwerpunkt Verantwortung, Transparenz, Datenschutz; Basis sind die Infomaterialien aus AP 3. Dazu die Antragsfrage, ob es Texte zu Recht, LLMs und Sozialer Arbeit gibt (wenn nicht, ist das ein Ergebnis). Madeleine schreibt direkt ins Template auf der uniCLOUD
+  - **FFG-Zwischenbericht: Abgabe 28.02.2027**; AP 2 und AP 3 sollen 2026 fertig sein und mitgehen
+  - **PRISMA-Update:** 160 neue Texte, insgesamt 302 (Susi); Christopher hat dafür eine eigene Review-Umgebung gebaut
+  - **Publikation:** Einreichung bei einem Journal-Call zu Adult Skills und Literacies (Digital/AI Literacies) durch Susi, Sabine und Christopher; erste Fassung Dezember 2026, Endfassung spätestens Februar 2027
+  - **Zotero-Bibliothek** zum Review soll öffentlich werden, damit die Praxispartner Texte ohne Einladung weitergeben können; Bewertungen folgen später
 
 ### AP 3 -Innovationsworkshops mit Führungskräften
 - **Zeitraum:** 06/2026 -07/2026 (vorgezogen beim Kick-off, urspr. 07–10/2026)
@@ -129,6 +136,7 @@
   - **Begleitforschungsbericht** bleibt FFG-intern (keine Publikation, keine Verteilung an Fachkräfte); wird beim Orientierungsleitfaden (AP 8) wieder aufgegriffen. Rückmeldungen der Partner erbeten
   - **RI-Folien:** Verlinkung in der öffentlichen Nachlese im Meeting genehmigt und am selben Tag umgesetzt; der Nachlese-Link darf breit weitergegeben werden
 - **Stand 06.10.2026 (uniCLOUD-Sync): Begleitforschungsbericht final** (V2 und PDF, beide 15.07.2026; Konvertat `docs/intern/workshops-2026-06/begleitforschung/bericht-final.md`). Gegenüber V1 überwiegend redaktionell (u. a. durchgängig „AI Literacies"); inhaltlich neu ist ein Hinweis, dass das männlich dominierte Teilnehmendenfeld nicht dem überwiegend weiblichen Feld der Sozialen Arbeit entspricht, mit der Ankündigung, **in weiteren Arbeitspaketen verstärkt Frauen einzuladen** – relevant schon für die Rekrutierung in AP 4 (Think-Aloud)
+- **Stand Quartalsmeeting 06.10.2026, RI-Infomaterialien:** Kein Workshop-Protokoll, sondern Infomaterial bzw. Nachschlagewerk für die Praxis; Fragen aus dem Workshop werden aufgegriffen, wo sie dafür relevant sind. Ablauf: Entwurf bis **Mitte Oktober** an Elke, Martin und die Uni Graz, gut zwei Wochen Feedback, Einarbeitung **Ende Oktober/Anfang November**
 
 ### AP 4 -Experimentelle Analyse Prompt-Engineering
 - **Zeitraum:** 10/2026 -01/2027
@@ -160,6 +168,13 @@
   - **KI-Funktionen der Datenbank:** Doku-Chatbot (Fragen zu einer einzelnen Doku oder übergreifend suchen/zusammenfassen), Textvorschläge mit wählbarem Stil, Sprachglättung bei Diktat, Übersetzung nicht-deutscher Spracheingaben, selbst konfigurierbare Formulare mit hinterlegten KI-Prompts (z. B. Zusammenfassung aller Dokus zu einem Thema), Rechnungserkennung im Buchhaltungsteil (von 4Raum nicht genutzt, ca. 10 Cent pro Rechnung)
   - **Kostenmodell als Nutzungsbarriere (AP-4-/AP-6-Befund):** Abrechnung pro Anfrage nach intransparentem „Aufwand" (bisher 1–4 Cent pro Anfrage; größere Abfragezeiträume kosten mehr), Euro-Kontingente pro Benutzer:in, ohne Kontingent keine Nutzung. 4Raum nutzt die KI-Funktionen deshalb bislang kaum – ein realer Befund zu Nutzungsbarrieren jenseits von Kompetenz und Recht
   - Martin bietet an, die Funktionen gemeinsam durchzuklicken – dankend angenommen, Termin beim AP-4-Start ab Oktober (Mail Christian, 20.07.). Ob mit dem neuen IT-Chef bzw. dem KI-Zuständigen von SOS noch etwas vereinbart wird, blieb Martin überlassen
+- **Stand Quartalsmeeting 06.10.2026** (Bericht Christian):
+  - **Experimente abgeschlossen**, größer angelegt als die der Klagenfurter LV; Christian und Susi ordnen die Ergebnisse ein, sie gehen in ein Paper. AP 4 liegt zeitlich etwas voraus. Kernbefund laut Christian: Die Unterschiede zwischen Modellen (Frontier- vs. Open-Weights-Modell) sind riesig und für die Praxis das größte Problem
+  - **IT-One-Pager:** Christian schickt Elke und Martin ein klares Template/Formular (Modelle, Anbieter, Hosting, Limits, Änderungen seit Juli), das sie an ihre IT weitergeben
+  - **Promptliste gegenlesen:** Elke und Martin ordnen die Beispielprompts der Experimente ein (kommt bei uns vor / ungefähr / nicht)
+  - **Think-Aloud mit Fachkräften:** bis **31.10.2026** Terminfindung angestoßen und Teilnehmende gefunden, Durchführung **bis Ende 2026**; online oder vor Ort. One-Pager und Think-Aloud könnten in ein zweites Paper gehen
+  - **Demo der Doku-Software SocialDB** (die Datenbank von 4Raum, Stand 17.07. oben): Der Anbieter (Gutleben Systems, Graz) hat zugesagt; Martin holt Terminvorschläge ein (dabei idealerweise eine Person, die die Software täglich nutzt, und Sabine oder Susi)
+  - **KI-Café (SOS):** Statt Teilnahme genügen die Aufzeichnungen; Martin lädt sie in einen uniCLOUD-Ordner
 
 ### AP 5 -Konzeption Prompting-Framework
 - **Zeitraum:** 02/2027 -05/2027
@@ -176,6 +191,7 @@
 - **Meilensteine:** Fragebogen finalisiert (01.10.2027), Befragung abgeschlossen (03.11.2027), Ergebnisbericht (10.03.2028)
 - **Deliverables:** Standardisierter Fragebogen, anonymisierter Datensatz (SPSS/CSV), Auswertungsbericht mit Bedarfsanalyse (~40 S.)
 - **Stunden:** Uni Graz 720h, SOS-KD 50h, JAW 50h, RI 0h, DHC 0h
+- **Stand Quartalsmeeting 06.10.2026:** Zwei Wellen im **März 2027 und März 2028** (ein Jahr Abstand, vergleichbar), Planung ab Jänner 2027 nach Abschluss des Literature Reviews. Das RI liefert höchstens per Mail rechtliche Hinweise zu Items. Die Meilensteine oben stehen weiter auf dem Antragsstand
 
 ### AP 7 -Co-Creation-Workshops
 - **Zeitraum:** 03/2028 -07/2028
@@ -284,10 +300,12 @@ Beim Kick-off wurden folgende Begriffe gesammelt und diskutiert. Ein Glossar sol
 ## Offene Punkte für das nächste Quartalsmeeting (Stand 13.07.2026)
 
 > Beim Quartalsmeeting am 13.07.2026 wurden diese Punkte nicht behandelt; sie wandern auf die Agenda des nächsten Quartalsmeetings am **06.10.2026, 13:00–14:30**. Sabines Agenda dafür (Einladungsmail vom 24.09.) führt davon nur AP 6 (Erhebungszeiträume März 2027 und März 2028); die übrigen unter „Sonstiges" einbringen.
+>
+> **Nach dem Quartalsmeeting vom 06.10.2026:** Punkt 3 ist entschieden (siehe AP 6). Zu Punkt 2 sagte Sabine, das RI sei in AP 4 bis 7 „gar nicht mit eingeplant“; das widerspricht der Kick-off-Änderung zu AP 5 (10–20h für das RI) und ist damit weiter offen. Die Punkte 1 und 4 bis 7 kommen in der Aufnahme nicht vor; die ersten rund neun Minuten des Meetings sind allerdings nicht aufgenommen. **Nächstes Quartalsmeeting: 21.01.2027, 13:30 bis 15:00.**
 
 1. **AP 2:** Ergebnisse des Kernteam-Treffens vom 01.07.2026 in den Hub nachtragen (Protokoll/uniCLOUD)
 2. **AP 5:** RI-Stunden-Verbuchung bis AP 5 klären (offen seit Kick-off)
-3. **AP 6:** Zeitplan an den Kick-off-Beschluss anpassen (2x Erhebung: Anfang 2027 + Mitte 2028); Meilensteine stehen noch auf dem Antragsstand
+3. ~~**AP 6:** Zeitplan an den Kick-off-Beschluss anpassen (2x Erhebung: Anfang 2027 + Mitte 2028)~~ → 06.10.2026: März 2027 und März 2028. Die Meilensteine stehen noch auf dem Antragsstand
 4. **AP 9:** Publikations-Policy (Logos, Disclaimer, Vorab-Review, Autor:innenschaft) – zunehmend dringlich, da die PRISMA-Publikation in Arbeit ist. Dabei auch Antrags-Diskrepanzen klären: DOL-Lizenz CC BY-SA (Antrag) vs. MIT-Repo (Kick-off-Folien); „mind. 3 Publikationen" (Antrag) vs. „mind. 2" (Folien/Hub)
 5. **Glossar:** Sabines Anmerkung zu „AI Literacies / KI-Kompetenzen" (Titel eindeutschen?) entscheiden; neuer Entwurf „Sensible Daten" wartet auf RI-Review
 6. **AP 3:** Klären, ob das Antrags-Deliverable „KI-Richtlinie für Organisationen" (Ziel 2) bewusst entfallen ist – es fehlt auf allen Seiten und schon in den Kick-off-Folien; `recht/ki-recht-grundlagen.md` empfiehlt interne KI-Richtlinien nur inhaltlich (Health-Check 10.07.). Neuer Kontext (14.07.): Beide Praxispartner haben bereits eigene KI-Richtlinien (JAW Dienstanweisungen, SOS Richtlinie samt AI-Act-Risikoassessment-Prozess) – ein Projekt-Deliverable könnte darauf aufbauen statt bei null zu beginnen
