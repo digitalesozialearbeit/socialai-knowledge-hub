@@ -1,5 +1,19 @@
 # Journal: SocialAI Knowledge Hub
 
+## 2026-11-24: Gespräch mit dem Hersteller der 4Raum-Doku-Software
+
+Der Action Point aus Protokoll 7 (06.10.), die 4Raum-Doku-Software gemeinsam durchzugehen, ist erledigt. Das Gespräch lief am 24.11.2026 online, mit Martin (er hat den Termin eingefädelt), Sabine, Susi und Christian. Google-Recorder-Aufnahme „24. Nov. um 10-00“ (113:05 min) mit Whisper large-v3 transkribiert (1438 Segmente) und mit dem Recorder-Text zu einem bereinigten Transkript zusammengeführt. Dazu kommt ein internes Protokoll, beides unter `docs/intern/meetings/` mit dem Datum 2026-11-24 im Dateinamen. Zehn Stellen zu Zahlen, Modellnamen, Hosting, Protokollierung und Datenrechten wurden an Ausschnitten aus dem Audio neu transkribiert und geprüft (Liste im Header des Transkripts), der Rest nicht. Rohtranskripte, Audio und Zip sind lokal gelöscht, das Audio liegt nur noch in Google Recorder.
+
+Neue Action Points:
+
+- **AP 6:** Frageblock zur Software in der Online-Umfrage März 2027, dem der Hersteller zugestimmt hat. Danach angeregt, noch ohne seine Antwort: eine Filterfrage zur Chat-Funktion.
+- **AP 4:** Erneutes Treffen in ein paar Monaten, wenn der Hersteller mehr Nutzungsdaten hat, Termine wieder über Martin.
+- **AP 4:** Daten dazu, wie Fachkräfte prompten, gibt der Hersteller nur mit Zustimmung der Dateninhaber:innen heraus. Offen, wen wir dafür ansprechen.
+
+Technische Angaben, Preise und Einschätzungen des Herstellers stehen nur intern: Es sind Betriebsinterna eines Dritten, und eine Funktion wollte er ausdrücklich nicht erwähnt haben. knowledge.md bleibt deshalb unverändert. Was davon anonymisiert in Publikationen darf, ist offen und wird beim nächsten Treffen gefragt.
+
+---
+
 ## 2026-10-07 – Quartalsmeeting 06.10. transkribiert und destilliert
 
 Google-Recorder-Aufnahme „6. Okt. um 13-09" (90:47 min) mit Whisper large-v3 transkribiert (1269 Segmente), mit dem Recorder-Text zu einem bereinigten Transkript zusammengeführt und zusammengefasst: `docs/intern/meetings/6. Okt. um 13-09.transkript.md` und `quartalsmeeting-2026-10-06-zusammenfassung.md`. Nicht am Audio geprüft; Sprecher großteils erschlossen. Die Aufnahme beginnt laut Dateiname um 13:09 (Sitzungsbeginn laut Einladung 13:00), mitten im Punkt „Personelles"; der Anfang fehlt. Rohtranskripte, Audio und Zip lokal gelöscht, das Audio liegt nur noch in Google Recorder.
